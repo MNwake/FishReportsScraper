@@ -1,0 +1,242 @@
+{
+    "timestamp": 1737541815,
+    "result": {
+        "lakeName": "Owl",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.64,
+        "DOWNumber": 16072600,
+        "waterClarity": [
+            [
+                "07/22/1980",
+                "19"
+            ]
+        ],
+        "averageWaterClarity": "19.0",
+        "littoralAcres": 30.0,
+        "areaAcres": 76.82,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 70.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Lake is entirely inside the BWCA; with portages from Crooked and Tuscarora Lakes.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110245",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 2900.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.5-4.0",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "6.39",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 1251.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 30
+                    },
+                    {
+                        "CPUE": "14.17",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 44137.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.14",
+                        "totalCatch": 85
+                    }
+                ],
+                "narrative": "<p>Lake trout abundance in Owl Lake was very low.  Reproduction appeared to be limited, and growth appeared to be slow.  Large numbers of yellow perch and white sucker were also present.</p>",
+                "headerInfo": [
+                    "Owl",
+                    null,
+                    "16072600",
+                    "1993-06-30",
+                    "110245",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1993-06-30",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                13
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                4
+                            ],
+                            [
+                                16,
+                                16
+                            ],
+                            [
+                                17,
+                                11
+                            ],
+                            [
+                                18,
+                                5
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                7,
+                                13
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                12
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 20
+                    },
+                    "LAT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                25,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 25,
+                        "maximum_length": 25
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                27
+                            ],
+                            [
+                                7,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    }
+                }
+            },
+            {
+                "surveyID": "109813",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.2-1.0",
+                        "totalWeight": 7.2,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.6-1.5",
+                        "species": "BUB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.80",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 14.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.5-4.0",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "7.25",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "3.75",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 1.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "11.50",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 64.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.40",
+                        "totalCatch": 46
+                    }
+                ],
+                "narrative": "<p>Owl L has -self rprdcng pop-Lk Trt.  No sml Trout were netted but they could have been missed.  His. Owl Lk has had a slf rprdcng Lk Trt pop.  The test nttng did not confirm the presence of any smlr fsh so it is rcmnd'd that lk be lkd at in more dpth to dtrmn Trt pop. is in trbl.  This could be done by frthr tst nttng, or by cntctng people known to fsh the lk and seeing if they are ctchng any smlr fish</p>",
+                "headerInfo": [
+                    "Owl",
+                    null,
+                    "16072600",
+                    "1980-07-21",
+                    "109813",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1980-07-21",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

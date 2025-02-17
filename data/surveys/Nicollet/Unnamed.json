@@ -1,0 +1,210 @@
+{
+    "timestamp": 1737665630,
+    "result": {
+        "lakeName": "Unnamed",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.52,
+        "DOWNumber": 52000100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 11.24,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 35.0,
+        "officeCode": "F411",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": "Boat launch on south shore - but you must cross private land to reach it with a car."
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "117345",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.3-2.8",
+                        "totalWeight": 10.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.02",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "8.67",
+                        "quartileCount": "2.9-41.2",
+                        "totalWeight": 3145.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.27",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "17.00",
+                        "quartileCount": "1.9-19.1",
+                        "totalWeight": 770.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.4-0.8",
+                        "totalWeight": 80.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "0.4-2.0",
+                        "totalWeight": 35.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.2-0.9",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.7-4.3",
+                        "totalWeight": 240.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.53",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Hallet's Pond is a 12-acre urban pond, formerly a gravel pit, located in the city of St. Peter, and currently functions as a stormwater detention basin.  Currently there is no public access to the lake, but the city has purchased property adjacent to the lake and future plans may include the development of public fishing access.  The pond is deep, has relatively clear water and supports a population of panfish.  Residents on the pond and citizens in the community have expressed concern over the water quality and how additional stormwater may negatively affect it.  Meetings have been held to discuss alternatives in an effort to preserve the condition of the pond. </p>",
+                "headerInfo": [
+                    "Unnamed",
+                    "Hallet",
+                    "52000100",
+                    "1999-06-03",
+                    "117345",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1999-06-03",
+                "lengths": {
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 6
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 9
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                5
+                            ],
+                            [
+                                6,
+                                9
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 8
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                9
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                11
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 9
+                    }
+                }
+            }
+        ],
+        "countyName": "Nicollet"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

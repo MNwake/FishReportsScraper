@@ -1,0 +1,145 @@
+{
+    "timestamp": 1737670384,
+    "result": {
+        "lakeName": "Meat",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.3,
+        "DOWNumber": 69030500,
+        "waterClarity": [
+            [
+                "06/24/2013",
+                "6"
+            ]
+        ],
+        "averageWaterClarity": "6.0",
+        "littoralAcres": 14.17,
+        "areaAcres": 14.17,
+        "meanDepthFeet": 4.0,
+        "maxDepthFeet": 24.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "6851332633704000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.50",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 10054.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.71",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 699.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 14
+                    }
+                ],
+                "narrative": "<p>Meat Lake is located approximately 12 miles NW of Ely and is entirely within the BWCAW. It has a surface area of 25 acres and a maximum depth of 23 ft. In recent years the water level has been low with very little fluctation. There is no outlet present. The shoreline is primarily gravel and rubble with little vegetative cover. The current fish community is represented by northern pike and yellow perch. <br> \n <br> \nAccess is by portaging from Sprite Lake (90 rods) or Clark Lake (48 rods). There is one designated USFS campsite present.  <br> \n <br> \nNorthern pike numbers in 2013 (6.5/gill net) were slightly higher compared to similar lakes in the area. Pike growth rates were slow by area standards and the average pike sampled was 20.6 inches long and about 6 or 7 years old. The largest pike sampled was 25 inches long. <br> \n <br> \nYellow perch numbers in 2013 (7.0/gill net) were comparable to similar lakes in the area. The average perch sampled was 6.6 inches and the largest sampled was 8.0 inches.</p>",
+                "headerInfo": [
+                    "Meat",
+                    "Nixon",
+                    "69030500",
+                    "2013-06-24",
+                    "6851332633704000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2013-06-24",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                9
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 8
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                23,
+                                2
+                            ],
+                            [
+                                24,
+                                1
+                            ],
+                            [
+                                25,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 25
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

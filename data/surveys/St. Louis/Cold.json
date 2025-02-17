@@ -1,0 +1,173 @@
+{
+    "timestamp": 1737669304,
+    "result": {
+        "lakeName": "Cold",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.66,
+        "DOWNumber": 69015500,
+        "waterClarity": [
+            [
+                "08/10/2011",
+                "9"
+            ]
+        ],
+        "averageWaterClarity": "9.0",
+        "littoralAcres": 0.0,
+        "areaAcres": 14.56,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 17.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": " ",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": "GPS point for start location on snowmobile trail is recorded under large end location on manage target stations page."
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108239",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 42.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.75",
+                        "totalCatch": 24
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 0.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 27.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.29",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>Consists of an above average population of northern pike, an average population of suckers, and a relatively low population of perch. </p>",
+                "headerInfo": [
+                    "Cold",
+                    null,
+                    "69015500",
+                    "1983-08-01",
+                    "108239",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1983-08-01",
+                "lengths": {}
+            },
+            {
+                "surveyID": "3401136425681000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "16.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 23211.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.60",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 87.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Cold Lake is an 18-acre lake with a maximum depth of 17 feet located five miles west of Babbitt in central St. Louis County.  To access the lake, there is 60 yard portage off a snowmobile trail on the northeast side of lake.  The Minnesota Department of Natural Resources has classified Minnesota's lakes into 43 different types based on physical and chemical characteristics.  Cold Lake is in lake class 14.  Lakes in this lake class are very small in size (mean: 23 acres), shallow (mean maximum depth: 16 feet), have high amounts of area that are 15 feet or less in depth (mean area: 84%), and have very soft water. <br> \n <br> \nCold Lake has a very simple fish community with only two species sampled: northern pike and yellow perch.  Northern pike are very abundant but small.  Pike ranged in length from 17.0 inches to 22.2 inches with a mean length and weight of 19.7 inches and 1.60 pounds.  They were made up of four year classes with the 2007 year class (age four) comprising 66% of the sampled pike. <br> \n <br> \nOnly two yellow perch were sampled and were 6.6 and 6.7 inches long. <br> \n</p>",
+                "headerInfo": [
+                    "Cold",
+                    null,
+                    "69015500",
+                    "2011-08-10",
+                    "3401136425681000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2011-08-10",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                10
+                            ],
+                            [
+                                19,
+                                7
+                            ],
+                            [
+                                20,
+                                8
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                22,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 22
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

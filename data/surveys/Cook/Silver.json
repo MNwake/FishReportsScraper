@@ -1,0 +1,119 @@
+{
+    "timestamp": 1737651597,
+    "result": {
+        "lakeName": "Silver",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.06,
+        "DOWNumber": 16045200,
+        "waterClarity": [
+            [
+                "08/19/1976",
+                "4.5"
+            ]
+        ],
+        "averageWaterClarity": "4.5",
+        "littoralAcres": 22.4,
+        "areaAcres": 22.4,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 6.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via navigable channel from Rice Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109753",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.3-3.5",
+                        "totalWeight": 0.1,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "9.25",
+                        "quartileCount": "2.3-8.5",
+                        "totalWeight": 50.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.8-1.4",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.36",
+                        "totalCatch": 37
+                    },
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "4.0-15.0",
+                        "totalWeight": 26.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.30",
+                        "totalCatch": 20
+                    },
+                    {
+                        "CPUE": "13.00",
+                        "quartileCount": "2.0-12.0",
+                        "totalWeight": 39.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.0-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.50",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "2.0-15.0",
+                        "totalWeight": 0.75,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 9.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.19",
+                        "totalCatch": 8
+                    }
+                ],
+                "narrative": "<p>Silver Lake has a good population of Walleyes with a fair size distribution.  It also has a good pop. of N Pike and a fair pop. of Perch.  There were no Suckers taken, but the lake is directly cnnctd. to Rice Lake which has a fair Sucker population.</p>",
+                "headerInfo": [
+                    "Silver",
+                    null,
+                    "16045200",
+                    "1976-08-19",
+                    "109753",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1976-08-19",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

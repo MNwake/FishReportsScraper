@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737651448,
+    "result": {
+        "lakeName": "Reward",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.07,
+        "DOWNumber": 16061200,
+        "waterClarity": [
+            [
+                "08/30/1978",
+                "8"
+            ]
+        ],
+        "averageWaterClarity": "8.0",
+        "littoralAcres": 19.41,
+        "areaAcres": 19.41,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 14.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Poor-No marked portage trails.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109795",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "13.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 18.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.38",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 0.25,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>There is a good population of small sized N Pike with some Perch for forage.</p>",
+                "headerInfo": [
+                    "Reward",
+                    null,
+                    "16061200",
+                    "1978-08-29",
+                    "109795",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-08-29",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

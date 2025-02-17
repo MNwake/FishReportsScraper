@@ -1,0 +1,108 @@
+{
+    "timestamp": 1737652144,
+    "result": {
+        "lakeName": "Zephyr",
+        "sampledPlants": [],
+        "shoreLengthMiles": 4.09,
+        "DOWNumber": 16081300,
+        "waterClarity": [
+            [
+                "07/20/1976",
+                "6"
+            ]
+        ],
+        "averageWaterClarity": "6.0",
+        "littoralAcres": 95.0,
+        "areaAcres": 139.79,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 40.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "PRMIT",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109827",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "1.2-3.9",
+                        "totalWeight": 16.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.00",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "0.2-0.7",
+                        "totalWeight": 10.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.3-2.2",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.50",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "6.33",
+                        "quartileCount": "3.0-13.2",
+                        "totalWeight": 40.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-1.3",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.11",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "0.6-2.9",
+                        "totalWeight": 30.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.5-5.5",
+                        "species": "LKW",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "6.00",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "3.33",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 38.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.85",
+                        "totalCatch": 10
+                    }
+                ],
+                "narrative": "<p>Test netting sampling indicate low populations of Whitefish, Suckers, N Pike and SM Bass present, and a fairly good Walleye population with various ages of fish.</p>",
+                "headerInfo": [
+                    "Zephyr",
+                    null,
+                    "16081300",
+                    "1976-07-20",
+                    "109827",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1976-07-20",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

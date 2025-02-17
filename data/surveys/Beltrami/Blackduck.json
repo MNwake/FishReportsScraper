@@ -1,0 +1,968 @@
+{
+    "timestamp": 1737645759,
+    "result": {
+        "lakeName": "Benjamin",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.28,
+        "DOWNumber": 4003300,
+        "waterClarity": [
+            [
+                "06/14/2006",
+                "17"
+            ]
+        ],
+        "averageWaterClarity": "17.0",
+        "littoralAcres": 14.7,
+        "areaAcres": 33.14,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 128.0,
+        "officeCode": "F112",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": "USFS  access on southwest corner of the lake;T.148;R.31;S.13. No hardened ramp."
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "13411715651635005",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "19.83",
+                        "quartileCount": "0.3-0.8",
+                        "totalWeight": 8262.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 119
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 730.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.54",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "77.17",
+                        "quartileCount": "7.9-37.7",
+                        "totalWeight": 7283.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.03",
+                        "totalCatch": 463
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "1.5-18.5",
+                        "totalWeight": 2006.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 21
+                    }
+                ],
+                "narrative": "<p>Benjamin Lake is a 33-acre lake with a maximum depth of 128 feet located within the Chippewa National Forest 12 miles north of Pennington in Beltrami County.  An historic CCC encampment is located on Benjamin Lake and is maintained as an interpretive learning center by the US Forest Service.  There is a public water access located on the south west shore of the lake off of State HWY 39, also known as the Scenic Highway.  A shore fishing pier and swimming area are also available for public use.   <br> \n <br> \nBenjamin is managed as a stream trout lake and is stocked annually with 3,000 yearling Rainbow Trout that typically range from 9 to 11 inches in length.  Prior to 2012 Benjamin Lake was stocked with fingerling Rainbow Trout.  However, unwanted Bluegill and Yellow Perch populations began to thrive in the absence of predators and reached high numbers which necessitated a shift to catchable-size trout as these unwanted species were competing with young trout for available food and habitat.  The stocking of catchable-size Rainbow Trout has helped to improve angler success, and reports of good Rainbow Trout fishing are received throughout the summer and fall months.  Benjamin Lake was also recently opened to winter fishing in 2016, providing additional trout fishing opportunity.   <br> \n <br> \nThe catch rate for Rainbow Trout in the 2017 survey was 1/gill net, which was up from the most recent assessment (0.33/gill net in 2006) but well below historic catches which ranged as high as 17/gill net prior to the infestation of warm water species.  All trout captured in 2017 (n=3) were in the 11-inch length interval. <br> \nBluegill and Yellow Perch captured in the 2017 survey were in poor condition and heavily infested with black spot or Neascus which is a common fish parasite.  These fish remain edible but have a small average size.  Bluegill captured in trap nets averaged 5.59 inches in length with fish up to 7.87 inches captured.  Yellow Perch captured in gill nets averaged 7.77 inches in length although larger individuals are present in the lake. <br> \n <br> \nA lake reclamation project aimed at eliminating the unwanted warm water fish community in Benjamin Lake is currently in the planning process.  Previous lake reclamations were successful at improving Rainbow Trout management and the quality of the fishery.   <br> \n</p>",
+                "headerInfo": [
+                    "Benjamin",
+                    null,
+                    "04003300",
+                    "2017-06-05",
+                    "13411715651635005",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2017-06-05",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 11
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                5
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                25
+                            ],
+                            [
+                                7,
+                                39
+                            ],
+                            [
+                                8,
+                                29
+                            ],
+                            [
+                                9,
+                                39
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 14
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                9
+                            ],
+                            [
+                                4,
+                                91
+                            ],
+                            [
+                                5,
+                                218
+                            ],
+                            [
+                                6,
+                                86
+                            ],
+                            [
+                                7,
+                                58
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 7
+                    }
+                }
+            },
+            {
+                "surveyID": "19472215829012000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "15.00",
+                        "quartileCount": "0.3-0.8",
+                        "totalWeight": 9706.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 90
+                    },
+                    {
+                        "CPUE": "78.33",
+                        "quartileCount": "7.9-37.7",
+                        "totalWeight": 7814.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 470
+                    },
+                    {
+                        "CPUE": "41.33",
+                        "quartileCount": "1.5-18.5",
+                        "totalWeight": 8260.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 124
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 348.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.77",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 82.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Benjamin Lake is a 33-acre lake with a maximum depth of 128 feet located within the Chippewa National Forest 12 miles north of Pennington in Beltrami County. An historic CCC encampment is located on Benjamin Lake and is maintained as an interpretive learning center by the US Forest Service.  There is a public water access located on the southwest shore of the lake off of State HWY 39, also known as the Scenic Highway.  A shore fishing pier and swimming area are also available for public use.   <br> \n <br> \nBenjamin is managed as a designated stream trout lake that has been stocked annually in the fall with catchable-size Rainbow Trout. A trout stamp is required for anglers that want to fish on the lake. There are a few exceptions to this requirement that can be found in the regulation book. <br> \n <br> \nThe number of Rainbow Trout captured has declined over the past few surveys and correlates with the introduction and expansion of two unwanted warmwater fish species: Bluegill and Yellow Perch.  These nuisance species have outcompeted trout for available food resources and are likely causing poor growth and survival of stocked trout in recent years.  Only one (1) Rainbow Trout was captured in this survey of Benjamin Lake.   <br> \n <br> \nDespite poor catch rates for trout in recent surveys, Benjamin has seen an increase in fishing activity in recent years, particularly during the winter stream trout season which begins on the 2nd Saturday in January and runs through March 31 each year.  A recent management plan revision increasing the number of trout stocked as well as stocking frequency for Benjamin Lake will take effect in 2023.  The goal of the stocking revision will be to provide more consistent trout fishing opportunities throughout the year on Benjamin Lake.  The total number of Rainbow Trout stocked will increase from 1,500 to 2,200 catchable-size fish annually.  These fish will be divided between two stocking events (spring and fall) as opposed to the previous one-time stocking of fish in the fall.   <br> \n <br> \nAnother change that anglers should notice will be the addition of catchable-size Brown Trout (300 fish annually) to the lake's stocking plan.  As observed in other area stream trout lakes, Brown Trout will readily prey upon fish such as Bluegill and Yellow Perch, although they may not exert enough predation to reduce these populations substantially.  Brown Trout stocking will provide a means to utilize the lake's excess production of these unwanted fish species and should provide a trophy component to the lake's fishery as these fish can grow to large sizes.     <br> \n</p>",
+                "headerInfo": [
+                    "Benjamin",
+                    null,
+                    "04003300",
+                    "2022-06-06",
+                    "19472215829012000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2022-06-06",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                24
+                            ],
+                            [
+                                4,
+                                55
+                            ],
+                            [
+                                5,
+                                251
+                            ],
+                            [
+                                6,
+                                136
+                            ],
+                            [
+                                7,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 7
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                18
+                            ],
+                            [
+                                11,
+                                5
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                19
+                            ],
+                            [
+                                6,
+                                51
+                            ],
+                            [
+                                7,
+                                44
+                            ],
+                            [
+                                8,
+                                56
+                            ],
+                            [
+                                9,
+                                19
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 12
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 12
+                    }
+                }
+            },
+            {
+                "surveyID": "100199",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.09",
+                        "quartileCount": "0.3-0.8",
+                        "totalWeight": 6.0,
+                        "gearCount": 11.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "0.09",
+                        "quartileCount": "0.3-1.0",
+                        "totalWeight": 2.0,
+                        "gearCount": 11.0,
+                        "quartileWeight": "1.1-2.6",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "2.0-8.0",
+                        "totalWeight": 37.4,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.7-3.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.87",
+                        "totalCatch": 20
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.3-2.0",
+                        "totalWeight": 2.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.3-3.5",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.50",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "32.25",
+                        "quartileCount": "1.5-18.5",
+                        "totalWeight": 33.6,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 129
+                    },
+                    {
+                        "CPUE": "0.18",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.5,
+                        "gearCount": 11.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.75",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.55",
+                        "quartileCount": "0.3-1.8",
+                        "totalWeight": 3.6,
+                        "gearCount": 11.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 17
+                    }
+                ],
+                "narrative": "<p>Northern Pike are thoroughly reestablished with high catches observed in the survey nets. Yellow Perch, Black Bullheads, and White Sucker are also abundant. No trout were captured in the survey but anglers reported large (2 - 3+ lbs.) trout still being caught on occasion. The forage abundance appears to be much lower than levels observed in the past.</p>",
+                "headerInfo": [
+                    "Benjamin",
+                    null,
+                    "04003300",
+                    "1978-08-03",
+                    "100199",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1978-08-03",
+                "lengths": {}
+            },
+            {
+                "surveyID": "5701111034396003",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "29.60",
+                        "quartileCount": "0.3-0.8",
+                        "totalWeight": 17356.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 148
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 244.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.54",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "182.00",
+                        "quartileCount": "7.9-37.7",
+                        "totalWeight": 32952.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 910
+                    },
+                    {
+                        "CPUE": "86.00",
+                        "quartileCount": "1.5-18.5",
+                        "totalWeight": 19271.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 258
+                    },
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 178.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "14.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 820.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 42
+                    }
+                ],
+                "narrative": "<p>Benjamin Lake is a 33-acre lake with a maximum depth of 128 feet located within the Chippewa National Forest 12 miles north of Pennington in Beltrami County.  An historic CCC encampment is located on Benjamin Lake, and is maintained as an interpretive learning center by the US Forest Service.  There is a public access site located on the southwest shore off of State HWY 39, also known as the Scenic Highway.  There is also an accessible fishing pier which provides shore fishing opportunities, as well as a public swimming area. <br> \n <br> \nBenjamin is managed as a stream trout lake and has been stocked annually with fingerling rainbow trout.  There has been a decline in the quality of the trout fishery in recent years due to the presence of high numbers of small bluegill and yellow perch, which compete with young trout for available resources.  As a result, growth and survival of stocked fingerling trout has been poor.  To address this situation, rainbow trout stocking will be switched from fall fingerlings to catchable-size yearling fish which are 9 to 11 inches in length.  This should alleviate many of the factors that were limiting trout growth and survival and will be immediately noticeable to anglers.  The shift in stocking strategies will be implemented in the spring of 2012.  Benjamin is scheduled to be stocked prior to the stream trout lake fishing opener of May 12, 2012.  Benjamin Lake also received a stocking of surplus broodstock brown trout (2 to 4 lbs/fish) in the fall of 2011. <br> \n <br> \nBenjamin Lake does hold some quality-size yellow perch, which have managed to grow despite the extremely high abundance of bluegill and perch in the lake.  The 2011 population assessment captured perch up to 12.9 inches in length, with 15% of the trap net catch greater than 10 inches in length. <br> \n</p>",
+                "headerInfo": [
+                    "Benjamin",
+                    null,
+                    "04003300",
+                    "2011-06-01",
+                    "5701111034396003",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2011-06-01",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                22
+                            ],
+                            [
+                                11,
+                                14
+                            ],
+                            [
+                                12,
+                                7
+                            ],
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                129
+                            ],
+                            [
+                                7,
+                                108
+                            ],
+                            [
+                                8,
+                                85
+                            ],
+                            [
+                                9,
+                                36
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 12
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 11
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                127
+                            ],
+                            [
+                                4,
+                                323
+                            ],
+                            [
+                                5,
+                                385
+                            ],
+                            [
+                                6,
+                                94
+                            ],
+                            [
+                                7,
+                                23
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 7
+                    }
+                }
+            },
+            {
+                "surveyID": "100598",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "15.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 9163.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 45
+                    },
+                    {
+                        "CPUE": "0.12",
+                        "quartileCount": "7.9-37.7",
+                        "totalWeight": 540.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.19",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 524.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.29",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.3-1.1",
+                        "totalWeight": 991.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.3-2.6",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.18",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Benjamin Lake is in lake class 20 and is managed as a stream trout lake.  Class 20 lakes are typically small, deep, soft water lakes with regular shorelines.  Fish communities in class 20 lakes can range from trout to panfish depending on management goals, and some may experience intermittant partial winter-kills.  Rainbow trout fingerlings are stocked annually at about 150 per acre.  Stocking is usually during mid October and fingerlings have ranged from 7-14 per pound.    The 1996 assessment found rainbow trout at 15.0 per gill net with a mean length of 10.2 inches and a mean weight of 0.45 pounds.  The only previous assessment using gill nets since the introduction of trout was in 1984 when they were sampled at 27.0 gill net and had a mean weight of 0.6 pounds.  Eighty percent of the trout sampled in 1996 were from the 1995 stock and averaged 9.4 inches with the remainder from the 1994 stock averaging 13.1 inches.    One white sucker was sampled from gill nets with a single bluegill from trap nets.  Area fishing reports suggest a few larger trout are in the lake.           The 1988 assessment, using two one-fourth inch trapnets, did not capture trout but found a high abundance of fathead minnows and northern redbellied dace with a few Iowa darters, finescale dace, and brook sticklebacks. One-fourth inch trapnets were not used in 1996.</p>",
+                "headerInfo": [
+                    "Benjamin",
+                    null,
+                    "04003300",
+                    "1996-06-17",
+                    "100598",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1996-06-17",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 10
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 17
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                6
+                            ],
+                            [
+                                12,
+                                4
+                            ],
+                            [
+                                13,
+                                5
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                11
+                            ],
+                            [
+                                9,
+                                19
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 14
+                    }
+                }
+            },
+            {
+                "surveyID": "100842",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3856.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.77",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Benjamin Lake is a 30-acre lake with a maximum depth of 128 feet.  It is located five miles south of Blackduck off of Co. Rd. 39.  There is a US Forest Service public access on the south end of the lake.  In 2000 a fishing pier was installed east of the access in a cooperative project with the US Forest Service installed a fishing pier east of the access.The Minnesota Department of Natural Resources has classified Minnesota's lakes into 43 different lake classes based on physical and chemical characteristics.  Benjamin  Lake is in lake class 20.  Typically lakes in this class are small in size, deep, with soft water and regular shaped.  Occasionally a lake in this lake class will have adequate temperatures and oxygen levels to support trout.  This was the case with Benjamin which is a designated stream trout lake.  The lake is stocked annually in the fall with 4500 rainbow trout fingerling.  The only species of fish sampled in 2001 were rainbow trout.  Their abundance was lower than in 1996, however, trout sampled in 2001 were slightly larger than in 1996.  In 2001 trout ranged in      length from 9 to 17 inches with an average length of 11.4 inches.  The average length in 1996 was 10.2 inches and ranged from 7 to 15 inches.Stream trout management in lakes provides a unique angling opportunity, but is very intensive management.  Costly chemical reclamation has been done to rid the lake of less desirable species.  It is important to prevent reintroduction of other fish species.  These undesirable species could prey upon the trout or compete with the trout for food.  Anglers need to abide by the law which prohibits use of minnows in a designated stream trout lake.  This regulation is specifically intended to prevent inadvertent reintroduction of undesirable fish species.</p>",
+                "headerInfo": [
+                    "Benjamin",
+                    null,
+                    "04003300",
+                    "2001-06-18",
+                    "100842",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2001-06-18",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 16
+                    }
+                }
+            },
+            {
+                "surveyID": "370634255990000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.67",
+                        "quartileCount": "0.3-0.8",
+                        "totalWeight": 7559.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 87
+                    },
+                    {
+                        "CPUE": "7.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3668.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.35",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "2.0-8.0",
+                        "totalWeight": 1996.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.7-3.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.40",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "88.67",
+                        "quartileCount": "7.9-37.7",
+                        "totalWeight": 28844.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 798
+                    },
+                    {
+                        "CPUE": "76.00",
+                        "quartileCount": "1.5-18.5",
+                        "totalWeight": 20054.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 228
+                    },
+                    {
+                        "CPUE": "0.11",
+                        "quartileCount": "N/A",
+                        "totalWeight": 72.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "14.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 978.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 43
+                    }
+                ],
+                "narrative": "<p>Benjamin Lake is a small 30-acre lake in Beltrami County managed as a stream trout lake.  The lake is located five miles south of Blackduck off of Co. Rd. 39.  A fishing pier is located just east of the public access on the south end of the lake.  This was a cooperative project between Minnesota Department of Natural Resource and the US Forest Service. <br> \n <br> \nThe lake is stocked annually in the fall with 4500 rainbow trout fingerling.  Trout do best when they are the only species present in the lake.  In the 2001 assessment, rainbow trout was the only species sampled.  However, in the 2006 assessment, along with rainbow trout, northern pike, yellow perch and bluegill were also sampled.  All of these species have re-colonized, with perch and bluegill reproducing.  Reintroduction may be the result of illegal stocking or possibly failure of the outlet fish barrier. There have been no high water conditions or flow events observed where migration has been documented.  However, the downstream fish barrier is in disrepair with obvious evidence of a washout at some time.  It appears that Benjamin Lake will need another chemical reclamation if it is going to be managed exclusively for stream trout. <br> \n <br> \n  Anglers should be aware of and abide by the law that prohibits use of minnows in a designated stream trout lake.  This regulation is specifically intended to prevent inadvertent reintroduction of undesirable fish species. Undesirable species can prey upon the trout or compete with the trout for food.  Reclamations are very costly and can be avoided by preventing introductions of undesirable species. <br> \n</p>",
+                "headerInfo": [
+                    "Benjamin",
+                    null,
+                    "04003300",
+                    "2006-06-14",
+                    "370634255990000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2006-06-14",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                84
+                            ],
+                            [
+                                4,
+                                321
+                            ],
+                            [
+                                5,
+                                424
+                            ],
+                            [
+                                6,
+                                11
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 6
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                25,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 25,
+                        "maximum_length": 25
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                7,
+                                4
+                            ],
+                            [
+                                8,
+                                5
+                            ],
+                            [
+                                9,
+                                11
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 13
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                16
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                76
+                            ],
+                            [
+                                7,
+                                93
+                            ],
+                            [
+                                8,
+                                97
+                            ],
+                            [
+                                9,
+                                30
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 10
+                    }
+                }
+            }
+        ],
+        "countyName": "Beltrami"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

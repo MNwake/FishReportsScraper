@@ -1,0 +1,84 @@
+{
+    "timestamp": 1737671587,
+    "result": {
+        "lakeName": "Western",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.87,
+        "DOWNumber": 69037900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 131.46,
+        "areaAcres": 131.46,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 12.0,
+        "officeCode": "F214",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "108165",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "2.0-6.3",
+                        "totalWeight": 24.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "6.00",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "9.33",
+                        "quartileCount": "3.0-9.8",
+                        "totalWeight": 35.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-1.6",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.25",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "34.33",
+                        "quartileCount": "2.2-14.6",
+                        "totalWeight": 21.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 103
+                    },
+                    {
+                        "CPUE": "5.33",
+                        "quartileCount": "3.6-14.1",
+                        "totalWeight": 33.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.06",
+                        "totalCatch": 16
+                    }
+                ],
+                "narrative": "<p>Composed of above average populations of walleyes, yellow perch, and white suckers. Northern pike are present in below average numbers.  Reproduction for walleyes appears to be lacking in some years.</p>",
+                "headerInfo": [
+                    "Western",
+                    null,
+                    "69037900",
+                    "1976-08-25",
+                    "108165",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1976-08-25",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

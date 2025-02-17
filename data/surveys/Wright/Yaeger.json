@@ -1,0 +1,136 @@
+{
+    "timestamp": 1737675344,
+    "result": {
+        "lakeName": "Yaeger",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.08,
+        "DOWNumber": 86017700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 79.4,
+        "areaAcres": 110.98,
+        "meanDepthFeet": 8.0,
+        "maxDepthFeet": 28.0,
+        "officeCode": "F315",
+        "accesses": [
+            {
+                "location": "Private pay launch on SE of Howard Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "PRMIT",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "115312",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "12.33",
+                        "quartileCount": "0.5-5.4",
+                        "totalWeight": 39.4,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-0.7",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.06",
+                        "totalCatch": 37
+                    },
+                    {
+                        "CPUE": "28.00",
+                        "quartileCount": "0.3-2.0",
+                        "totalWeight": 10.4,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 84
+                    },
+                    {
+                        "CPUE": "137.33",
+                        "quartileCount": "0.3-2.6",
+                        "totalWeight": 164.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "2.0-4.5",
+                        "species": "CAP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.40",
+                        "totalCatch": 412
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "5.2-56.2",
+                        "totalWeight": 0.4,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "15.00",
+                        "quartileCount": "6.5-59.6",
+                        "totalWeight": 8.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 45
+                    },
+                    {
+                        "CPUE": "46.00",
+                        "quartileCount": "0.5-4.0",
+                        "totalWeight": 9.8,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.0-3.2",
+                        "species": "CAP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 46
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "4.50",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "1.3-26.0",
+                        "totalWeight": 5.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 30
+                    }
+                ],
+                "narrative": "<p>There is a small population of Northern Pike present. There are fair numbers of Bluegill and a comparatively large number of Green Sunfish.  There are also large numbers of bullheads and Common Carp.</p>",
+                "headerInfo": [
+                    "Yaeger",
+                    null,
+                    "86017700",
+                    "1976-08-11",
+                    "115312",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1976-08-11",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Wright"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

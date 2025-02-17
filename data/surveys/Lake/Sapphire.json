@@ -1,0 +1,121 @@
+{
+    "timestamp": 1737663229,
+    "result": {
+        "lakeName": "Sapphire",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.05,
+        "DOWNumber": 38044600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 33.6,
+        "areaAcres": 33.6,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 4.5,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "From logging access road; then hike 365 yds. northwest across logged area; then 235 yds west across wet bog to the lake. Not a designated access.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112594",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "18.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 9765.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.58",
+                        "totalCatch": 37
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 255.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 8
+                    }
+                ],
+                "narrative": "<p>Test nets in Sapphire Lake in 1994 found few species of fish and no gamefish. White sucker comprised the bulk of the catch with several minnow species also present. There is no history of gamefish being in the lake.</p>",
+                "headerInfo": [
+                    "Sapphire",
+                    null,
+                    "38044600",
+                    "1994-06-15",
+                    "112594",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1994-06-15",
+                "lengths": {
+                    "CSH": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                6
+                            ],
+                            [
+                                11,
+                                8
+                            ],
+                            [
+                                12,
+                                10
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                4
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                9,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 16
+                    }
+                }
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

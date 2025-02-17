@@ -1,0 +1,143 @@
+{
+    "timestamp": 1737662829,
+    "result": {
+        "lakeName": "Lunch",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.69,
+        "DOWNumber": 38044700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 18.35,
+        "areaAcres": 18.35,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 9.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "A 1;500 ft. trail; cut by the 1993 lake survey crew; to the southeast corner of the lake. (T61N;R8W;S24)",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112477",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "2.0-15.0",
+                        "totalWeight": 671.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "3.0-23.0",
+                        "totalWeight": 1840.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.41",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 50.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>At this time Lunch Lake does not have a gamefish fishery. Yellow Perch are present in fair numbers however average size is less than 6\" and unacceptable to anglers. It is unlikely that this lake will ever provide a fishery of any kind.</p>",
+                "headerInfo": [
+                    "Lunch",
+                    null,
+                    "38044700",
+                    "1993-06-21",
+                    "112477",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1993-06-21",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                10
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "CSH": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 12
+                    }
+                }
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

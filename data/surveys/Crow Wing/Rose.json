@@ -1,0 +1,114 @@
+{
+    "timestamp": 1737653342,
+    "result": {
+        "lakeName": "Rose",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.83,
+        "DOWNumber": 18012200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 51.74,
+        "areaAcres": 51.74,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 11.0,
+        "officeCode": "F212",
+        "accesses": [
+            {
+                "location": "None.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "114058",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "101.25",
+                        "quartileCount": "0.8-10.7",
+                        "totalWeight": 115.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.3-0.6",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.28",
+                        "totalCatch": 405
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.3-1.9",
+                        "totalWeight": 0.1,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.8-7.2",
+                        "totalWeight": 0.1,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "20.50",
+                        "quartileCount": "1.5-7.5",
+                        "totalWeight": 0.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 41
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "1.5-9.5",
+                        "totalWeight": 2.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BRB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "1.9-13.0",
+                        "totalWeight": 8.8,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 48
+                    }
+                ],
+                "narrative": "<p>Once used as a walleye rearing pond. Has black crappie present.</p>",
+                "headerInfo": [
+                    "Rose",
+                    null,
+                    "18012200",
+                    "1986-06-09",
+                    "114058",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-06-09",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Crow Wing"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

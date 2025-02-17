@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737651906,
+    "result": {
+        "lakeName": "Twelve",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.76,
+        "DOWNumber": 16010200,
+        "waterClarity": [
+            [
+                "06/20/1972",
+                "13"
+            ]
+        ],
+        "averageWaterClarity": "13.0",
+        "littoralAcres": 0.0,
+        "areaAcres": 14.99,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 21.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "A logging road from Forestry Road 309 provides access to the NW shore.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109616",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "2.0-8.5",
+                        "totalWeight": 10.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.75",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "3.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 21.9,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.68",
+                        "totalCatch": 13
+                    }
+                ],
+                "narrative": "<p>Lake contains a good population of N Pike. Suckers and Perch, usually associated with N Pike appear to be absent.</p>",
+                "headerInfo": [
+                    "Twelve",
+                    null,
+                    "16010200",
+                    "1972-07-07",
+                    "109616",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-07-07",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,157 @@
+{
+    "timestamp": 1737650386,
+    "result": {
+        "lakeName": "Ecstasy",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.21,
+        "DOWNumber": 16072200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 49.11,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 47.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Inside BWCAW; access by channel from Little Saganaga Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110934",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "13.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 52
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 42.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 63.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7037.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.72",
+                        "totalCatch": 9
+                    }
+                ],
+                "narrative": "<p>Ecstasy Lake did not appear to be capable of supporting lake trout, and none were found in the lake in 1998.  Only white sucker, green sunfish, and yellow perch were collected in survey gill nets, and only green sunfish and yellow perch were taken in 1/4-in-mesh wire minnow traps.  Because of the connection with Little Saganaga Lake, it seems likely that Ecstasy Lake supoorts a small number of northern pike, even though none were taken in 1998.</p>",
+                "headerInfo": [
+                    "Ecstasy",
+                    null,
+                    "16072200",
+                    "1998-07-20",
+                    "110934",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1998-07-20",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                4
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 18
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

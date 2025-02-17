@@ -1,0 +1,125 @@
+{
+    "timestamp": 1737661715,
+    "result": {
+        "lakeName": "Alworth",
+        "sampledPlants": [],
+        "shoreLengthMiles": 4.9,
+        "DOWNumber": 38040100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 77.0,
+        "areaAcres": 200.45,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 33.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portage from Ima Lake  BWCA-No motors allowed.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.1-0.2",
+                        "totalWeight": 1.2,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-1.6",
+                        "species": "BUB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.20",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "1.8-5.5",
+                        "totalWeight": 45.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.9-3.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.81",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.5-2.2",
+                        "totalWeight": 0.1,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "2.0-9.7",
+                        "totalWeight": 9.9,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.8-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.48",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "1.17",
+                        "quartileCount": "1.7-14.1",
+                        "totalWeight": 0.7,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "2.3-8.7",
+                        "totalWeight": 46.5,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.5-2.2",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.72",
+                        "totalCatch": 27
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "1.4-13.1",
+                        "totalWeight": 0.3,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.3-1.0",
+                        "species": "TLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Walleye population is well below the average for walleye lakes in NE Minnesota.  Northern pike population is about average.  Sucker population is high and seems to be abundant in all year classes.</p>",
+                "headerInfo": [
+                    "Alworth",
+                    null,
+                    "38040100",
+                    "1972-07-13",
+                    "108000",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-07-13",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

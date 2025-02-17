@@ -1,0 +1,97 @@
+{
+    "timestamp": 1737650151,
+    "result": {
+        "lakeName": "Circle",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.96,
+        "DOWNumber": 16011000,
+        "waterClarity": [
+            [
+                "07/18/1972",
+                "2.5"
+            ]
+        ],
+        "averageWaterClarity": "2.5",
+        "littoralAcres": 33.52,
+        "areaAcres": 33.52,
+        "meanDepthFeet": 2.0,
+        "maxDepthFeet": 3.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Logging road from Pine Mountain Road.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109623",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "117.00",
+                        "quartileCount": "1.1-12.8",
+                        "totalWeight": 136.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.3-1.9",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.29",
+                        "totalCatch": 468
+                    },
+                    {
+                        "CPUE": "0.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "12.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 10.2,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 49
+                    }
+                ],
+                "narrative": "<p>Mostly rough fish which die out in winter.</p>",
+                "headerInfo": [
+                    "Circle",
+                    null,
+                    "16011000",
+                    "1972-07-18",
+                    "109623",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-07-18",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

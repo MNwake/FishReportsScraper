@@ -1,0 +1,95 @@
+{
+    "timestamp": 1737675144,
+    "result": {
+        "lakeName": "Tamarack",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.63,
+        "DOWNumber": 86008900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 46.0,
+        "areaAcres": 61.54,
+        "meanDepthFeet": 6.4,
+        "maxDepthFeet": 26.0,
+        "officeCode": "F315",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "115384",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "18.75",
+                        "quartileCount": "0.3-2.8",
+                        "totalWeight": 4.2,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 75
+                    },
+                    {
+                        "CPUE": "21.00",
+                        "quartileCount": "0.2-1.2",
+                        "totalWeight": 32.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.3-2.5",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 84
+                    },
+                    {
+                        "CPUE": "113.50",
+                        "quartileCount": "7.7-104.7",
+                        "totalWeight": 20.7,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 227
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "0.5-2.3",
+                        "totalWeight": 0.7,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.6-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.23",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "113.00",
+                        "quartileCount": "1.5-58.0",
+                        "totalWeight": 58.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 452
+                    }
+                ],
+                "narrative": "<p>The fishery was composed of winterkill species. Black Bullhead at 113.0/trap net were extremely abundant. Lengths of 4-5.5 inches were common in the catch. Small Green Sunfish were also plentiful (18.8/trap net). White Sucker have been introduced by a bait dealer, are mostly small, and were captured at a rate of 1.5/gill net.</p>",
+                "headerInfo": [
+                    "Tamarack",
+                    null,
+                    "86008900",
+                    "1983-07-20",
+                    "115384",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1983-07-20",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Wright"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

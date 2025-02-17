@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737662950,
+    "result": {
+        "lakeName": "Muskrat",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.32,
+        "DOWNumber": 38037600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 18.0,
+        "areaAcres": 24.72,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 18.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portage from Fraser Lake in BWCA on a non-motor route.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107992",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "2.4-16.0",
+                        "totalWeight": 2.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.50",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.1-12.4",
+                        "totalWeight": 0.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 7.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.83",
+                        "totalCatch": 9
+                    }
+                ],
+                "narrative": "<p>Consists of an average population of sucker and low population of walleyes and perch.</p>",
+                "headerInfo": [
+                    "Muskrat",
+                    null,
+                    "38037600",
+                    "1975-07-12",
+                    "107992",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1975-07-12",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

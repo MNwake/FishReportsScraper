@@ -1,0 +1,906 @@
+{
+    "timestamp": 1737650910,
+    "result": {
+        "lakeName": "Little Saganaga",
+        "sampledPlants": [],
+        "shoreLengthMiles": 43.84,
+        "DOWNumber": 16080900,
+        "waterClarity": [
+            [
+                "09/21/1987",
+                "7.5"
+            ],
+            [
+                "09/13/2011",
+                "12"
+            ],
+            [
+                "09/15/2011",
+                "10.5"
+            ]
+        ],
+        "averageWaterClarity": "10.0",
+        "littoralAcres": 428.0,
+        "areaAcres": 1627.28,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 150.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "PRMIT",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110215",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "0.3-1.3",
+                        "totalWeight": 3084.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "0.7-1.9",
+                        "species": "BUB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.85",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.42",
+                        "quartileCount": "0.8-4.3",
+                        "totalWeight": 5075.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "1.2-3.1",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.24",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "1.17",
+                        "quartileCount": "0.3-1.0",
+                        "totalWeight": 16186.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "2.7-5.3",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.55",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.3-2.8",
+                        "totalWeight": 136.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "2.83",
+                        "quartileCount": "1.7-5.0",
+                        "totalWeight": 22354.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "1.6-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.45",
+                        "totalCatch": 34
+                    }
+                ],
+                "narrative": "<p>Lake trout abundance appeared to be low, and no fish over 22 inches were collected.  Growth was about average for the area, but lake trout recruitment appeared to be limited.  Most of the fish collected were ages 7 and 8.  Northern pike were abundant, and fish up to 31 inches were collected.  Growth appeared to be fast, despite a limited yellow perch forage base.  No other gamefish were collected, or known to be present.</p>",
+                "headerInfo": [
+                    "Little Saganaga",
+                    null,
+                    "16080900",
+                    "1993-09-20",
+                    "110215",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1993-09-20",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                6
+                            ],
+                            [
+                                18,
+                                4
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                24,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 24
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                6,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 6
+                    },
+                    "BUB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 16
+                    },
+                    "LAT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                21,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 21
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                23,
+                                2
+                            ],
+                            [
+                                24,
+                                2
+                            ],
+                            [
+                                29,
+                                1
+                            ],
+                            [
+                                31,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 31
+                    }
+                }
+            },
+            {
+                "surveyID": "110966",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.08",
+                        "quartileCount": "0.3-1.3",
+                        "totalWeight": 294.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "0.7-1.9",
+                        "species": "BUB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.65",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.42",
+                        "quartileCount": "0.8-4.3",
+                        "totalWeight": 5717.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "1.2-3.1",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.52",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "1.75",
+                        "quartileCount": "0.3-1.0",
+                        "totalWeight": 25493.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "2.7-5.3",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.68",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "0.42",
+                        "quartileCount": "0.3-2.8",
+                        "totalWeight": 460.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "2.75",
+                        "quartileCount": "1.7-5.0",
+                        "totalWeight": 22068.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "1.6-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.47",
+                        "totalCatch": 33
+                    }
+                ],
+                "narrative": "<p>The lake trout catch in 1998 was within the normal range for lakes of this class, and it was similar to past catches in this lake.  No lake trout younger than five years were collected; however, that is not unusual in natural lake trout lakes.  Lake trout growth had been about average for the area, with a forage base that seemed to consist mostly of invertebrates, with some access to burbot and yellow perch.The northern pike catch was also within the normal range, and similar to past catches.  Several northern pike over 25 inches were collected, with relatively fast growth accounting for the presence of good numbers of large fish.  No northern pike older than five years were collected, but five-year-old (almost six year old) fish averaged 28.6 inches in length when captured in September.No walleye or smallmouth bass were collected, and none have ever been reported from this lake.  They are not native to this area.</p>",
+                "headerInfo": [
+                    "Little Saganaga",
+                    null,
+                    "16080900",
+                    "1998-09-14",
+                    "110966",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1998-09-14",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                7
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                3
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 20
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 9
+                    },
+                    "LAT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                23,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 23
+                    },
+                    "BUB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 10
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                21,
+                                4
+                            ],
+                            [
+                                22,
+                                2
+                            ],
+                            [
+                                23,
+                                1
+                            ],
+                            [
+                                25,
+                                2
+                            ],
+                            [
+                                26,
+                                1
+                            ],
+                            [
+                                27,
+                                2
+                            ],
+                            [
+                                29,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 29
+                    }
+                }
+            },
+            {
+                "surveyID": "110066",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.3-1.3",
+                        "totalWeight": 2.0,
+                        "gearCount": 18.0,
+                        "quartileWeight": "0.7-1.9",
+                        "species": "BUB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.67",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.8-4.3",
+                        "totalWeight": 14.75,
+                        "gearCount": 18.0,
+                        "quartileWeight": "1.2-3.1",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.64",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1.17",
+                        "quartileCount": "0.3-1.0",
+                        "totalWeight": 64.8,
+                        "gearCount": 18.0,
+                        "quartileWeight": "2.7-5.3",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.09",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.3-2.8",
+                        "totalWeight": 2.27,
+                        "gearCount": 18.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "4.17",
+                        "quartileCount": "1.7-5.0",
+                        "totalWeight": 104.85,
+                        "gearCount": 18.0,
+                        "quartileWeight": "1.6-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.40",
+                        "totalCatch": 75
+                    }
+                ],
+                "narrative": "<p>LAKE TROUT WERE SAMPLED IN RELATIVELY LOW NUMBERS, WITH SEVERAL YEAR CLASSES REPRESENTED AND SIZES RANGING FROM 12 TO 20 INCEHS. GROWTH IS SLOW. NORTHERN PIKE ARE PRESENT IN LOW NUMBERS, BUT WITH EXCELLENT AVERAGE SIZE. NORTHERN PIKE GROWTH IS ALSO SLOW. BURBOT ARE PRESENT AS A THIRD MAJOR PREDATOR. THE FORAGE BASE FOR GAME FISH CONSISTS OF A FEW YELLOW PERCH, SMALL WHITE SUCKER AND MINNOWS.</p>",
+                "headerInfo": [
+                    "Little Saganaga",
+                    null,
+                    "16080900",
+                    "1987-09-21",
+                    "110066",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1987-09-21",
+                "lengths": {}
+            },
+            {
+                "surveyID": "4311107460705003",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.53",
+                        "quartileCount": "0.3-1.3",
+                        "totalWeight": 3271.0,
+                        "gearCount": 15.0,
+                        "quartileWeight": "0.7-1.9",
+                        "species": "BUB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.90",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.8-4.3",
+                        "totalWeight": 14848.0,
+                        "gearCount": 15.0,
+                        "quartileWeight": "1.2-3.1",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.18",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "2.13",
+                        "quartileCount": "0.3-1.0",
+                        "totalWeight": 57355.0,
+                        "gearCount": 15.0,
+                        "quartileWeight": "2.7-5.3",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.95",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "1.13",
+                        "quartileCount": "0.3-2.8",
+                        "totalWeight": 876.0,
+                        "gearCount": 15.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "6.33",
+                        "quartileCount": "1.7-5.0",
+                        "totalWeight": 62104.0,
+                        "gearCount": 15.0,
+                        "quartileWeight": "1.6-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.44",
+                        "totalCatch": 95
+                    },
+                    {
+                        "CPUE": "1.86",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 7.0,
+                        "quartileWeight": "N/A",
+                        "species": "SMS",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 13
+                    }
+                ],
+                "narrative": "<p>Based on catches in population assessments, Little Saganaga Lake has a low- to medium-density population of lake trout.  The 2011 catch was slightly higher than catches in 1987, 1993, and 1998 (0.42-0.50 fish/net), but remained near the low end of the usual range for this class of lake.  The size of lake trout taken in assessments has been small to medium (none have been over 24 inches), but anglers have taken larger fish.  Mean weight from the 2011 assessment was within the range of mean weights from previous assessments (1.64-2.52 lb/fish), and in the mid range for this class of lake.  Lake trout have not been stocked since 1950, so natural reproduction was responsible for the entire 2011 catch.  Several year classes were present.  Growth rates appeared to have been about average or slightly slower compared to other lakes in this class.  The lake has no high-quality forage fish species that would promote growth to large sizes.  Several yellow perch and sculpin were found in lake trout stomachs.  <br> \n <br> \nNorthern pike catches in Little Saganaga Lake have generally been relatively high for this class of lake.  The 2011 catch was slightly higher than previous catches (1.17-1.75 fish/net).  Mean weight of northern pike also slightly exceeded values from previous assessments (2.55-3.09 lb/fish).  Fish over 30 inches long were sampled in 2011, 1993, and 1987.  Natural reproduction appears to have been consistently successfull in the lake, and several year classes contributed to the 2011 catch.  Growth rates of northern pike had been close to average for the lake class. <br> \n <br> \nThe white sucker catch exceeded previous catches in the lake (2.75-4.17 fish/net) and was somewhat high for the lake class.  Sampled white sucker have consistently been small.   <br> \n <br> \nThe burbot catch was within the range of previous catches (0.08-0.67 fish/net) and within the usual range for the lake class.  Mean weight slightly exceeded the previous range (0.65-0.85 lb/fish). <br> \n <br> \nResults of yellow perch sampling in 2011 were consistent with previous results.  Population density appears to have been low to medium for this class of lake.  A few perch over eight inches long have been taken, but average size has been small.  Four yellow perch were identified in the stomachs of three lake trout. <br> \n <br> \nSeven minnow traps were set in deep water to sample sculpin, and collected 13 slimy sculpin.  The species is present in many lakes of this class.  Three sculpin were also found in the stomach of one lake trout. <br> \n</p>",
+                "headerInfo": [
+                    "Little Saganaga",
+                    null,
+                    "16080900",
+                    "2011-09-12",
+                    "4311107460705003",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2011-09-12",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                9
+                            ],
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                9
+                            ],
+                            [
+                                17,
+                                20
+                            ],
+                            [
+                                18,
+                                13
+                            ],
+                            [
+                                19,
+                                6
+                            ],
+                            [
+                                20,
+                                3
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                15
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 20
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                12
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 8
+                    },
+                    "BUB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 19
+                    },
+                    "LAT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                20,
+                                4
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                22,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 22
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                22,
+                                3
+                            ],
+                            [
+                                23,
+                                2
+                            ],
+                            [
+                                24,
+                                3
+                            ],
+                            [
+                                25,
+                                5
+                            ],
+                            [
+                                26,
+                                3
+                            ],
+                            [
+                                27,
+                                5
+                            ],
+                            [
+                                29,
+                                2
+                            ],
+                            [
+                                31,
+                                1
+                            ],
+                            [
+                                34,
+                                1
+                            ],
+                            [
+                                36,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 36
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

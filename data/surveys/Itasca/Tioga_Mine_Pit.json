@@ -1,0 +1,939 @@
+{
+    "timestamp": 1737659956,
+    "result": {
+        "lakeName": "Tioga Mine Pit",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.1,
+        "DOWNumber": 31094600,
+        "waterClarity": [
+            [
+                "08/06/2015",
+                "27"
+            ]
+        ],
+        "averageWaterClarity": "27.0",
+        "littoralAcres": 1.0,
+        "areaAcres": 49.32,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 225.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "106100",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 827.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "3.44",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1861.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "RKB",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 31
+                    },
+                    {
+                        "CPUE": "5.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6166.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "0.85",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "0.44",
+                        "quartileCount": "N/A",
+                        "totalWeight": 265.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 196.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "0.43",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.44",
+                        "quartileCount": "N/A",
+                        "totalWeight": 832.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.46",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "3.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1465.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "0.29",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 319.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RKB",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Tioga Mine Pit, a designated trout lake, has been stocked annually with trout since the initial stocking in 1972.  Stocking of yearling rainbow trout in the spring has occurred on an annual basis since 1988.  Splake were also stocked twice, in 1991 and 1993.       The lake currently has a population of small rainbow trout and splake.  The rainbows had an average length of 11.5 inches and an average weight of 0.44 pounds in this assessment. The splake sampled had an average length of 10.2 inches and an average weight of 0.3 pounds.  Growth of both species appears to be poor due to the infertility of this mine pit lake.     Other species present in Tioga Pit are largemouth bass, white suckers, rock bass, spottail shiners and bluntnose minnow.        </p>",
+                "headerInfo": [
+                    "Tioga Mine Pit",
+                    null,
+                    "31094600",
+                    "1995-10-30",
+                    "106100",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1995-10-30",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 11
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                8
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 12
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 9
+                    },
+                    "RKB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                3
+                            ],
+                            [
+                                4,
+                                6
+                            ],
+                            [
+                                5,
+                                11
+                            ],
+                            [
+                                6,
+                                14
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 7
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 16
+                    }
+                }
+            },
+            {
+                "surveyID": "107069",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 840.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RKB",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3460.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "1.91",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 430.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.32",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 870.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "0.64",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 562.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RKB",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "0.31",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Temperature and dissolved oxygen profiles were conducted in late August when the pit was thermally stratified.  The thermocline was found to be located from 22 to 35 feet of water and the dissolved oxygen levels were adequate for trout throughout the water column. This assessment was conducted in mid October using standard gill nets set in deep water and ? inch mesh trap nets set along the shoreline.  Gill nets were set in three locations and captured only three rainbow trout.  These trout varied from 12-13 inches in length and were probably stocked in May of this year.  The gill net catch also included white sucker and rock bass that directly compete with trout for the limited food items available in this mine pit.  Due to the steep walls around most of this mine pit only three sites could be found to set trap nets. The catch in these trap nets was light and contained mostly small rock bass, three largemouth bass, and no trout.   Also ? inch mesh, wire minnow traps were set to capture smaller non-game fish species but no fish were captured.        </p>",
+                "headerInfo": [
+                    "Tioga Mine Pit",
+                    null,
+                    "31094600",
+                    "2005-10-10",
+                    "107069",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2005-10-10",
+                "lengths": {
+                    "RKB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                6
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 10
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                7,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 11
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 18
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 12
+                    }
+                }
+            },
+            {
+                "surveyID": "12191511940186017",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "8.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1710.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RKB",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3666.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "2.02",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 874.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "1.93",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3608.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "1.14",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4446.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "1.09",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1540.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "1.13",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 218.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RKB",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 8
+                    }
+                ],
+                "narrative": "<p>Tioga Mine Pit is a 51 acre abandoned iron mine pit located in south-central Itasca County, approximately three miles south of Cohasset., MN.  Tioga Pit has a maximum depth of 225 feet; however, only two percent is 15 feet or less in depth.  The Secchi disk reading during the 2015 survey was 27.0 feet. Previous Secchi disk readings have ranged from 15 to 43 feet.  A state-owned public access is located on the northeast shore.  The area receives considerable recreational use.  Residential development is currently limited to the southwest corner of the mine pit. <br> \n <br> \nThe fisheries lake management plan (LMP) was revised in 2011.  Rainbow Trout were the primary management species.  A population assessment was conducted in October of 2015 to determine the status of the fish community.  This assessment consisted of 3 gill nets, 3 trap nets and 2 baited minnow traps.  <br> \n <br> \nYearling Rainbow Trout are stocked annually in the spring by the Iron Range Resources and Rehabilitation Board (IRRRB).  Rainbow Trout abundance has increased from previous surveys. Rainbow Trout from gill nets ranged in length from 11.7 to 16.9 inches, with an average length and weight of 14.2 inches and 1.1 pounds.  The minnow traps did not sample any fish.  Other species sampled included Largemouth Bass, Rock Bass and White Sucker.  <br> \n <br> \nTioga Mine Pit is not known to support invasive species.  Anglers and boaters are reminded to help stop the spread of invasive species by removing all aquatic plants from boats, trailers and equipment.  All drain plugs must be removed and live and bait wells must be drained before leaving the access.  Anglers and boaters are encouraged to power wash and thoroughly dry all equipment prior to use in another water body.  Anglers are also reminded that it is unlawful to use live minnows for bait in Tioga Mine Pit and that introduction of non-trout fish species is detriimental to the trout population.  <br> \n</p>",
+                "headerInfo": [
+                    "Tioga Mine Pit",
+                    null,
+                    "31094600",
+                    "2015-10-19",
+                    "12191511940186017",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2015-10-19",
+                "lengths": {
+                    "RKB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                8
+                            ],
+                            [
+                                4,
+                                14
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                6
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 9
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                7,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 15
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 19
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                5
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 17
+                    }
+                }
+            },
+            {
+                "surveyID": "105893",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.7,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.42",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "0.5-4.1",
+                        "totalWeight": 0.6,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "RKB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.3-7.8",
+                        "totalWeight": 0.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 17.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.07",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "0.2-38.7",
+                        "totalWeight": 2.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 24
+                    }
+                ],
+                "narrative": "<p>WHITE SUCKERS HAD NOT BEEN SAMPLED IN TIOGA UNTIL THIS ASSESSMENT. THE GILLNET CPUE OF 8.0 INDICATES A FAIRLY HIGH POPULATION. ALL 16 OF THE SUCKERS SAMPLED WERE 4 YEARS OLD AND THE GROWTH RATES OF THESE FISH CAN BE CONSIDERED AVERAGE. ONLY 4 RAIN- BOW TROUT WERE SAMPLED DESPITE ANNUAL YEARLING STOCKING. THE DIFFICULTY IN SAMPLING THIS LAKE COULD ACCOUNT FOR THE LOW NUMBERS. GROWTH RATES FOR THIS SPECIES IS CONSIDERED SLOW. ALL 4 FISH WERE 4 YEARS OLD WITH A MEAN LENGTH OF 9.4 LAST ANNULUS FORMATION. THE BROOK TROUT RANGED IN LENGTH FROM 7.2 STOCKING TOOK PLACE IN MAY 1988 WHEN YEARLINGS OF 3.3 PER POUND WERE STOCKED AND IN SEPTEMBER 1988 WHEN 6.0 PER PD YEARLINGS WERE STOCKED. IT APPEARS THAT THESE BROOK TROUT HAD NOT GROWN WELL.</p>",
+                "headerInfo": [
+                    "Tioga Mine Pit",
+                    null,
+                    "31094600",
+                    "1989-10-11",
+                    "105893",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1989-10-11",
+                "lengths": {}
+            },
+            {
+                "surveyID": "106142",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "13.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.28",
+                        "totalCatch": 41
+                    },
+                    {
+                        "CPUE": "4.33",
+                        "quartileCount": "0.5-4.1",
+                        "totalWeight": 2.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "RKB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "16.12",
+                        "quartileCount": "0.2-38.7",
+                        "totalWeight": 15.6,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 129
+                    }
+                ],
+                "narrative": "<p>Trout population abundance appears satisfactory.  A high population of rock bass is present in the pit.Crew:  Dave Hagen/Blake Hanson</p>",
+                "headerInfo": [
+                    "Tioga Mine Pit",
+                    null,
+                    "31094600",
+                    "1981-04-29",
+                    "106142",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1981-04-29",
+                "lengths": {}
+            },
+            {
+                "surveyID": "17722127136474000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 905.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RKB",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2113.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "1.55",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 663.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1160.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "1.28",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "3.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 423.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RKB",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 10
+                    }
+                ],
+                "narrative": "<p>Tioga Mine Pit is a 51 acre abandoned iron mine pit located in south-central Itasca County, approximately three miles south of Cohasset, MN.  Tioga Pit has a maximum depth of 225 feet; however, only two percent is 15 feet or less in depth.  The Secchi disk reading during the 2015 survey was 27.0 feet. Previous Secchi disk readings have ranged from 15 to 43 feet.  A state-owned public access is located on the northeast shore.  The area receives considerable recreational use.  Residential development is currently limited to the southwest corner of the mine pit. <br> \n <br> \nTioga Pit has long been managed as a put-and-take trout fishery and Rainbow Trout are the primary management species.  The Iron Range Resources and Rehabilitation Board (IRRRB) stocked yearling Rainbow Trout annually in the spring.  The fisheries lake management plan (LMP) was last revised in 2016.  The management goal was to maintain trout catches of three per gill net in fall surveys.  A population assessment was conducted in late September of 2021 to determine the status of the fish community.  This assessment consisted of three gill nets and three trap nets. <br> \n <br> \nRainbow Trout abundance appeared to be low as only two trout were captured in gill nets and none in trap nets.  The resulting catch rate failed to meet the management goal.  Both trout exceeded 15 inches, however, indicating that at least some trout survival occurred and that angling opportunities for larger trout exist.  The success of put-and-take trout fisheries is often difficult to assess.  Low trout catch rates could indicate poor survival of stocked fish, which would suggest a failed fishery or could be the result of high angler harvest and utilization, which would indicate a successful program.  Given the catch rate and size quality, it appears that good trout fishing opportunities likely exist following spring stocking but numbers may decline by fall.  Other species sampled included Largemouth Bass and Rock Bass.  Competition or predation may limit trout survival and growth in Tioga Pit.  <br> \n <br> \nTioga Mine Pit is not known to support invasive species.  Anglers and boaters are reminded to help stop the spread of invasive species by removing all aquatic plants from boats, trailers and equipment.  All drain plugs must be removed and live and bait wells must be drained before leaving the access.  Anglers and boaters are encouraged to power wash and thoroughly dry all equipment prior to use in another water body.  Anglers are also reminded that it is unlawful to use live minnows for bait in Tioga Mine Pit and that introduction of non-trout fish species is detrimental to the trout population. <br> \n</p>",
+                "headerInfo": [
+                    "Tioga Mine Pit",
+                    null,
+                    "31094600",
+                    "2021-09-28",
+                    "17722127136474000",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2021-09-28",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 16
+                    },
+                    "RKB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                2,
+                                1
+                            ],
+                            [
+                                3,
+                                5
+                            ],
+                            [
+                                4,
+                                11
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 8
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                3
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 14
+                    }
+                }
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

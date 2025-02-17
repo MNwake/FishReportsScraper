@@ -1,0 +1,105 @@
+{
+    "timestamp": 1737651172,
+    "result": {
+        "lakeName": "Mush",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.13,
+        "DOWNumber": 16010900,
+        "waterClarity": [
+            [
+                "06/12/2006",
+                "6"
+            ]
+        ],
+        "averageWaterClarity": "6.0",
+        "littoralAcres": 27.0,
+        "areaAcres": 27.68,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 16.0,
+        "officeCode": "F218",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "220627861829000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "17.62",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 141
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 823.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.91",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "18.38",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 147
+                    },
+                    {
+                        "CPUE": "0.12",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Mush Lake supports a few splake as a result of movement of fish into the lake from nearby Musquash Lake, where splake are stocked annually.  Splake abundance in 2006 was well below levels seen in regularly stocked lakes in this area.  Movement of splake into Mush Lake probably depends on water levels in the connecting stream, and may not be possible every year.   <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Mush",
+                    "Mush Pond",
+                    "16010900",
+                    "2006-06-12",
+                    "220627861829000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2006-06-12",
+                "lengths": {
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 14
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

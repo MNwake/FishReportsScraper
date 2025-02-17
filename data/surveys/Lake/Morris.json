@@ -1,0 +1,163 @@
+{
+    "timestamp": 1737662924,
+    "result": {
+        "lakeName": "Morris",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.88,
+        "DOWNumber": 38002700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 19.59,
+        "areaAcres": 19.59,
+        "meanDepthFeet": 3.0,
+        "maxDepthFeet": 4.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "No developed public access.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "113052",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 45.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 48
+                    },
+                    {
+                        "CPUE": "15.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 62
+                    },
+                    {
+                        "CPUE": "0.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "GOS",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 134.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "35.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 140
+                    },
+                    {
+                        "CPUE": "7.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 30
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>A lake survey conducted on Morris Lake in 2004 found conditions to be poor for game fish, having a maximum depth of only 4 feet and a potential for winterkill.  The only fish species collected in this survey were several species of minnows.  There is no history of game fish inhabiting this lake.  There are no plans to manage this lake for game fish unless, possibly, as a walleye rearing pond; however, this is a low priority at this time.There is no developed public access to Morris Lake; however, the lake is surrounded by public land which can be crossed on foot to get to the lake.</p>",
+                "headerInfo": [
+                    "Morris",
+                    null,
+                    "38002700",
+                    "2004-07-19",
+                    "113052",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "2004-07-19",
+                "lengths": {
+                    "CRC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    }
+                }
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

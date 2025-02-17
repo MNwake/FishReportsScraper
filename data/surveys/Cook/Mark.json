@@ -1,0 +1,575 @@
+{
+    "timestamp": 1737651006,
+    "result": {
+        "lakeName": "Mark",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.16,
+        "DOWNumber": 16025000,
+        "waterClarity": [
+            [
+                "08/26/1971",
+                "4"
+            ],
+            [
+                "06/30/2010",
+                "4"
+            ]
+        ],
+        "averageWaterClarity": "4.0",
+        "littoralAcres": 126.08,
+        "areaAcres": 126.08,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111546",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "17.50",
+                        "quartileCount": "3.0-9.0",
+                        "totalWeight": 54606.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.2-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.15",
+                        "totalCatch": 105
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 75.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.83",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 12515.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.62",
+                        "totalCatch": 17
+                    }
+                ],
+                "narrative": "<p>Mark Lake supported very large numbers of small (most under 20 inches), slow-growing northern pike.  No other gamefish species were collected.  Forage for northern pike was limited to a very small number of yellow perch, and white sucker, most of which were too large for the small northern pike found in this lake.</p>",
+                "headerInfo": [
+                    "Mark",
+                    null,
+                    "16025000",
+                    "1993-06-28",
+                    "111546",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1993-06-28",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                5
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                5
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                21,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 21
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                13,
+                                5
+                            ],
+                            [
+                                14,
+                                9
+                            ],
+                            [
+                                15,
+                                15
+                            ],
+                            [
+                                16,
+                                11
+                            ],
+                            [
+                                17,
+                                18
+                            ],
+                            [
+                                18,
+                                12
+                            ],
+                            [
+                                19,
+                                15
+                            ],
+                            [
+                                20,
+                                11
+                            ],
+                            [
+                                21,
+                                6
+                            ],
+                            [
+                                24,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 24
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 7
+                    }
+                }
+            },
+            {
+                "surveyID": "4311008338223000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.5-3.8",
+                        "totalWeight": 118.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "4.47",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 0.895833333333333,
+                        "quartileWeight": "N/A",
+                        "species": "CNM",
+                        "gear": "Backpack electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.30",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "CNM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "13.67",
+                        "quartileCount": "3.0-9.0",
+                        "totalWeight": 39020.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.2-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.05",
+                        "totalCatch": 82
+                    },
+                    {
+                        "CPUE": "59.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 598
+                    },
+                    {
+                        "CPUE": "22.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 0.895833333333333,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Backpack electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 20
+                    },
+                    {
+                        "CPUE": "2.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "IOD",
+                        "gear": "15-ft beach seine",
+                        "averageWeight": "0.00",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "4.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 13699.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.16",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "2.40",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNS",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 24
+                    },
+                    {
+                        "CPUE": "17.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "15-ft beach seine",
+                        "averageWeight": "0.00",
+                        "totalCatch": 85
+                    },
+                    {
+                        "CPUE": "20.09",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 0.895833333333333,
+                        "quartileWeight": "N/A",
+                        "species": "BNS",
+                        "gear": "Backpack electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "1.12",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 0.895833333333333,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Backpack electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.90",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 29
+                    },
+                    {
+                        "CPUE": "0.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNS",
+                        "gear": "15-ft beach seine",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "4.67",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 22024.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.73",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 600.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "28.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "IOD",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 288
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 13897.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.70",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "55.81",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 0.895833333333333,
+                        "quartileWeight": "N/A",
+                        "species": "IOD",
+                        "gear": "Backpack electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 50
+                    }
+                ],
+                "narrative": "<p>Northern pike were abundant, but small, in Mark Lake in 2010.  Both were normal conditions for this lake.  The 2010 gill net catch was well above the normal range for the lake class, while the mean weight for northern pike taken in gill nets was below the normal range.  Four year classes contributed to the catch, with the strongest produced in 2007.  No northern pike older than four years were collected.  Growth of three-year-old northern pike had been slightly slower than  average; their mean length at the end of their third year (16.2 inches) was well below the average of 17.4 inches for all lakes in the Grand Marais area.  <br> \n <br> \nYellow perch have never been abundant in Mark Lake, and the 2010 gill net catch, while well below the normal range for the lake class, was nevertheless the highest seen to date in this lake.  A few of the yellow perch collected would have been large enought to provide some angling opportunities. <br> \n <br> \nThe white sucker gill net catch was below the normal range for the lake class, but fell within the range of past catches in this lake (2.8-25.5 fish/set).  Some of the white sucker collected would have been small enough to provide forage for even the small northern pike in this lake. <br> \n <br> \nIn 2010, Clean Water Legacy funding allowed areas across the state to do some nearshore fish community sampling to improve our ability to use a fish-based Index of Biotic Integrity (IBI) to identify disturbed aquatic ecosystems.   Mark Lake was selected for nearshore sampling because its accessibility allowed for use of the sampling gears required. <br> \n <br> \nSampling of the nearshore fish community was done using 0.25-in-mesh trap nets, a 15-ft beach seine, backpack electrofishing gear, and 0.25-in-mesh wire minnow traps.  Prior to sampling done in 2010 Mark Lake was only known to support northern pike, yellow perch, and white sucker, because no sampling targeting small fishes had ever been done.  Nearshore sampling  in 2010 added Iowa darter, blacknose shiner, and central mudminnow to the list of fish species known to be present. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Mark",
+                    null,
+                    "16025000",
+                    "2010-06-28",
+                    "4311008338223000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2010-06-28",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                7
+                            ],
+                            [
+                                15,
+                                9
+                            ],
+                            [
+                                16,
+                                8
+                            ],
+                            [
+                                17,
+                                5
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                3
+                            ],
+                            [
+                                20,
+                                4
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 20
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                8,
+                                4
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 9
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                5
+                            ],
+                            [
+                                14,
+                                7
+                            ],
+                            [
+                                15,
+                                16
+                            ],
+                            [
+                                16,
+                                13
+                            ],
+                            [
+                                17,
+                                21
+                            ],
+                            [
+                                18,
+                                23
+                            ],
+                            [
+                                19,
+                                11
+                            ],
+                            [
+                                20,
+                                3
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 21
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

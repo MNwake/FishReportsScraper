@@ -1,0 +1,863 @@
+{
+    "timestamp": 1737669204,
+    "result": {
+        "lakeName": "Camp A",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.72,
+        "DOWNumber": 69078800,
+        "waterClarity": [
+            [
+                "08/11/2014",
+                "4.5"
+            ],
+            [
+                "08/23/2011",
+                "5"
+            ],
+            [
+                "09/13/2010",
+                "3.5"
+            ],
+            [
+                "08/23/2011",
+                "5"
+            ]
+        ],
+        "averageWaterClarity": "4.5",
+        "littoralAcres": 12.0,
+        "areaAcres": 18.11,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 31.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "4231222636467000",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Camp 4 is a designated stream trout lake that has been managed for rainbow and brook trout since 1955.  Trout catches from test netting have been poor in most assessments, suggesting poor trout survival.  No trout were captured in the most recent assessment, although northern pike were present.  <br> \n <br> \nDissolved oxygen testing was conducted in August, while the lake was still stratiifed, to determine the quantity of suitable trout habitat.  Dissolved oxygen testing indicated a lack of vertical trout habitat, as oxygen fell below 2.1 ppm at 8 feet while water temperatures remained near 20 deg C.  The oxygen-temperature profile suggests that summer-kill conditions likely exist, limiting the potential of the trout fishery.</p>",
+                "headerInfo": [
+                    "Camp A",
+                    "Camp Four",
+                    "69078800",
+                    "2012-08-03",
+                    "4231222636467000",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2012-08-03",
+                "lengths": {}
+            },
+            {
+                "surveyID": "106551",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.40",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.25,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>None.</p>",
+                "headerInfo": [
+                    "Camp A",
+                    "Camp Four",
+                    "69078800",
+                    "1972-08-30",
+                    "106551",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1972-08-30",
+                "lengths": {}
+            },
+            {
+                "surveyID": "106552",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.88",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6.5,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 55
+                    }
+                ],
+                "narrative": "<p>Trout population is quite high and consists of smaller fish.</p>",
+                "headerInfo": [
+                    "Camp A",
+                    "Camp Four",
+                    "69078800",
+                    "1980-05-01",
+                    "106552",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1980-05-01",
+                "lengths": {}
+            },
+            {
+                "surveyID": "107070",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.10",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "CNM",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "4.30",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 43
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2575.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "5.68",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "26.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 80
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1300.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.87",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.40",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4334.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "2.39",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "JND",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.30",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>The trout sampled in this assessment were of quality size although only a few were sampled.  One rainbow and one brook trout were sampled in the four 24 hour gill net sets.  Four brook trout were sampled in the 38 trap net sets.  The brook trout were stocked as yearlings (2.9/pound) on May 6, 2004.  The rainbow trout was aged at 4 years from the October 29, 2001 fingerling stocking.  The rainbow was 21.1 inches in length and weighed 5.7 pounds.  The brook trout ranged in length from 16.1 to 17.5 inches.       The low catch rate this year on Camp 4 is similar to past assessments.  High water temperatures combined with low oxygen in late summer in addition to low oxygen levels in late winter have been a concern.  It is not believed that fishing pressure is responsible for the low catches observed.      The August 3, 2005 temperature profile found only 1.5 ppm of oxygen at 13 feet.  The temperature at 10 feet was 66 degrees and 8.3 ppm of oxygen.  The zone that trout prefer becomes reduced in late summer in Camp 4.  Past winter oxygen tests also reveal low oxygen levels in much of the water column.         </p>",
+                "headerInfo": [
+                    "Camp A",
+                    "Camp Four",
+                    "69078800",
+                    "2005-10-17",
+                    "107070",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2005-10-17",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 17
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                21,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 21,
+                        "maximum_length": 21
+                    }
+                }
+            },
+            {
+                "surveyID": "10701413955533001",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 22
+                    },
+                    {
+                        "CPUE": "0.38",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 16.0,
+                        "quartileWeight": "N/A",
+                        "species": "PRD",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.19",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 16.0,
+                        "quartileWeight": "N/A",
+                        "species": "CNM",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.81",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 16.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 520.0,
+                        "gearCount": 16.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.29",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1818.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "2.94",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7940.0,
+                        "gearCount": 16.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.37",
+                        "totalCatch": 47
+                    }
+                ],
+                "narrative": "<p>Camp Four is located about 9 miles north of Buhl, within the Superior National Forest.  The lake is small, about 15 acres, with a max depth of 31 feet, and a shoreline length about 0.7 miles.  There are two U.S. Forest Service carry-in accesses on the lake.  Camp Four has been managed for stream trout since being reclaimed in 1954, with almost annual stocking of rainbow trout.  Annual stocking, alternating between fall rainbow trout fingerlings in odd years and spring brook trout yearlings in even  years, has occurred since 1997.  The lake management plan's long range goals consisted of a rainbow trout fall catch of 0.5/ trap net with two year classes present and a brook trout fall catch of 0.5/trap net with75% exceeding 12 inches. <br> \n <br> \nBrook trout were the only species sampled in the two gill nets, at a rate of 4.5/net.  The nine fish sampled ranged from 8.7 to 11.4 inches and a mean length of 10.4 inches.  The length distribution suggests these fish are one age class and likely from the spring 2014 stocking. <br> \n <br> \nA total of 16 half inch trap net sets sampled 47 Brook Trout for a rate of 2.9/net.  Lengths ranged from 7.2 to 13.8 inches and had a mean length of 9.9 inches.  Interestingly, all of the Brook Trout sampled had lengths from 7 to 11 inches except three, which were 13 inches long.  The majority are likely from the spring 2014 stocking, while the age of the three largest individuals is unclear.  Crew notes indicated these fish had a different overall appearance, darker and heavier.  These fish could be extremely fast growing individuals, older fish that got mixed in at the hatchery with the yearlings stocked in 2014, or fish surviving from the 2012 stocking. <br> \n <br> \nRainbow Trout were also present in the trap net sample, being sampled at a rate of 0.3/trap net.  The four fish had lengths from 6.8 to 11.2 inches with a mean length of 8.8 inches.  These fish are from the fall 2013 stocking, indicating over-winter and over-summer survival. <br> \n <br> \nHabitat requirements for Brook Trout include a minimum of 5 ppm dissolved oxygen (DO), water temperatures below 65-degree (F), and at least five vertical feet of separation between the two.  A temp/DO profile conducted on 8/11/2014 indicated there was no suitable trout habitat at the peak of summer stress.  This is similar to what has been observed in other assessments.  However, Brook Trout were present, with an acceptable CPUE, indicating over-summer survival.  Rainbow Trout (which can tolerate water temps up to 70 degrees) were also present in the sample indicating over-winter and over-summer survival.  It appears that poor habitat conditions are only seasonal and do not last long enough to cause mortality on a regular basis. <br> \n <br> \nTrap nets also sampled three Central Mudminnow, 13 Finescale Dace, and six Pearl Dace.  Near shore sampling included setting four minnow traps.  A total of two Brook Stickleback, 1 Fathead Minnow, and 22 Finescale Dace were sampled. <br> \n</p>",
+                "headerInfo": [
+                    "Camp A",
+                    "Camp Four",
+                    "69078800",
+                    "2014-10-08",
+                    "10701413955533001",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2014-10-08",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 11
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                17
+                            ],
+                            [
+                                11,
+                                5
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                7,
+                                4
+                            ],
+                            [
+                                8,
+                                5
+                            ],
+                            [
+                                9,
+                                22
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 13
+                    },
+                    "PRD": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 4
+                    }
+                }
+            },
+            {
+                "surveyID": "4141112452371000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.22",
+                        "quartileCount": "N/A",
+                        "totalWeight": 10584.0,
+                        "gearCount": 27.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Special gill nets",
+                        "averageWeight": "3.89",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>Camp Four is located about 9 miles north of Buhl, within the Superior National Forest.  The lake is relatively small, about 15 acres, with a max depth of 31 feet, and a shoreline length about 0.7 miles.  There are two U.S. Forest Service carry-in accesses on the lake.  Camp Four has been managed for stream trout since being reclaimed in 1954, with almost annual stocking of rainbow trout.  Annual stocking, alternating between rainbow trout fingerlings and brook trout yearlings, has occurred since 1997.  The lake management plan's long range goals consisted of a rainbow trout fall catch of 0.5/ trap net with two year classes present and a brook trout fall catch of 0.5/trap net with75% exceeding 12 inches. <br> \n <br> \nThe fall 2010 population assessment sampled six northern pike in three gill nets for the first time.  A late winter DO check (3/29/2011) suggested a possible winterkill situation, desirably eliminating pike, which is conducive to stream trout management.  Intensive, ice-out spring netting, intending to remove any remaining pike prior to spawning, sampled six northern pike with gill nets in the first check (two day set).  The next two checks, both four day sets, failed to catch any fish.  The presence of northern pike during this sampling demonstrates the resilience pike have to low oxygen conditions.  Six standard gill nets, two 100'X3'X2\" (tullibee net), and one 100'X3'X1.5\" (small tullibee net) were used in the spring.  Catch rates are not comparable due to gear types, locations of net sets, and duration of sets.  Lengths ranged from 14.2 to 31.7 inches with a mean length of 25 inches.  Age analysis identified ages 2-4 present and it is unknown if these fish originated from a successful spawn or illegally stocked.  Back-calculated length-at-age determined growth was excellent, exceeding the statewide average for all ages.  The observed fast growth is likely a function of quality prey availability (stream trout), limited competition, and low population density, all of which is unsustainable.  Sexual maturity was determined to be two male mature, one green female, one ripe female, and two spent females.  The variability of female maturity in the sample indicates the assessment timing was during the northern pike spawn suggesting some potentially successful spawning prior to netting. <br> \n <br> \nAnother sampling period occurred in September, setting five standard gill nets and eight 1/8\" single frame trap nets (two day set).  No fish were sampled in gill nets suggesting the intensive spring netting depleted the pike population to a very low number, although it is unlikely netting alone can extirpate northern pike.  No pike were sampled in trap nets.  Fingerling northern pike tend to demonstrate a vulnerability to fall trap netting suggesting natural reproduction may be limited.  Minnows were sampled in every trap net with some nets having a relatively large catch.   A large catch of minnows may be in response to a lack of predators in the system.  While not directly comparable, past assessments using 1/2\" single frame nets sampled multiple species of minnows whereas the 2010 assessment failed to sample any minnows in the gear.  It is possible the intensive netting has depleted northern pike numbers enough to continue stream trout management at this time. <br> \n</p>",
+                "headerInfo": [
+                    "Camp A",
+                    "Camp Four",
+                    "69078800",
+                    "2011-05-04",
+                    "4141112452371000",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2011-05-04",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                25,
+                                1
+                            ],
+                            [
+                                28,
+                                1
+                            ],
+                            [
+                                29,
+                                1
+                            ],
+                            [
+                                31,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 31
+                    }
+                }
+            },
+            {
+                "surveyID": "106500",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "IOD",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 644.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.42",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.05",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 38.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.05",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2775.0,
+                        "gearCount": 38.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "3.06",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.08",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 38.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/2-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>A population assessment consisting of 4 overnight gill nets and 38 overnight trap nets caught a 14 inch brook trout and two  rainbow trout (15 and 20 inches).  An expected catch of trout would be 0.5/trap net or 19 fish.  This low catch is likely the result of poor water quality or excessive fishing pressure.  Camp 4 is known to get quite warm in the summer which might result in reduced summer survival of stocked trout.  In addition, brook trout and rainbow trout are both easily harvested by anglers which can result in overharvest.  Yearling brook trout were stocked for the first time in recent years in the spring of 1998 and were about 7-9 inches long.  Many could have been harvested through two summer seasons and one winter season by the time the netting was conducted in the fall of 1999.</p>",
+                "headerInfo": [
+                    "Camp A",
+                    "Camp Four",
+                    "69078800",
+                    "1999-10-18",
+                    "106500",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1999-10-18",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 20
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 14
+                    }
+                }
+            },
+            {
+                "surveyID": "106550",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "0.6-6.3",
+                        "totalWeight": 1.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "38.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 9.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "SUN",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 153
+                    },
+                    {
+                        "CPUE": "64.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 86.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLH",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 258
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "3.00",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>None.</p>",
+                "headerInfo": [
+                    "Camp A",
+                    "Camp Four",
+                    "69078800",
+                    "1954-08-19",
+                    "106550",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1954-08-19",
+                "lengths": {}
+            },
+            {
+                "surveyID": "4231010933978017",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "2.0-8.5",
+                        "totalWeight": 12919.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.75",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 300.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "1.6-8.4",
+                        "totalWeight": 1610.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.55",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "19.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 79
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Camp Four is located about 9 miles north of Buhl, within the Superior National Forest.  The lake is relatively small, about 15 acres, with a max depth of 31 feet, and a shoreline length about 0.7 miles.  There are two U.S. Forest Service carry-in accesses on the lake.  Camp Four has been managed for stream trout since being reclaimed in 1954, with almost annual stocking of rainbow trout.  Annual stocking, alternating between rainbow trout fingerlings and brook trout yearlings, has occurred since 1997.  The lake management plans long rang goals consisted of a rainbow trout fall catch of 0.5/ trap net with two year classes present and a brook trout fall catch of 0.5/trap net with75% exceeding 12 inches. <br> \n <br> \nStandard fall sampling catch rates have typically been low, but 0.5 inch trap nets failed to sample any fish in this assessment, falling short of all the lake management plan goals.  Two brook trout were sampled in three gill nets at a rate of 0.7/ net and a mean weight of 0.33lbs.  The lengths were 9.3 and 10.2 inches.  The length frequency suggests these fish originated from the 2010 spring stocking.  The mean weight at the time of stocking was 0.14 lbs suggesting relatively good growth, however this should be viewed cautiously.  This was the first time Minnesota Wild strain was stocked and it has unknown performance in Camp Four.  Also, the individual sizes at the time of stocking tended to be highly variable and the mean weight likely does not accurately represent any one individual. <br> \n <br> \nThis was the first assessment to sample northern pike, at a rate of 2.0/gill net, at the lake class first quartile.  Lengths were relatively similar, from 24.1 to 29.3 inches with a mean length of 25.9 inches.  Scale and bone analysis of four fish identified only age-2 present.  Growth was difficult to interpret, but suggests age 1 was similar to the statewide average and age 2 exceeded the statewide average.  It is likely accelerated growth near age-2 was a function of recruitment to a size capable of preying upon stocked trout. <br> \n <br> \nRelatively low catch rates, typical of most assessments, may be a function of marginal stream trout habitat available.   Habitat requirements for brook trout include a minimum of 5 ppm dissolved oxygen (DO), water temperatures below 65 degree (F), and at least five vertical feet of separation between the two while rainbow trout are slightly more temperature tolerant (70 F).  A temp/DO profile conducted in September 2010 indicated the top of the thermocline started between twelve and thirteen feet.  Suitable DO was found between the surface and 11 feet.  Oddly, water temperature was suitable from the surface to the bottom, never exceeding 60 F.  The atypical cool surface water temperature was a function of below average temperatures during September and likely does not accurately reflect seasonal vertical separation.  Past assessments have documented seasonal stress periods related to unsuitable habitat (late winter and late summer). <br> \n <br> \nWhite sucker was the only other species sampled in gill nets, 0.3/net (n=1).  Minnow traps sampled brook stickleback and northern redbelly dace, similar to previous assessments. <br> \n</p>",
+                "headerInfo": [
+                    "Camp A",
+                    "Camp Four",
+                    "69078800",
+                    "2010-10-11",
+                    "4231010933978017",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2010-10-11",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                24,
+                                3
+                            ],
+                            [
+                                26,
+                                1
+                            ],
+                            [
+                                27,
+                                1
+                            ],
+                            [
+                                29,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 24,
+                        "maximum_length": 29
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                21,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 21,
+                        "maximum_length": 21
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 10
+                    }
+                }
+            },
+            {
+                "surveyID": "4661123853227000",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Camp Four is located about 9 miles north of Buhl, within the Superior National Forest.  The lake is relatively small, about 15 acres, with a max depth of 31 feet, and a shoreline length about 0.7 miles.  There are two U.S. Forest Service carry-in accesses on the lake.  Camp Four has been managed for stream trout since being reclaimed in 1954, with almost annual stocking of rainbow trout.  Annual stocking, alternating between rainbow trout fingerlings and brook trout yearlings, has occurred since 1997.  The lake management plan's long range goals consisted of a rainbow trout fall catch of 0.5/ trap net with two year classes present and a brook trout fall catch of 0.5/trap net with75% exceeding 12 inches. <br> \n <br> \nThe fall 2010 population assessment sampled six northern pike in three gill nets for the first time.  A late winter DO check (3/29/2011) suggested a possible winterkill situation, desirably eliminating pike, which is conducive to stream trout management.  Intensive, ice-out spring netting, intending to remove any remaining pike prior to spawning, sampled six northern pike with gill nets in the first check (two day set).  The next two checks, both four day sets, failed to catch any fish.  The presence of northern pike during this sampling demonstrates the resilience pike have to low oxygen conditions.  Six standard gill nets, two 100'X3'X2\" (tullibee net), and one 100'X3'X1.5\" (small tullibee net) were used in the spring.  Catch rates are not comparable due to gear types, locations of net sets, and duration of sets.  Lengths ranged from 14.2 to 31.7 inches with a mean length of 25 inches.  Age analysis identified ages 2-4 present and it is unknown if these fish originated from a successful spawn or illegally stocked.  Back-calculated length-at-age determined growth was excellent, exceeding the statewide average for all ages.  The observed fast growth is likely a function of quality prey availability (stream trout), limited competition, and low population density, all of which is unsustainable.  Sexual maturity was determined to be two male mature, one green female, one ripe female, and two spent females.  The variability of female maturity in the sample indicates the assessment timing was during the northern pike spawn suggesting some potentially successful spawning prior to netting. <br> \n <br> \nAnother sampling period occurred in September, setting five standard gill nets and eight 1/8\" single frame trap nets (two day set).  No fish were sampled in gill nets suggesting the intensive spring netting depleted the pike population to a very low number, although it is unlikely netting alone can extirpate northern pike.  No pike were sampled in trap nets.  Fingerling northern pike tend to demonstrate a vulnerability to fall trap netting suggesting natural reproduction may be limited.  Minnows were sampled in every trap net with some nets having a relatively large catch.   A large catch of minnows may be in response to a lack of predators in the system.  While not directly comparable, past assessments using 1/2\" single frame nets sampled multiple species of minnows whereas the 2010 assessment failed to sample any minnows in the gear.  It is possible the intensive netting has depleted northern pike numbers enough to continue stream trout management at this time. <br> \n</p>",
+                "headerInfo": [
+                    "Camp A",
+                    "Camp Four",
+                    "69078800",
+                    "2011-09-06",
+                    "4661123853227000",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2011-09-06",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

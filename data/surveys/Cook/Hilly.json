@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737650651,
+    "result": {
+        "lakeName": "Hilly",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.27,
+        "DOWNumber": 16037700,
+        "waterClarity": [
+            [
+                "09/11/1974",
+                "7"
+            ]
+        ],
+        "averageWaterClarity": "7.0",
+        "littoralAcres": 0.0,
+        "areaAcres": 27.1,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 23.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 0.4 mile blazed trail North through woods from Kinogami Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109726",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "2.0-8.5",
+                        "totalWeight": 15.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.41",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Hilly Lake was found to contain a fair population of N Pike.  No other species were taken or seen.</p>",
+                "headerInfo": [
+                    "Hilly",
+                    null,
+                    "16037700",
+                    "1974-09-11",
+                    "109726",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1974-09-11",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

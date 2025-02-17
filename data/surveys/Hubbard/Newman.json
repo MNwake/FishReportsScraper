@@ -1,0 +1,1713 @@
+{
+    "timestamp": 1737656805,
+    "result": {
+        "lakeName": "Newman",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.18,
+        "DOWNumber": 29023700,
+        "waterClarity": [
+            [
+                "06/01/2015",
+                "10"
+            ],
+            [
+                "06/03/2021",
+                "15"
+            ],
+            [
+                "05/31/2016",
+                "16.5"
+            ],
+            [
+                "05/29/2008",
+                "23"
+            ],
+            [
+                "05/28/2013",
+                "8"
+            ],
+            [
+                "05/30/2017",
+                "19"
+            ]
+        ],
+        "averageWaterClarity": "15.3",
+        "littoralAcres": 13.0,
+        "areaAcres": 45.41,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 63.0,
+        "officeCode": "F117",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "A small trail on the east side of the lake provides additional access.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "104015",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "11.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4822.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.48",
+                        "totalCatch": 22
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 496.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.36",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Newman Lake is a 63 acre cold-water lake located in northern Hubbard County.  Newman Lake is a designated trout lake and is stocked with fingerling rainbow trout every fall.  Newman Lake is open to fishing during the summer trout season only.  No winter-time angling is allowed.  The entire lake is surrounded by county tax-forfeited land with no development on the lake.Rainbow trout were sampled in moderate numbers: 11.0/gillnet and 0.3/trapnet.  The previous survey in 1989 had a similar catch (13.5/gillnet), while the catches were lower in 1986 (2.0/gillnet) and 1984 (0.8/gillnet).  Sampled rainbow trout were an acceptable size for anglers, with an average length of 10.6 inches and average weight of 0.5 lbs.  Rainbow trout ranged in length from 8.1 to 16.7 inches.  With the exception of a 13.6 and 16.7 inch \"carry-over\" fish, all sampled rainbow trout were from the previous fall stocking of fingerling rainbow trout.  </p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "1995-07-05",
+                    "104015",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1995-07-05",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                14
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                8,
+                                3
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 16
+                    }
+                }
+            },
+            {
+                "surveyID": "103872",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "13.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 28.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.04",
+                        "totalCatch": 27
+                    },
+                    {
+                        "CPUE": "3.40",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11.4,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.67",
+                        "totalCatch": 17
+                    }
+                ],
+                "narrative": "<p>The rainbow trout population appears to be good.  Netting results show good representation of several year classes with some good sized fish available to fishermen.  Newman Lake was rehabilitated in November, 1984.</p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "1989-06-12",
+                    "103872",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1989-06-12",
+                "lengths": {}
+            },
+            {
+                "surveyID": "104042",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "2.8-8.7",
+                        "totalWeight": 21.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.5-2.9",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.69",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "0.5-2.0",
+                        "totalWeight": 0.7,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.23",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.5-2.9",
+                        "totalWeight": 4.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.5,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "0.5-3.3",
+                        "totalWeight": 2.1,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.3-0.5",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.70",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "6.60",
+                        "quartileCount": "0.5-2.8",
+                        "totalWeight": 6.2,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 33
+                    }
+                ],
+                "narrative": "<p>An area of 39.4 acres is covered by the hardwaters of Newman Lake.  Approximately 34 percent of the lake or 13.3 acres is shallower than 15 feet.  The maximum depth is 63 feet and the median depth is 25 feet.  In the more shallow water the lake bed soils were observed to be about 80 percent sand and 20  percent marl.  Bulrush forms a good border around all but a small percentage of the lake shore.  A moderate to good growth of submerged aquatic plants (mainly muskgrass and variable pondweed) is also present.  There is no inlet or outlet to the lake.  A secchi disc could be seen to a depth of 10.7 feet in the clear, bluish-green tinted waters.  There is a low swampy and brushy area a short distance from the northeast lake corner.  The northeast and southwest lake corners have low profiles for a short distance.Newman Lake lies entirely within the Paul Bunyan State Forest.  An unmaimtained road or trail borders the north lake shore.  The public uses an undeveloped access on the north shore.  No cabins or lake homes are present but one boat was left at the access.  Fishing pressure is said to be very light.Lake survey test nets caught northern pike and rock bass in numbers which are above respective regional medians.  Black crappie, yellow perch, and white sucker populations are indicated to be low.  No other fish species were observed.Fish Stocking and/or removal:There are no records of fish stocking, however, it is said that sometime in the past northern pike were released in the lake.Before the lake can be stocked with stream trout (rainbow) the waters must be reclaimed through the use of a fish toxicant.  After the lake is detoxified then rainbow trout can be stocked at a rate in keeping with fishing pressure and trout habitat.Special Regulations:Newman Lake, after it has been reclaimed and stocked with trout, will be restricted to fishing only during the regularly designated trout season.Notes by Fisheries Biologist:During the lake survey, Newman Lake possessed a narrow band of water (10 to 11 feet thick) that had desirable temperatures and oxygen for stream trout.  It is believed that the lake may possess qualities of a reclaimed trout lake that range from fair to good.  It certaintly is worth the effort to try and provide a little diversified fishing for people of the area.  Improvement of the existing access on the lake is desirable.</p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "1963-07-24",
+                    "104042",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1963-07-24",
+                "lengths": {}
+            },
+            {
+                "surveyID": "5011414047625004",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1464.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.27",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "4.40",
+                        "quartileCount": "0.2-1.5",
+                        "totalWeight": 664.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 22
+                    },
+                    {
+                        "CPUE": "13.60",
+                        "quartileCount": "0.3-0.7",
+                        "totalWeight": 10611.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.3-3.0",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.34",
+                        "totalCatch": 68
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "0.5-2.9",
+                        "totalWeight": 3451.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.69",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Newman Lake has a surface area of 45 acres, a shoreline length of 1.18 miles, and a maximum depth of 63 feet.  A county owned public access is located on the west shore of the lake.  Newman Lake is one of three lakes in the Park Rapids Management Area that is designated as a stream-trout lake, specifically managed for Rainbow Trout only, and is stocked each fall with Rainbow Trout.  The other two lakes are Blacksmith and Crappie Lakes.     <br> \n <br> \nAbundance of Rainbow Trout in 2014 was down compared to the 2013 finding.  Fish from the 2013 stocking were 6 to 6.9 inches, and fish from the 2012 stocking ranged from 10.5 to 12.9 inches.</p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "2014-06-03",
+                    "5011414047625004",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2014-06-03",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                6,
+                                7
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 12
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                4
+                            ],
+                            [
+                                5,
+                                14
+                            ],
+                            [
+                                6,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 6
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                16
+                            ],
+                            [
+                                14,
+                                6
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                32
+                            ],
+                            [
+                                7,
+                                8
+                            ],
+                            [
+                                8,
+                                3
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "11981515230475000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "18.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5281.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.31",
+                        "totalCatch": 37
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.2-1.5",
+                        "totalWeight": 130.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "0.3-0.7",
+                        "totalWeight": 5754.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.3-3.0",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.42",
+                        "totalCatch": 30
+                    },
+                    {
+                        "CPUE": "6.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4749.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.31",
+                        "totalCatch": 34
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "0.5-2.9",
+                        "totalWeight": 7340.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.90",
+                        "totalCatch": 18
+                    }
+                ],
+                "narrative": "<p>Newman Lake is located seven miles southwest of Bemidji in northern Hubbard County.  Newman Lake has a surface area of 45 acres, a shoreline length of 1.18 miles, and a maximum depth of 63 feet.  A county owned public access is located on the west shore of the lake.  Newman Lake is one of three lakes in the Park Rapids Management Area  designated as a stream trout lake, specifically managed for Rainbow Trout, and is stocked each fall with Rainbow Trout fingerlings.  The other two lakes are Blacksmith and Crappie Lakes.     <br> \n <br> \nAbundance of Rainbow Trout in 2015 was the highest ever recorded for Newman Lake.  All fish captured were from the 2014 stocking.  Currently, two different strains of Rainbow Trout are being evaluated in Newman Lake and the DNR would information about your catch (i.e., size and presence of adipose fin).  There is a sign with additional information at the public access. <br> \n</p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "2015-06-01",
+                    "11981515230475000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2015-06-01",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                41
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                26
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 11
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                5,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                13,
+                                9
+                            ],
+                            [
+                                14,
+                                9
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                7,
+                                9
+                            ],
+                            [
+                                8,
+                                6
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 16
+                    }
+                }
+            },
+            {
+                "surveyID": "17822114437635000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "44.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11336.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.28",
+                        "totalCatch": 89
+                    },
+                    {
+                        "CPUE": "5.75",
+                        "quartileCount": "0.3-0.7",
+                        "totalWeight": 2714.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.3-3.0",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3977.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 36
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "0.5-2.9",
+                        "totalWeight": 1991.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.88",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "8.75",
+                        "quartileCount": "0.3-2.8",
+                        "totalWeight": 1053.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 35
+                    }
+                ],
+                "narrative": "<p>Newman Lake is located seven miles southwest of Bemidji in northern Hubbard County.  Newman Lake has a surface area of 45 acres, shoreline length of 1.18 miles, and maximum depth of 63 feet.  A county owned public access is located on the west shore of the lake.  Newman Lake is one of three lakes in the Park Rapids Management Area designated as a stream-trout lake, specifically managed for Rainbow Trout, and stocked each fall with Rainbow Trout fingerlings.  The other two lakes are Blacksmith and Crappie Lakes.     <br> \n <br> \nAbundance of Rainbow Trout in 2021 was the highest ever recorded for Newman Lake.  All fish captured were from the 2020 stocking.</p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "2021-06-01",
+                    "17822114437635000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2021-06-01",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                5
+                            ],
+                            [
+                                8,
+                                7
+                            ],
+                            [
+                                9,
+                                7
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 17
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                33
+                            ],
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                12
+                            ],
+                            [
+                                9,
+                                73
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 11
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                21
+                            ],
+                            [
+                                5,
+                                11
+                            ],
+                            [
+                                6,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 6
+                    }
+                }
+            },
+            {
+                "surveyID": "103806",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.75",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.1,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.46",
+                        "totalCatch": 9
+                    }
+                ],
+                "narrative": "<p>The trout population appears to be good.  Reports of good fishing from the public have come to our attention.  Lake rehabilitated in November, 1984.</p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "1986-06-17",
+                    "103806",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-06-17",
+                "lengths": {}
+            },
+            {
+                "surveyID": "104154",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "10.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5615.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.40",
+                        "totalCatch": 31
+                    },
+                    {
+                        "CPUE": "1.22",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1548.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.31",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.5-2.9",
+                        "totalWeight": 885.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.95",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Newman Lake is a 39 acre cold-water lake located in northern Hubbard County.  Newman Lake is a designated trout lake and is stocked with fingerling rainbow trout every fall.  Newman Lake is open to fishing during the summer trout season only.  No winter-time angling is allowed.  Newman Lake is a very popular lake and for this area receives moderate to heavy fishing pressure by both bank and boat anglers.  There is no development on the lake and the entire shoreline is surrounded by county tax forfeited land.  Newman Lake has exceptional water clarity.Rainbow trout were sampled in moderate numbers (15.5/gillnet), similar to the surveys in 1989 and 1995.  Rainbow trout gillnet catch rates were lower in 1986 (2.0/net) and 1984 (0.8/net).  Rainbow trout averaged 10.1 inches with the largest fish measuring 15.7 inches.  With the exception of the 15.7 inch \"carry-over\" trout, all rainbow trout sampled were from the previous fall stocking of fingerling trout.  Anglers reported catching many 10\" trout with an occasional 18\" fish during the 1998 fishing season.  There was a report of a 26\" rainbow trout caught.</p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "1998-06-01",
+                    "104154",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1998-06-01",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 16
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                17
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                8,
+                                3
+                            ],
+                            [
+                                9,
+                                14
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "11981614456521000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "29.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 8655.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.32",
+                        "totalCatch": 59
+                    },
+                    {
+                        "CPUE": "3.20",
+                        "quartileCount": "0.2-1.5",
+                        "totalWeight": 379.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "22.40",
+                        "quartileCount": "0.3-0.7",
+                        "totalWeight": 15801.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.3-3.0",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.31",
+                        "totalCatch": 112
+                    },
+                    {
+                        "CPUE": "32.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 21541.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.29",
+                        "totalCatch": 163
+                    },
+                    {
+                        "CPUE": "11.50",
+                        "quartileCount": "0.5-2.9",
+                        "totalWeight": 6831.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.65",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "0.3-2.8",
+                        "totalWeight": 83.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Newman Lake is located seven miles southwest of Bemidji in northern Hubbard County.  Newman Lake has a surface area of 45 acres, a shoreline length of 1.18 miles, and a maximum depth of 63 feet.  A county owned public access is located on the west shore of the lake.  Newman Lake is one of three lakes in the Park Rapids Management Area  designated as a stream-trout lake, specifically managed for Rainbow Trout, and stocked each fall with Rainbow Trout fingerlings.  The other two lakes are Blacksmith and Crappie Lakes.     <br> \n <br> \nAbundance of Rainbow Trout in 2016 was the highest ever recorded for Newman Lake.  About 94% of the fish captured were from the 2015 stocking and the remaining 6% were from the 2014 stocking.  Currently, two different strains of Rainbow Trout are being evaluated in Newman Lake and the DNR would information about your catch (i.e., size and presence of adipose fin).  There is a sign with additional information at the public access.</p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "2016-05-31",
+                    "11981614456521000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2016-05-31",
+                "lengths": {
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 4
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                63
+                            ],
+                            [
+                                11,
+                                5
+                            ],
+                            [
+                                12,
+                                8
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                4
+                            ],
+                            [
+                                8,
+                                11
+                            ],
+                            [
+                                9,
+                                129
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 13
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                5
+                            ],
+                            [
+                                5,
+                                11
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                5
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                12,
+                                5
+                            ],
+                            [
+                                13,
+                                15
+                            ],
+                            [
+                                14,
+                                8
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                24
+                            ],
+                            [
+                                7,
+                                36
+                            ],
+                            [
+                                8,
+                                25
+                            ],
+                            [
+                                9,
+                                11
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "104324",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "11.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5983.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.57",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "1.78",
+                        "quartileCount": "0.2-1.5",
+                        "totalWeight": 492.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "0.22",
+                        "quartileCount": "0.3-0.7",
+                        "totalWeight": 2158.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.3-3.0",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.38",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6126.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 36
+                    }
+                ],
+                "narrative": "<p>Newman Lake is a 39 acre cold-water lake located in northern Hubbard County.  Newman Lake is a designated trout lake and is stocked with fingerling (5-6 inch) rainbow trout every fall.  Newman Lake is open to fishing during the summer trout season only.  No wintertime angling is allowed.  Newman Lake is a very popular lake and for this area receives moderate to heavy fishing pressure by both bank and boat anglers.  There is no development on the lake and the entire shoreline is surrounded by county tax forfeited land.  Newman Lake has exceptional water clarity.Good numbers of rainbow trout were sampled (11.5 trout/gillnet), similar to past surveys.  Anglers will find rainbow trout in the 9-10 inch size range are common with an occasional 12 - 16 inch trout.  Anglers have reported catching a few rainbow trout over 20 inches in past years.</p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "2003-06-02",
+                    "104324",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2003-06-02",
+                "lengths": {
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                14
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                11
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                4
+                            ],
+                            [
+                                9,
+                                37
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 15
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 18
+                    }
+                }
+            },
+            {
+                "surveyID": "1730815125519000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1277.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.56",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "68.40",
+                        "quartileCount": "0.2-1.5",
+                        "totalWeight": 7561.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 342
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "0.2-0.8",
+                        "totalWeight": 79.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 991.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.73",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Newman Lake is a 39 acre cold-water lake located in northern Hubbard County.  Newman Lake is a designated trout lake and is stocked with fingerling (5-6 inch) rainbow trout every fall.  Newman Lake is open to fishing during the summer season only.  No wintertime angling is allowed.  Newman Lake is a very popular lake and for this area receives moderate to heavy fishing pressure by both bank and boat anglers.  There is no development on the lake and the entire shoreline is surrounded by county tax forfeited land.  There is an undeveloped boat access with an earthen ramp located on the west shore.  Newman Lake has exceptional water clarity. <br> \n <br> \nRainbow trout abundance (1.6 trout/gillnet) was down considerably from past surveys and well below the current management goal of 12 trout/gillnet.  Rainbow trout gillnet catch rates in past surveys have been much higher, generally near the management goal of 12 trout/gillnet.  Sampled rainbow trout ranged in length from 8.6 to 15.4 inches.  Anglers have reported catching an occasional trout over 20 inches in past years.  A disappointing finding in the 2008 survey was an abundant population of golden shiner (68 golden shiner/trapnet).  Newman Lake was reclaimed in 1984, and since that time only rainbow trout and an occasional white sucker have been sampled in the lake.  Golden shiner were first reported in the 2003 survey in low numbers.  Competition between golden shiner and rainbow trout for food items such as zooplankton and invertebrates could be limiting the survival of small fingerling trout. <br> \n <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "2008-05-29",
+                    "1730815125519000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2008-05-29",
+                "lengths": {
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                34
+                            ],
+                            [
+                                6,
+                                14
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "5011314233987000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "14.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3205.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 42
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.2-1.5",
+                        "totalWeight": 138.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "18.00",
+                        "quartileCount": "0.3-0.7",
+                        "totalWeight": 29613.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.3-3.0",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.73",
+                        "totalCatch": 90
+                    },
+                    {
+                        "CPUE": "13.40",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5988.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 67
+                    },
+                    {
+                        "CPUE": "4.67",
+                        "quartileCount": "0.5-2.9",
+                        "totalWeight": 6941.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.09",
+                        "totalCatch": 14
+                    }
+                ],
+                "narrative": "<p>Newman Lake has a surface area of 45 acres, a shoreline length of 1.18 miles, and a maximum depth of 63 feet.  A county owned public access is located on the west shore of the lake.  Newman Lake is one of three lakes in the Park Rapids Management Area that is designated as a stream-trout lake, specifically managed for rainbow trout only, and is stocked each fall with rainbow trout.  The other two lakes are Blacksmith and Crappie Lakes.     <br> \n <br> \nAbundance of rainbow trout in 2013 was good and similar to most previous samples.  Fish from the 2012 stocking were 6.5 to 9 inches, and fish from the 2011 and 2010 stockings ranged from 11 to 14 inches.</p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "2013-05-28",
+                    "5011314233987000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2013-05-28",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                4
+                            ],
+                            [
+                                11,
+                                5
+                            ],
+                            [
+                                12,
+                                19
+                            ],
+                            [
+                                13,
+                                48
+                            ],
+                            [
+                                14,
+                                19
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 18
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                46
+                            ],
+                            [
+                                8,
+                                53
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 13
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    }
+                }
+            },
+            {
+                "surveyID": "11981714230756014",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "22.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6259.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.31",
+                        "totalCatch": 45
+                    },
+                    {
+                        "CPUE": "21.60",
+                        "quartileCount": "0.3-0.7",
+                        "totalWeight": 11383.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.3-3.0",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.23",
+                        "totalCatch": 108
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.5-11.0",
+                        "totalWeight": 69.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.6",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "9.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6966.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 46
+                    },
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "0.5-2.9",
+                        "totalWeight": 1174.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.37",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "5.20",
+                        "quartileCount": "0.3-2.8",
+                        "totalWeight": 1661.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 26
+                    }
+                ],
+                "narrative": "<p>Newman Lake is located seven miles southwest of Bemidji in northern Hubbard County.  Newman Lake has a surface area of 45 acres, a shoreline length of 1.18 miles, and a maximum depth of 63 feet.  A county owned public access is located on the west shore of the lake.  Newman Lake is one of three lakes in the Park Rapids Fisheries Management Area designated as a stream trout lake and stocked each fall with Rainbow Trout fingerlings.  The other two lakes are Blacksmith and Crappie Lakes.     <br> \n <br> \nAbundance of Rainbow Trout in 2017 was the third highest ever recorded for Newman Lake.  About 86% of the fish captured were from the 2016 stocking and the remaining 14% were from the 2014 and 2015 stockings.  Rainbow Trout from the 2016 stockings ranged from 7.5 to 10.5 inches and Rainbow Trout from 2014 and 2015 stockings ranged from 10.5 to 12 inches. Ninety-seven percent of the sampled Rainbow Trout were Kamloops strain.  Based on results of higher survival of Kamloops strain than Arlee strain, all Rainbow Trout stocking in Newman Lake will be Kamloops strain starting in 2017.</p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "2017-05-30",
+                    "11981714230756014",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2017-05-30",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                30
+                            ],
+                            [
+                                11,
+                                7
+                            ],
+                            [
+                                12,
+                                5
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                7,
+                                4
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                42
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 14
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                4,
+                                9
+                            ],
+                            [
+                                5,
+                                11
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 10
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                8
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                6
+                            ],
+                            [
+                                7,
+                                27
+                            ],
+                            [
+                                8,
+                                40
+                            ],
+                            [
+                                9,
+                                26
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 14
+                    }
+                }
+            },
+            {
+                "surveyID": "104041",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "8.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 10.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.59",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.8,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.36",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Newman Lake is in lake class 28 of Schupp's Lake Classification System, however, Newman is a designated stream trout lake.  Two rainbow trout sampled were > 17 inches; the remainder fell within the range of 8.5 to 10.9 inches.  Trout up to 21 inches have been caught by fishermen.  Mean weight of trout caught in the gillnets was 0.59 pounds.  Mean gillnet catch was 8.50 fish/net.  These numbers are down from 1989, when mean number per net was 13.50 and mean weight was 1.04 pounds.  Sticklebacks were the only fish species other than rainbow trout observed in Newman Lake in 1992.</p>",
+                "headerInfo": [
+                    "Newman",
+                    "Putman",
+                    "29023700",
+                    "1992-06-08",
+                    "104041",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1992-06-08",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Hubbard"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

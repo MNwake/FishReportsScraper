@@ -1,0 +1,425 @@
+{
+    "timestamp": 1737653948,
+    "result": {
+        "lakeName": "Prairie Ponds",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.11,
+        "DOWNumber": 19045700,
+        "waterClarity": [
+            [
+                "06/04/2009",
+                "4.8"
+            ],
+            [
+                "06/02/2014",
+                "7"
+            ]
+        ],
+        "averageWaterClarity": "5.9",
+        "littoralAcres": 11.24,
+        "areaAcres": 12.35,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 12.0,
+        "officeCode": "F313",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "440915254506000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "0.4-3.5",
+                        "totalWeight": 81.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.2-2.2",
+                        "totalWeight": 728.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.0-2.0",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.60",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "37.20",
+                        "quartileCount": "2.8-43.3",
+                        "totalWeight": 5033.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 186
+                    },
+                    {
+                        "CPUE": "0.40",
+                        "quartileCount": "0.2-1.1",
+                        "totalWeight": 1490.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.3-1.0",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.64",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 506.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "HSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "22.20",
+                        "quartileCount": "1.3-27.7",
+                        "totalWeight": 4757.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 111
+                    }
+                ],
+                "narrative": "<p>Prairieview pond is a small shallow lake located in a Farmington city park.  Maximum depth is 12 feet.  Despite being shallow, it does not regularly winterkill.  Bluegill and black crappie were stocked in 2005 and 2006.  Current abundance is moderate to high for both species, but size is small. Bluegill averge size was under 5 inches and crappie average was under 6 inches. Laremouth bass are also present and abundance appears to be moderate, with some nize-sized fish.  A 17 inch largemouth bass was sampled during this assessment.  Yellow perch, hybrid sunfish, and white sucker were also sampled in low numbers.</p>",
+                "headerInfo": [
+                    "Prairie Ponds",
+                    null,
+                    "19045700",
+                    "2009-06-04",
+                    "440915254506000",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "2009-06-04",
+                "lengths": {
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                8
+                            ],
+                            [
+                                5,
+                                46
+                            ],
+                            [
+                                6,
+                                50
+                            ],
+                            [
+                                7,
+                                7
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 7
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 17
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 16
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "HSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                42
+                            ],
+                            [
+                                4,
+                                96
+                            ],
+                            [
+                                5,
+                                36
+                            ],
+                            [
+                                6,
+                                13
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 6
+                    }
+                }
+            },
+            {
+                "surveyID": "10471409848340000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.80",
+                        "quartileCount": "0.4-3.5",
+                        "totalWeight": 170.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "1.60",
+                        "quartileCount": "0.4-3.8",
+                        "totalWeight": 1345.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.37",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.8-9.3",
+                        "totalWeight": 75.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "31.00",
+                        "quartileCount": "2.8-43.3",
+                        "totalWeight": 5367.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 155
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 736.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "HSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "2.20",
+                        "quartileCount": "1.3-27.7",
+                        "totalWeight": 593.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Prairieview pond is a small shallow lake located in a Farmington city park.  Maximum depth is 12 feet.  Despite being shallow, it does not regularly winterkill.  Bluegill and Black Crappie were stocked in 2005 and 2006 and adult Bluegill only in 2014.  Current abundance is moderate to high for both species, but size is small. Bluegill average size was less than 5 inches and Black Crappie average was less than 7 inches. Green Sunfish are also present and abundance is average, however some nice-sized fish are available.  Yellow Perch and Hybrid Sunfish were also sampled in low numbers and small size.</p>",
+                "headerInfo": [
+                    "Prairie Ponds",
+                    null,
+                    "19045700",
+                    "2014-06-02",
+                    "10471409848340000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2014-06-02",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                36
+                            ],
+                            [
+                                4,
+                                73
+                            ],
+                            [
+                                5,
+                                27
+                            ],
+                            [
+                                6,
+                                13
+                            ],
+                            [
+                                7,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 7
+                    },
+                    "HSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 7
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 9
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                5
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    }
+                }
+            }
+        ],
+        "countyName": "Dakota"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

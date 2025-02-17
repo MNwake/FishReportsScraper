@@ -1,0 +1,108 @@
+{
+    "timestamp": 1737651238,
+    "result": {
+        "lakeName": "One Island",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.4,
+        "DOWNumber": 16029800,
+        "waterClarity": [
+            [
+                "08/31/1977",
+                "8.6"
+            ]
+        ],
+        "averageWaterClarity": "8.6",
+        "littoralAcres": 18.0,
+        "areaAcres": 23.77,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 25.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 0.2 mile portage from logging road on N side of lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109702",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.4-5.2",
+                        "totalWeight": 0.1,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "0.4-2.4",
+                        "totalWeight": 16.8,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.9-2.8",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.80",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "6.50",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 16.4,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.26",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 1.9,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.90",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.07",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>There is a fair population of small N Pike, but Perch and Suckers are scarce for forage.</p>",
+                "headerInfo": [
+                    "One Island",
+                    null,
+                    "16029800",
+                    "1977-09-01",
+                    "109702",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1977-09-01",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

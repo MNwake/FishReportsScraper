@@ -1,0 +1,174 @@
+{
+    "timestamp": 1737652507,
+    "result": {
+        "lakeName": "Command",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.73,
+        "DOWNumber": 18026500,
+        "waterClarity": [
+            [
+                "08/23/2017",
+                "19"
+            ]
+        ],
+        "averageWaterClarity": "19.0",
+        "littoralAcres": 0.0,
+        "areaAcres": 21.44,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 0.0,
+        "officeCode": "F212",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "12021723428295000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 85.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 673.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 653.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.72",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 75.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Open-water angling",
+                        "averageWeight": "0.17",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4100.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Open-water angling",
+                        "averageWeight": "1.00",
+                        "totalCatch": 9
+                    }
+                ],
+                "narrative": "<p>Command is a small, deep lake (21 acres, 48ft+) within the Cuyuna Scout Camp.  Although much of the lakeshore is considered part of an Aquatic Management Area (AMA), it is only accessible for 9 months of the year from September-May.  Anglers are advised to call the Brainerd Area Fisheries office to discuss the details of this particular AMA prior to visiting.  Due to the limited access, two trap nets were walked out and angling was done for 30 minutes to get a snapshot of the fish community.  A total of 9 bluegill, 11 largemouth bass, and 1 pumpkinseed were sampled.  Bluegill ranged in size from 4.5\" to 7.6\" and largemouth bass from 6.7\" to 15.0\".  The pumpkinseed was 6.1\".  There have also been reports of anglers at the camp catching northern pike and black crappie.</p>",
+                "headerInfo": [
+                    "Command",
+                    null,
+                    "18026500",
+                    "2017-08-22",
+                    "12021723428295000",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2017-08-22",
+                "lengths": {
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 15
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 7
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    }
+                }
+            }
+        ],
+        "countyName": "Crow Wing"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

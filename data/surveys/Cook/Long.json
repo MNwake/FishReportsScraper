@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737650947,
+    "result": {
+        "lakeName": "Long",
+        "sampledPlants": [],
+        "shoreLengthMiles": 5.53,
+        "DOWNumber": 16003800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 98.0,
+        "areaAcres": 147.76,
+        "meanDepthFeet": 13.0,
+        "maxDepthFeet": 24.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "A 0.5 mile portage trail from Pine Lake provides access to the lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109587",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "16.75",
+                        "quartileCount": "1.2-3.9",
+                        "totalWeight": 80.2,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.20",
+                        "totalCatch": 67
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.3-0.3",
+                        "totalWeight": 0.1,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "10.25",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 55.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.35",
+                        "totalCatch": 41
+                    }
+                ],
+                "narrative": "<p>There is a high population of N Pike but mostly small fish, also Suckers are abundant.</p>",
+                "headerInfo": [
+                    "Long",
+                    null,
+                    "16003800",
+                    "1972-08-22",
+                    "109587",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-08-22",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

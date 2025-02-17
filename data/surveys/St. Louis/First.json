@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737669594,
+    "result": {
+        "lakeName": "First",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.75,
+        "DOWNumber": 69011900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 15.86,
+        "areaAcres": 15.86,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 30.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Approx. 20 rod portage from Echo Trail on the NE side of lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108105",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "0.3-2.7",
+                        "totalWeight": 27.25,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.7-3.2",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.27",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.3-1.5",
+                        "totalWeight": 1.5,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2-0.6",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.75",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 43.75,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "3.12",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "1.6-6.8",
+                        "totalWeight": 4.75,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.47",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "0.5-2.8",
+                        "totalWeight": 2.25,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 9
+                    }
+                ],
+                "narrative": "<p>This survey shows average populations of Suckers, Crappie, Northern Pike, Laregmouth Bass, and Rock Bass.  Gillnets took no fish-probably due to rapid dropoffs.</p>",
+                "headerInfo": [
+                    "First",
+                    null,
+                    "69011900",
+                    "1980-06-04",
+                    "108105",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1980-06-04",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

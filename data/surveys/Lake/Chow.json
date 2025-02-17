@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737662018,
+    "result": {
+        "lakeName": "Chow",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.34,
+        "DOWNumber": 38077000,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 47.79,
+        "areaAcres": 47.79,
+        "meanDepthFeet": 6.0,
+        "maxDepthFeet": 11.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112209",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.60",
+                        "quartileCount": "0.4-5.2",
+                        "totalWeight": 2.6,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "21.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 54.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.29",
+                        "totalCatch": 42
+                    },
+                    {
+                        "CPUE": "16.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 4.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 2.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7.5,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.50",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Northern Pike catch in gillnets was 5 times the area average. With fish averaging small to moderate in size. Yellow Perch catch in gillnets was 16/lift, indicating a good forage base is available.</p>",
+                "headerInfo": [
+                    "Chow",
+                    "Chuck",
+                    "38077000",
+                    "1985-07-18",
+                    "112209",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1985-07-18",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

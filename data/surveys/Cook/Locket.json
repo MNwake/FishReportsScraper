@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737650930,
+    "result": {
+        "lakeName": "Locket",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.84,
+        "DOWNumber": 16014900,
+        "waterClarity": [
+            [
+                "08/21/1974",
+                "4"
+            ]
+        ],
+        "averageWaterClarity": "4.0",
+        "littoralAcres": 16.93,
+        "areaAcres": 16.93,
+        "meanDepthFeet": 4.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible by hiking 0.4 mi. E through woods from Brule River.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109645",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 7.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.68",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 8.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.42",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>Locket Lake has a good population of Small N Pike and a low population of Suckers.</p>",
+                "headerInfo": [
+                    "Locket",
+                    null,
+                    "16014900",
+                    "1974-08-21",
+                    "109645",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1974-08-21",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,87 @@
+{
+    "timestamp": 1737646767,
+    "result": {
+        "lakeName": "Eagle Lake CFP",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.2,
+        "DOWNumber": 7016100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 1.22,
+        "areaAcres": 1.22,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F417",
+        "accesses": [
+            {
+                "location": "No boat access",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "9911416063541000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "103.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6492.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 309
+                    }
+                ],
+                "narrative": "<p>Introduction <br> \nEagle Lake Children's Fishing Pond (CFP) is a 1 acre pond located in Blue Earth County within the city limits of Eagle Lake. The pond is not large enough for boats, so there is no boat access. Shore fishing is available around the perimeter of the lake, however. Eagle Lake CFP is a small pond with a maximum depth of 5 feet. The pond is managed as an urban fishery to provide an opportunity for anglers, especially children, to catch fish. Urban fisheries like this are great opportunities to introduce children to fishing. Stocking is based on the current fish community, anticipated fishing pressure, and recent fishing reports. Potential fish species to stock that are favorable for small urban ponds include bluegill, black crappie, and yellow perch. Eagle Lake CFP was surveyed the week of June 9, 2014 as part of a regular monitoring program conducted by Minnesota DNR. This survey was intended to assess the fish community by deploying three trap nets. <br> \n <br> \nFish Community <br> \nThe fish community at the time of the 2014 survey consisted exclusively of black bullhead, suggesting that Eagle Lake CFP experienced a winterkill during the harsh winter of 2014. The black bullhead catch rate was 103 fish/net, which is the highest catch rate since 1992 when the catch rate was 269.3 fish/net. Most black bullhead sampled in this survey were small, with lengths ranging from 3.8 to 9.0 inches. Ninety-three percent of all measured fish were less than 6.0 inches in length. Eagle Lake CFP appears to have experienced a winterkill, so fish will likely be stocked in 2015 pending surplus availability and angling pressure.  <br> \n</p>",
+                "headerInfo": [
+                    "Eagle Lake CFP",
+                    null,
+                    "07016100",
+                    "2014-06-09",
+                    "9911416063541000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2014-06-09",
+                "lengths": {
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                26
+                            ],
+                            [
+                                4,
+                                147
+                            ],
+                            [
+                                5,
+                                43
+                            ],
+                            [
+                                6,
+                                9
+                            ],
+                            [
+                                9,
+                                9
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 9
+                    }
+                }
+            }
+        ],
+        "countyName": "Blue Earth"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

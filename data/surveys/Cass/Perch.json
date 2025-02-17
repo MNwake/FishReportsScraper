@@ -1,0 +1,1441 @@
+{
+    "timestamp": 1737536423,
+    "result": {
+        "lakeName": "Perch",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.79,
+        "DOWNumber": 11082600,
+        "waterClarity": [
+            [
+                "09/20/2006",
+                "11"
+            ],
+            [
+                "08/22/2007",
+                "4.9"
+            ],
+            [
+                "08/28/2008",
+                "7.8"
+            ],
+            [
+                "09/17/2008",
+                "5.5"
+            ],
+            [
+                "06/09/2008",
+                "8"
+            ],
+            [
+                "08/21/2014",
+                "6"
+            ],
+            [
+                "04/20/2010",
+                "9"
+            ]
+        ],
+        "averageWaterClarity": "7.5",
+        "littoralAcres": 7.8,
+        "areaAcres": 12.5,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 39.0,
+        "officeCode": "F118",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "104778",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1241.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.39",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Perch Lake is one of four designated stream-trout lakes in the Walker area.  It has had this designation since 1956.  Perch Lake is located in the Foothills State Forest west of Backus.  Other trout lakes in the area are; Willard (located two miles north and two miles east of Backus), Hazel (located three and ? miles west of Longville), and Teepee (located three miles south and one mile west of Whipholt), Lakes.  All trout existing in Perch Lake is the result of stocking.  Prior to 1981, brook trout were stocked in Perch Lake with marginal success.  Since 1981, rainbow trout have been stocked.The 1995 assessment was the result of angler complaints of poor fishing.  A total of seven rainbow trout were captured.  These trout ranged in length from 8.3 to 10.6 inches with an average length and weight of 9.7 inches and 0.4 pound.  All seven trout were determined to be one year-old fish.</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "1995-06-07",
+                    "104778",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1995-06-07",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 10
+                    }
+                }
+            },
+            {
+                "surveyID": "105228",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "45.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 35.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 45
+                    },
+                    {
+                        "CPUE": "12.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5452.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.48",
+                        "totalCatch": 25
+                    },
+                    {
+                        "CPUE": "465.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 358.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 465
+                    },
+                    {
+                        "CPUE": "9649.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7422.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 9649
+                    },
+                    {
+                        "CPUE": "5231.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4024.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 5231
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "83.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 64.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 83
+                    }
+                ],
+                "narrative": "<p>Perch Lake (11-826; Lake Class 20) has a total surface area of 12.8 acres and a shoreline length of 0.9 miles.  There is a public access (carry-in) on the northeast shore of the lake at the end of a forest trail.  Perch Lake is one of five lakes in the Walker Fisheries Management Area stocked annually with stream rainbow trout.  The trout population in Perch Lake depends upon stocking because rainbow trout do not naturally reproduce in this lake.Rainbow trout catch rates increased in 2003 when compared to the 2002 survey.  The catch rate was 12.50 fish per lift and it met the lake management goal of 10 to 20 fish per lift.  Two year-classes of rainbow trout were present.  The mean length was 10 inches, and the length ranged from 9 to 16 inches.  Since 1998, Fisheries personnel have been sampling zooplankton, the tiny animals on which Perch Lake rainbow trout feed.  The quantity of zooplankton available in Perch Lake is relatively low and biologists are currently investigating the annual fluctuation in trout survival by examining the food supply.</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "2003-06-10",
+                    "105228",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2003-06-10",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                8
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                13
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 16
+                    }
+                }
+            },
+            {
+                "surveyID": "1590636329559001",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5117.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.75",
+                        "totalCatch": 15
+                    }
+                ],
+                "narrative": "<p>Perch Lake (11-0826-00 Lake Class 20) has a total surface area of 12.8 acres and a shoreline length of 0.79 miles.  There is a public access (carry-in) on the northeast shore of the lake at the end of a forest trail in the Foot Hill State Forest.  Perch Lake is one of five lakes in the Walker Fisheries Management Area stocked annually with stream rainbow trout.  The trout population in Perch Lake depends upon stocking because rainbow trout do not naturally reproduce in this lake.  The time of stocking has been shifted from fall to spring to see if trout survival rates can be improved so more trout will be available for anglers.  <br> \n <br> \nFifteen rainbow trout were captured in 2006 in DNR sampling nets.  The mean length of rainbow trout captured was 12 inches, and fish up to 15 inches were found.   <br> \n <br> \nSince 1998, Fisheries personnel have been sampling zooplankton, the tiny animals on which Perch Lake rainbow trout feed.  The quantity of zooplankton available in Perch Lake is relatively low and biologists are currently investigating the annual fluctuation in trout survival by examining the food supply.</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "2006-09-20",
+                    "1590636329559001",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2006-09-20",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                9
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 14
+                    }
+                }
+            },
+            {
+                "surveyID": "104757",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.28",
+                        "totalCatch": 18
+                    }
+                ],
+                "narrative": "<p>A TOTAL OF 18 RAINBOW TROUT (9/SET) (2.55 POUNDS/SET) WERE CAUGHT IN THE 1991 SURVEY.  THIRTY-TWO (16/SET) (11.25 POUNDS/SET) WERE CAUGHT IN 1988.LENGTH FREQUENCY DISTRIBUTION IN THE MOST RECENT SURVEY (1991) RANGED FROM 7.5 TO 13 INCHES, SIMILAR TO 1988, WHERE THEY RANGED FROM 5.5 TO 13 INCHES.  GROWTH RATES AT I (5.29\"), II (8\"), AND III (13.14\") FOR THIS 1991 SURVEY ARE GOOD.</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "1991-06-07",
+                    "104757",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1991-06-07",
+                "lengths": {}
+            },
+            {
+                "surveyID": "104974",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Perch Lake is one of five designated stream-trout lakes in the Walker area.  It has had this designation since 1956.  Other trout lakes in the Walker fisheries area are Willard (located two miles east and two miles north of Backus), Teepee (located three miles south and one mile west of Whipholt), Hazel (located 3.5 miles west of Longville), and Diamond (located five miles north and three miles east of Hackensack).  All trout existing in the lake are the result of stocking.  Various strains of rainbow trout have been stocked over the years.  For the past several years, anglers have reported poor angling success in Perch Lake.Testnetting in 1999 resulted in no rainbow trout being sampled.  In the summer of 1998 and 1999, the lake was also sampled for zooplankton (tiny animals that are important food for trout).  In 1998, low numbers of zooplankton were found.  Due to what appears to be limited food availability, stocking was discontinued.  In 1999, lower numbers of zooplankton were sampled.  Further assessments in 2000 will continue to monitor zooplankton numbers.</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "1999-06-03",
+                    "104974",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1999-06-03",
+                "lengths": {}
+            },
+            {
+                "surveyID": "104719",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "428.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1715
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 329.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.36",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "7.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 30
+                    },
+                    {
+                        "CPUE": "332.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1328
+                    }
+                ],
+                "narrative": "<p>Perch Lake is one of five designated stream trout lakes managed in the Walker area.  Perch Lake is a 13 acre lakewith a maximum depth of 39 feet.  It is located in the Foothills State Forest east of Backus.Brook trout were initially stocked in 1956.  In 1981 because of mixed success with brook trout, rainbow trout werestocked for the first time.  This has been the only species of trout stocked since then.  The population assessment occurred because of complaints by anglers who weren't able to catch trout.Only two rainbow trout were sampled compared to 18 in 1991 and 32 in 1988.  Both trout were one year old fishstocked the previous fall.Large numbers of minnows were sampled in trap nets.  Types of minnows caught were dace, fathead minnow, andstickleback.</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "1994-06-07",
+                    "104719",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1994-06-07",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 10
+                    }
+                }
+            },
+            {
+                "surveyID": "104755",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "232.00",
+                        "quartileCount": "0.3-0.8",
+                        "totalWeight": 28.8,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 232
+                    },
+                    {
+                        "CPUE": "101.00",
+                        "quartileCount": "1.5-18.5",
+                        "totalWeight": 19.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 202
+                    }
+                ],
+                "narrative": "<p>ALTHOUGH THE RESIDENT POPULATION OF PERCH LAKE IS ONLY ONE SPECIES, YELLOW PERCH, THIS LAKE RESEMBLES OTHER LAKES IN THIS AREA WHICH CONTAIN POPULATIONS OF STUNTED BLUEGILLS, CRAPPIES, AND LARGEMOUTH BASS. PERCH LAKE, THEREFORE, CAN BE CONSIDERED AS A BASS-PANFISH LAKE OF THIS TYPE.SINCE THERE IS AN INLET WITH INTERMITTENT FLOW, THIS SHOULD BE DAMMED TO PREVENT ANY MIGRATION OF FISH.BROOK TROUT FINGERLINGS SHALL BE STOCKED AT THE RATE OF 250 PER SURFACE ACRE FOR THREE CONSECUTIVE YEARS.  AN EVALUATION OF RETURNS TO THE ANGLERS SHALL BE MADE DURING THIS TIME TO FIND OUT IF FURTHER STOCKING IS FEASIBLE.  IT IS RECOMMENDED THAT THE PRESENT POPULATIONS OF PERCH BE REMOVED WITH A FISH TOXICANT.  THERE ARE NO SPECIAL REGULATIONS OTHER THAN THOSE THAT PERTAIN TO TROUT LAKES, TO BE MADE.DISCUSSION:PERCH LAKE IS A SMALL, DEEP LAKE TYPICAL OF SEVERAL IN THIS AREA.  IT HAS AN INLET FROM A SWAMP WITH POSSIBLE INTERMITTENT FLOW DURING HIGH WATER.  THERE IS NO OUTLET.  AS IS TRUE WITH LAKES OF THIS NATURE, ANY FISH PRESENT IN THE LAKE APPARENTLY HAVE RESULTED FROM ARTIFICIAL STOCKING. THE USUSAL COMBINATION OF FISH FOUND IN THESE LAKES IS STUNTED BLUEGILLS AND CRAPPIES, WITH LARGEMOUTH BASS PRESENT IN FAIR ABUNDANCE.  IN YEARS OF SEVERE PROLONGED DROUGHT AS IN THE 1930'S, THESE LAKES MAY SUFFER A WINTER KILL SUFFICIENT TO ALMOST ERADICATE THE FISH PRESENT.  THE PRESENT FISH POPULATION IN PERCH LAKE APPEARS LIMITED TO ONE SPECIES, PERCH.  WITH SUCH A FISH POPULATION, IT IS POSSIBLE THAT THE ONLY FISH WHICH SURVIVED LOW WATER WAS THE PERCH.PERCH LAKE HAS A SHORELINE CONSISTING OF ABOUT 85 PERCENT MUCK AND 15 PERCENT GRAVEL.  NO AQUATIC VEGETATION WAS SEEN IN THE LAKE AT THE TIME OF THE SURVEY.PERCH LAKE HAS A SUMMER TEMPERATURE RANGE AND DISSOLVED OXYGEN CONTENT SUFFICIENT FOR BROOK TROUT.  THE LAKE IS NOT NOW USED BY ANGLERS.LAKE SURVEY ABSTRACT:PERCH LAKE IS 7 ACRES IN AREA AND UP TO 44 FEET DEEP.  IT IS A SMALL GLACIAL ICE BLOCK LAKE, A TYPE OCCURRING QUITE COMMONLY IN THIS REGION.  WITH ONLY A SMALL INFLOW FROM A SWAMP AND NO OUTLET, THIS LAKE HAS BEEN ISOLATED FROM OTHER FISH INHABITING ITS WATERS FOR A LONG TIME.THE VERY INFERTILE AND CLEAR WATER VARIES IN TEMPERATURE FROM WARM SURFACE WATERS TO COLD WATER (42 DEGREEES) AT THE BOTTOM, HOWEVER, ONLY THE UPPER 20 FEET OF WATER POSSESSES SUFFICIENT OXYGEN FOR FISH LIFE. THE ONLY KIND OF FISH IN PERCH, AS DETECTED BY THE SURVEY CREW, IS YELLOW PERCH.  THESE PERCH WERE QUITE ABUNDANT BUT AT THE TIME OF THE SURVEY, ALL APPEARED TO BE SMALL 3-YEAR OLD FISH.  BECAUSE OF THE ISOLATED NATURE OF THIS LAKE, NATURAL FISH IMMIGRATIONS HAVE NOT BEEN POSSIBLE AND THE POOR COMPOSITION OF FISH SPECIES IS THE RESULT.  PROPER FISH MANAGEMENT PRACTICES TO BE CARRIED OUT BY THE BUREAU OF FISHERIES ARE PLANNED FOR RESTORTION OF A FAVORABLE FISH POPULATION.ACCESS TO PERCH LAKE IS BY TRAIL FROM A STATE FOREST SERVICE ROAD TO THE PINE MOUTAIN LOOKOUT NEAR BACKUS.</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "1955-06-07",
+                    "104755",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1955-06-07",
+                "lengths": {}
+            },
+            {
+                "surveyID": "105098",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1687.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.34",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Perch Lake (11-826; Lake Class 20) has a total surface area of 12.8 acres and a shoreline length of 0.9 miles.  There is a public access on the northeast shore of the lake at the end of a forest trail.  Perch Lake is one of five lakes in the Walker Fisheries Management Area stocked annually with stream rainbow trout.     Rainbow trout catch rates increased in 2001 compared to the surveys conducted in 1995 and 1998.  Although the catch rate for rainbow trout increased in 2001, this catch rate is below the lake management goal of 10 to 20 rainbow trout/ gill net.  Biologists at the Walker Fisheries office are currently investigating the poor trout survival by examining the food supply.         </p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "2001-06-04",
+                    "105098",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2001-06-04",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                3
+                            ],
+                            [
+                                9,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 10
+                    }
+                }
+            },
+            {
+                "surveyID": "105309",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "69.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 264.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 69
+                    },
+                    {
+                        "CPUE": "80.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 190.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 80
+                    },
+                    {
+                        "CPUE": "948.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2257.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "OTM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 948
+                    },
+                    {
+                        "CPUE": "307.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 730.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 307
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 18.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "OTM",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>Perch Lake (11-826; Lake Class 20) has a total surface area of 12.8 acres and a shoreline length of 0.9 miles.  There is a public access (carry-in) on the northeast shore of the lake at the end of a forest trail.  Perch Lake is one of five lakes in the Walker Fisheries Management Area stocked annually with stream rainbow trout.  The trout population in Perch Lake depends upon stocking because rainbow trout do not naturally reproduce in this lake.Perch Lake was reclaimed in 1956 and rainbow trout have been stocked various years.  Gill net catch rates have varied since this lake was initially surveyed in 1955.  Since 1988, the management goal of 10 to 20 fish per lift has only been achieved two times (1988 and 2003).  However, no rainbow trout were sampled in 2005.  Since 1998, Fisheries personnel have been sampling zooplankton, the tiny animals on which Perch Lake rainbow trout feed.  The quantity of zooplankton available in Perch Lake is relatively low and biologists are currently investigating the annual fluctuation in trout survival by examining the food supply.</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "2005-06-08",
+                    "105309",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2005-06-08",
+                "lengths": {}
+            },
+            {
+                "surveyID": "1010722940122001",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "11.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 8437.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.85",
+                        "totalCatch": 22
+                    },
+                    {
+                        "CPUE": "150.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 457.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 301
+                    },
+                    {
+                        "CPUE": "31.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 50.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 63
+                    },
+                    {
+                        "CPUE": "1829.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2617.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 3658
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 369.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.81",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Perch Lake (11-826; Lake Class 20) has a total surface area of 12.8 acres and a shoreline length of 0.79 miles.  There is a public access (carry-in) on the northeast shore of the lake at the end of a forest trail in the Foot Hill State Forest.  Perch Lake is one of five lakes in the Walker Fisheries Management Area stocked annually with stream rainbow trout.  The trout population in Perch Lake depends upon stocking because rainbow trout do not naturally reproduce in this lake. <br> \n <br> \nTwenty-two rainbow trout were captured in 2007.  The mean length of rainbow trout captured was 13 inches, and fish up to 17 inches were captured.  The time of stocking has shifted from fall to spring to see if we can get better survival so anglers can have an opportunity to catch them.     <br> \n <br> \nSince 1998, Fisheries personnel have been sampling zooplankton, the tiny animals on which Perch Lake rainbow trout feed.  The quantity of zooplankton available in Perch Lake is relatively low and biologists are currently investigating the annual fluctuation in trout survival by examining the food supply.</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "2007-08-22",
+                    "1010722940122001",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2007-08-22",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                4
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                9
+                            ],
+                            [
+                                13,
+                                4
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 17
+                    }
+                }
+            },
+            {
+                "surveyID": "104756",
+                "fishCatchSummaries": [],
+                "narrative": "<p>1955 LAKE SURVEY INDICATED ONLY YELLOW PERCH PRESENT.  PRESENTLY LOCAL REPORTS OF POOR FISHING THE PAST THREE YEARS.WINTER KILL OF 1970-71 - A DIE OFF OF FROGS WAS OBSERVED IN THE SPRING.  TWO TROUT WERE SEEN SWIMMING NEAR SHORE, ALSO MINNOWS.  NO REPORTS OF ANY WINTERKILL SINCE 1971.1955 SURVEY FOUND NO AQUATIC VEGETATION, LAKE NOW HAS EMERGENT AND SUBMERGED VEGETATION.  AN ABUNDANCE OF MINNOWS AND AQUATIC INSECTS OBSERVED.PRESENT SURVEY - NO FISH CAPTURED IN GILLNETS OR TRAPNETS.  TROUT MAY HAVE AVOIDED NETS OR LAKE HAS BEEN FISHED DOWN TO A POINT OF FEW TROUT REMAINING.MANAGEMENT RECOMMENDATIONS:STOCK ANNUALLY BROOK TROUT FINGERLINGS AT A RATE OF 175 FINGERLINGS PER SURFACE ACRE.  TRAP MINNOWS AS FORAGE FISH FOR REARING PONDS ESPECIALLY MUSKIE REARING PONDS.</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "1980-06-07",
+                    "104756",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1980-06-07",
+                "lengths": {}
+            },
+            {
+                "surveyID": "105118",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3977.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.97",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "OTM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "46.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 93
+                    }
+                ],
+                "narrative": "<p>Perch Lake (11-826; Lake Class 20) has a total surface area of 12.8 acres and a shoreline length of 0.9 miles.  There is a public access (carry-in) on the northeast shore of the lake at the end of a forest trail.  Perch Lake is one of five lakes in the Walker Fisheries Management Area stocked annually with stream rainbow trout.Rainbow trout catch rate (4.5/lift) decreased in 2002 when compared to the 2001 survey.  This catch rate is below the lake management goal of 10 to 20 rainbow trout/ gill net.  However, two year-classes of rainbow trout were present.  The mean length of the older fish was 15 inches, while the mean length of smaller fish was 8.5 inches.  Biologists at the Walker Fisheries office are currently investigating the fluctuation in trout survival by examining the food supply.</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "2002-06-13",
+                    "105118",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2002-06-13",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                8,
+                                3
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 17
+                    }
+                }
+            },
+            {
+                "surveyID": "105256",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "202.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 726.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 202
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5370.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.99",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "23.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 68.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "OTM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "93.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 272.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 93
+                    },
+                    {
+                        "CPUE": "46.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 136.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "OTM",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 46
+                    }
+                ],
+                "narrative": "<p>Perch Lake (11-826; Lake Class 20) has a total surface area of 12.8 acres and a shoreline length of 0.9 miles.  There is a public access (carry-in) on the northeast shore of the lake at the end of a forest trail.  Perch Lake is one of five lakes in the Walker Fisheries Management Area stocked annually with stream rainbow trout.  The trout population in Perch Lake depends upon stocking because rainbow trout do not naturally reproduce in this lake.Rainbow trout abundance was average when compared to the historical catches in Perch Lake.  Age analysis found two year-classes present in Perch Lake with a mean length at age-1 of 10 inches and the second year-class was 16 inches.  Fish up to 18 inches are present in Perch Lake.   Since 1998, Fisheries personnel have been sampling zooplankton, the tiny animals on which Perch Lake rainbow trout feed.  The quantity of zooplankton available in Perch Lake is relatively low and biologists are currently investigating the annual fluctuation in trout survival by examining the food supply.</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "2004-06-08",
+                    "105256",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2004-06-08",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 18
+                    }
+                }
+            },
+            {
+                "surveyID": "1010815750828014",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1634.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.72",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Perch Lake (11-826; Lake Class 20) has a total surface area of 12.8 acres, a shoreline length of 0.79 miles, and a maximum depth of 39 feet.  There is a public access (carry-in) on the northeast shore of the lake at the end of a forest trail in the Foot Hill State Forest.  Perch Lake offers good rainbow trout fishing in a remote, wilderness-like setting. The lake is totally within state-owned land and the shoreline is undeveloped. Because of its small size, the lake is ideal for canoes or float tubes. Perch Lake is one of five lakes in the Walker Fisheries Management Area stocked annually with rainbow trout. The other designated stream-trout lakes in the Walker Management Area are Diamond, Perch, Teepee and Willard Lakes. The trout population in Perch Lake depends upon stocking because rainbow trout do not naturally reproduce in this lake. <br> \n <br> \nFive rainbow trout were captured in 2008. The mean length of rainbow trout captured was 13 inches, and the lengths ranged from 12 to 14 inches. Historically, rainbows greater than 16 inches in length have been sampled in several assessments. Beginning in 2006, the time of stocking was shifted from fall to spring to improve survival and increase opportunities for anglers. <br> \n <br> \nSince 1998, Fisheries personnel have been sampling zooplankton, a significant food source for rainbow trout.  The quantity of zooplankton available in Perch Lake is relatively low and biologists are currently investigating the relationship of stocking rates and the size of trout stocked to the abundance of large zooplankton and trout survival in stream-trout lakes.   <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "2008-09-17",
+                    "1010815750828014",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2008-09-17",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 13
+                    }
+                }
+            },
+            {
+                "surveyID": "17562320856393001",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "24.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 49
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3372.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.62",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "15.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 30
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Perch Lake is a 13-acre lake with 0.79 miles of shoreline and a maximum depth of 39 feet located southwest of Backus, MN. There is a Cass County public access located on the north shore. Perch Lake offers Rainbow Trout fishing in a remote, wilderness setting. The lake is entirely within the Foothills State Forest and the shoreline is undeveloped. Perch Lake is one of four designated stream trout lakes in the Walker Fisheries Management Area. Other stream trout lakes in the Walker Management Area are Diamond, Hazel, and Teepee Lakes.  <br> \n <br> \nRainbow Trout were initially stocked in Perch Lake in 1956. Rainbow Trout do not reproduce in the lake and the population is supported entirely by stocking to provide a unique angling opportunity. Rainbow Trout stocking success is dependent on the absence of introduced species. The average length of Rainbow Trout sampled in 2023 was 11 inches, and lengths ranged from 9 to 16 inches.  <br> \n <br> \nPeople can have significant impacts on lakes and the fish populations they support. Harvest, lakeshore development, removal of shoreline vegetation, and introductions of invasive species can all adversely affect fish populations. Currently no aquatic invasive species (AIS) have been identified in Perch Lake. AIS are moved from infested to non-infested waters by anglers, boaters, and lake shore owners and can adversely impact lakes and fish populations. To avoid spreading AIS, lake users are required to remove all aquatic plants or animals from their watercraft and drain all water from their boat before leaving the access. If you suspect an infestation of an invasive species in this lake, save a specimen and report it to a local natural resource office. Additional information on all of these topics can be found on the DNR website (www.dnr.state.mn.us) or by contacting the Walker Area Fisheries office. <br> \n</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "2023-07-31",
+                    "17562320856393001",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2023-07-31",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                7
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "104935",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 210.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Perch Lake is one of five designated stream-trout lakes in the Walker area.  It has had this designation since 1956.  Other trout lakes in the Walker fisheries area are Willard Lake (located two miles east and two miles north of Backus), Teepee (located three miles south and one mile west of Whipholt), Hazel (located 3.5 miles west of Longville), and Diamond (located five miles north and three miles east of Hackensack).  All trout existing in the lake are the result of stocking.  Various strains of rainbow trout have been stocked over the years.  Since about 1993, anglers have reported poor angling success in Perch Lake.During the 1998 testnetting, three rainbow trout were sampled.  All three trout were determined to be one year old and from fish stocked the previous fall. </p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "1998-06-03",
+                    "104935",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1998-06-03",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 7
+                    }
+                }
+            },
+            {
+                "surveyID": "4701410733096003",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "177.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 354
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2767.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.61",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "106.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 213
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "22.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 45
+                    },
+                    {
+                        "CPUE": "7.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 15
+                    }
+                ],
+                "narrative": "<p>Perch Lake (DOW #11-0826; Lake Class 20) has a total surface area of 12.5 acres and a shoreline length of 0.79 miles. There is a public access on the northeast shore of the lake on a State Forest Trail. Perch Lake offers Rainbow Trout fishing in a remote, wilderness-like setting. The lake is located in the Foot Hills State Forest and the shoreline is undeveloped. Because of its small size, the lake is ideal for canoes or float tubes. Perch Lake is one of four lakes in the Walker Fisheries Management Area stocked annually with Rainbow Trout. The other designated stream-trout lakes in the Walker Management Area are Diamond, Hazel, and Teepee Lakes.  <br> \n <br> \nPerch Lake was first used as a stream trout lake in 1956 after being reclaimed. Rainbow Trout do not reproduce in this lake and the population is instead supported entirely by stocking to provide a unique angling opportunity. The average length of Rainbow Trout sampled in 2014 was 12 inches and lengths ranged from 11 to 13 inches. The majority of fish captured were likely from the spring 2014 stocking. While the size range was smaller, catch rates were similar to previous years indicating that anglers can expect similar fishing as in past years. Historically Perch Lake has supported trout that survive over summer-winter. While no trout were captured from the 2013 or previous stockings, anglers should expect some fish from the 2014 stocking and subsequent 2015 stocking during the 2015 trout season. In January 2015, Perch Lake was opened to winter Trout fishing, providing increased opportunities for trout anglers in the Walker area. <br> \n <br> \nPeople can have significant impacts on lakes and the fish populations they support. Harvest, lakeshore development, removal of shoreline vegetation, and introductions of invasive species can all adversely affect fish populations. Currently not aquatic invasive species (AIS) have been identified in Perch Lake. AIS are moved from infested to non-infested waters by anglers, boaters, and lake shore owners and can adversely impact lakes and fish populations. To avoid spreading AIS, lake users are required to remove all aquatic plants or animals from their watercraft and drain all water from their boat before leaving the access. If you suspect an infestation of an invasive species in this lake, save a specimen and report it to a local natural resource office. Additional information on all of these topics can be found on the DNR website (www.dnr.state.mn.us) or by contacting the Walker Area Fisheries office. <br> \n</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "2014-08-21",
+                    "4701410733096003",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2014-08-21",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                12,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 12
+                    }
+                }
+            },
+            {
+                "surveyID": "12971516333321004",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "27.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 55
+                    },
+                    {
+                        "CPUE": "8.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6215.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.81",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "3/8-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p> <br> \nPerch Lake (DOW #11-0826; Lake Class 20) has a total surface area of 12.5 acres and a shoreline length of 0.79 miles. There is a public access on the northeast shore of the lake on a State Forest Trail. Perch Lake offers Rainbow Trout fishing in a remote, wilderness-like setting. The lake is located in the Foot Hills State Forest and the shoreline is undeveloped. Because of its small size, the lake is ideal for canoes or float tubes. Perch Lake is one of four lakes in the Walker Fisheries Management Area stocked annually with Rainbow Trout. The other designated stream-trout lakes in the Walker Management Area are Diamond, Hazel, and Teepee Lakes.  <br> \n <br> \nPerch Lake was first used as a stream trout lake in 1956 after being chemically reclaimed. Rainbow Trout do not reproduce in this lake and the population is supported entirely by stocking to provide a unique angling opportunity. The average length of Rainbow Trout sampled in 2015 was 12 inches and lengths ranged from 10 to 18 inches. Catch rates were similar to previous years indicating that anglers can expect similar fishing as in past years. Historically Perch Lake has supported trout that survive over summer through winter. The presence of large trout (18 inches) confirms that over summer-winter survival is occurring. In January 2015, Perch Lake was opened to winter Trout fishing, providing increased opportunities for trout anglers in the Walker area. <br> \n <br> \nPeople can have significant impacts on lakes and the fish populations they support. Harvest, lakeshore development, removal of shoreline vegetation, and introductions of invasive species can all adversely affect fish populations. Currently no aquatic invasive species (AIS) have been identified in Perch Lake. AIS are moved from infested to non-infested waters by anglers, boaters, and lake shore owners and can adversely impact lakes and fish populations. To avoid spreading AIS, lake users are required to remove all aquatic plants or animals from their watercraft and drain all water from their boat before leaving the access. If you suspect an infestation of an invasive species in this lake, save a specimen and report it to a local natural resource office. Additional information on all of these topics can be found on the DNR website (www.dnr.state.mn.us) or by contacting the Walker Area Fisheries office. <br> \n</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "2015-06-15",
+                    "12971516333321004",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2015-06-15",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                8
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 17
+                    }
+                }
+            },
+            {
+                "surveyID": "104758",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "16.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 22.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.70",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>A TOTAL OF 32 RAINBOW TROUT WERE CAPTURED WITH 2 GILLNETS.  THE FISH RANGED IN LENGTH FROM 5.5 TO 14 INCHES. A LOW NUMBER OF MINNOWS WERE TAKEN IN A 1/4 INCH TRAPNET.</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "1988-06-07",
+                    "104758",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1988-06-07",
+                "lengths": {}
+            },
+            {
+                "surveyID": "4751010947602000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6546.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.20",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "84.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 224.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 168
+                    },
+                    {
+                        "CPUE": "261.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 205.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 522
+                    },
+                    {
+                        "CPUE": "27.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 54.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 54
+                    },
+                    {
+                        "CPUE": "4432.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7515.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 8864
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 868.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.96",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Perch Lake (11-826; Lake Class 20) has a total surface area of 12.8 acres, a shoreline length of 0.79 miles, and a maximum depth of 39 feet.  There is a public access (carry-in) on the northeast shore of the lake at the end of a forest trail in the Foot Hill State Forest.  Perch Lake offers good rainbow trout fishing in a remote, wilderness-like setting. The lake is entirely within state-owned land and the shoreline is undeveloped. Because of its small size, the lake is ideal for canoes or float tubes. Perch Lake is one of four lakes in the Walker Fisheries Management Area stocked annually with rainbow trout. The other designated stream-trout lakes in the Walker Management Area are Diamond, Hazel, and Teepee Lakes. The trout population in Perch Lake depends upon stocking because rainbow trout do not naturally reproduce in this lake. <br> \n <br> \nFourteen rainbow trout were captured in 2010. The mean length of rainbow trout captured was 14 inches, and the lengths ranged from 12 to 16 inches. Historically, rainbows greater than 16 inches in length have been sampled in several assessments. Beginning in 2006, the time of stocking was shifted from fall to spring to improve survival and increase opportunities for anglers. <br> \n <br> \nPerch Lake is not currently known to be infested with any aquatic invasive species (AIS).  To avoid spreading AIS, lake users should inspect and remove any aquatic plants or animals from their watercraft and drain all water from their boat away from the landing prior to launching and again before leaving the access.  If you suspect you may have discovered a new infestation of an invasive species, save a specimen and report it to a local natural resource office.  Additional information on AIS prevention and awareness, including the problems they cause, can be found on the DNR website (www.dnr.state.mn.us). <br> \n</p>",
+                "headerInfo": [
+                    "Perch",
+                    null,
+                    "11082600",
+                    "2010-04-19",
+                    "4751010947602000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2010-04-19",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                4
+                            ],
+                            [
+                                13,
+                                5
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 16
+                    }
+                }
+            }
+        ],
+        "countyName": "Cass"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

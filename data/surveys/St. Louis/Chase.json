@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737669259,
+    "result": {
+        "lakeName": "Chase",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.75,
+        "DOWNumber": 69036100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 15.98,
+        "areaAcres": 15.98,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portage ~1/8 mi.-no trail~ from Rocky Lake in BWCAW  non-motorized route.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108164",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "36.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 122.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.13",
+                        "totalCatch": 108
+                    }
+                ],
+                "narrative": "<p>Intact for many years because when it gave way - it left normally emergent plants out of the water, dropping the water level 3 feet. Composed of a very high population of suckers and a low population of perch.</p>",
+                "headerInfo": [
+                    "Chase",
+                    null,
+                    "69036100",
+                    "1981-08-01",
+                    "108164",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1981-08-01",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

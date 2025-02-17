@@ -1,0 +1,249 @@
+{
+    "timestamp": 1737663400,
+    "result": {
+        "lakeName": "Spur",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.01,
+        "DOWNumber": 38025900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 34.07,
+        "areaAcres": 34.07,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 4.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "610715927941000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "IOD",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "28.00",
+                        "quartileCount": "4.0-15.0",
+                        "totalWeight": 50818.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.00",
+                        "totalCatch": 56
+                    },
+                    {
+                        "CPUE": "6.50",
+                        "quartileCount": "2.0-15.0",
+                        "totalWeight": 514.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "3.0-23.0",
+                        "totalWeight": 6610.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.64",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Located within the Superior National Forest, Spur Lake is 7.5 miles east of Isabella, MN.  This small (38 acre) lake is surrounded by federal land with access to the north side via a 0.25mile walk-in trail.  The maximum depth found in 2007 was 4.6 ft.; benchmark readings indicate lake levels similar to 1987 and slightly deeper than the maximum depth (4.0 feet) found in the 1979 investigation.  Northern pike, yellow perch and white sucker were sampled in 1987 and 2007gill nets, no fish were sampled in 1979 in 2gill net sets. <br> \n <br> \nNorthern pike were sampled in higher numbers in 2007 than in the 1987 assessment netting.  The mean weight was less in 2007 (2.0 lbs) than in 1987 (2.7 lbs), but still above average for this lake class.  All northern pike sampled in 2007 were less than 28 inches in length. Growth was above average for all ages in the sample, the mean length of 4 year-old northern pike was 23.0 inches.  All year classes (age-1 to age-5) were present with age-2 (29%) and age-3 (43%) representing the bulk of the aged sample. <br> \n <br> \nA small number (13) of yellow perch were sampled in 2007.  An average length of 6.5 inches was too small to interest most anglers.  Low numbers of large (3.64 lb average) white sucker were also sampled in 2007.  While these populations may not provide quality angling opportunities they do provide adequate forage for the northern pike population. <br> \n</p>",
+                "headerInfo": [
+                    "Spur",
+                    null,
+                    "38025900",
+                    "2007-06-11",
+                    "610715927941000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2007-06-11",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                8
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 8
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                6
+                            ],
+                            [
+                                18,
+                                4
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                7
+                            ],
+                            [
+                                22,
+                                15
+                            ],
+                            [
+                                23,
+                                9
+                            ],
+                            [
+                                24,
+                                4
+                            ],
+                            [
+                                26,
+                                2
+                            ],
+                            [
+                                27,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 27
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 21
+                    }
+                }
+            },
+            {
+                "surveyID": "112348",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "16.00",
+                        "quartileCount": "4.0-15.0",
+                        "totalWeight": 43.7,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.73",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "2.0-15.0",
+                        "totalWeight": 2.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "3.0-23.0",
+                        "totalWeight": 1.8,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.60",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Apparently a very high Northern Pike population is present as the gillnety catch was 4 times the area average. Average weight of Northern Pike was 2.7 pounds. Scale reading indicated good representation in the age-2, 5 and 8+ year classes. White Sucker and Yellow Perch were present but sampled in numbers less than the area average. Yellow Perch densities are likely being held down by the high Northern Pike population. It is possible there may be some migration of fish from Bluebill Lake as two gillnets set in 1979 did not catch any fish.</p>",
+                "headerInfo": [
+                    "Spur",
+                    null,
+                    "38025900",
+                    "1987-06-30",
+                    "112348",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1987-06-30",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

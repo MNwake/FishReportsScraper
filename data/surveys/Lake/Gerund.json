@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737662387,
+    "result": {
+        "lakeName": "Gerund",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.62,
+        "DOWNumber": 38036600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 27.0,
+        "areaAcres": 89.69,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 85.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portages from Fraser and Ahmakose lake in the BWCA on a non-motor route.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107987",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.6-2.4",
+                        "totalWeight": 10.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "2.1-4.9",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.33",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 7.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.17",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>Composed of below average populations of northern pike and suckers.</p>",
+                "headerInfo": [
+                    "Gerund",
+                    null,
+                    "38036600",
+                    "1980-07-23",
+                    "107987",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1980-07-23",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

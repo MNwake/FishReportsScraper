@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737663309,
+    "result": {
+        "lakeName": "Skindance",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.02,
+        "DOWNumber": 38019100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 53.03,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 52.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Lake lies entirely within BWCA on a non-motorized canoe route.  There is a 25-rod portage from Ogishkemuncie Lake",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107959",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 28.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.75",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "9.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.35,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 29
+                    },
+                    {
+                        "CPUE": "3.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 20.35,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.85",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Consists of average populations of northern pike, yellow perch and white sucker.</p>",
+                "headerInfo": [
+                    "Skindance",
+                    null,
+                    "38019100",
+                    "1978-08-16",
+                    "107959",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-08-16",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

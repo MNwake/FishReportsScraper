@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737651788,
+    "result": {
+        "lakeName": "Temperance River",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.15,
+        "DOWNumber": 16049200,
+        "waterClarity": [
+            [
+                "07/27/1979",
+                "7"
+            ]
+        ],
+        "averageWaterClarity": "7.0",
+        "littoralAcres": 32.83,
+        "areaAcres": 32.83,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 11.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Via 1/4 mile portage from Marsh Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109769",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "25.50",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 64.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.26",
+                        "totalCatch": 51
+                    }
+                ],
+                "narrative": "<p>This lake has a large population of stunted N Pike with very few Perch or Minnows for forage.</p>",
+                "headerInfo": [
+                    "Temperance River",
+                    null,
+                    "16049200",
+                    "1979-07-26",
+                    "109769",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-07-26",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

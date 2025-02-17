@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737647341,
+    "result": {
+        "lakeName": "Maria",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.23,
+        "DOWNumber": 10005800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 130.68,
+        "areaAcres": 130.69,
+        "meanDepthFeet": 5.0,
+        "maxDepthFeet": 6.0,
+        "officeCode": "F314",
+        "accesses": [
+            {
+                "location": "West shore of lake off Co. Rd. 50",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "121640",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "16.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1550.0,
+                        "gearCount": 0.666666666666667,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.31",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "18.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 9.0,
+                        "gearCount": 0.666666666666667,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>Maria lake was found to contain black bullheads and fathead minnows during an electrofishing assessment.  Heavy growth of narrow-leaf pondweed was also encountered.</p>",
+                "headerInfo": [
+                    "Maria",
+                    null,
+                    "10005800",
+                    "2001-05-15",
+                    "121640",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "2001-05-15",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Carver"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737651709,
+    "result": {
+        "lakeName": "Strobus",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.5,
+        "DOWNumber": 16037000,
+        "waterClarity": [
+            [
+                "07/07/1960",
+                "8.5"
+            ]
+        ],
+        "averageWaterClarity": "8.5",
+        "littoralAcres": 9.5,
+        "areaAcres": 10.31,
+        "meanDepthFeet": 8.0,
+        "maxDepthFeet": 22.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111117",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "126.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Misc. fish",
+                        "averageWeight": "0.00",
+                        "totalCatch": 507
+                    }
+                ],
+                "narrative": "<p>There are no game fish in Strobus Lake.  Fathead minnows are abundant.</p>",
+                "headerInfo": [
+                    "Strobus",
+                    null,
+                    "16037000",
+                    "1995-06-05",
+                    "111117",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1995-06-05",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

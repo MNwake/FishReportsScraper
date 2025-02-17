@@ -1,0 +1,86 @@
+{
+    "timestamp": 1737650427,
+    "result": {
+        "lakeName": "Everett",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.9,
+        "DOWNumber": 16059900,
+        "waterClarity": [
+            [
+                "07/08/1980",
+                "11"
+            ]
+        ],
+        "averageWaterClarity": "11.0",
+        "littoralAcres": 0.0,
+        "areaAcres": 40.66,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 55.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Bushwhack portage from Gotter Lake.  Lake is inside the BWCAW.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "PRMIT",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109788",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.75,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "6.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 9.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 20
+                    }
+                ],
+                "narrative": "<p>Fish populations extremely small and individual specimens in poor condition.  Visual examination showed numerous forage fishes are available.</p>",
+                "headerInfo": [
+                    "Everett",
+                    null,
+                    "16059900",
+                    "1980-07-09",
+                    "109788",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1980-07-09",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

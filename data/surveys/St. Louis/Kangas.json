@@ -1,0 +1,143 @@
+{
+    "timestamp": 1737669978,
+    "result": {
+        "lakeName": "Kangas",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.85,
+        "DOWNumber": 69005700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 22.12,
+        "areaAcres": 22.12,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Approx. 200 ft.  portage from Kangas Bay on Birch Lake along E side of creek to beaver impoundment above dam then canoe up creek from W side of beaver pond",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109438",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 5506.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.02",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 290.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "0.5-16.8",
+                        "totalWeight": 101.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Kangas Lake is in Ecological Lake Class 14, which consists of 92 lakes in northeast Minnesota that are small, shallow, and have very soft (unmineralized) water.  Kangas Lake is more bowl-shaped and has a lower water clarity (due to bog-stain) than many of the lakes in this lake class.  Kangas Lake ranks as eutrophic, according to Carlson's Trophic State Index.Kangas Lake was thermally stratified on 07/23/2002 with a surface temperature of 81 F and a bottom temperature of 52 F, and retained 2 ppm oxygen to a depth of only 3 ft, where the temperature was 74 F.  The inlet from Little Lake and the outlet to Birch Lake have barriers to fish movement (bogs, falls, beaver dams).  Bottom types in shallow water are detritus and muck.  The entire lake has a bog fringe and aquatic plants are those associated with bogs and muck.The shoreline along the northeast quarter of Kangas Lake is in a combination county tax-forfeit/private ownership.  The remainder of the shoreline is in Federal ownership.  There is no riparian development.  Access is via portage and paddling up the outlet creek from Birch Lake.  Fishing pressure is probably light.Fish sampling in the 2001 fisheries initial lake survey consisted of two standard gillnet sets and two metal minnow traps.  Trapnets were not used due to the difficult portage access, and shoreline seines were not used due to the lack of suitable seining areas.The total catch of fish (all species combined) in the gillnets in 2001 of 8.0 fish/net (6.5 lb/net) was in the first quartile for this lake class.  Fish populations were very simple, consisting of only northern pike, yellow perch, and golden shiner.  Fish were captured at greater depths in the nets than would have been predicted by the poor oxygen levels.  Black crappie have reportedly been caught in this lake by anglers, but none were observed during the lake survey.Northern pike numbers (3.0/gillnet) were in the first quartile for this lake class.  Pike sizes averaged 20.2\" (2.0 lb), which was in the third quartile for this lake class.  The largest pike was 28.9\".  The six pike captured were from five different year classes.  Pike growth was slower than normal by area standards.Yellow perch numbers (3.5/gillnet) were in the second quartile for this lake class.  Perch sizes averaged 6.0\" (0.1 lb), which was in the first quartile for this lake class.  The largest perch was 6.6\".  Growth of age two perch was normal by area standards, while growth of older perch was slower than normal.Golden shiner numbers (1.5/gillnet) were near the median for this lake class.  Shiner sizes averaged 6.1\"; the largest was 6.3\".  Small golden shiners were caught in one of the minnow traps.</p>",
+                "headerInfo": [
+                    "Kangas",
+                    null,
+                    "69005700",
+                    "2001-07-23",
+                    "109438",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "2001-07-23",
+                "lengths": {
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                28,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 28
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

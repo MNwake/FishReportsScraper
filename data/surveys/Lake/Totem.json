@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737663540,
+    "result": {
+        "lakeName": "Totem",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.91,
+        "DOWNumber": 38021600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 15.0,
+        "areaAcres": 15.69,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 19.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "By portage only-BWCA.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107969",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 10.8,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.20",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "6.50",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 2.4,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "13.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 49.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.88",
+                        "totalCatch": 26
+                    }
+                ],
+                "narrative": "<p>Northern pike are present in above average numbers; however, the northern pike are small.  The yellow perch population is slightly below normal, while the white sucker population is above average both in numbers and size.</p>",
+                "headerInfo": [
+                    "Totem",
+                    null,
+                    "38021600",
+                    "1973-08-09",
+                    "107969",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-08-09",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

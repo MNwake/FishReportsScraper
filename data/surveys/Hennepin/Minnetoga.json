@@ -1,0 +1,132 @@
+{
+    "timestamp": 1737655601,
+    "result": {
+        "lakeName": "Minnetoga",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.75,
+        "DOWNumber": 27008800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 1.0,
+        "areaAcres": 15.1,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 27.0,
+        "officeCode": "F314",
+        "accesses": [
+            {
+                "location": "Access possible by sport boat or canoe on NE corner of lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "121245",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "11.50",
+                        "quartileCount": "2.5-7.9",
+                        "totalWeight": 62.75,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.8-3.3",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.73",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "68.50",
+                        "quartileCount": "5.2-56.2",
+                        "totalWeight": 12.6,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 137
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.3-1.1",
+                        "totalWeight": 1.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.5",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.30",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Glnt ctchs for N Pike and Blk Bullhead were very high.  N Pike taken were all in the 19 to 25 inch range.  It is strongly susp. that most or all of the same age and probably the result of the prvt stckng.  File inf. indicates that Bass, N Pike, Crappies, and Sunfish were present early in '50's. Except for lM Bass all species of fish found in seining or glntng are spec. tol. of lw wnt oxyg.</p>",
+                "headerInfo": [
+                    "Minnetoga",
+                    null,
+                    "27008800",
+                    "1980-08-27",
+                    "121245",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1980-08-27",
+                "lengths": {}
+            },
+            {
+                "surveyID": "121370",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "8.50",
+                        "quartileCount": "2.5-7.9",
+                        "totalWeight": 25.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.8-3.3",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.48",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.9-18.0",
+                        "totalWeight": 1.6,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.80",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "23.50",
+                        "quartileCount": "5.2-56.2",
+                        "totalWeight": 16.8,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.36",
+                        "totalCatch": 47
+                    }
+                ],
+                "narrative": "<p>NORTHERN PIKE WERE SAMPLED IN THE GILL NETS AT APPROXIMATELY THREE TIMES THE LOCAL MEDIAN FOR NUMBER PER SET, BUT ABOUT HALF THE LOCAL MEDIAN FOR POUNDS PER SET.  BLACK BULLHEADS WERE ALSO SAMPLED IN EXCESS OF LOCAL MEDIAN LEVELS.  LARGE- MOUTH BASS WERE SAMPLED IN THE 1980 ASSESSMENT BUT WERE NOT TAKEN IN THIS YEARS SAMPLING.</p>",
+                "headerInfo": [
+                    "Minnetoga",
+                    null,
+                    "27008800",
+                    "1990-08-28",
+                    "121370",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1990-08-28",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Hennepin"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

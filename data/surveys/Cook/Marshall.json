@@ -1,0 +1,108 @@
+{
+    "timestamp": 1737651020,
+    "result": {
+        "lakeName": "Marshall",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.57,
+        "DOWNumber": 16017600,
+        "waterClarity": [
+            [
+                "08/13/1973",
+                "8.5"
+            ]
+        ],
+        "averageWaterClarity": "8.5",
+        "littoralAcres": 50.0,
+        "areaAcres": 56.26,
+        "meanDepthFeet": 6.0,
+        "maxDepthFeet": 16.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 0.3 mile portage trail from Bower Trout Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109656",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 12.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.08",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.4-1.7",
+                        "totalWeight": 1.6,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-2.0",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.60",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "6.33",
+                        "quartileCount": "1.0-7.2",
+                        "totalWeight": 27.8,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.4",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.46",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "4.67",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 2.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 47.3,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.63",
+                        "totalCatch": 18
+                    }
+                ],
+                "narrative": "<p>There is a good Walleye population with an ample Perch population for forage.  N Pike, SM Bass, and Suckers are also present in smaller numbers.</p>",
+                "headerInfo": [
+                    "Marshall",
+                    null,
+                    "16017600",
+                    "1973-08-13",
+                    "109656",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-08-13",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

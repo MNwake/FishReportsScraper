@@ -1,0 +1,125 @@
+{
+    "timestamp": 1737671032,
+    "result": {
+        "lakeName": "Silver",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.92,
+        "DOWNumber": 69055500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 27.09,
+        "areaAcres": 28.35,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 19.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108198",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.60",
+                        "quartileCount": "0.4-5.2",
+                        "totalWeight": 2.3,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 13.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "6.50",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.0-7.2",
+                        "totalWeight": 3.8,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.4",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.90",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "80.50",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 26.7,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 161
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "0.5-16.8",
+                        "totalWeight": 0.7,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.5,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "4.50",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.40",
+                        "quartileCount": "1.5",
+                        "totalWeight": 0.9,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.3",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Yellow perch are present in above average numbers; northern pike and walleye are present in below average numbers. Black bullhead and golden shiner are also present. Walleye and northern pike are large.</p>",
+                "headerInfo": [
+                    "Silver",
+                    null,
+                    "69055500",
+                    "1985-06-10",
+                    "108198",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1985-06-10",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

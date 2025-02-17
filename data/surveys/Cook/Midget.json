@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737651067,
+    "result": {
+        "lakeName": "Midget",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.04,
+        "DOWNumber": 16048400,
+        "waterClarity": [
+            [
+                "06/25/1973",
+                "9"
+            ]
+        ],
+        "averageWaterClarity": "9.0",
+        "littoralAcres": 0.0,
+        "areaAcres": 21.92,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 25.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 0.3 mile unmarked portage from logging rd. 1.5 mile N from F.R. 165.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109767",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.33",
+                        "quartileCount": "2.0-8.5",
+                        "totalWeight": 35.3,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.26",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "2.5-14.3",
+                        "totalWeight": 0.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Midget Lake has a good population of small N Pike with a few Perch present.</p>",
+                "headerInfo": [
+                    "Midget",
+                    null,
+                    "16048400",
+                    "1973-06-25",
+                    "109767",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-06-25",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

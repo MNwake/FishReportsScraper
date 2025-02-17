@@ -1,0 +1,252 @@
+{
+    "timestamp": 1737652021,
+    "result": {
+        "lakeName": "Howard",
+        "sampledPlants": [],
+        "shoreLengthMiles": 4.08,
+        "DOWNumber": 16078900,
+        "waterClarity": [
+            [
+                "08/14/1980",
+                "20"
+            ]
+        ],
+        "averageWaterClarity": "20.0",
+        "littoralAcres": 38.4,
+        "areaAcres": 165.7,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 125.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Lake is entirely inside the BWCAW.  Access via portage trail from Gabimichigami Lake; or via the Kekakabic Trail (about 8 miles).",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110813",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 190.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BUB",
+                        "gear": "Shallow gill nets",
+                        "averageWeight": "0.42",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6095.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LAT",
+                        "gear": "Shallow gill nets",
+                        "averageWeight": "1.92",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1150.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Shallow gill nets",
+                        "averageWeight": "1.27",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2293.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "BUB",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "0.56",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "2.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11013.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "LAT",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "1.73",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11210.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Shallow gill nets",
+                        "averageWeight": "1.65",
+                        "totalCatch": 15
+                    }
+                ],
+                "narrative": "<p>Howard Lake supported a healthy native lake trout population.  Lake trout were abundant, but generally small (most under 18 in) and slow-growing.  Northern pike were present in small numbers, but no other gamefish were collected.</p>",
+                "headerInfo": [
+                    "Howard",
+                    null,
+                    "16078900",
+                    "1993-08-02",
+                    "110813",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1993-08-02",
+                "lengths": {
+                    "BUB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                4
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                15,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 15
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                5
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 22
+                    },
+                    "LAT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                5
+                            ],
+                            [
+                                18,
+                                4
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                23,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 23
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 13,
+                        "maximum_length": 22
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

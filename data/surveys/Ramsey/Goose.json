@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737668330,
+    "result": {
+        "lakeName": "Goose",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.95,
+        "DOWNumber": 62003400,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 114.62,
+        "areaAcres": 114.62,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 6.0,
+        "officeCode": "F313",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "120057",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.40",
+                        "quartileCount": "0.4-4.5",
+                        "totalWeight": 1.2,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.60",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.40",
+                        "quartileCount": "0.3-2.6",
+                        "totalWeight": 0.5,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.0-2.0",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "80.00",
+                        "quartileCount": "30.3-150.6",
+                        "totalWeight": 24.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 80
+                    },
+                    {
+                        "CPUE": "47.60",
+                        "quartileCount": "11.5-132.6",
+                        "totalWeight": 62.8,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 238
+                    }
+                ],
+                "narrative": "<p>BROWN BULLHEADS WERE FOUND AT BELOW LOCAL MEDIANS LEVELS. BLACK BULLHEADS WERE VERY ABUNDANT. WHITE SUCKER WERE SAMPLED AT NEAR LOCAL MEDIAN ABUNDANTS NO GAMEFISH WERE SAMPLED IN ANY GEAR.</p>",
+                "headerInfo": [
+                    "Goose",
+                    null,
+                    "62003400",
+                    "1986-06-30",
+                    "120057",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1986-06-30",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Ramsey"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737664227,
+    "result": {
+        "lakeName": "Sanderson",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.8,
+        "DOWNumber": 42007100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 92.11,
+        "areaAcres": 92.12,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 6.0,
+        "officeCode": "F418",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "119255",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "58.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 55.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.47",
+                        "totalCatch": 117
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.35,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "1.62",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.8,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.37",
+                        "totalCatch": 13
+                    }
+                ],
+                "narrative": "<p>NETTING RESULTS INDICATE THAT THE LAKE CONTAINS BLACK BULLHEAD, FATHEAD MINNOW, JOHNNY DARTER AND WALLEYE. STATE FISHERIES CREWS HARVESTED 1390 PDS OF WALLEYE FINGERLINGS AT 5/LB. OR 6950 FISH. THE LAKE WAS PRODUCTIVE AS A WALLEYE REARING POND AND COULD BE USED AGAIN AFTER A WIN- TERKILL SITUATION.</p>",
+                "headerInfo": [
+                    "Sanderson",
+                    null,
+                    "42007100",
+                    "1988-07-20",
+                    "119255",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1988-07-20",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lyon"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

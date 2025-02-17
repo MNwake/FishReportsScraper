@@ -1,0 +1,114 @@
+{
+    "timestamp": 1737662654,
+    "result": {
+        "lakeName": "Jordan",
+        "sampledPlants": [],
+        "shoreLengthMiles": 6.23,
+        "DOWNumber": 38051100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 60.0,
+        "areaAcres": 142.45,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 66.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Access by canoe and portage  BWCAW - no motors allowed.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108017",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.2-1.0",
+                        "totalWeight": 1.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.6-1.5",
+                        "species": "BUB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.6-2.4",
+                        "totalWeight": 18.5,
+                        "gearCount": 6.0,
+                        "quartileWeight": "2.1-4.9",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.08",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "1.17",
+                        "quartileCount": "1.2-5.2",
+                        "totalWeight": 14.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.0-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.00",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 0.3,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 45.5,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.25",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "3.2-20.2",
+                        "totalWeight": 0.7,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2-1.0",
+                        "species": "TLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>All fish population are low and year class strengths of all species are eratic.</p>",
+                "headerInfo": [
+                    "Jordan",
+                    null,
+                    "38051100",
+                    "1972-07-15",
+                    "108017",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-07-15",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

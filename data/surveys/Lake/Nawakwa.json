@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737662959,
+    "result": {
+        "lakeName": "Nawakwa",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.91,
+        "DOWNumber": 38020500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 93.29,
+        "areaAcres": 93.3,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 9.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "10 rod portage from Fish Lake.  Located in Superior National Forest and BWCAW on a non-motor route.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107963",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "12.67",
+                        "quartileCount": "2.8-8.5",
+                        "totalWeight": 76.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.00",
+                        "totalCatch": 38
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "2.0-16.0",
+                        "totalWeight": 7.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.28",
+                        "totalCatch": 27
+                    },
+                    {
+                        "CPUE": "11.00",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 94.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.85",
+                        "totalCatch": 33
+                    }
+                ],
+                "narrative": "<p>period) no one was observed on the lake. No stocking has been done. Composed of above average populations of suckers, yellow perch, and northern pike.</p>",
+                "headerInfo": [
+                    "Nawakwa",
+                    "Crooked",
+                    "38020500",
+                    "1981-07-10",
+                    "107963",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1981-07-10",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

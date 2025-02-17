@@ -1,0 +1,215 @@
+{
+    "timestamp": 1737654853,
+    "result": {
+        "lakeName": "School Section",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.47,
+        "DOWNumber": 24004000,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 68.26,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 4.1,
+        "officeCode": "F417",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "13021826351599000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1601.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "36.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1664.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.03",
+                        "totalCatch": 110
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 116.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7544.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "CAP",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.92",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 182.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEB",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.40",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>A targeted survey was conducted at School Section Lake on September 20, 2018. The survey was done using three standard trap nets set for one night each. Species present included Black Bullhead (5.3/net), Common Carp (6.0/net), Green Sunfish (36.7/net), White Sucker (0.3/net), and Yellow Bullhead (0.3/net). <br> \n <br> \nA targeted survey is generally used for sampling a specific kind of fish or time of year (i.e. spawning season, fall season, etc.) unlike a standard survey which samples a wider range of fish species during the summer months using standard methods (i.e. standard time of year, set sampling stations, taking water clarity readings and oxygen/temperature profiles, etc.) and gears (i.e. lake survey gillnets, trap nets, and spring electrofishing for Largemouth Bass). Results from this targeted survey should not be compared to results from standard surveys.</p>",
+                "headerInfo": [
+                    "School Section",
+                    null,
+                    "24004000",
+                    "2018-09-20",
+                    "13021826351599000",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2018-09-20",
+                "lengths": {
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                45
+                            ],
+                            [
+                                4,
+                                51
+                            ],
+                            [
+                                5,
+                                14
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 5
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                4,
+                                7
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 10
+                    },
+                    "CAP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                4
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 17
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 8
+                    },
+                    "YEB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 9
+                    }
+                }
+            }
+        ],
+        "countyName": "Freeborn"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

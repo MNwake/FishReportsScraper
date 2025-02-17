@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737650103,
+    "result": {
+        "lakeName": "Carl",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.84,
+        "DOWNumber": 16022100,
+        "waterClarity": [
+            [
+                "08/20/1984",
+                "8"
+            ]
+        ],
+        "averageWaterClarity": "8.0",
+        "littoralAcres": 43.8,
+        "areaAcres": 48.8,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 22.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109929",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "16.00",
+                        "quartileCount": "2.0-8.5",
+                        "totalWeight": 63.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.98",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "6.50",
+                        "quartileCount": "2.5-14.3",
+                        "totalWeight": 1.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 13
+                    }
+                ],
+                "narrative": "<p>NORTHERN PIKE NUMBERS APPEAR TO BE HIGH, BUT ONLY A LIMITED RANGE OF AGE CLASSES (IV,V AND VI) WERE PRESENT. GROWTH RATES ARE GOOD, UNDOUBTEDLY DUE TO A FAIRLY GOOD PERCH POPULATION. LIMITED SPAWNING AREA MAY ACCOUNT FOR THE LACK OF SOME AGE CLASSES.</p>",
+                "headerInfo": [
+                    "Carl",
+                    null,
+                    "16022100",
+                    "1984-08-20",
+                    "109929",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1984-08-20",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

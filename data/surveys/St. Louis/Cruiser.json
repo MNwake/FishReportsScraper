@@ -1,0 +1,480 @@
+{
+    "timestamp": 1737669352,
+    "result": {
+        "lakeName": "Cruiser",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.4,
+        "DOWNumber": 69083200,
+        "waterClarity": [
+            [
+                "08/17/2015",
+                "28"
+            ]
+        ],
+        "averageWaterClarity": "28.0",
+        "littoralAcres": 22.0,
+        "areaAcres": 117.53,
+        "meanDepthFeet": 43.7,
+        "maxDepthFeet": 91.0,
+        "officeCode": "F217",
+        "accesses": [
+            {
+                "location": "Access is located on east end of lake.  Approximately 2 hour hike from Lost bay on Kabetogama Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111814",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.33",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 26040.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.5-4.0",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.01",
+                        "totalCatch": 57
+                    },
+                    {
+                        "CPUE": "12.11",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 7267.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 109
+                    },
+                    {
+                        "CPUE": "6.33",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 33050.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.28",
+                        "totalCatch": 57
+                    }
+                ],
+                "narrative": "<p>Sampling with DNR test nets indicated lake trout abundance was above average for lakes of this type.  This suggests an increase has occurred since previous investigations, when lake trout were present in average numbers.  Lake trout from 9.2\" to 19.3\" were sampled, with an average length of 14.5\", and an average weight of 1.0 pounds.  Several young age-classes were present, indicating natural reproduction has occurred.  Yellow perch and white sucker were also sampled in above average numbers for similar lakes.</p>",
+                "headerInfo": [
+                    "Cruiser",
+                    "Trout",
+                    "69083200",
+                    "1995-08-21",
+                    "111814",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1995-08-21",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                8
+                            ],
+                            [
+                                11,
+                                7
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                7
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                18,
+                                8
+                            ],
+                            [
+                                19,
+                                4
+                            ],
+                            [
+                                20,
+                                3
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 20
+                    },
+                    "LAT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                6
+                            ],
+                            [
+                                11,
+                                7
+                            ],
+                            [
+                                12,
+                                7
+                            ],
+                            [
+                                13,
+                                8
+                            ],
+                            [
+                                14,
+                                4
+                            ],
+                            [
+                                15,
+                                7
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                5
+                            ],
+                            [
+                                18,
+                                4
+                            ],
+                            [
+                                19,
+                                5
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 19
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                4
+                            ],
+                            [
+                                5,
+                                15
+                            ],
+                            [
+                                6,
+                                50
+                            ],
+                            [
+                                7,
+                                22
+                            ],
+                            [
+                                8,
+                                9
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 10
+                    }
+                }
+            },
+            {
+                "surveyID": "112069",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 80.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 9900.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "3.12",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "5.83",
+                        "quartileCount": "N/A",
+                        "totalWeight": 21195.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "LAT",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "1.34",
+                        "totalCatch": 35
+                    }
+                ],
+                "narrative": "<p>Lake trout are the primary focus of management in Cruiser Lake.  The first recorded stocking of lake trout occurred in 1948 when 21,000 fry were introduced.  Stocking continued until 1988.  The 2005 assessment was designed to target the lake trout population.  Lake trout, white suckers, and yellow perch were the only three species captured in the 2005 assessment.  Lake trout was the most common species, making up 80% of the catch by number.  Lake trout gill-net abundance in 2005 was 5.8 fish/set, which was slightly higher than the historical mean for the lake (4.5) and much higher than most class 3 lakes.  None of the lake trout captured had fin clips, which were given to stocked lake trout.  Furthermore, age analysis indicated that all fish were from year-classes that occurred after stocking ceased.  Many year-classes were present, including fish up to 12 years old.  Total length ranged from 10.2 to 20.7 inches with a mean of 15.9.  Mean weight was 1.34 pounds, which was much lower than most class 3 lakes.</p>",
+                "headerInfo": [
+                    "Cruiser",
+                    "Trout",
+                    "69083200",
+                    "2005-08-15",
+                    "112069",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2005-08-15",
+                "lengths": {
+                    "LAT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                6
+                            ],
+                            [
+                                17,
+                                5
+                            ],
+                            [
+                                18,
+                                5
+                            ],
+                            [
+                                19,
+                                4
+                            ],
+                            [
+                                20,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 20
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                22,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 22
+                    }
+                }
+            },
+            {
+                "surveyID": "11991521852510000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5215.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "2.87",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "11.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 33993.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "LAT",
+                        "gear": "Deep gill nets",
+                        "averageWeight": "1.09",
+                        "totalCatch": 69
+                    }
+                ],
+                "narrative": "<p>A targeted survey was completed on Cruiser Lake in 2015 as part of a regular rotation of surveys in the International Falls Management Area. Cruiser is a deep, clear lake in the heart of Voyageurs National Park. The lake has a maximum depth of 91 feet and water clarity of nearly 30 feet during the peak of the summer. Cruiser can be accessed by several different routes on hiking trails from Rainy Lake or Kabetogama, and a campsite on the lake can be reserved through Voyageurs National Park. <br> \n <br> \nThe survey in 2015 consisted of deep gill net sets that targeted the coldwater fish community.  Lake Trout were sampled at 11.5 fish per net, which indicates that there is a very large population. The Lake Trout are small, averaging 15.4 inches. The only other fish sampled in Cruiser were White Sucker. Catching trophy fish in Cruiser is unlikely, but the high density Lake Trout population should provide opportunities to catch a good number of fish on this scenic and remote lake. <br> \n</p>",
+                "headerInfo": [
+                    "Cruiser",
+                    "Trout",
+                    "69083200",
+                    "2015-08-17",
+                    "11991521852510000",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2015-08-17",
+                "lengths": {
+                    "LAT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                13,
+                                7
+                            ],
+                            [
+                                14,
+                                17
+                            ],
+                            [
+                                15,
+                                11
+                            ],
+                            [
+                                16,
+                                16
+                            ],
+                            [
+                                17,
+                                6
+                            ],
+                            [
+                                18,
+                                4
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 20
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                20,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 18,
+                        "maximum_length": 20
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

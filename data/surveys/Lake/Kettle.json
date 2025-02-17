@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737662734,
+    "result": {
+        "lakeName": "Kettle",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.42,
+        "DOWNumber": 38039200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 42.82,
+        "areaAcres": 42.82,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "1/6 mile portage from Pickle Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107997",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 1.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.3-0.5",
+                        "totalWeight": 0.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "12.33",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 35.7,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.96",
+                        "totalCatch": 37
+                    }
+                ],
+                "narrative": "<p>Composed of population is very high.</p>",
+                "headerInfo": [
+                    "Kettle",
+                    null,
+                    "38039200",
+                    "1972-08-11",
+                    "107997",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-08-11",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737651696,
+    "result": {
+        "lakeName": "Stem",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.17,
+        "DOWNumber": 16045500,
+        "waterClarity": [
+            [
+                "06/24/1975",
+                "15"
+            ]
+        ],
+        "averageWaterClarity": "15.0",
+        "littoralAcres": 37.0,
+        "areaAcres": 39.42,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 34.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via portaging 0.3 mile through woods from Tobacco Lake.  There is no marked/cleared portage",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109756",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "2.0-8.5",
+                        "totalWeight": 29.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.42",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>The only fish caught in the gillnets were N Pike. The only observed forage fish were Minnows.</p>",
+                "headerInfo": [
+                    "Stem",
+                    null,
+                    "16045500",
+                    "1975-06-23",
+                    "109756",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1975-06-23",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737546909,
+    "result": {
+        "lakeName": "Marcott",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.92,
+        "DOWNumber": 19004100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 18.0,
+        "areaAcres": 19.19,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 27.0,
+        "officeCode": "F313",
+        "accesses": [
+            {
+                "location": "ACCESS WAS GAINED THROUGH PRIVATE PROPERTY ON THE SOUTHEAST SIDE OF THE LAKE.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "120174",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.01,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CNM",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "69.00",
+                        "quartileCount": "11.5-57.8",
+                        "totalWeight": 5.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.5",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 69
+                    },
+                    {
+                        "CPUE": "36.67",
+                        "quartileCount": "4.9-49.8",
+                        "totalWeight": 3.7,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.03",
+                        "totalCatch": 110
+                    },
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "1.1-25.2",
+                        "totalWeight": 2.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.5",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 30
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>BLB AND BLG WERE SAMPLED AT ABOVE LOCAL MEDIAN ABUNDANCE.  BOTH BLHS AND BLGS WERE VERY SMALL, PROBABLY YEARLING FISH.  BLGS WERE LIKELY THE PROGENY OF FISH INTRODUCED THE PREVIOUS YEAR BY PERSONS UNKNOWN.  SHINERS AND CENTRAL MUDMINNOW WERE ALSO PRESENT IN MARCOTT LAKE.  THE SIMPLE SPECIES COMPLEX AND DOMINANCE OF BLHS INDICATES FREQUENT WINTER KILL EVENTS.</p>",
+                "headerInfo": [
+                    "Marcott",
+                    "Rosenberger",
+                    "19004100",
+                    "1991-06-13",
+                    "120174",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1991-06-13",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Dakota"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

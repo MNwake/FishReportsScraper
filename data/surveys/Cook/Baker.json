@@ -1,0 +1,130 @@
+{
+    "timestamp": 1737649929,
+    "result": {
+        "lakeName": "Baker",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.2,
+        "DOWNumber": 16048600,
+        "waterClarity": [
+            [
+                "07/19/1990",
+                "7"
+            ]
+        ],
+        "averageWaterClarity": "7.0",
+        "littoralAcres": 20.15,
+        "areaAcres": 20.15,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 10.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110147",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.40",
+                        "quartileCount": "1.0-5.9",
+                        "totalWeight": 1.63,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "0.3-1.6",
+                        "totalWeight": 1.31,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.5-1.8",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.44",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "3.20",
+                        "quartileCount": "1.2-6.1",
+                        "totalWeight": 20.84,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.30",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "2.8-8.5",
+                        "totalWeight": 1.88,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.63",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "30.50",
+                        "quartileCount": "2.0-16.0",
+                        "totalWeight": 12.53,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 61
+                    },
+                    {
+                        "CPUE": "28.50",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 60.4,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.06",
+                        "totalCatch": 57
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.38,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>WALLEYE ABUNDANCE WAS VERY LOW; ONLY AGE II WALLEYE WERE SAMPLED AND THESE FISH MAY HAVE MOVED FROM PETERSON LAKE WHICH WAS STOCKED IN 1988.  IT APPEARS THAT THE THREE YEARS OF WALLEYE FRY STOCKING IN BAKER LAKE HAVE BEEN UNSUCCESSFUL. NORTHERN PIKE ABUNDANCE WAS LOW AND SIZE WAS FAIRLY SMALL.  YELLOW PERCH ABUNDANCE WAS GOOD. A WIDE RANGE OF SIZES, INCLUDING SOME OVER 10 IN WERE COLLECTED.</p>",
+                "headerInfo": [
+                    "Baker",
+                    null,
+                    "16048600",
+                    "1990-07-19",
+                    "110147",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1990-07-19",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,145 @@
+{
+    "timestamp": 1737647767,
+    "result": {
+        "lakeName": "Dade",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.65,
+        "DOWNumber": 11021400,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 99.41,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 0.0,
+        "officeCode": "F212",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "11881506935608000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1458.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Special trap nets",
+                        "averageWeight": "3.21",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3704.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Special trap nets",
+                        "averageWeight": "2.04",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "6.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 554.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 20
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 168.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.37",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Three 3/8\" trap nets were set on May 5, 2014 and lifted May 6, 2014 to assess winterkill in Dade Lake.  Some fish species sampled included one largemouth bass with a length of 18\", one pumpkinseed at 7.5\", 4 northern pike with a size range of 19\"-24\", and 20 yellow perch with a size range of 4\"-5.5\". </p>",
+                "headerInfo": [
+                    "Dade",
+                    null,
+                    "11021400",
+                    "2014-05-05",
+                    "11881506935608000",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2014-05-05",
+                "lengths": {
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 7
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                23,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 18,
+                        "maximum_length": 23
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                18
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 17
+                    }
+                }
+            }
+        ],
+        "countyName": "Cass"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,1241 @@
+{
+    "timestamp": 1737661799,
+    "result": {
+        "lakeName": "Bean",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.02,
+        "DOWNumber": 38040900,
+        "waterClarity": [
+            [
+                "06/19/2007",
+                "16.3"
+            ],
+            [
+                "06/24/2013",
+                "15"
+            ],
+            [
+                "10/07/2019",
+                "5.5"
+            ],
+            [
+                "05/06/2019",
+                "8"
+            ],
+            [
+                "07/30/2019",
+                "10.5"
+            ],
+            [
+                "09/18/2019",
+                "9"
+            ],
+            [
+                "07/15/2019",
+                "14"
+            ],
+            [
+                "08/20/2019",
+                "10.5"
+            ],
+            [
+                "06/17/2019",
+                "13"
+            ],
+            [
+                "10/07/2019",
+                "5.5"
+            ]
+        ],
+        "averageWaterClarity": "10.7",
+        "littoralAcres": 16.0,
+        "areaAcres": 31.46,
+        "meanDepthFeet": 12.0,
+        "maxDepthFeet": 26.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "Access on the south side of the lake from the Red Dot ATV and Snowmobile Trail.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "A 0.2 mile portage trail from Bear Lake to the northeast end of Bean Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "610716628225000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1528.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.67",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "19.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11425.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.66",
+                        "totalCatch": 38
+                    },
+                    {
+                        "CPUE": "130.50",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 30726.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 261
+                    }
+                ],
+                "narrative": "<p>Bean Lake is 30-acre designated stream trout lake that is stocked with splake and rainbow trout. The lake is located approximately 1.3 miles northwest of Silver Bay and lies in very rugged and scenic terrain. Bean Lake is approximately 0.6 miles from the nearest road and can be accessed on foot, snowmobile, or ATV on a trail that terminates at the southwest end of the lake. A ski trail and the Superior Hiking Trail also pass near the end of the lake. The lake is undeveloped and along with Bear Lake, a designated stream trout lake a short distance to northeast, offers spectacular scenery to the outdoor enthusiast. Bean Lake is open for trout fishing during the open water season and during the winter trout season and receives moderate fishing pressure. The lake has a maximum depth of 26 feet and the water is very clear with a secchi disc visible to a depth of 16.3 feet.  <br> \n <br> \nA population assessment in 2007 collected splake in above average numbers compared to other stream trout lakes in the Finland area. Mean size was 12.1 inches (0.66 pounds) with splake up to 14 inches collected. Approximately 71% of the splake caught in this assessment were between 12.0 and 13.9 inches. Splake fingerlings are aerially stocked in late autumn every other year. <br> \n <br> \nRainbow trout were collected in low numbers; however, this species is difficult to capture in survey gear. A total of five rainbow trout were collected in 2007 averaging 12.1 inches with a maximum size of 13.1 inches. Rainbow trout yearlings are stocked in May of each year.  <br> \n</p>",
+                "headerInfo": [
+                    "Bean",
+                    null,
+                    "38040900",
+                    "2007-06-18",
+                    "610716628225000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2007-06-18",
+                "lengths": {
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                7
+                            ],
+                            [
+                                12,
+                                16
+                            ],
+                            [
+                                13,
+                                11
+                            ],
+                            [
+                                14,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 14
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                13,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 13
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                17
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                5
+                            ],
+                            [
+                                14,
+                                11
+                            ],
+                            [
+                                15,
+                                5
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                6,
+                                112
+                            ],
+                            [
+                                7,
+                                51
+                            ],
+                            [
+                                8,
+                                15
+                            ],
+                            [
+                                9,
+                                39
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 17
+                    }
+                }
+            },
+            {
+                "surveyID": "112136",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "1.0-4.1",
+                        "totalWeight": 1.25,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.5-1.5",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.31",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "115.00",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 81.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.70",
+                        "totalCatch": 115
+                    }
+                ],
+                "narrative": "<p>When Fintrol or an effective substitute becomes available the lake will be reclaimed and restocked with rainbow trout. This project has the approval of the Silver Bay Park Board who plan to build a road to the lake when the Reserve Mining issue is settled.</p>",
+                "headerInfo": [
+                    "Bean",
+                    null,
+                    "38040900",
+                    "1976-07-19",
+                    "112136",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1976-07-19",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112418",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 10.6,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.66",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "117.50",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 100.9,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.43",
+                        "totalCatch": 235
+                    }
+                ],
+                "narrative": "<p>The 1989 gillnet catch of 8/lift Rainbow Trout is considered high, however this represents a 24% decrease from the previous assessment in 1983. Mean length of 12.0 inches, 1983 mean of 11.7 is maintained by aerial stocking each fall. The 1989 gillnet catch of 117 White Sicker/lift was nearly a 400% increase over the 1983 catch. White Sucker nmbers may have reached a point where competition with Rainbow Trout for food may have a negtive effect on growth. Splake were not sampled in this assessment but they are known to be present, having migrated from adjoining Bear Lake.</p>",
+                "headerInfo": [
+                    "Bean",
+                    null,
+                    "38040900",
+                    "1989-06-22",
+                    "112418",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1989-06-22",
+                "lengths": {}
+            },
+            {
+                "surveyID": "113004",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "13.89",
+                        "quartileCount": "0.5-3.4",
+                        "totalWeight": 16263.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.8-1.6",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.29",
+                        "totalCatch": 125
+                    },
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 10484.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.96",
+                        "totalCatch": 24
+                    },
+                    {
+                        "CPUE": "0.56",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1812.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.80",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "50.50",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 24748.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.54",
+                        "totalCatch": 101
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 890.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.65",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Bean Lake is a 30 acre designated stream trout lake located within the boundaries of Tettegouche state Park.  Splake and rainbow trout are stocked on a regular basis. Bean Lake is unique for the high cliffs and rock slides that abut much of the the shoreline, yet lies just a mile north of the town of Silver Bay.  The rugged beauty and difficult access create a remoteness not often experienced near a population center.Splake were sampled in fairly high numbers, and the catch included some quality-size fish.  Splake up to 22.3 inches (4.0 pounds) were sampled; however, fish of this size were rare.  Most splake were between 12.0 and 14.9 inches.Rainbow trout were sampled, but not in particularly high numbers.  This species is difficult to sample in netting gear, especially in lakes with good water clarity.  The net catch may not always be reliable in determining the status of the population.  The rainbow trout captured in trap nets ranged between 12.4 inches and 14.6 inches (1.1 pounds), and all were survivors of a 2002 yearling stocking.  No yearlings had been stocked in 2003.</p>",
+                "headerInfo": [
+                    "Bean",
+                    null,
+                    "38040900",
+                    "2003-06-16",
+                    "113004",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2003-06-16",
+                "lengths": {
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                6
+                            ],
+                            [
+                                13,
+                                9
+                            ],
+                            [
+                                14,
+                                4
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 22
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 14
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                36
+                            ],
+                            [
+                                11,
+                                34
+                            ],
+                            [
+                                12,
+                                47
+                            ],
+                            [
+                                13,
+                                18
+                            ],
+                            [
+                                14,
+                                4
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                37
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                42
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "4251317151694000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3223.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.71",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5245.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.72",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "99.50",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 71715.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.79",
+                        "totalCatch": 199
+                    }
+                ],
+                "narrative": "<p>Bean Lake is characterized as a lake class 8 lake and is located one mile northwest of Silver Bay in the Lake Superior Watershed.  The lake lies within a portion of Tettegouche State Park that allows hunting, ATVs, snowmobiles and outboard motors.  Public access is a carry-in on the south end of the lake from a snowmobile/ATV trail that originates in Silver Bay.  There is a small picnic area with a fire ring and cleared areas to pitch small tents at the access.  A second access on the north end of the lake is the portage trail to Bear Lake.  The lake is 32 acres, 50% littoral with a maximum depth of 26 feet and a Secchi disk reading of 15 feet in light green water.  A lake water sample was collected and analyzed, indicating moderately soft water of low fertility.  Boulder and rubble were rated \"common\" shoreline substrate, with gravel, sand, muck and detritus rated \"rare\". Vegetation was found growing to a maximum depth of nine feet, 15 species/groups of aquatic vegetation were identified, all rated \"rare\".  One inlet enters the lake on the north end originating in Bear Lake.  One outlet exits on the south end near the access.  <br> \n <br> \nThe catch of Rainbow Trout in 2013 was 5/lift in two gill net sets with a mean weight of 0.71 pounds.  Beginning in 2006, yearling Rainbow Trout have been stocked annually.  The largest fish sampled in 2013 was 17.5 inches and weighed 2.1 pounds.  Two age-2 fish were sampled, while the remainder of the catch was yearlings from this year stocking.  Since management changed to annual stocking the net catches have increased and local anglers have expressed satisfaction level has also increased. <br> \n <br> \nThe catch of Splake in 2013 was 8/lift with an average weight of 0.72 pounds.  Splake fingerlings are stocked in odd numbered years.  All fish sampled in 2013 were between 11.1 and 14.2 inches and were age-2.  Growth of Splake was slightly faster than average for the Finland Area. <br> \n <br> \nThe catch of White Sucker in 2013 was 99.5/lift, well above average for the lake class with an average weight of 0.8 pounds.  Past assessments revealed similar results of very high numbers with small average size.  The high numbers of White Suckers in Bean Lake likely compete with trout and affect the growth potential for trout in this lake. <br> \n <br> \nBean Lake gets a high amount of use due to its close proximity to Silver Bay, both summer and winter.  Because of a good ATV/snowmobile trail that leads to the lake, many locals ride out to the lake fishing, picnicking or just sightseeing.  It is highly regarded for its natural beauty and is a destination for people using the Superior Hiking Trail. <br> \n</p>",
+                "headerInfo": [
+                    "Bean",
+                    null,
+                    "38040900",
+                    "2013-06-24",
+                    "4251317151694000",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2013-06-24",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                7
+                            ],
+                            [
+                                12,
+                                27
+                            ],
+                            [
+                                13,
+                                24
+                            ],
+                            [
+                                14,
+                                51
+                            ],
+                            [
+                                15,
+                                24
+                            ],
+                            [
+                                16,
+                                5
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                43
+                            ],
+                            [
+                                7,
+                                11
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 18
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                5
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 17
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                6
+                            ],
+                            [
+                                13,
+                                6
+                            ],
+                            [
+                                14,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 14
+                    }
+                }
+            },
+            {
+                "surveyID": "17101928027270002",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "PRD",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "143.67",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 25288.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 431
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.00",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "9.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.00",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 977.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.72",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2975.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.73",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "33.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "IOD",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.00",
+                        "totalCatch": 66
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.00",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 780.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.72",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.00",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Bean Lake is a designated stream trout lake located 1.5 miles northwest of Silver Bay and is within Tettegouche State Park.  The lake has a carry-in access on the southwest end and can be accessed from the Red Dot ATV/Snowmobile trail.  Unregulated brush clearing and illegal ATV use has resulted in significant shoreline erosion near the access and damage to the lake outlet structure.  Expensive repairs will be required.  There is also a 0.16 mile portage trail connecting the northeast end of Bean Lake to Bear Lake.  Bean Lake is managed for Splake and Rainbow Trout with fingerling Splake stocked in the fall of odd numbered years and yearling Rainbow Trout stocked each spring.  There is no natural reproduction in Bean Lake of Splake or Rainbow Trout so populations are dependent upon stocking.  Due to a short term Splake shortage in the hatchery system in 2017, Rainbow Trout were stocked instead of Splake in the fall of 2017, which impacted the results of this survey. <br> \n   <br> \nA lake survey was conducted the week of October 7 2019 to assess the current state of the trout populations.  Splake catch was low for the lake with a single Splake sampled in gill nets.  The fish sampled was 17 inches long and weighed 1.75 pounds.  Three fingerling Splake that had been stocked the week before the survey were also sampled in a trap net.  The low catch is likely due to the lack of fish stocked in 2017 and Splake catches may be down until the fish stocked in fall of 2019 grow to catchable sizes.  The management plan calls for continued stocking of Splake into the future and hopefully next survey will see numbers increase.  <br> \n <br> \nCatch of Rainbow Trout was average for the lake.  The fish sampled in gill nets had an average length of 12.5 inches.  All but one of the Rainbow Trout in the sample were stocked in spring of 2019 as yearlings and the remaining fish was either stocked in fall of 2017 as a fingerlings or spring of 2018 as a yearling. <br> \n <br> \nThe number of White Sucker sampled in 2019 was once again well above average for the lake class.  Past assessments revealed similar results of very high numbers with small average size.  The high numbers of White Suckers in Bean Lake likely compete with trout and affect the growth potential for trout in this lake.  Iowa Darter, Brook Stickleback, Fathead Minnow, Finescale Dace, and Northern Pearl Dace were also sampled during the survey. <br> \n <br> \nBean Lake gets a high amount of use due to its close proximity to Silver Bay, both summer and winter. Because of a good ATV/snowmobile trail that leads to the lake, many locals ride out to the lake fishing, picnicking or just sightseeing.  It is highly regarded for its natural beauty and is a destination for people using the Superior Hiking Trail. <br> \n</p>",
+                "headerInfo": [
+                    "Bean",
+                    null,
+                    "38040900",
+                    "2019-10-07",
+                    "17101928027270002",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2019-10-07",
+                "lengths": {
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                17,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 17
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                21
+                            ],
+                            [
+                                11,
+                                8
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                6,
+                                68
+                            ],
+                            [
+                                7,
+                                193
+                            ],
+                            [
+                                8,
+                                8
+                            ],
+                            [
+                                9,
+                                131
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 16
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                5
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                15,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "17631912629910000",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Bean Lake is a designated stream trout lake that is stocked with yearling Rainbow Trout annually and fingerling Splake in odd numbered years.  A survey was completed in 2019 to monitor the amount of cool, well oxygenated habitat (oxythermal habitat) available for trout during the summer.  Automated temperature loggers were suspended at depths of five, ten, fifteen, and eighteen feet below the surface at the deepest spot in the lake to record hourly water temperatures throughout the summer.  In addition, temperature and dissolved oxygen profiles were collected on several occasions to determine how deep well oxygenated water occurred. <br> \n <br> \nSurvey results indicate summer dissolved oxygen concentrations and water temperatures were not limiting factors in Bean Lake in 2019.  Similar surveys completed in recent years suggest the lake currently maintains good habitat for stream trout throughout the open water season.  Oxythermal habitat conditions will continue to be monitored to evaluate the suitability of Bean Lake for stream trout management. <br> \n</p>",
+                "headerInfo": [
+                    "Bean",
+                    null,
+                    "38040900",
+                    "2019-05-06",
+                    "17631912629910000",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2019-05-06",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112681",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 160.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "14.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 10189.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.77",
+                        "totalCatch": 29
+                    },
+                    {
+                        "CPUE": "116.50",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 29963.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.28",
+                        "totalCatch": 233
+                    }
+                ],
+                "narrative": "<p>The gamefish population in Bean Lake is comprised of splake and rainbow trout with splake being the more abundant. Test nets in 1995 sampled splake from 10 inches to 16 inches with fish in the 12 inch to 14 inch range the most common size. Rainbow trout were not well represented in test nets as in previous surveys. The lower than normal number of rainbow trout sampled may be associated with splake becoming more abundant and the fact rainbow trout and splake are now stocked in alternate years. The rainbow trout sampled were small, less than 8.5 inches however several in the 10 inch to 12 inch range were taken by anglers in the 1995 and 1996 winter trout season.     White suckers are extremely abundant and are often caught by anglers while fishing for trout. </p>",
+                "headerInfo": [
+                    "Bean",
+                    null,
+                    "38040900",
+                    "1995-06-21",
+                    "112681",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1995-06-21",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 8
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                14
+                            ],
+                            [
+                                11,
+                                5
+                            ],
+                            [
+                                12,
+                                14
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                7,
+                                70
+                            ],
+                            [
+                                8,
+                                42
+                            ],
+                            [
+                                9,
+                                80
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 18
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                5
+                            ],
+                            [
+                                12,
+                                11
+                            ],
+                            [
+                                13,
+                                10
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "112717",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "1.0-4.1",
+                        "totalWeight": 1.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.5-1.5",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "80.50",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 181.8,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.13",
+                        "totalCatch": 161
+                    }
+                ],
+                "narrative": "<p>This lake has an exceptionally large population of smallmouth bass and white sucker. The bass are small in size, presumably, as a result of over-crowding. The lake lacks a good predator as noted from the very large white sucker population.</p>",
+                "headerInfo": [
+                    "Bean",
+                    null,
+                    "38040900",
+                    "1955-08-19",
+                    "112717",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1955-08-19",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112873",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "52.89",
+                        "quartileCount": "0.5-3.4",
+                        "totalWeight": 21787.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.8-1.6",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 476
+                    },
+                    {
+                        "CPUE": "8.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5147.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.67",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "0.11",
+                        "quartileCount": "N/A",
+                        "totalWeight": 254.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.56",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "116.50",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 32313.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.31",
+                        "totalCatch": 233
+                    },
+                    {
+                        "CPUE": "0.78",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1565.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.49",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Bean Lake is a \"Designated Stream Trout Lake\" which is open to angling during the stream trout season (lakes) only.  Possessing live minnows or using them for bait on designated stream trout lakes is prohibited, and only one line is permitted at any time.  Fishing hours for stream trout on inland waters are from one hour before sunrise to 11 p.m.  All stream trout must have head, tail, fins and skin intact when being transported.     The lake is stocked on an alternating schedule with splake fingerlings stocked in odd numbered years and rainbow trout in the even numbered years.  Fish species sampled in DNR test nets in 1999 were splake, rainbow trout and white sucker.  Splake were collected in average numbers compared to other stream trout lakes in this geographical area.  They average 12.3 inches (0.67 pound) and ranged from 7.9 inches to 16.4 inches (1.5 pounds).     One rainbow trout was collected during the survey.  This is a lower number than expected as the lake was stocked approximately one year earlier with yearling rainbow trout, but none of these fish were captured.  Rainbow trout are difficult to capture in nets, and that leaves the status of the Bean Lake population uncertain.</p>",
+                "headerInfo": [
+                    "Bean",
+                    null,
+                    "38040900",
+                    "1999-06-15",
+                    "112873",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1999-06-15",
+                "lengths": {
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                9
+                            ],
+                            [
+                                12,
+                                7
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 16
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                425
+                            ],
+                            [
+                                11,
+                                103
+                            ],
+                            [
+                                12,
+                                18
+                            ],
+                            [
+                                13,
+                                11
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                6
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                10
+                            ],
+                            [
+                                8,
+                                9
+                            ],
+                            [
+                                9,
+                                122
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 19
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 12
+                    }
+                }
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

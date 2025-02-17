@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737665609,
+    "result": {
+        "lakeName": "St Peter CFP",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.19,
+        "DOWNumber": 52007400,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 1.72,
+        "areaAcres": 1.72,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 13.0,
+        "officeCode": "F411",
+        "accesses": [
+            {
+                "location": "CITY AND PARK AROUND POND; NO BOAT ACCESS",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "117340",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "13.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.19,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.09,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.12,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.12",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.03,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.03",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>STATUS OF THE FISHERY:\nThis is the first time the St. Peter Mill Pond has been sampled.  A scant fish population was netted, which suggests the stocked panfish are fully utilized.  Management of this Kid's Fishing Pond over the years has consisted of stocking 300 lbs. of adult black crappie/bluegill annually.  It may be appropriate to increase the stocking rate to sustain the fishery.  Black crappie average 13.0/gillnet, with all the fish being 5.5-6.4 inches in length.  Black crappie were dominated by age 3 fish with one 4 year old being netted.  Other fish netted consisted of one each of bluegill, yellow perch and white sucker.</p>",
+                "headerInfo": [
+                    "St Peter CFP",
+                    "St. Peter KFP",
+                    "52007400",
+                    "1992-05-17",
+                    "117340",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1992-05-17",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Nicollet"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

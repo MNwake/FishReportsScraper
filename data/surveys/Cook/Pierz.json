@@ -1,0 +1,512 @@
+{
+    "timestamp": 1737651337,
+    "result": {
+        "lakeName": "Pierz",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.73,
+        "DOWNumber": 16009100,
+        "waterClarity": [
+            [
+                "09/04/2013",
+                "10.5"
+            ]
+        ],
+        "averageWaterClarity": "10.5",
+        "littoralAcres": 51.0,
+        "areaAcres": 89.4,
+        "meanDepthFeet": 12.6,
+        "maxDepthFeet": 28.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "PRMIT",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111310",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "26.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 157
+                    },
+                    {
+                        "CPUE": "8.50",
+                        "quartileCount": "0.4-7.0",
+                        "totalWeight": 572.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "33.00",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 55121.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.84",
+                        "totalCatch": 66
+                    }
+                ],
+                "narrative": "<p>This assessment was conducted to obtain updated fish population data prior to the reintroduction of splake in this lake.  Splake were stocked in this lake for the first time since 1975 in the fall of 2001.Temperature-oxygen conditions appeared to have been suitable for stream trout at depths of 15 to 20 ft.The gill net catch in this assessment was similar to the catch observed in the last (1983) assessment.  No new species were collected.  White sucker and green sunfish were abundant; gill net catches for both species were above third quartile values.  The size distribution for white sucker was similar to distributions seen in most past assessments.</p>",
+                "headerInfo": [
+                    "Pierz",
+                    "Beaver",
+                    "16009100",
+                    "2001-09-04",
+                    "111310",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2001-09-04",
+                "lengths": {
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                12
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 6
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                7
+                            ],
+                            [
+                                16,
+                                19
+                            ],
+                            [
+                                17,
+                                21
+                            ],
+                            [
+                                18,
+                                9
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 19
+                    }
+                }
+            },
+            {
+                "surveyID": "109885",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "0.4-7.0",
+                        "totalWeight": 0.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "47.50",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 34.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.36",
+                        "totalCatch": 95
+                    }
+                ],
+                "narrative": "<p>THERE IS A LARGE ABUNDANCE OF SMALL SUCKERS AND SOME GREEN SUNFISH PRESENT.</p>",
+                "headerInfo": [
+                    "Pierz",
+                    "Beaver",
+                    "16009100",
+                    "1983-07-11",
+                    "109885",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1983-07-11",
+                "lengths": {}
+            },
+            {
+                "surveyID": "111504",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "8.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 18065.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.34",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "0.4-7.0",
+                        "totalWeight": 51.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.03",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 7330.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.31",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>This lake had not been stocked for 25 years.  Splake were stocked in 2001 and 2003, and this was the first assessment since stocking resumed.  The number of splake caught was in the usual range for area lakes managed for splake.  All splake caught appeared to be from the 2001 stocking, making all of them four years old.  For this reason the average size was large.  These fish had grown somewhat faster than average for the area.The catch of green sunfish was the lowest from this lake since the species was first caught in 1975.  The catch was in the usual range for this class of lake.White sucker have been caught in all assessments of this lake.  The number caught in 2005 was by far the lowest recorded from this lake, but was in the usual range for this class of lake.  The average size of white sucker was the largest recorded for this lake, and exceeded the average size in over three-fourths of assessments of this class of lake.</p>",
+                "headerInfo": [
+                    "Pierz",
+                    "Beaver",
+                    "16009100",
+                    "2005-09-06",
+                    "111504",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2005-09-06",
+                "lengths": {
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                4
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                19,
+                                3
+                            ],
+                            [
+                                20,
+                                5
+                            ],
+                            [
+                                21,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 21
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 4
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 20
+                    }
+                }
+            },
+            {
+                "surveyID": "4311325233505004",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 22150.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.44",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "23.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 95
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "1.0-4.1",
+                        "totalWeight": 3294.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.5-1.5",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.45",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "10.50",
+                        "quartileCount": "0.4-7.0",
+                        "totalWeight": 699.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "18.50",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 23139.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.38",
+                        "totalCatch": 37
+                    }
+                ],
+                "narrative": "<p>This assessment was done in an attempt to confirm angler reports of high numbers of smallmouth bass in this lake, and to evaluate recent stocking efforts.  The presence of smallmouth bass was confirmed. <br> \n <br> \nThe 2013 splake gill net catch was similar to the catch observed in the 2005 assessment, and was well within the normal range (2.8 - 14.3 fish/net) for fall assessments of stream trout lakes in this area.  Splake collected in 2013 were unusually large; their mean weight was well above the upper end of the normal range (1.27 lb/fish) for splake taken in fall assessments in this area.  Splake collected in 2013 appeared to have been in excellent condition, suggesting forage remained adequate despite competition from white sucker, green sunfish, and smallmouth bass.  Most of the splake taken in 2013 were six-year-old fish from the 2007 fingerling stocking.  The capture of so many fish of that age indicated excellent long-term survival in this lake, compared to other splake lakes in the area.  More recent stockings had apparently not contributed as much to the population.  Predation from large splake, and from smallmouth bass, may have limited survival of more recent stockings.  As the 2007 splake year class dies out, predation pressure may relax, and we may see better survival of stocked fish. <br> \n <br> \nSmallmouth bass were reported by anglers in this lake as early as May 2004.  None were collected in the 2005 assessment, but several anglers reported catching them between 2004 and 2013.  Smallmouth bass are rarely found in stream trout lakes in this area.  The 2013 gill net catch in Pierz lake fell within the normal range for the lake class, but given the small number of net sets, and difficulties sampling bass in gill nets, that catch was probably not a good indicator of smallmouth bass abundance (or size) in this lake.  The most that could be said was that smallmouth bass were present, and some were large enough to have preyed on stocked splake (although there was no direct evidence they had done so). <br> \n <br> \nGreen sunfish and white sucker both appeared to have been abundant in 2013, based on gill net catches for both species that exceeded normal ranges for the lake class.  Both species could compete with splake for invertebrate forage, but splake may also prey on small green sunfish, as lake trout have been observed to do in other lakes in this area. <br> \n</p>",
+                "headerInfo": [
+                    "Pierz",
+                    "Beaver",
+                    "16009100",
+                    "2013-09-04",
+                    "4311325233505004",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2013-09-04",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                5
+                            ],
+                            [
+                                11,
+                                8
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                15,
+                                5
+                            ],
+                            [
+                                16,
+                                4
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 21
+                    },
+                    "SMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 16
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                20
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                22,
+                                6
+                            ],
+                            [
+                                23,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 23
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

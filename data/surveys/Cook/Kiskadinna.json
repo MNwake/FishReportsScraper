@@ -1,0 +1,166 @@
+{
+    "timestamp": 1737650813,
+    "result": {
+        "lakeName": "Kiskadinna",
+        "sampledPlants": [],
+        "shoreLengthMiles": 5.98,
+        "DOWNumber": 16042800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 121.31,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 40.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Entirely inside the BWCAW.  Portage trails from Davis; Omega; and Muskeg Lakes.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111222",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Survey seining",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BND",
+                        "gear": "Survey seining",
+                        "averageWeight": "0.00",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "Survey seining",
+                        "averageWeight": "0.00",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "3.67",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 9394.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.94",
+                        "totalCatch": 22
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Survey seining",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>This survey was done to determine whether Kiskadinna Lake supported a native lake trout population.  No lake trout (or any other game fish species) were found; however, the presence of at least a small number of lake trout or northern pike could not be ruled out by this survey.  Temperature-oxygen conditions, while marginal, could have supported lake trout, and both species are found downstream in the watershed.  A 1939 CCC survey of this lake reported that northern pike were the most abundant fish species present (although none were sampled), and recommended that no stocking of the lake be done until the northern pike were reduced by angling.  No stocking ever was done, and it was unlikely that there was ever much angling either.</p>",
+                "headerInfo": [
+                    "Kiskadinna",
+                    null,
+                    "16042800",
+                    "1999-07-19",
+                    "111222",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1999-07-19",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                7,
+                                6
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 19
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 1
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

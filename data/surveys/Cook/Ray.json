@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737651433,
+    "result": {
+        "lakeName": "Prayer",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.87,
+        "DOWNumber": 16061500,
+        "waterClarity": [
+            [
+                "08/28/1978",
+                "4.5"
+            ]
+        ],
+        "averageWaterClarity": "4.5",
+        "littoralAcres": 0.0,
+        "areaAcres": 42.29,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 19.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Poor-No marked portage trail.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109797",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 14.2,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.42",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.00",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>There is a fair population of small N Pike with some Suckers for forage.</p>",
+                "headerInfo": [
+                    "Prayer",
+                    null,
+                    "16061500",
+                    "1978-08-28",
+                    "109797",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-08-28",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

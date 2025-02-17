@@ -1,0 +1,616 @@
+{
+    "timestamp": 1737663466,
+    "result": {
+        "lakeName": "Sylvania",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.23,
+        "DOWNumber": 38039500,
+        "waterClarity": [
+            [
+                "07/10/2012",
+                "4"
+            ]
+        ],
+        "averageWaterClarity": "4.0",
+        "littoralAcres": 77.07,
+        "areaAcres": 77.07,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 4.5,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "4331218828166000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "26.33",
+                        "quartileCount": "3.0-9.0",
+                        "totalWeight": 30523.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.85",
+                        "totalCatch": 79
+                    },
+                    {
+                        "CPUE": "35.00",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 19574.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.41",
+                        "totalCatch": 105
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 12178.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.24",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>Sylvania Lake is 77 acres with a maximum depth of 4.5 feet, located approximately 7.5 miles northeast of Isabella, MN.  The public access is a carry-in off of U.S. Forest Service Road #379 down a steep bank to the outlet channel.  The channel is shallow and choked with vegetation making it difficult to access the lake with an outboard motor.  There is also a portage trail to Bunny Lake on the north end of Sylvania Lake; this is the only access route to Bunny Lake.  Sylvania Lake is surrounded by public land and undeveloped lake shore.  Sylvania Lake is a moderately soft-water lake with a secchi disk visible to the bottom (4.5 feet) in brown bog-stained water. <br> \n <br> \nThe majority of the lake substrate was muck and detritus with hard bottom scattered along the south shore, covered by or adjacent to muck and detritus.  Floatingleaf burreed and yellow waterlily were common on the lake surface with muskgrass, water marigold, whitestem pondweed and bladderworts the most common submerged plants in the shallow bog-stained lake.  The shore was approximately 75% marsh or bog with a long stretch of common cattail on the north shore.  No wild rice plants were identified in 2012, although wild rice has been listed as present or sparse in previous investigations of Sylvania Lake, certainly not enough to harvest. <br> \n   <br> \nThe northern pike numbers in 2012 were well above average for the lake class and the highest of previous investigations on Sylvania Lake.  The average weight was 1.0 pound, smaller than average for this type of lake, the average length was 16.6 inches the largest northern pike was 27.6 inches (4.4 pounds), the strong age 2 and 4 year classes (75% of the catch) greatly influenced the small average size in 2012.  Eight consecutive year classes of northern pike were identified in the 2012 lake survey indicating consistent reproduction in Sylvania Lake. <br> \n  <br> \nYellow perch numbers were well above average for this type of lake, also high yellow perch catches in previous investigations.   The average weight was 0.4 pound (9.4 inches) above average for the lake class the largest yellow perch was 12.6 inches (0.9 pound).  The yellow perch size and numbers should provide opportunities for anglers interested in quality yellow perch. The shallow nature of the lake and difficult winter access (approximately 8 miles from nearest plowed road) could make angling Sylvania Lake an adventure. <br> \n <br> \nThe white suckers are present in low numbers.  The average weight was 2.5 pounds in 2012.  There is no known harvest (netting/spearing during open season) of the white sucker population in Sylvania Lake. <br> \n</p>",
+                "headerInfo": [
+                    "Sylvania",
+                    "Long",
+                    "38039500",
+                    "2012-07-09",
+                    "4331218828166000",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2012-07-09",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                31
+                            ],
+                            [
+                                11,
+                                14
+                            ],
+                            [
+                                12,
+                                4
+                            ],
+                            [
+                                6,
+                                14
+                            ],
+                            [
+                                7,
+                                11
+                            ],
+                            [
+                                8,
+                                14
+                            ],
+                            [
+                                9,
+                                18
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 12
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                5
+                            ],
+                            [
+                                14,
+                                12
+                            ],
+                            [
+                                15,
+                                13
+                            ],
+                            [
+                                16,
+                                11
+                            ],
+                            [
+                                17,
+                                10
+                            ],
+                            [
+                                18,
+                                11
+                            ],
+                            [
+                                19,
+                                3
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                22,
+                                2
+                            ],
+                            [
+                                25,
+                                1
+                            ],
+                            [
+                                27,
+                                2
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 27
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                17,
+                                5
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                21,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 21
+                    }
+                }
+            },
+            {
+                "surveyID": "112835",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "3.0-9.0",
+                        "totalWeight": 6601.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.21",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 12541.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.97",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "0.5-3.8",
+                        "totalWeight": 2523.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 30
+                    },
+                    {
+                        "CPUE": "2.30",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11961.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.15",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "3.10",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 31257.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.22",
+                        "totalCatch": 31
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "168.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNS",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 672
+                    },
+                    {
+                        "CPUE": "39.00",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 11918.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.34",
+                        "totalCatch": 78
+                    }
+                ],
+                "narrative": "<p>The fish population in Sylvania Lake is comprised of northern pike, yellow perch, white sucker and various minnow species.     Test nets in 1997 found northern pike abundance about average when compared to similar lakes in this lake class.  Northern pike from 10.9 inches to 27.2 inches (4.5 pounds) were collected, with the overall size rather small, averaging 1.2 pounds.  The lake is known for producing mostly small northern pike.     Yellow perch are present in above average numbers with a good number of \"keeper size fish\".  Yellow perch averged 8.7 inches with fish up to 11.7 inches sampled and nearly 50% of the fish collected being greater than 9.5 inches in length.  The yellow perch population is of sufficient size and numbers to interest anglers, however almost all angler effort is directed at northern pike.</p>",
+                "headerInfo": [
+                    "Sylvania",
+                    "Long",
+                    "38039500",
+                    "1997-07-08",
+                    "112835",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1997-07-08",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                5
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                7
+                            ],
+                            [
+                                17,
+                                8
+                            ],
+                            [
+                                18,
+                                8
+                            ],
+                            [
+                                19,
+                                6
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 21
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                4
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                3
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                24,
+                                1
+                            ],
+                            [
+                                25,
+                                1
+                            ],
+                            [
+                                26,
+                                1
+                            ],
+                            [
+                                27,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 27
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                15
+                            ],
+                            [
+                                11,
+                                10
+                            ],
+                            [
+                                5,
+                                16
+                            ],
+                            [
+                                6,
+                                26
+                            ],
+                            [
+                                7,
+                                12
+                            ],
+                            [
+                                8,
+                                6
+                            ],
+                            [
+                                9,
+                                23
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 11
+                    }
+                }
+            },
+            {
+                "surveyID": "112262",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.5-3.8",
+                        "totalWeight": 7.5,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.75",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 11.5,
+                        "gearCount": 10.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.30",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "19.50",
+                        "quartileCount": "3.0-9.0",
+                        "totalWeight": 32.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.83",
+                        "totalCatch": 39
+                    },
+                    {
+                        "CPUE": "18.50",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 20.8,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.56",
+                        "totalCatch": 37
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 24.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.45",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 43.2,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.86",
+                        "totalCatch": 50
+                    }
+                ],
+                "narrative": "<p>Four species of fish were sampled. White Sucker density was significantly below area averages. Northern Pike catch in gillnets was over four times the area catch average, but the average size of fish sampled was of marginal catchable size.     Yellow Perch catch was approximately equal to the area average. Many of these were of excellent catchable size. Blacknose Shiners were sampled in significant numbers in 1/4\" mesh trapnets.</p>",
+                "headerInfo": [
+                    "Sylvania",
+                    "Long",
+                    "38039500",
+                    "1984-06-11",
+                    "112262",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1984-06-11",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737646421,
+    "result": {
+        "lakeName": "Peterson",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.34,
+        "DOWNumber": 6002800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 91.1,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 20.0,
+        "officeCode": "F415",
+        "accesses": [
+            {
+                "location": "No boat ramp.  County Road #64 right of way along lakes north shore.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "117674",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "299.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1495
+                    },
+                    {
+                        "CPUE": "408.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2040
+                    }
+                ],
+                "narrative": "<p>Peterson Lake is a 55 acre lake located near Ortonville, MN.  Like many lakes in the region, its depth has increased greatly following several years of abundant rainfall.  No gamefish were caught during the 1998 assessment.  However, fathead minnows and brook stickleback were abundant.  Peterson Lake has suitable habitat for game fish management and it will be stocked with black crappie during the spring of 1999.  Angling opportunities for panfish are limited in the area, and many anglers have expressed a desire for a greater emphasis on panfish management.</p>",
+                "headerInfo": [
+                    "Peterson",
+                    null,
+                    "06002800",
+                    "1998-09-03",
+                    "117674",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1998-09-03",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Big Stone"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,84 @@
+{
+    "timestamp": 1737660594,
+    "result": {
+        "lakeName": "Little Whitefish",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.28,
+        "DOWNumber": 31083600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 159.22,
+        "areaAcres": 160.4,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F216",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "105575",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.4,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.40",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "49.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 27.7,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 148
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.80",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Fish species and abundance are indicative of a periodic winterkill lake.</p>",
+                "headerInfo": [
+                    "Little Whitefish",
+                    null,
+                    "31083600",
+                    "1975-08-28",
+                    "105575",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1975-08-28",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

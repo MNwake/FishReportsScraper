@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737651506,
+    "result": {
+        "lakeName": "Roy",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.28,
+        "DOWNumber": 16079700,
+        "waterClarity": [
+            [
+                "08/06/1973",
+                "9.6"
+            ]
+        ],
+        "averageWaterClarity": "9.6",
+        "littoralAcres": 0.0,
+        "areaAcres": 58.39,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 45.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 0.15 mile portage trail from Saganaga Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109823",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.33",
+                        "quartileCount": "2.3-5.1",
+                        "totalWeight": 18.8,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.45",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 8.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.00",
+                        "totalCatch": 8
+                    }
+                ],
+                "narrative": "<p>Roy Lake has a fair population of small N Pike, White Suckers and Perch.  A few Pumpkinseed Sunfsh are also present.</p>",
+                "headerInfo": [
+                    "Roy",
+                    null,
+                    "16079700",
+                    "1973-08-06",
+                    "109823",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-08-06",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,165 @@
+{
+    "timestamp": 1737664819,
+    "result": {
+        "lakeName": "Goose",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.88,
+        "DOWNumber": 47012700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 119.36,
+        "areaAcres": 119.36,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 12.0,
+        "officeCode": "F411",
+        "accesses": [
+            {
+                "location": "NO PUBLIC ACCESS",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "116707",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "11.5-132.6",
+                        "totalWeight": 15.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.96",
+                        "totalCatch": 16
+                    }
+                ],
+                "narrative": "<p>STATUS OF THE FISHERY:\nGoose Lake has a history of freeze out and thus low gamefish populations.  No gamefish were taken in this survey, though there have been reports of northerns and bluegills taken by anglers.\n</p>",
+                "headerInfo": [
+                    "Goose",
+                    null,
+                    "47012700",
+                    "1983-07-05",
+                    "116707",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1983-07-05",
+                "lengths": {}
+            },
+            {
+                "surveyID": "116758",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.50",
+                        "quartileCount": "0.5-3.0",
+                        "totalWeight": 12.2,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.41",
+                        "totalCatch": 30
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.1-8.0",
+                        "totalWeight": 5.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.8-3.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.50",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "12.25",
+                        "quartileCount": "1.0-5.5",
+                        "totalWeight": 30.2,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.4-4.6",
+                        "species": "CAP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.62",
+                        "totalCatch": 49
+                    },
+                    {
+                        "CPUE": "34.50",
+                        "quartileCount": "30.3-150.6",
+                        "totalWeight": 17.9,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 69
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "1.2-20.0",
+                        "totalWeight": 0.7,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.70",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "31.00",
+                        "quartileCount": "2.3-18.1",
+                        "totalWeight": 25.9,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.0-2.3",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.42",
+                        "totalCatch": 62
+                    },
+                    {
+                        "CPUE": "108.00",
+                        "quartileCount": "1.0-13.8",
+                        "totalWeight": 128.8,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-3.7",
+                        "species": "CAP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.60",
+                        "totalCatch": 216
+                    },
+                    {
+                        "CPUE": "39.25",
+                        "quartileCount": "11.5-132.6",
+                        "totalWeight": 24.8,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 157
+                    }
+                ],
+                "narrative": "<p>STATUS OF THE FISHERY:\nGoose is used as a DNR Walleye rearing pond and there is no public access.  Walleye catch rate is 31.0/gillnet with fish from 9\"-12\" TL.  Northern pike catch rate is 1.0/gillnet with fish from 9\" to 23\" TL.  Other species present are carp, black bullhead, and bluegill.\n</p>",
+                "headerInfo": [
+                    "Goose",
+                    null,
+                    "47012700",
+                    "1988-06-14",
+                    "116758",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1988-06-14",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Meeker"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

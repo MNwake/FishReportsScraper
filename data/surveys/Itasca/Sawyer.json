@@ -1,0 +1,136 @@
+{
+    "timestamp": 1737659612,
+    "result": {
+        "lakeName": "Sawyer",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.61,
+        "DOWNumber": 31034800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 136.9,
+        "areaAcres": 136.9,
+        "meanDepthFeet": 8.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "Public access-West shore near narrows.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "105429",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "2.8-10.0",
+                        "totalWeight": 5.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.5-3.3",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "5.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.6-5.3",
+                        "totalWeight": 1.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.3-0.8",
+                        "species": "YEB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "26.00",
+                        "quartileCount": "3.1-24.9",
+                        "totalWeight": 30.6,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.29",
+                        "totalCatch": 104
+                    },
+                    {
+                        "CPUE": "6.50",
+                        "quartileCount": "2.5-23.3",
+                        "totalWeight": 4.2,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 39
+                    },
+                    {
+                        "CPUE": "2.25",
+                        "quartileCount": "0.3-1.9",
+                        "totalWeight": 7.7,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-1.1",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.86",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.5-4.3",
+                        "totalWeight": 0.3,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.3-0.5",
+                        "species": "YEB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "4.83",
+                        "quartileCount": "0.9-4.3",
+                        "totalWeight": 25.6,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.4-1.1",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.88",
+                        "totalCatch": 29
+                    },
+                    {
+                        "CPUE": "11.83",
+                        "quartileCount": "N/A",
+                        "totalWeight": 25.3,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.36",
+                        "totalCatch": 71
+                    }
+                ],
+                "narrative": "<p>LM Bass and Bluegill populations are well above local medians.  Very few other fish present.</p>",
+                "headerInfo": [
+                    "Sawyer",
+                    "Town Line",
+                    "31034800",
+                    "1980-06-24",
+                    "105429",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1980-06-24",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

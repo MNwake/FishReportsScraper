@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737669828,
+    "result": {
+        "lakeName": "Holter",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.94,
+        "DOWNumber": 69026200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 21.53,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 16.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "1/4 MILE PORTAGE TRAIL ACROSS STATE LAND FROM BEARHEAD LAKE.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108354",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 26.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.17",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.4,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Yellow perch and northern pike are present in average numbers and sizes. </p>",
+                "headerInfo": [
+                    "Holter",
+                    null,
+                    "69026200",
+                    "1987-06-15",
+                    "108354",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1987-06-15",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

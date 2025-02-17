@@ -1,0 +1,119 @@
+{
+    "timestamp": 1737649865,
+    "result": {
+        "lakeName": "Abita",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.37,
+        "DOWNumber": 16018400,
+        "waterClarity": [
+            [
+                "06/26/1972",
+                "7"
+            ],
+            [
+                "06/26/1990",
+                "7"
+            ]
+        ],
+        "averageWaterClarity": "7.0",
+        "littoralAcres": 92.69,
+        "areaAcres": 92.7,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 14.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "PRMIT",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109660",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "2.2-14.6",
+                        "totalWeight": 1.8,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.23",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "41.67",
+                        "quartileCount": "3.6-14.1",
+                        "totalWeight": 93.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.74",
+                        "totalCatch": 125
+                    }
+                ],
+                "narrative": "<p>There is a large active Sucker population of sev. age-classes.  Perch are present in small numbers.</p>",
+                "headerInfo": [
+                    "Abita",
+                    null,
+                    "16018400",
+                    "1972-06-26",
+                    "109660",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-06-26",
+                "lengths": {}
+            },
+            {
+                "surveyID": "110144",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "2.2-14.6",
+                        "totalWeight": 0.7,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.23",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "58.33",
+                        "quartileCount": "3.6-14.1",
+                        "totalWeight": 110.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.63",
+                        "totalCatch": 175
+                    }
+                ],
+                "narrative": "<p>THREE YEARS OF INTRODUCTORY FRY STOCKING APPARENTLY HAVE FAILED TO ESTABLISH A WALLEYE POPULATION.  NO WALLEYE WERE COLLECTED IN THIS ASSESSMENT.  WHITE SUCKER WERE ABUNDANT AND A FEW YELLOW PERCH WERE COLLECTED.  THIS LAKE HAS LITTLE OR NO SPORT FISHING VALUE.</p>",
+                "headerInfo": [
+                    "Abita",
+                    null,
+                    "16018400",
+                    "1990-06-25",
+                    "110144",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1990-06-25",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

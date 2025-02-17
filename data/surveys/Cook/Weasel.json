@@ -1,0 +1,739 @@
+{
+    "timestamp": 1737652029,
+    "result": {
+        "lakeName": "Weasel",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.57,
+        "DOWNumber": 16089700,
+        "waterClarity": [
+            [
+                "06/15/2006",
+                "4"
+            ],
+            [
+                "08/24/1989",
+                "5"
+            ],
+            [
+                "06/24/2014",
+                "4.75"
+            ],
+            [
+                "06/03/2010",
+                "6.5"
+            ],
+            [
+                "09/04/1987",
+                "4"
+            ],
+            [
+                "06/21/2018",
+                "6.25"
+            ]
+        ],
+        "averageWaterClarity": "5.1",
+        "littoralAcres": 6.1,
+        "areaAcres": 6.24,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 20.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110233",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3551.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.41",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 6350.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.00",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Brook trout were relatively abundant, but were small (all under 13 inches) and fairly slow-growing.  White sucker were present, but not in unusually high numbers.</p>",
+                "headerInfo": [
+                    "Weasel",
+                    "Sled",
+                    "16089700",
+                    "1993-06-17",
+                    "110233",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1993-06-17",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 18
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                6
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 12
+                    }
+                }
+            },
+            {
+                "surveyID": "111066",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 24.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.3-0.5",
+                        "totalWeight": 29.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1436.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "10.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 42
+                    },
+                    {
+                        "CPUE": "18.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 75
+                    }
+                ],
+                "narrative": "<p>The brook trout catch in 1999 was within the normal range of 3.0 to 20.0 fish/gill net for Grand Marais area stream trout lakes.  Brook trout size, however, was well below normal for the area.  Brook trout were competing with white sucker and green sunfish for forage.  In addition, temperature-oxygen conditions, while tolerable in the spring, may have become marginal by mid-summer.  Brook trout growth was slow compared to other lakes in the area, with fish only reaching 7.2 inches in length (on average) by the end of their second year of life.</p>",
+                "headerInfo": [
+                    "Weasel",
+                    "Sled",
+                    "16089700",
+                    "1999-06-21",
+                    "111066",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1999-06-21",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                7
+                            ],
+                            [
+                                8,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 13
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                14
+                            ],
+                            [
+                                2,
+                                14
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 4
+                    }
+                }
+            },
+            {
+                "surveyID": "220620846881000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1476.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.25",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 140.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.31",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "7.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 31
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>One brook trout was caught in this assessment.  It was too small and young to have been from the last stocking in 2001.  Rainbow trout were introduced in 2003, and stocked again in 2005.  Fish from the second stocking were probably too small to be caught in this assessment.  The one rainbow trout caught was age three and had grown well. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Weasel",
+                    "Sled",
+                    "16089700",
+                    "2006-06-15",
+                    "220620846881000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2006-06-15",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 19,
+                        "maximum_length": 19
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 8
+                    }
+                }
+            },
+            {
+                "surveyID": "110115",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "0.3-0.5",
+                        "totalWeight": 1.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7.75,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.97",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 1.25,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.25",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p> EVER, CONTINUED STOCKING WAS NOT PURSUED BECAUSE OF MARGINAL DISSOLVED OXYGEN CONCENTRATIONS FOUND DURING THE LATE WINTER OF 1988. DESPITE THIS, SURVIVAL AND GROWTH OF BROOK TROUT STOCKED IN 1987 WAS FAIR. GREEN SUNFISH AND WHITE SUCKER ARE PRESENT, BUT DO NOT APPEAR TO BE ABUNDANT.</p>",
+                "headerInfo": [
+                    "Weasel",
+                    "Sled",
+                    "16089700",
+                    "1989-08-24",
+                    "110115",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1989-08-24",
+                "lengths": {}
+            },
+            {
+                "surveyID": "11381430734179016",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 42.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "55.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 167
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 273.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.60",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 202.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "58.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 176
+                    },
+                    {
+                        "CPUE": "12.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 38
+                    }
+                ],
+                "narrative": "<p>Weasel (or Sled) lake is a designated stream trout lake, and has been managed for trout since 1987.  Since 2003 it has been stocked only with kamloop-strain rainbow trout.  The management goal for rainbow trout in this lake is to maintain a minimum gill net catch of 2.5 fish/set, with two catchable (over 10 in) year classes present.  This was the first of two assessments scheduled in the 2012 lake management plan to evaluate the current stocking regime. <br> \n <br> \nNo rainbow trout were taken in this assessment.  Fish from the 2013 stocking should have been present in fairly high numbers in 2014, and although they would have been small, they should have been catchable in the sampling gear used.  Low catches of rainbow trout were also observed in assessments done in 2010 and 2006 (a single fish in each).  Management goals for the species, and for the lake, are not being met under the current stocking regime.  The intent of switching from stocking of brook trout to rainbow trout was to produce a better trout fishery, with some larger fish.  Since the switch, fewer trout have been collected in assessments, and there appears to have been no improvement in the size of fish found. <br> \n <br> \nAs has often been the case in this lake, brook trout that could not be accounted for by any stocking within the immediate watershed were taken in this assessment.  Sources for those fish have not been determined; natural brook trout populations exist in Dislocation Lake and in Fiddle Creek, both downstream of Weasel Lake, but there may be barriers to fish movement between Dislocation and Weasel Lakes.  In the absence of any brook trout stocking, brook trout catches in Weasel Lake have been low, consistently falling below the normal range for spring gill net catches in stream trout lakes in this area (2.5 - 14.3 fish/set).  When brook trout were stocked, catches ranged from 4.0 to 9.5 fish/set. <br> \n <br> \nCompetition from other fish species does not seem to have been a limiting factor in this lake.  A few white sucker and green sunfish have been taken in assessments, but their numbers have been low.  Forage for trout is provided by invertebrates and a variety of minnow species. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Weasel",
+                    "Sled",
+                    "16089700",
+                    "2014-06-24",
+                    "11381430734179016",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2014-06-24",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 10
+                    },
+                    "CRC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 10
+                    }
+                }
+            },
+            {
+                "surveyID": "4311015551602000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "155.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 620
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 126.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.28",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "15.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 62
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.3-0.5",
+                        "totalWeight": 111.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 590.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.30",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "14.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 57
+                    }
+                ],
+                "narrative": "<p>The brook trout catch in the 2010 assessment was low, but the one fish taken had apparently been produced naturally.  Other assessments of this lake have also found small numbers of naturally produced brook trout. <br> \n <br> \nRainbow trout stocking done regularly since 2003 has apparently not been very successful.  Only one rainbow trout, a survivor of a 2009 stocking, was taken in 2010, and an assessment done in 2006 also yielded just one fish.  Low use of the access trail may indicate that fishing in this lake has been poor, attracting little attention from anglers. <br> \n <br> \nSampling using quarter-in-mesh wire minnow traps yielded relatively high catches of brook stickleback, fathead minnow, and finescale dace.  High minnow abundance has sometimes driven excellent brook trout growth in stream trout lakes in this area.  No undesirable fish species were found in Weasel Lake in 2010. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Weasel",
+                    "Sled",
+                    "16089700",
+                    "2010-06-03",
+                    "4311015551602000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2010-06-03",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 14
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 9
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    }
+                }
+            },
+            {
+                "surveyID": "110061",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "0.3-0.5",
+                        "totalWeight": 0.1,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.8,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.80",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 3.6,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.20",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>BROOK TROUT ARE PRESENT DESPITE THE LACK OF DNR STOCKING AND THE PRESENCE OF A GOOD BARRIER AT THE OUTLET. WHITE SUCKER AND GREEN SUNFISH ARE PRESENT IN LOW NUMBERS.</p>",
+                "headerInfo": [
+                    "Weasel",
+                    "Sled",
+                    "16089700",
+                    "1987-09-03",
+                    "110061",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1987-09-03",
+                "lengths": {}
+            },
+            {
+                "surveyID": "12821819335196317",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Weasel (formerly Sled) is a designated stream trout lake, stocked with Rainbow Trout in the years preceding this survey.  Because that stocking seemed to have failed, the latest (2018) lake management plan called for a return to Brook Trout stocking, beginning in 2020.  This survey was done to provide a final assessment of Rainbow Trout stocking success.  Rainbow Trout stocked in 2013, 2015, and 2017 should have been present and vulnerable to the gears used in this surveys. <br> \n <br> \nNo fish were taken in any of the gill net sets used in this survey.  Rainbow Trout gill net catches in this lake have been low in the past (zero to one fish per survey), so it was not surprising that none were taken in this survey.  Survey results help confirm the choice to abandon Rainbow Trout stocking in this lake.   <br> \n <br> \nWeasel is typical of many small, bog-stained lakes in the area, with surface waters that at times may be quite warm, with dissolved oxygen levels dropping quickly at a shallow depth, and with colder, deeper waters largely devoid of oxygen.  In this survey surface temperatures had already reached levels stressful for Brook Trout by 21 June.  Conditions that would have been optimal for Brook Trout (water temperature <= 68 F, dissolved oxygen > 5 ppm) still existed, at depths of about four to seven feet; however, those conditons likely deteriorated as the summer progressed.  <br> \n</p>",
+                "headerInfo": [
+                    "Weasel",
+                    "Sled",
+                    "16089700",
+                    "2018-06-21",
+                    "12821819335196317",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2018-06-21",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

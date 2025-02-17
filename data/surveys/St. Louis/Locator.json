@@ -1,0 +1,878 @@
+{
+    "timestamp": 1737670219,
+    "result": {
+        "lakeName": "Locator",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.93,
+        "DOWNumber": 69093600,
+        "waterClarity": [
+            [
+                "07/12/2010",
+                "7.5"
+            ],
+            [
+                "07/17/2023",
+                "8"
+            ]
+        ],
+        "averageWaterClarity": "7.8",
+        "littoralAcres": 44.0,
+        "areaAcres": 132.86,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 52.0,
+        "officeCode": "F217",
+        "accesses": [
+            {
+                "location": " ",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": "Portage trails from Rainy and Kabetogama Lakes lead to Locator Lake."
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111948",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.83",
+                        "quartileCount": "1.3-7.6",
+                        "totalWeight": 694.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.3-0.8",
+                        "species": "TLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "1.3-5.3",
+                        "totalWeight": 27902.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.6-3.1",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.93",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 25.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RKB",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "2.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6630.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Open-water angling",
+                        "averageWeight": "1.33",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "0.11",
+                        "quartileCount": "0.3-1.5",
+                        "totalWeight": 30.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.2-0.6",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.67",
+                        "quartileCount": "0.5-2.8",
+                        "totalWeight": 2190.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 33
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "SUN",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2150.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Open-water angling",
+                        "averageWeight": "4.74",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2790.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.03",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.11",
+                        "quartileCount": "0.5-3.3",
+                        "totalWeight": 5.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.3-2.3",
+                        "totalWeight": 85.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Locator Lake is an undeveloped lake located in Voyageurs National Park.  Access is limited to portages from Rainy or Kabetogama lakes, or by float plane.  Northern pike and largemouth bass were the primary sport fish in 2000.        Northern pike numbers and growth rate were above average.  Additionally, many year-classes were present and should provide consistent fishing in the future.  The number of largemouth bass appeared to be below average.  However, age-4 largemouth bass were apparent when angling was used to collect fish.  Cisco, sunfish, and yellow perch were also present, but small and not abundant.     Locator Lake is attractive not only because of its fishing opportunities, but also offers solitude, scenic beauty, and access to other lakes.  </p>",
+                "headerInfo": [
+                    "Locator",
+                    "Cranberry",
+                    "69093600",
+                    "2000-07-24",
+                    "111948",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2000-07-24",
+                "lengths": {
+                    "RKB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                4
+                            ],
+                            [
+                                5,
+                                19
+                            ],
+                            [
+                                6,
+                                9
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 7
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                1
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 15
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 3
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                1
+                            ],
+                            [
+                                2,
+                                14
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 2
+                    },
+                    "TLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                23
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                4
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                22,
+                                2
+                            ],
+                            [
+                                23,
+                                3
+                            ],
+                            [
+                                24,
+                                3
+                            ],
+                            [
+                                25,
+                                1
+                            ],
+                            [
+                                26,
+                                1
+                            ],
+                            [
+                                27,
+                                2
+                            ],
+                            [
+                                28,
+                                1
+                            ],
+                            [
+                                29,
+                                1
+                            ],
+                            [
+                                30,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 30
+                    }
+                }
+            },
+            {
+                "surveyID": "4411019277249000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "12.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Open-water angling",
+                        "averageWeight": "0.00",
+                        "totalCatch": 25
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.5-3.3",
+                        "totalWeight": 30.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "1.3-5.3",
+                        "totalWeight": 39879.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.6-3.1",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.66",
+                        "totalCatch": 33
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.3-1.5",
+                        "totalWeight": 1160.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2-0.6",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.28",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7323.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Open-water angling",
+                        "averageWeight": "1.15",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "1.3-7.6",
+                        "totalWeight": 604.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.3-0.8",
+                        "species": "TLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4467.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.98",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "4.67",
+                        "quartileCount": "0.5-2.8",
+                        "totalWeight": 3070.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 28
+                    }
+                ],
+                "narrative": "<p>Locator Lake is located about 16 miles southeast of International Falls, Minnesota.  Locator Lake is 140 acres and is connected to War Club Lake by a short narrows.  Locator Lake is managed primarily for northern pike.   <br> \n <br> \nLargemouth bass are also present in the lake.  The largest bass captured during this investigation was 18.6 inches.  Five year-classes were sampled and age ranged from 3-14 years, which provides a wide variety of sizes to anglers.   <br> \n <br> \nNorthern pike abundance was slightly above the normal range for this lake type.  Recruitment was consistent and many year-classes were adequately represented, which provides a steady stream of northern pike for anglers year after year.  Trophy-sized northern pike are present and a 38.6 inch fish was sampled during this investigation.  <br> \n <br> \nPumpkinseed, rock bass, and tullibee were also captured.  Yellow perch were not captured during this investigation, but low numbers have been captured in the past.   <br> \n</p>",
+                "headerInfo": [
+                    "Locator",
+                    "Cranberry",
+                    "69093600",
+                    "2010-07-12",
+                    "4411019277249000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2010-07-12",
+                "lengths": {
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 4
+                    },
+                    "RKB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                7
+                            ],
+                            [
+                                6,
+                                10
+                            ],
+                            [
+                                7,
+                                8
+                            ],
+                            [
+                                8,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 8
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                4
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 18
+                    },
+                    "TLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                13
+                            ],
+                            [
+                                7,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                5
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                4
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                22,
+                                2
+                            ],
+                            [
+                                23,
+                                6
+                            ],
+                            [
+                                24,
+                                1
+                            ],
+                            [
+                                25,
+                                3
+                            ],
+                            [
+                                26,
+                                4
+                            ],
+                            [
+                                27,
+                                1
+                            ],
+                            [
+                                29,
+                                1
+                            ],
+                            [
+                                31,
+                                1
+                            ],
+                            [
+                                38,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 38
+                    }
+                }
+            },
+            {
+                "surveyID": "19162307556438080",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "1.3-5.3",
+                        "totalWeight": 21827.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.6-3.1",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.01",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.3-2.3",
+                        "totalWeight": 229.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7020.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Open-water angling",
+                        "averageWeight": "1.55",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "5.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1414.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "CIS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 34
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.3-1.8",
+                        "totalWeight": 724.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.5-1.5",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.60",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Locator Lake is a 133 acre lake with good water clarity and a maximum depth of 52 feet. Locator Lake is located approximately 16 miles ESE of International Falls on the Kabetogama peninsula in Voyageurs National Park. Access is limited to portage trails from Kabetogama or Rainy Lakes. Locator Lake can also be accessed in the winter via the Chain of Lakes snowmobile trail. To prevent the spread of aquatic invasive species and exotic viruses, anglers are only allowed to use artificial baits. In addition, no privately-owned watercraft (boats, canoes, kayaks, etc.) or float planes are allowed on interior lakes such as Locator. A standard survey was completed in Locator Lake in mid-July of 2023.  <br> \n <br> \nLocator Lake has no special regulations. Fishing regulations follow statewide regulations for inland water. Previous management plans identify several long-range goals, including providing a self-sustaining fish community with Northern Pike as the primary management species. <br> \n <br> \nNorthern Pike gill net catch rate was 2.0 fish per net, which was below average for recent surveys. Total length ranged from 19.7 to 35.0 inches, with an average length of 26.5 inches. Average weight was 4.0 pounds and was above average compared to similar lakes. A total of four year-classes were present and ranged from 5-12 years, with the 2018 year-class representing 58% of the total sample. Although Northern Pike numbers are down from recent surveys, there are still good numbers of larger fish providing a good opportunity for anglers.  <br> \n <br> \nLargemouth Bass gill net catch rate was 0.2 fish per net, which was below average compared to similar lakes. Largemouth Bass do not sample well in passive gears such as gill nets, so typically active gears such as angling are utilized. Largemouth Bass angling catch rate was 1.0 fish per hour, which was slightly below the catch rate from the 2010 survey. Total length ranged from 8.3 to 17.8 inches, with an average of 13.5 inches. Average weight was 1.6 pounds, which was higher than the average from the 2010 survey. A total of seven year-classes were present and ranged from 2-13 years. Growth rates are average compared to other area lakes, but there are good numbers of quality fish providing a unique opportunity for anglers.  <br> \n <br> \nCisco and Rock Bass are also present and provide quality forage for top predators in Locator Lake.  <br> \n</p>",
+                "headerInfo": [
+                    "Locator",
+                    "Cranberry",
+                    "69093600",
+                    "2023-07-17",
+                    "19162307556438080",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2023-07-17",
+                "lengths": {
+                    "RKB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 17
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                25,
+                                3
+                            ],
+                            [
+                                27,
+                                1
+                            ],
+                            [
+                                28,
+                                2
+                            ],
+                            [
+                                29,
+                                1
+                            ],
+                            [
+                                30,
+                                1
+                            ],
+                            [
+                                35,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 19,
+                        "maximum_length": 35
+                    },
+                    "CIS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                24
+                            ],
+                            [
+                                7,
+                                9
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 8
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

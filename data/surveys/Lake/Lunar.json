@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737662824,
+    "result": {
+        "lakeName": "Lunar",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.22,
+        "DOWNumber": 38016800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 25.0,
+        "areaAcres": 62.31,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 60.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "By portage only through BWCA.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107947",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.80",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 55.1,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.5-4.0",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.94",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "2.40",
+                        "quartileCount": "0.2-0.9",
+                        "totalWeight": 1.8,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "7.20",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 32.8,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.91",
+                        "totalCatch": 36
+                    }
+                ],
+                "narrative": "<p>Gamefish population consists of lake trout. The population is made up of mostly larger fish (greater than 18 are not as common as they probably should be.</p>",
+                "headerInfo": [
+                    "Lunar",
+                    "Moon",
+                    "38016800",
+                    "1973-07-10",
+                    "107947",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-07-10",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737650078,
+    "result": {
+        "lakeName": "Calf",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.13,
+        "DOWNumber": 16027400,
+        "waterClarity": [
+            [
+                "07/25/1974",
+                "6"
+            ]
+        ],
+        "averageWaterClarity": "6.0",
+        "littoralAcres": 14.0,
+        "areaAcres": 14.15,
+        "meanDepthFeet": 7.0,
+        "maxDepthFeet": 18.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 0.1 mile blazed trail from Cow Lake",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109697",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 2.4,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 24
+                    }
+                ],
+                "narrative": "<p>Calf Lake appears to have a high population of sml sized Yel Perch.  Two large Minnow traps failed to take any Minnows.</p>",
+                "headerInfo": [
+                    "Calf",
+                    null,
+                    "16027400",
+                    "1974-07-24",
+                    "109697",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1974-07-24",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

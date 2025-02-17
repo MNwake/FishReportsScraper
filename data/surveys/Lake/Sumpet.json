@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737663443,
+    "result": {
+        "lakeName": "Sumpet",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.37,
+        "DOWNumber": 38028300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 33.76,
+        "areaAcres": 33.76,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 6.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "N.W. FROM USFS RD. #356 IN SEC. 14 FOR 1.8 MILES ON UNMARKED OVERGROWN LOGGING RD  THEN 0.25 ML E.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112452",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "3.0-23.0",
+                        "totalWeight": 6.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.24",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>No game fish are known to be in this lake. The only fish sampled were White Sucker, Common Shiner and other minnows. </p>",
+                "headerInfo": [
+                    "Sumpet",
+                    null,
+                    "38028300",
+                    "1991-08-26",
+                    "112452",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1991-08-26",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

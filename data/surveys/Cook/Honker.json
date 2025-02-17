@@ -1,0 +1,126 @@
+{
+    "timestamp": 1737650676,
+    "result": {
+        "lakeName": "Honker",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.22,
+        "DOWNumber": 16060100,
+        "waterClarity": [
+            [
+                "08/23/1983",
+                "13"
+            ]
+        ],
+        "averageWaterClarity": "13.0",
+        "littoralAcres": 33.0,
+        "areaAcres": 49.59,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 34.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109914",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.33",
+                        "quartileCount": "0.4-7.0",
+                        "totalWeight": 2.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 22
+                    },
+                    {
+                        "CPUE": "26.67",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 15.9,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 80
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>NO GAMEFISH PRESENT IN THE LAKE. ALL GREEN SUNFISH ARE LESS THAN 2 OZ. SO NOT CONSIDERED CATCHABLE. VERY FEW ADULT WHITE SUCKERS WERE SAMPLED DURING THE SURVEY BUT A LARGE NUMBER OF IMMATURE ONES WERE CAUGHT. THIS MAY INDICATE A PARTIAL WINTER KILL OR REPRODUCTIVE PROBLEMS DURING SOME YEARS. WINTER DISSOLVED OXYGEN LEVELS SHOULD BE CHECKED TO SEE IF THERE IS A PROBLEM.</p>",
+                "headerInfo": [
+                    "Honker",
+                    null,
+                    "16060100",
+                    "1983-08-23",
+                    "109914",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1983-08-23",
+                "lengths": {}
+            },
+            {
+                "surveyID": "110009",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.75,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.75",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 5.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 24
+                    }
+                ],
+                "narrative": "<p>BROOK TROUT CAPTURED IN THIS ASSESSMENT CAME FROM A 1984 STOCKING IN BINGSHICK LAKE. THERE IS A LARGE WHITE SUCKER POPULATION, COMPOSED OF SMALL INDIVIDUALS. NETS WERE PROBABLY SET TOO DEEP TO SAMPLE RAINBOW TROUT, IF THE MAP IS CORRECT.</p>",
+                "headerInfo": [
+                    "Honker",
+                    null,
+                    "16060100",
+                    "1986-07-08",
+                    "110009",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-07-08",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

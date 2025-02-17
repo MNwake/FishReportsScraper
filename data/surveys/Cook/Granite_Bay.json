@@ -1,0 +1,130 @@
+{
+    "timestamp": 1737650590,
+    "result": {
+        "lakeName": "Granite Bay",
+        "sampledPlants": [],
+        "shoreLengthMiles": 6.07,
+        "DOWNumber": 16090000,
+        "waterClarity": [
+            [
+                "08/14/1978",
+                "14"
+            ]
+        ],
+        "averageWaterClarity": "14.0",
+        "littoralAcres": 0.0,
+        "areaAcres": 76.87,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 35.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112290",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 17.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.46",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.62",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "4.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LKW",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.75",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 12.75,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.55",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>THE POPULATION OF NORTHERN PIKE AND PERCH ARE FAIR, WHILE THE OTHER SPECIES APPEAR TO BE LOW IN ABUNDANCE. THE POPULATION OF SMALLMOUTH BASS MAY BE LARGER THAN NETTING INDICATES.</p>",
+                "headerInfo": [
+                    "Granite Bay",
+                    null,
+                    "16090000",
+                    "1978-08-14",
+                    "112290",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-08-14",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

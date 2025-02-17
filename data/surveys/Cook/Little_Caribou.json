@@ -1,0 +1,314 @@
+{
+    "timestamp": 1737650872,
+    "result": {
+        "lakeName": "Little Caribou",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.67,
+        "DOWNumber": 16014200,
+        "waterClarity": [
+            [
+                "07/02/1973",
+                "11.5"
+            ]
+        ],
+        "averageWaterClarity": "11.5",
+        "littoralAcres": 49.0,
+        "areaAcres": 52.8,
+        "meanDepthFeet": 9.0,
+        "maxDepthFeet": 18.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "365-ft portage trail from Caribou Lake; and a portage trail from Pine Lake.  Lies entirely inside the BWCAW.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110701",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "2.0-8.5",
+                        "totalWeight": 13672.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.35",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "1.6-3.5",
+                        "totalWeight": 400.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.5-2.1",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.44",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "2.2-10.5",
+                        "totalWeight": 15228.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-1.9",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.60",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "2.5-14.3",
+                        "totalWeight": 194.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "5.33",
+                        "quartileCount": "1.6-8.4",
+                        "totalWeight": 22128.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.05",
+                        "totalCatch": 16
+                    }
+                ],
+                "narrative": "<p>Walleye and smallmouth bass populations have become established in this lake since it was last surveyed (1973).  Walleye were relatively abundant in 1996.  Only two smallmouth bass were taken in 1996, but they may be more abundant than that, since gill nets are a poor sampling tool for smallmouth.  Fair numbers of northern pike were present, including some very large fish; however, most of the northern pike collected were less than 25 inches in length.  Yellow perch abundance apparently has declined, probably due to the walleye introduction.</p>",
+                "headerInfo": [
+                    "Little Caribou",
+                    null,
+                    "16014200",
+                    "1996-07-15",
+                    "110701",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1996-07-15",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                5
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                3
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 21
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                5
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                22,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 22
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                24,
+                                1
+                            ],
+                            [
+                                40,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 18,
+                        "maximum_length": 40
+                    },
+                    "SMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 11
+                    }
+                }
+            },
+            {
+                "surveyID": "110710",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "2.0-8.5",
+                        "totalWeight": 16.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.36",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "61.00",
+                        "quartileCount": "2.5-14.3",
+                        "totalWeight": 27.7,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 183
+                    },
+                    {
+                        "CPUE": "16.33",
+                        "quartileCount": "1.6-8.4",
+                        "totalWeight": 86.9,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.77",
+                        "totalCatch": 49
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.3-2.3",
+                        "totalWeight": 0.4,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.3-1.8",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.40",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Little Caribou Lake has high populations of Sucker and Perch.  N Pike and LM Bass furnish good to fair angling, however, they did not show up favor. in test nets.</p>",
+                "headerInfo": [
+                    "Little Caribou",
+                    null,
+                    "16014200",
+                    "1973-07-02",
+                    "110710",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-07-02",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

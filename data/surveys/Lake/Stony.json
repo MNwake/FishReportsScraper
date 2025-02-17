@@ -1,0 +1,141 @@
+{
+    "timestamp": 1737663421,
+    "result": {
+        "lakeName": "Stony",
+        "sampledPlants": [
+            "Arrowhead Group (Sagittaria sp.)",
+            "Bladderwort Group (Utricularia sp.)",
+            "Bulrush Group (Scirpus sp.)",
+            "Burreed Group (Sparganium sp.)",
+            "Common White Waterlily  (Nymphaea odorata)",
+            "Floating-leaf Burreed Group (Sparganium sp. )",
+            "Horsetail Group (Equisetum sp.)",
+            "Narrow-leaf Pondweed Group (Potamogeton sp. )",
+            "Sedge Group (Carex sp.)",
+            "Spikerush  (Eleocharis palustris)",
+            "Water Bulrush (Schoenoplectus subterminalis)",
+            "Yellow Waterlily Group (Nuphar sp.)",
+            "floating bur-reed (Sparganium fluctuans)",
+            "northern wild rice (Zizania palustris (aquatica))",
+            "sweet gale (Myrica gale)"
+        ],
+        "shoreLengthMiles": 10.05,
+        "DOWNumber": 38066000,
+        "waterClarity": [
+            [
+                "07/12/2006",
+                "3.5"
+            ]
+        ],
+        "averageWaterClarity": "3.5",
+        "littoralAcres": 248.98,
+        "areaAcres": 248.98,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 4.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112299",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.25",
+                        "quartileCount": "1.0-5.9",
+                        "totalWeight": 4.9,
+                        "gearCount": 16.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 20
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.3-1.6",
+                        "totalWeight": 1.8,
+                        "gearCount": 16.0,
+                        "quartileWeight": "0.5-1.8",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "2.81",
+                        "quartileCount": "1.2-6.1",
+                        "totalWeight": 120.9,
+                        "gearCount": 16.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.69",
+                        "totalCatch": 45
+                    },
+                    {
+                        "CPUE": "1.62",
+                        "quartileCount": "N/A",
+                        "totalWeight": 38.75,
+                        "gearCount": 16.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.49",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "0.12",
+                        "quartileCount": "0.3-1.1",
+                        "totalWeight": 0.7,
+                        "gearCount": 16.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "RKB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.35",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Northern Pike catch was equal to the area average. All other species sampled were in numbers substantially lower than the area average. </p>",
+                "headerInfo": [
+                    "Stony",
+                    null,
+                    "38066000",
+                    "1986-07-07",
+                    "112299",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-07-07",
+                "lengths": {}
+            },
+            {
+                "surveyID": "520619530361047",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Stony Lake is 227 acres and is located approximately 12 miles west of Isabella. The lake has a maximum depth of 4.0 feet and in 2006 was mostly covered with a dense stand of wild rice, making outboard motor travel impossible after mid-summer. A lake survey was conducted on the lake in 2006; however, due to low water and abundant vegetation, netting gear could not be used to evaluate fish populations. The most recent information on fish populations in this lake is from a 1986 assessment: average numbers of walleyes, northern pike, yellow perch, rock bass and white suckers were collected. There is no developed public access on this lake.  Most of the angling on this lake occurs before mid-summer, after which water levels and vegetation make watercraft travel more difficult.</p>",
+                "headerInfo": [
+                    "Stony",
+                    null,
+                    "38066000",
+                    "2006-07-10",
+                    "520619530361047",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2006-07-10",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

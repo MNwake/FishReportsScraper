@@ -1,0 +1,132 @@
+{
+    "timestamp": 1737646360,
+    "result": {
+        "lakeName": "Eli",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.34,
+        "DOWNumber": 6012900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 162.2,
+        "areaAcres": 162.2,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F415",
+        "accesses": [
+            {
+                "location": "Access can be gained along Highway 75; Big Stone County Road 6 and the City of Clinton.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "117725",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "196.00",
+                        "quartileCount": "30.3-150.6",
+                        "totalWeight": 31836.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 392
+                    },
+                    {
+                        "CPUE": "5371.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 26855
+                    },
+                    {
+                        "CPUE": "38.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 191
+                    },
+                    {
+                        "CPUE": "93.44",
+                        "quartileCount": "11.5-132.6",
+                        "totalWeight": 65181.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 841
+                    }
+                ],
+                "narrative": "<p>Eli is a small, shallow, nutrient rich lake adjacent to the city of Clinton in Big Stone County.  An initial survey was conducted to assess the current fishery and to evaluate further fisheries potential.       Black bullhead and fathead minnows were the only fish species caught throughout the survey.  Bullhead were abundant, ranging in size from 4.4-11.7 inches.  Approximately 50% of the bullhead caught were 8.0 inches or larger and would provide some angling opportunity.  During the survey, several kids fishing from shore reported having success catching bullhead.  Fathead minnows were also abundant with approximately 5,400 fatheads captured per quarter-inch trap net.     Dissolved oxygen monitoring conducted during the winter of 2001 indicated very low oxygen levels.  An ice-out investigation will be conducted to monitor the extent of the probable winterkill.     The extent to which a game fish fishery could be established in Eli Lake would likely be limited by winter dissolved oxygen depletion.  However, its close proximity to the city of Clinton warrants stocking a species such as yellow perch to provide further angling opportunities.  Yellow perch would be less likely to experience a complete winterkill and could provide a fishery in two years if they grow well.  Further fisheries development could be sought if an aeration system were installed on Eli Lake and water quality could be improved.     Fisheries management plans on Eli Lake include annual winter dissolved oxygen monitoring, stocking adult yellow perch in the spring of 2001 and population assessments every three years.  Opportunities will also be sought to install an aeration system and investigate the source of high nutrients.    </p>",
+                "headerInfo": [
+                    "Eli",
+                    null,
+                    "06012900",
+                    "2000-05-31",
+                    "117725",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "2000-05-31",
+                "lengths": {
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                162
+                            ],
+                            [
+                                11,
+                                10
+                            ],
+                            [
+                                4,
+                                12
+                            ],
+                            [
+                                5,
+                                117
+                            ],
+                            [
+                                6,
+                                222
+                            ],
+                            [
+                                7,
+                                256
+                            ],
+                            [
+                                8,
+                                286
+                            ],
+                            [
+                                9,
+                                168
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 11
+                    }
+                }
+            }
+        ],
+        "countyName": "Big Stone"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

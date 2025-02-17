@@ -1,0 +1,136 @@
+{
+    "timestamp": 1737652862,
+    "result": {
+        "lakeName": "Larson",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.28,
+        "DOWNumber": 18006200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 28.0,
+        "areaAcres": 31.64,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 43.0,
+        "officeCode": "F212",
+        "accesses": [
+            {
+                "location": "County land  access on the west end of the lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "114015",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "0.4-1.3",
+                        "totalWeight": 11.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "2.0-4.2",
+                        "species": "BOF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.75",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "4.67",
+                        "quartileCount": "1.3-9.8",
+                        "totalWeight": 3.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.23",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "2.5-7.8",
+                        "totalWeight": 5.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.6-2.9",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.75",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "9.33",
+                        "quartileCount": "1.8-9.7",
+                        "totalWeight": 14.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-0.7",
+                        "species": "YEB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "84.00",
+                        "quartileCount": "4.3-32.8",
+                        "totalWeight": 50.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 252
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "1.1-10.6",
+                        "totalWeight": 0.4,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.40",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "0.9-4.9",
+                        "totalWeight": 3.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.3-0.8",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>Bluegills were abundant in trapnets, while northern pike, pumpkinseed, bullheads and bowfin were present in small numbers.</p>",
+                "headerInfo": [
+                    "Larson",
+                    null,
+                    "18006200",
+                    "1984-06-21",
+                    "114015",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1984-06-21",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Crow Wing"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

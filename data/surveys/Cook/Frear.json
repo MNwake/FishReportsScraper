@@ -1,0 +1,1091 @@
+{
+    "timestamp": 1737650500,
+    "result": {
+        "lakeName": "Frear",
+        "sampledPlants": [],
+        "shoreLengthMiles": 6.33,
+        "DOWNumber": 16080600,
+        "waterClarity": [
+            [
+                "08/03/2009",
+                "7.5"
+            ],
+            [
+                "07/18/2016",
+                "6.5"
+            ],
+            [
+                "07/14/1998",
+                "8.5"
+            ]
+        ],
+        "averageWaterClarity": "7.5",
+        "littoralAcres": 202.0,
+        "areaAcres": 316.89,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 17.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "Road is very rough and is marginally suited to 4x4 pickups. People use ATVs with canoe racks or small trailers to haul small boats in.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "USFS 1271 (AC1 trail) crosses the outlet at the 5 rod portage.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": " ",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": "SE corner of lake"
+            },
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "4330921854501000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "1.2-3.9",
+                        "totalWeight": 13956.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.05",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "18.00",
+                        "quartileCount": "3.0-13.2",
+                        "totalWeight": 55841.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.7-1.3",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.14",
+                        "totalCatch": 108
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "0.5-2.8",
+                        "totalWeight": 178.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "11.00",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 84040.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.81",
+                        "totalCatch": 66
+                    }
+                ],
+                "narrative": "<p>Frear Lake is part of a semi-primitive area within the Superior National Forest called the \"Timber-Frear Loop\" and can be accessed by two carry-in and two portage trails. The best and most heavily used access is located one mile north of Whitefish Lake, then 2.5 miles on USFS Road # 1271 to the carry-in access on the east shore. The road is very rough and is best suited ATVs fitted with canoe racks or small boat trailers. There are three USFS campsites on the lake. Motors are allowed and no fees are charged for camping or day use of the lake. <br> \n <br> \nThe 2009 walleye population in Frear Lake was well above average for the lake class with a catch of 18 fish per net. The average length was 14.7 inches with 26% of the catch larger than 17 inches. This is on par with previous assessments where good numbers of fish with nice average size were taken. Growth was similar to other lakes in the Finland area. <br> \n  <br> \nNorthern pike numbers were average (2.5 per lift) for the lake class with a mean length of 21.3 inches. Growth was about average when compared to other lakes in the Finland area. <br> \n  <br> \nYellow perch (very low numbers) and white sucker were also sampled in the 2009 population assessment. <br> \n</p>",
+                "headerInfo": [
+                    "Frear",
+                    null,
+                    "16080600",
+                    "2009-08-03",
+                    "4330921854501000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2009-08-03",
+                "lengths": {
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                13
+                            ],
+                            [
+                                12,
+                                12
+                            ],
+                            [
+                                13,
+                                22
+                            ],
+                            [
+                                14,
+                                15
+                            ],
+                            [
+                                15,
+                                10
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                10
+                            ],
+                            [
+                                18,
+                                8
+                            ],
+                            [
+                                19,
+                                7
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 21
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                5
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                7
+                            ],
+                            [
+                                18,
+                                5
+                            ],
+                            [
+                                19,
+                                16
+                            ],
+                            [
+                                20,
+                                5
+                            ],
+                            [
+                                21,
+                                7
+                            ],
+                            [
+                                22,
+                                8
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 22
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                21,
+                                4
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                23,
+                                2
+                            ],
+                            [
+                                24,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 24
+                    }
+                }
+            },
+            {
+                "surveyID": "112260",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.5-2.7",
+                        "totalWeight": 21.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.8-1.5",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.10",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "0.80",
+                        "quartileCount": "0.7-2.3",
+                        "totalWeight": 23.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "1.4-2.8",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.88",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "1.2-3.9",
+                        "totalWeight": 2.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.30",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "11.50",
+                        "quartileCount": "3.0-13.2",
+                        "totalWeight": 48.9,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.7-1.3",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.06",
+                        "totalCatch": 46
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.5-2.8",
+                        "totalWeight": 0.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "22.50",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 200.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.23",
+                        "totalCatch": 90
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.1,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.55",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Walleye catch in gillnets was 45% above the area average, indicating high population density. The average weight of Walleye sampled was 1.25 Lbs/fish. White Sucker population density remains high, as in 1979 an 1973. Catch in gillnets was 58% higher than the area average. Average weight of White Sucker sampled was 2.25 Lbs. Yellow Perch were sampled in 1/4\" mesh trapnets. It is possible that the predators are heavily preying upon the Perch, reducing recruitment to larger sizes. One Splake was sampled. This fish was probably a migrant from Bone Lake, a designated trout lake with an open outlet to Frear Lake. Northern Pike density was approximately equal to the area average. </p>",
+                "headerInfo": [
+                    "Frear",
+                    null,
+                    "16080600",
+                    "1984-06-25",
+                    "112260",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1984-06-25",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112350",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "0.5-2.7",
+                        "totalWeight": 11.1,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.8-1.5",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.39",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.7-2.3",
+                        "totalWeight": 3.8,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.4-2.8",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.90",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "1.2-3.9",
+                        "totalWeight": 24.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.84",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "26.50",
+                        "quartileCount": "3.0-13.2",
+                        "totalWeight": 56.6,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-1.3",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.07",
+                        "totalCatch": 53
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 46.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.56",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "1.83",
+                        "quartileCount": "N/A",
+                        "totalWeight": 14.6,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.33",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Walleye numbers are over triple the numbers of Walleyes in the local gillnet average. The average weight was 1.1 lbs/fish. All year classes of Walleye from age-3 to 8 were well represented but growth rates are slow. Age-1 and 2 fish may be too small to be captured by gillnets. White Sucker and Northern Pike are slightly below the local average. No age-1+ Yellow Perch were taken by gillnet or trapnet, including 1/4\" mesh, though large numbers of young-of-the-year were present as indicated by the natural reproduction check. Heavy predation on the Yellow Perch may be reducing recruitment to larger sizes. </p>",
+                "headerInfo": [
+                    "Frear",
+                    null,
+                    "16080600",
+                    "1987-07-30",
+                    "112350",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1987-07-30",
+                "lengths": {}
+            },
+            {
+                "surveyID": "11941623755305000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1798.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 5394
+                    },
+                    {
+                        "CPUE": "1.83",
+                        "quartileCount": "1.2-3.9",
+                        "totalWeight": 8746.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.75",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 68225.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.79",
+                        "totalCatch": 54
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1805.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.99",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "18.00",
+                        "quartileCount": "3.0-13.2",
+                        "totalWeight": 49031.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.7-1.3",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.00",
+                        "totalCatch": 108
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WAE",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "133.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNS",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 401
+                    },
+                    {
+                        "CPUE": "1.17",
+                        "quartileCount": "0.5-2.8",
+                        "totalWeight": 356.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Frear Lake is located in a remote area on the Lake and Cook county line approximately 15 miles northwest of Tofte, Minnesota.  The lake has an area of 317 acres, and a maximum depth of 17 feet; the lake is 64 percent littoral and is a lake class 6 lake.  Frear Lake is within the Timber-Frear Loop Semi-Primitive Area of the Superior National Forest, which provides opportunities for canoeing and camping with less restrictive regulations than the Boundary Waters Canoe Area Wilderness.  There are three developed campsites on the lake that are accessible by water.  Two direct routes can be used to access Frear Lake.  There is a road (FR 1271) that turns off of the Whitefish Lake Road (FR 348) and passes south around the lake before coming to the lake shore near the outlet.  The road is very rough beyond a logging landing about half way to the lake and is only wide enough for an ATV beyond the landing.  There is also a 0.25 mile trail off of the Whitefish Lake Road (FR 348) to the west side of the lake.  Two portage routes also lead to the lake.  There is a 120 rod portage from Lost Lake to the southwestern corner of Frear Lake.  A 60 rod portage, a section of marsh, and a 5 rod portage connect Frear Lake to Timber Lake.  The lake shore is a combination of state and federal land and is entirely in public ownership. <br> \n <br> \nThe lake bed on Frear Lake is dominated by hard substrates, primarily boulder and rubble.  Muck, detritus, and sand are also present in some areas.  Aquatic plants are found growing to a maximum depth of 7 feet with a total of 30 types of aquatic and riparian plants were documented. <br> \n <br> \nWalleye is the primary managed species on Frear Lake.  The Walleye catch was above average relative to other area lakes during the 2016 lake survey.  The average length of Walleye sampled was 14.2 inches with fish up to 21.6 inches long sampled.  The average weight of Walleye sampled was 1 pound.  Thirteen Walleye year classes were present in the sample with the 2011 year class making up 36 percent of the catch, the oldest fish sampled was estimated to be age-15, this is indicative of consistent recruitment.  Growth was below average relative to other area lakes.  <br> \n <br> \nNorthern Pike is the secondary managed species in Frear Lake.  The gillnet catch during the 2016 survey was only slightly below average.  The average length of Northern Pike sampled was 20.45 inches with fish up to 25.04 inches long sampled and the average weight was 1.75 pounds.  Within the sample there were four year classes with the oldest fish being age-7; the 2012 year class made up 54 percent of the sample.  Growth was average relative to other area lakes. <br> \n <br> \nYellow Perch catch was slightly below average relative to other similar lakes.  The average length was 6.57 inches with fish up to 7.76 inches long sampled and the average weight was 0.11 pounds.  Three year classes were sampled with the 2013 year class making up 57 percent of the catch.  Growth was average relative to other area lakes.  Approximately 5,000 young of the year Yellow Perch (good forage for Walleye) were sampled.  White Sucker and Blacknose Shiner were also sampled in good numbers. <br> \n <br> \nFrear Lake, like the other lakes in the Timber-Frear Loop offers a good opportunity for angling and canoe camping.  The Walleye fishery in the lake for eater size fish should be good.  The Northern Pike and Yellow Perch in the lake may not be worth targeting due to the small sizes and limited numbers.  Overall Frear Lake is scenic lake that offers good angling for Walleye in a remote setting.  <br> \n</p>",
+                "headerInfo": [
+                    "Frear",
+                    null,
+                    "16080600",
+                    "2016-07-18",
+                    "11941623755305000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2016-07-18",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                6
+                            ],
+                            [
+                                17,
+                                11
+                            ],
+                            [
+                                18,
+                                8
+                            ],
+                            [
+                                19,
+                                11
+                            ],
+                            [
+                                20,
+                                6
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                23,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 23
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                5390
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                7,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 7
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                10,
+                                4
+                            ],
+                            [
+                                11,
+                                9
+                            ],
+                            [
+                                12,
+                                9
+                            ],
+                            [
+                                13,
+                                17
+                            ],
+                            [
+                                14,
+                                31
+                            ],
+                            [
+                                15,
+                                16
+                            ],
+                            [
+                                16,
+                                6
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                18,
+                                5
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 21
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                3
+                            ],
+                            [
+                                20,
+                                6
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                25,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 18,
+                        "maximum_length": 25
+                    }
+                }
+            },
+            {
+                "surveyID": "4251218151718000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.40",
+                        "quartileCount": "1.2-3.9",
+                        "totalWeight": 10975.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.02",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "25.00",
+                        "quartileCount": "3.0-13.2",
+                        "totalWeight": 64227.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.7-1.3",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.13",
+                        "totalCatch": 125
+                    },
+                    {
+                        "CPUE": "11.20",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 62975.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.48",
+                        "totalCatch": 56
+                    }
+                ],
+                "narrative": "<p>Frear Lake is in the Superior National Forest, 14.5 miles northeast of Tofte, Mn.  The lake is accessible by an extremely rough logging road to a carry-down access and by three different portage routes. <br> \n <br> \nThe fish sampled in DNR test nets in 1998 were walleye, northern pike and white sucker.  Walleye were sampled in above average numbers compared to other lakes of this type.  Walleye ranged in size from 7.8 inches to 26.8 inches (6 pounds) and averaged about 1.25 pounds.  Fish over 22 inches are not common. <br> \n <br> \nNorthern pike were sampled in average numbers which is typical for this lake.  Northen pike ranged from 19.3 inches to 26.8 inches and averaged about 2 pounds.  Although no large fish were observed in the survey northern pike in the 20 pound range have been caught by anglers in the past. <br> \n <br> \nFrear Lake is part of the Timber-Frear Loop which consists if six lakes connected by a series of portages.  The area offers a wilderness type experience similar to the BWCAW but without the usual restrictions on bottles, cans and outboard motor use.</p>",
+                "headerInfo": [
+                    "Frear",
+                    null,
+                    "16080600",
+                    "1998-07-14",
+                    "4251218151718000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1998-07-14",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                19,
+                                3
+                            ],
+                            [
+                                20,
+                                4
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                22,
+                                3
+                            ],
+                            [
+                                26,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 19,
+                        "maximum_length": 26
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                4
+                            ],
+                            [
+                                16,
+                                6
+                            ],
+                            [
+                                17,
+                                14
+                            ],
+                            [
+                                18,
+                                8
+                            ],
+                            [
+                                19,
+                                5
+                            ],
+                            [
+                                20,
+                                8
+                            ],
+                            [
+                                21,
+                                3
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 22
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                6
+                            ],
+                            [
+                                11,
+                                5
+                            ],
+                            [
+                                12,
+                                7
+                            ],
+                            [
+                                13,
+                                23
+                            ],
+                            [
+                                14,
+                                21
+                            ],
+                            [
+                                15,
+                                22
+                            ],
+                            [
+                                16,
+                                22
+                            ],
+                            [
+                                17,
+                                9
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                26,
+                                1
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 26
+                    }
+                }
+            },
+            {
+                "surveyID": "112651",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.5-2.7",
+                        "totalWeight": 1.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.8-1.5",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "3.33",
+                        "quartileCount": "0.7-2.3",
+                        "totalWeight": 64.4,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.4-2.8",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "3.22",
+                        "totalCatch": 20
+                    },
+                    {
+                        "CPUE": "5.25",
+                        "quartileCount": "1.2-3.9",
+                        "totalWeight": 31.1,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.48",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "24.50",
+                        "quartileCount": "3.0-13.2",
+                        "totalWeight": 111.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.7-1.3",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.14",
+                        "totalCatch": 98
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "0.5-2.8",
+                        "totalWeight": 3.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 24
+                    },
+                    {
+                        "CPUE": "11.00",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 112.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.56",
+                        "totalCatch": 44
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5.2,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.87",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>The Walleye gillnet catch was nearly the same as the previous assessment, and the average length (14.3 inches) and average weight (1.1 pounds) remained the same. All year classes from Age II - VIII were well represented, but growth rates are slow. Age I fish may be to small to be captured by gillnets.      The Northern Pike catch per gillnet doubled from the last assessment and is the highest since Walleye introduction in 1976.      The Yellow Perch catch of 6.0 per gillnet was the highest ever recorded and compares with 0.0 in 1987. This is the first time the gillnet lift has exceeded 1.0/lift. High numbers of young-of-the-year Yellow Perch were taken in 1/4 inch mesh trapnets.     The White Sucker population remains high.</p>",
+                "headerInfo": [
+                    "Frear",
+                    null,
+                    "16080600",
+                    "1992-07-27",
+                    "112651",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1992-07-27",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,211 @@
+{
+    "timestamp": 1737662147,
+    "result": {
+        "lakeName": "Discovery",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.01,
+        "DOWNumber": 38060200,
+        "waterClarity": [
+            [
+                "06/12/2019",
+                "3"
+            ]
+        ],
+        "averageWaterClarity": "3.0",
+        "littoralAcres": 20.0,
+        "areaAcres": 34.0,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 22.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portage trail has minnimal maintanance, potentially very wet & boggy.\nPortage also crosses State land.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108028",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "10.25",
+                        "quartileCount": "1.1-12.4",
+                        "totalWeight": 8.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 41
+                    },
+                    {
+                        "CPUE": "25.50",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 43.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.43",
+                        "totalCatch": 102
+                    },
+                    {
+                        "CPUE": "2.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.1,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Composed of above average populations of Suckers, Perch, and Bluegill.  Largemouth Bass are reportedly present.</p>",
+                "headerInfo": [
+                    "Discovery",
+                    null,
+                    "38060200",
+                    "1980-06-19",
+                    "108028",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1980-06-19",
+                "lengths": {}
+            },
+            {
+                "surveyID": "12391930854077000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "1.1-12.4",
+                        "totalWeight": 2363.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.43",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.6-9.0",
+                        "totalWeight": 28.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 3517.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 32
+                    }
+                ],
+                "narrative": "<p>Discovery Lake is located approximately 17 miles E of Ely within the Superior National Forest. This lake has an irregular shaped shoreline with ledgerock outcrops and a surrounding forest that primarily features coniferous species. <br> \n <br> \nThe most common access is a 0.4 mile portage off the Snowbank Road that leads to a tributary of Discovery Lake. The tributary travels through a bog environment which can be difficult to navigate, depending on current water levels. This route is primarily used during the winter months to facilitate access to nearby Judd Lake, which is a designated stream trout lake. No official campsites were identified. <br> \n <br> \nThe 2019 survey sampled 3 species of fish with small white sucker (71%) dominating the catch. Yellow perch (27%) and 1 green sunfish were also sampled. Discovery Lake was privately stocked with walleye fry in 2017. No walleye were sampled or observed in 2019. <br> \n <br> \nYellow perch numbers in 2019 (3.0/gill net) were lower than the historical average (6.6/gill net) for this lake and below average (6.0/gill net) when compared to other similar area lakes. The average perch sampled was 9.8 inches which is larger than the historical average length of 8.5 inches. Perch sizes ranged from 6.3 to 12.4 inches. <br> \n <br> \n <br> \n <br> \n <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Discovery",
+                    null,
+                    "38060200",
+                    "2019-06-12",
+                    "12391930854077000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2019-06-12",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                6
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                8,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 12
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 4
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                4
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                6
+                            ],
+                            [
+                                9,
+                                13
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 13
+                    }
+                }
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

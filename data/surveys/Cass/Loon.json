@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737648293,
+    "result": {
+        "lakeName": "Loon",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.88,
+        "DOWNumber": 11002400,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 29.14,
+        "areaAcres": 29.14,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 14.0,
+        "officeCode": "F118",
+        "accesses": [
+            {
+                "location": "None.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "114034",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.50",
+                        "quartileCount": "0.8-7.2",
+                        "totalWeight": 2.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 38
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.3-3.3",
+                        "totalWeight": 0.75,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.8-2.4",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.75",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "3.1-24.9",
+                        "totalWeight": 0.25,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>THERE IS A LARGE POPULATION OF PUMPKINSEEDS WITH SIZE RUNNING ABOVE THE STATE MEDIAN AND BELOW THE LOCAL MEDIAN. SMALL POPULATION OF BLUEGILL AND SUCKER EXISTS BOTH RANGING WAY BELOW LOCAL AND STATE WIDE MEDIANS. FROM LOCAL REPORTS THERE EXISTS A LARGE POPUALTION OF SHINERS AND AVG POPU- LATION OF FATHEAD MINNOWS.</p>",
+                "headerInfo": [
+                    "Loon",
+                    null,
+                    "11002400",
+                    "1973-06-27",
+                    "114034",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-06-27",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cass"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": 1737643995,
+    "result": {
+        "lakeName": "Dummer",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.37,
+        "DOWNumber": 1017500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 27.0,
+        "areaAcres": 30.91,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 33.0,
+        "officeCode": "F211",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "113297",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "37.50",
+                        "quartileCount": "1.0-11.8",
+                        "totalWeight": 6.9,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 75
+                    },
+                    {
+                        "CPUE": "201.25",
+                        "quartileCount": "1.2-4.8",
+                        "totalWeight": 56.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 805
+                    }
+                ],
+                "narrative": "<p>The trap net index for black crappie is above the third regional quartile. Black crappie range from two to five years of age with eighty-one percent from the 1986 year class. Growth rates for the second through the fifth growth increments ranged from twenty-seven to forty percent slower than normal.</p>",
+                "headerInfo": [
+                    "Dummer",
+                    null,
+                    "01017500",
+                    "1989-07-11",
+                    "113297",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1989-07-11",
+                "lengths": {}
+            },
+            {
+                "surveyID": "113232",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "76.00",
+                        "quartileCount": "1.0-11.8",
+                        "totalWeight": 18.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 76
+                    },
+                    {
+                        "CPUE": "65.00",
+                        "quartileCount": "1.2-4.8",
+                        "totalWeight": 31.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 195
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.5-1.5",
+                        "totalWeight": 1.75,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.6-1.7",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.75",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Very high black crappie population with a fast rate of growth. Only one other species was caught during the netting and that was one (1) largemouth bass.</p>",
+                "headerInfo": [
+                    "Dummer",
+                    null,
+                    "01017500",
+                    "1984-07-30",
+                    "113232",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1984-07-30",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Aitkin"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

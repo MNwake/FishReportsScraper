@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737670566,
+    "result": {
+        "lakeName": "Neesh",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.02,
+        "DOWNumber": 69032100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 36.02,
+        "areaAcres": 36.02,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 6.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "PORTAGE FROM NISWI LAKE ~1/8 MILE~. DOES NOT APPEAR MAINTAINED.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108247",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "3.0-9.0",
+                        "totalWeight": 29.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.83",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 1.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "9.50",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 11.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.58",
+                        "totalCatch": 19
+                    }
+                ],
+                "narrative": "<p>Neesh Lake has an above average population of suckers and average populations of northern pike and yellow perch. </p>",
+                "headerInfo": [
+                    "Neesh",
+                    null,
+                    "69032100",
+                    "1983-08-01",
+                    "108247",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1983-08-01",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

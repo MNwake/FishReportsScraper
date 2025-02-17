@@ -1,0 +1,136 @@
+{
+    "timestamp": 1737675352,
+    "result": {
+        "lakeName": "Curtis",
+        "sampledPlants": [],
+        "shoreLengthMiles": 5.49,
+        "DOWNumber": 87001600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 433.51,
+        "areaAcres": 381.54,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 8.0,
+        "officeCode": "F416",
+        "accesses": [
+            {
+                "location": "West side of lake off County Road 23.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "117911",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "42.00",
+                        "quartileCount": "0.2-1.9",
+                        "totalWeight": 46.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 252
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.3-2.6",
+                        "totalWeight": 1.75,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.0-2.0",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.58",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "1.0-5.5",
+                        "totalWeight": 21.25,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.4-4.6",
+                        "species": "CAP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.18",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "106.00",
+                        "quartileCount": "30.3-150.6",
+                        "totalWeight": 49.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 318
+                    },
+                    {
+                        "CPUE": "12.67",
+                        "quartileCount": "0.4-6.5",
+                        "totalWeight": 6.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 38
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.8-6.5",
+                        "totalWeight": 0.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "35.00",
+                        "quartileCount": "1.0-13.8",
+                        "totalWeight": 113.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-3.7",
+                        "species": "CAP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.08",
+                        "totalCatch": 105
+                    },
+                    {
+                        "CPUE": "163.17",
+                        "quartileCount": "11.5-132.6",
+                        "totalWeight": 150.25,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 979
+                    }
+                ],
+                "narrative": "<p>CARP, BULLHEAD AND GREEN SUNFISH.</p>",
+                "headerInfo": [
+                    "Curtis",
+                    "Houston",
+                    "87001600",
+                    "1987-09-22",
+                    "117911",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1987-09-22",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Yellow Medicine"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

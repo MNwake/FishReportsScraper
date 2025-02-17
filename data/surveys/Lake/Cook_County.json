@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737662065,
+    "result": {
+        "lakeName": "Cook County",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.92,
+        "DOWNumber": 38001000,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 44.93,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 38.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "25 rod trail from Paco Lake to the SW part of the lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107925",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.35,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "15.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 32.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.69",
+                        "totalCatch": 47
+                    }
+                ],
+                "narrative": "<p>Consists of above average populations of suckers and green sunfish.</p>",
+                "headerInfo": [
+                    "Cook County",
+                    null,
+                    "38001000",
+                    "1978-08-17",
+                    "107925",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-08-17",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

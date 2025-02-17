@@ -1,0 +1,288 @@
+{
+    "timestamp": 1737650394,
+    "result": {
+        "lakeName": "Edith",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.01,
+        "DOWNumber": 16007800,
+        "waterClarity": [
+            [
+                "08/24/1972",
+                "4.5"
+            ],
+            [
+                "09/05/2006",
+                "3.5"
+            ],
+            [
+                "10/21/2015",
+                "5.5"
+            ]
+        ],
+        "averageWaterClarity": "4.5",
+        "littoralAcres": 35.21,
+        "areaAcres": 35.21,
+        "meanDepthFeet": 5.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": "Trail ends at beaver pond, usually navigable to lake"
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109606",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "18.67",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 84.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.51",
+                        "totalCatch": 56
+                    }
+                ],
+                "narrative": "<p>Triangle Lake has a large population of Suckers of all ages.</p>",
+                "headerInfo": [
+                    "Edith",
+                    "Triangle",
+                    "16007800",
+                    "1972-08-24",
+                    "109606",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-08-24",
+                "lengths": {}
+            },
+            {
+                "surveyID": "570701647610018",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4670.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.72",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 408.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.90",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 17134.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.36",
+                        "totalCatch": 16
+                    }
+                ],
+                "narrative": "<p>This assessment followed the initial (2005) stocking of rainbow trout in this lake.  Survival of those fish was apparently good; they yielded a gill net catch that was well within the normal range for stream trout lakes in this area, even though the entire catch was the result of just one stocking.  Growth rates had been excellent, with fish reaching a mean length of 15.0 inches at the end of their second season in the lake.  A single brook trout was also taken in 2006, almost certainly produced naturally in Edith or Greenwood Lakes.  Anglers had reported taking northern pike in this lake, but none were found in this assessment. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Edith",
+                    "Triangle",
+                    "16007800",
+                    "2006-09-05",
+                    "570701647610018",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2006-09-05",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 15
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 13,
+                        "maximum_length": 13
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                5
+                            ],
+                            [
+                                19,
+                                3
+                            ],
+                            [
+                                20,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 20
+                    }
+                }
+            },
+            {
+                "surveyID": "12911530358946000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 790.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.44",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "74.50",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 35039.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.52",
+                        "totalCatch": 149
+                    }
+                ],
+                "narrative": "<p>Edith (Triangle) Lake has been managed for rainbow trout since 2005.  The lake has been stocked every odd-numbered year with small spring fingerlings. <br> \n <br> \nModest numbers of rainbow trout were present in the fall of 2015, although the fish taken in this survey were small.  The gill net catch fell within the normal range (1.00-4.00 fish/set) for fall surveys of stream trout lakes in this area, but the mean weight for rainbow trout taken in gill nets was below normal (below 0.62 lb/fish).  Fish from stocking done in 2015 and 2013  were taken.  Growth of the two two-year-old fish captured had been quite slow.  Marginal water quality or intense competition from high numbers of white sucker may have limited growth (and survival) of stocked rainbow trout. <br> \n <br> \nThe white sucker gill net catch was very high, well above normal ranges for lakes of this class, and for stream trout lakes in this area.  White sucker would compete with rainbow trout for some types of invertebrate forage, and management of a lake for stream trout when white sucker are as abundant as they appeared to be in 2015 in Edith Lake has rarely been successful.   <br> \n <br> \nAt one time northern pike were rumored to have been present in Edith Lake.  Surveys in 2006 and 2015 failed to collect any northern pike, so it appears they are either absent, or present only in very low numbers. <br> \n</p>",
+                "headerInfo": [
+                    "Edith",
+                    "Triangle",
+                    "16007800",
+                    "2015-10-21",
+                    "12911530358946000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2015-10-21",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ],
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 11
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                38
+                            ],
+                            [
+                                12,
+                                46
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                17,
+                                4
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                6,
+                                8
+                            ],
+                            [
+                                7,
+                                43
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 20
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

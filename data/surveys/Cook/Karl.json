@@ -1,0 +1,192 @@
+{
+    "timestamp": 1737650773,
+    "result": {
+        "lakeName": "Karl",
+        "sampledPlants": [],
+        "shoreLengthMiles": 5.35,
+        "DOWNumber": 16046100,
+        "waterClarity": [
+            [
+                "08/17/1983",
+                "11"
+            ]
+        ],
+        "averageWaterClarity": "11.0",
+        "littoralAcres": 70.0,
+        "areaAcres": 121.12,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 70.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Entirely inside the BWCAW.  Accessible by portage trail from Lower George Lake and by navigable channel from Long Island Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110726",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "0.1-0.5",
+                        "totalWeight": 388.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.3-1.8",
+                        "species": "BUB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "1.2-3.9",
+                        "totalWeight": 6996.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.54",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 25906.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.38",
+                        "totalCatch": 24
+                    }
+                ],
+                "narrative": "<p>The northern pike catch was within the normal range for lakes of this class; however, the catch was dominated by age-1 fish with an average size of 14.3 inches when collected.  No lake trout were found, but they have been collected in a past survey, and were probably still present in small numbers.</p>",
+                "headerInfo": [
+                    "Karl",
+                    null,
+                    "16046100",
+                    "1996-09-03",
+                    "110726",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1996-09-03",
+                "lengths": {
+                    "BUB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 11
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                29,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 29
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                6
+                            ],
+                            [
+                                18,
+                                6
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 20
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

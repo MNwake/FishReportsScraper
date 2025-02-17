@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737662697,
+    "result": {
+        "lakeName": "Kek",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.3,
+        "DOWNumber": 38022800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 6.0,
+        "areaAcres": 54.91,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 130.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "USFS PORTAGE ~20 RODS~ FROM KEKEKABIC LAKE. LAKE IS WITHIN THE BWCAW.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108393",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "18.00",
+                        "quartileCount": "1.0-4.5",
+                        "totalWeight": 17.7,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.9-4.3",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.98",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "1.0-8.0",
+                        "totalWeight": 0.2,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 4.4,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.88",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>A deep water gillnet set shows lake trout and white sucker are present in above average numbers. Yellow perch are also present. Lake trout natural reproduction is good; three of eight trout captured were under 12 18 tile lake</p>",
+                "headerInfo": [
+                    "Kek",
+                    "Little Kekakabic",
+                    "38022800",
+                    "1988-09-14",
+                    "108393",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1988-09-14",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

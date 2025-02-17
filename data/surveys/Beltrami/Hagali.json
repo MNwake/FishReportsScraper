@@ -1,0 +1,73 @@
+{
+    "timestamp": 1737645930,
+    "result": {
+        "lakeName": "Hagali",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.67,
+        "DOWNumber": 4013600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 76.0,
+        "areaAcres": 96.85,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 27.0,
+        "officeCode": "F112",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "100222",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.25",
+                        "quartileCount": "1.1-9.6",
+                        "totalWeight": 18.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.49",
+                        "totalCatch": 37
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.5-1.5",
+                        "totalWeight": 0.2,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "1.5-14.0",
+                        "totalWeight": 4.25,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BRB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.47",
+                        "totalCatch": 9
+                    }
+                ],
+                "narrative": "<p>There were not any game fish present in this survey. The Brown Bullhead population is three times larger than the area average while maintaining normal growth rates.</p>",
+                "headerInfo": [
+                    "Hagali",
+                    "Hagah",
+                    "04013600",
+                    "1979-06-24",
+                    "100222",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-06-24",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Beltrami"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": 1737653094,
+    "result": {
+        "lakeName": "Mollie",
+        "sampledPlants": [],
+        "shoreLengthMiles": 4.52,
+        "DOWNumber": 18033500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 334.18,
+        "areaAcres": 334.18,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 7.0,
+        "officeCode": "F212",
+        "accesses": [
+            {
+                "location": "None.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "114044",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "27.25",
+                        "quartileCount": "1.5-9.8",
+                        "totalWeight": 21.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.4-0.9",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 109
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.3-0.8",
+                        "totalWeight": 0.01,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.2-3.0",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "1.0-7.3",
+                        "totalWeight": 0.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "1.5-9.9",
+                        "totalWeight": 1.6,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.3-0.8",
+                        "species": "BRB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1.75",
+                        "quartileCount": "1.1-17.4",
+                        "totalWeight": 0.7,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.6",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Black bullhead abundance is considered average, because the catch rate falls between the first and third quartile of the regional median for trapnets. Brown bullhead catch indicates a very high abundance, exceeding the third quartile of the regional median. Bluegill, black crappie, and walleye numbers are below the first quartile of the regional median, thus indications are that the respective populations are below average. The walleye population is made up entirely of young-of-the-year. Abundance of young-of-the-year was shown to be present in moderate numbers when 1/4 averaged 0.15 lbs each.</p>",
+                "headerInfo": [
+                    "Mollie",
+                    null,
+                    "18033500",
+                    "1986-06-09",
+                    "114044",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1986-06-09",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Crow Wing"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

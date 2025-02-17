@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737650594,
+    "result": {
+        "lakeName": "Green",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.47,
+        "DOWNumber": 16062800,
+        "waterClarity": [
+            [
+                "07/30/1980",
+                "13.5"
+            ]
+        ],
+        "averageWaterClarity": "13.5",
+        "littoralAcres": 7.0,
+        "areaAcres": 39.54,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 75.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Entirely inside the BWCAW.  Access by portage from Bat and Flying Lakes.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109804",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 5.06,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.63",
+                        "totalCatch": 8
+                    }
+                ],
+                "narrative": "<p>It seems likely that Suckers and Minnows are the only fish present.</p>",
+                "headerInfo": [
+                    "Green",
+                    null,
+                    "16062800",
+                    "1980-07-29",
+                    "109804",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1980-07-29",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

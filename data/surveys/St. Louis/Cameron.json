@@ -1,0 +1,164 @@
+{
+    "timestamp": 1737669195,
+    "result": {
+        "lakeName": "Cameron",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.47,
+        "DOWNumber": 69023700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 70.4,
+        "areaAcres": 72.09,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 17.0,
+        "officeCode": "F213",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "107755",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 92.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.11",
+                        "quartileCount": "0.4-3.9",
+                        "totalWeight": 6505.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.4-0.8",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.51",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.9-17.3",
+                        "totalWeight": 298.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.66",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "2.0-11.5",
+                        "totalWeight": 2493.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.1-2.1",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "5.50",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.11",
+                        "quartileCount": "0.8-24.6",
+                        "totalWeight": 267.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.2-0.6",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.59",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Cameron Lake is 70 acres and is located approximately 12 miles north of Duluth on the West Pioneer Road.  No game fish were sampled during the 1999 survey.  Due to apparent winterkill and lack of suitable spawning substrates it is doubtful if game fish populations will ever become established.</p>",
+                "headerInfo": [
+                    "Cameron",
+                    "Lester",
+                    "69023700",
+                    "1999-07-13",
+                    "107755",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1999-07-13",
+                "lengths": {
+                    "CRC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "BRB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                17
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 11
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 8
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 18,
+                        "maximum_length": 18
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

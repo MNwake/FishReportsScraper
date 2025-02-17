@@ -1,0 +1,593 @@
+{
+    "timestamp": 1737650761,
+    "result": {
+        "lakeName": "Junco",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.55,
+        "DOWNumber": 16015900,
+        "waterClarity": [
+            [
+                "06/11/2009",
+                "1.6"
+            ],
+            [
+                "06/04/2012",
+                "2.5"
+            ],
+            [
+                "06/24/1974",
+                "4"
+            ]
+        ],
+        "averageWaterClarity": "2.7",
+        "littoralAcres": 40.72,
+        "areaAcres": 40.72,
+        "meanDepthFeet": 3.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "4310918746111002",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 138.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 952.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "85.33",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 31042.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.27",
+                        "totalCatch": 256
+                    },
+                    {
+                        "CPUE": "15.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 643.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.03",
+                        "totalCatch": 45
+                    }
+                ],
+                "narrative": "<p>Brook trout abundance and average size were low in Junco Lake in 2009.  The brook trout catch was the lowest seen to date in this lake, where past catches have ranged from 12.0 to 12.5 fish/gill net set.  The catch was also below the normal range (2.67 to 15.00 fish/gill net set) for spring assessments of stream trout lakes in the Grand Marais area.  Junco Creek is probably the source for brook trout found in Junco Lake, since the lake is not stocked.  Two year classes contributed to the 2009 catch, with most of fish taken coming from a naturally-produced 2007 year class.  Growth of two-year-old brook trout had been slow; they reached an average length of just 7.2 inches at the end of their second year.  <br> \n <br> \nThe 2009 white sucker catch was extremely high for a lake of this class, and was higher than catches seen in past assessments of this lake (40.5 - 60.0 white sucker/gill net set).  White sucker compete with brook trout for invertebrate forage.  At the levels of abundance seen in this lake, it is likely that white sucker are limiting brook trout growth. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Junco",
+                    null,
+                    "16015900",
+                    "2009-06-11",
+                    "4310918746111002",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2009-06-11",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 11
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                27
+                            ],
+                            [
+                                11,
+                                23
+                            ],
+                            [
+                                12,
+                                12
+                            ],
+                            [
+                                13,
+                                15
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                23
+                            ],
+                            [
+                                8,
+                                67
+                            ],
+                            [
+                                9,
+                                84
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 14
+                    },
+                    "CRC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 7
+                    },
+                    "CSH": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                33
+                            ],
+                            [
+                                6,
+                                12
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    }
+                }
+            },
+            {
+                "surveyID": "4311209642376014",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 240.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2147.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "46.33",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 9133.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 139
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 46.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Junco Lake is a natural brook trout lake, and the population is probably sustained by recruitment from the Junco River, a designated trout stream supporting a wild brook trout population.  This assessment was the first scheduled in the 2010 management plan for the lake, to monitor the lake's fish community. <br> \n <br> \nBrook trout were present in average numbers in 2012, but were smaller than average for a stream trout lake in this area.  The brook trout gill net catch in 2012 fell within the normal range (2.50-14.25 fish/set) for spring assessments of stream trout lakes in Cook County.  Although brook trout taken in 2012 were small, their small size was typical of past results in this lake, where the population resembles a stream population more than a typical lake population.  Three age classes, all naturally produced, contributed to the 2012 catch.  Compared to other lakes in the area, growth had been slow.  Two-year-old fish reached a mean length of 7.2 inches at the end of their second year, compared to an average of 9.4 inches for area stream trout lakes.  Although slow for a lake population, brook trout growth was still somewhat faster than typically seen in streams in this area, where fish typically reach a average length of just 6.4 inches in two years of growth. <br> \n <br> \nSlow brook trout growth may have been due in part to marginal water temperatures in this very shallow lake.  Heavy competition for invertebrate and other forage from a very dense white sucker population, and high numbers of creek chubs, no doubt also restricted brook trout growth.  The white sucker gill net catch far exceeded the normal range for the lake class, but was typical for this lake historically.  The low mean weight for white sucker taken in gill nets was also typical for this lake. <br> \n <br> \n </p>",
+                "headerInfo": [
+                    "Junco",
+                    null,
+                    "16015900",
+                    "2012-06-04",
+                    "4311209642376014",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2012-06-04",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                11
+                            ],
+                            [
+                                11,
+                                5
+                            ],
+                            [
+                                12,
+                                4
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                61
+                            ],
+                            [
+                                7,
+                                41
+                            ],
+                            [
+                                8,
+                                3
+                            ],
+                            [
+                                9,
+                                12
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 12
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                4
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 10
+                    },
+                    "CRC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "CSH": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    }
+                }
+            },
+            {
+                "surveyID": "111207",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1079.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "67.50",
+                        "quartileCount": "1.2-6.1",
+                        "totalWeight": 26219.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 405
+                    },
+                    {
+                        "CPUE": "0.83",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "3.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 915.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "60.00",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 3660.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 60
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>The 1999 brook trout catch was high for lakes in the Grand Marais Fisheries Area, but average size was small.  Seasonally harsh habitat conditions, competition with other species, and disease likely result in slow growth and short life span.</p>",
+                "headerInfo": [
+                    "Junco",
+                    null,
+                    "16015900",
+                    "1999-06-09",
+                    "111207",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1999-06-09",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                22
+                            ],
+                            [
+                                11,
+                                11
+                            ],
+                            [
+                                18,
+                                5
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                143
+                            ],
+                            [
+                                7,
+                                197
+                            ],
+                            [
+                                8,
+                                59
+                            ],
+                            [
+                                9,
+                                26
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 18
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                12
+                            ],
+                            [
+                                8,
+                                4
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 11
+                    }
+                }
+            },
+            {
+                "surveyID": "111140",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "10.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "13.50",
+                        "quartileCount": "1.2-6.1",
+                        "totalWeight": 12.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 54
+                    },
+                    {
+                        "CPUE": "12.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 25
+                    },
+                    {
+                        "CPUE": "40.50",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 18.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 81
+                    }
+                ],
+                "narrative": "<p>Junco Lake has very high populations of Suckers and Creek Chubs due to the gravelly inlet stream. Brook Trout populations are maintained from stream reproduction and annually stocking.  Because of dense vegetation and warm water during the summer Trout are forced in spring areas and to the stream</p>",
+                "headerInfo": [
+                    "Junco",
+                    null,
+                    "16015900",
+                    "1974-06-24",
+                    "111140",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1974-06-24",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

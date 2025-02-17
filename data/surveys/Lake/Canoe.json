@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737661965,
+    "result": {
+        "lakeName": "Canoe",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.14,
+        "DOWNumber": 38017300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 13.0,
+        "areaAcres": 18.65,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 30.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Access by portage only in BWCA.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107951",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "0.6-9.0",
+                        "totalWeight": 0.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "52.00",
+                        "quartileCount": "1.1-12.4",
+                        "totalWeight": 12.6,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 104
+                    }
+                ],
+                "narrative": "<p>Consists of green sunfish and perch.  Both species are small in size.</p>",
+                "headerInfo": [
+                    "Canoe",
+                    null,
+                    "38017300",
+                    "1973-07-15",
+                    "107951",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-07-15",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

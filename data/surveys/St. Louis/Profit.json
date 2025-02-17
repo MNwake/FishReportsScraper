@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737670808,
+    "result": {
+        "lakeName": "Profit",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.56,
+        "DOWNumber": 69036000,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 13.54,
+        "areaAcres": 13.54,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 12.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portage from Green Lake. ~1/8 mile~.  Portage not developed.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108163",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.3-0.5",
+                        "totalWeight": 0.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 6.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.27",
+                        "totalCatch": 24
+                    }
+                ],
+                "narrative": "<p>(was also observed on lake.  The lack of a (portage into lake indicates very few if (any people use the lake. Composed of a high population of yellow perch and a low population of green sunfish.</p>",
+                "headerInfo": [
+                    "Profit",
+                    null,
+                    "69036000",
+                    "1981-07-31",
+                    "108163",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1981-07-31",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

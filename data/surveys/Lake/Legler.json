@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737662780,
+    "result": {
+        "lakeName": "Legler",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.55,
+        "DOWNumber": 38064900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 53.69,
+        "areaAcres": 53.69,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 3.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112389",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "15.00",
+                        "quartileCount": "4.0-15.0",
+                        "totalWeight": 40.8,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.72",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "15.00",
+                        "quartileCount": "2.0-15.0",
+                        "totalWeight": 2.8,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "11.00",
+                        "quartileCount": "3.0-23.0",
+                        "totalWeight": 21.3,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.94",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>One gillnet set indicated a high Northern Pike population is present with a catch 3.6 times the area average. Ages-2, 3, and 4 composed 2/3 of the catch with age-3 accounting for 40%. Overall growth for the large Northern Pike was considered good. White Suckers and Yellow Perch are present in numbers about equal to the area average. </p>",
+                "headerInfo": [
+                    "Legler",
+                    null,
+                    "38064900",
+                    "1988-06-14",
+                    "112389",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1988-06-14",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

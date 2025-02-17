@@ -1,0 +1,93 @@
+{
+    "timestamp": 1737662139,
+    "result": {
+        "lakeName": "Dime",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.21,
+        "DOWNumber": 38092100,
+        "waterClarity": [
+            [
+                "06/29/2016",
+                "3"
+            ]
+        ],
+        "averageWaterClarity": "3.0",
+        "littoralAcres": 2.0,
+        "areaAcres": 2.13,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 18.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "We cut a trail in to the lake. Recent logging made travel with a pickup possible to within about 200 yards of the lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "11961618052990000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CNM",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Dime Lake is a 2 acre bog lake with a depth of 18 feet, and is located 12 miles northwest of Isabella near the Tomahawk Road (USFS Rd. 377) and Sphagnum Lake.  Access to the lake is a trail cut by the Finland Fisheries crew to the south shore.  Recent logging activity made travel by 4x4 pickup possible to within about 200 yards of the lake.  The lake is very acidic and has dark brown bog stained water.  In June 2016, a standard survey using one gill net and two minnow traps was performed.  The only fish captured were three Central Mudminnows.  It appears that Dime Lake does not support a sport fishery.  Its small size, low dissolved oxygen levels in the winter, and increasing acidity make it unlikely to be able to support a sport fish community.  </p>",
+                "headerInfo": [
+                    "Dime",
+                    null,
+                    "38092100",
+                    "2016-06-29",
+                    "11961618052990000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2016-06-29",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112284",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "82.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 9.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 82
+                    }
+                ],
+                "narrative": "<p>Dime Lake is dominated by a dense Yellow Perch population. It is probable that some minnow are also present, but no minnow traps were set. </p>",
+                "headerInfo": [
+                    "Dime",
+                    null,
+                    "38092100",
+                    "1985-08-15",
+                    "112284",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1985-08-15",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

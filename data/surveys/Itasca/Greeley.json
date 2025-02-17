@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737658225,
+    "result": {
+        "lakeName": "Greeley",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.97,
+        "DOWNumber": 31086300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 16.8,
+        "areaAcres": 23.1,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 43.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "By forest trail from a gravel road connecting to State Highway #46.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "106631",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "2.5-24.8",
+                        "totalWeight": 0.6,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 9
+                    }
+                ],
+                "narrative": "<p>Perch, pumpkinseeds and bullheads dominate the fish population and are very abundant.Because the trap nets were combined 2 double pots and 2 single pots the data was not entered.  The following fish species were caught:  rainbow trout (1, 0.42 lbs), white sucker (3, 0.42 lbs), golden shiner (6, 0.90 lbs), black bullhead (13, 4.62 lbs), yellow perch (221, 35.4 lbs), and pumpkinseed (219, 22.98 lbs).</p>",
+                "headerInfo": [
+                    "Greeley",
+                    null,
+                    "31086300",
+                    "1955-06-30",
+                    "106631",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1955-06-30",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

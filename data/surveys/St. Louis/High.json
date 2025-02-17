@@ -1,0 +1,1942 @@
+{
+    "timestamp": 1737669814,
+    "result": {
+        "lakeName": "High",
+        "sampledPlants": [],
+        "shoreLengthMiles": 6.36,
+        "DOWNumber": 69007100,
+        "waterClarity": [
+            [
+                "05/23/2011",
+                "16"
+            ],
+            [
+                "06/09/2014",
+                "11"
+            ]
+        ],
+        "averageWaterClarity": "13.5",
+        "littoralAcres": 99.0,
+        "areaAcres": 273.57,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 66.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": " ",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": "Approximately 1/4 mile portage that comes to the south side of the middle basin from the north side of Dry Lake."
+            },
+            {
+                "location": " ",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": "Approximately one mile long portage from FR 460 to the northeast bay of the western most basin."
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108507",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3739.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.65",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "8.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5357.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.47",
+                        "totalCatch": 25
+                    },
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 19861.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.22",
+                        "totalCatch": 36
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 216.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Fish populations appear to be dominated by white sucker and brook trout, although there is an abundant bluegill population that was poorly sampled by the gill net sets.  Splake are also present in fairly good numbers.  Trap nets were not set due to difficult access.The average size of trout is unexceptional, but splake over 20\" are present and the State record brook trout was caught in this lake in 1991.  Local reports indicate that bluegill sizes, which had been small, are getting larger.</p>",
+                "headerInfo": [
+                    "High",
+                    null,
+                    "69007100",
+                    "1993-06-14",
+                    "108507",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1993-06-14",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 7
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                11
+                            ],
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                12,
+                                4
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 15
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                7
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                6,
+                                11
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 18
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 13,
+                        "maximum_length": 21
+                    }
+                }
+            },
+            {
+                "surveyID": "109542",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5714.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.40",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 650.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.48",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "15.00",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 11005.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.54",
+                        "totalCatch": 45
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 548.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.60",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>High Lake is in Ecological Lake Class 3, which consists of 72 lakes in northeast Minnesota that are deep, have irregular shoreline shapes, and have very clear, soft (unmineralized), and infertile water.  High Lake has no inlets from other lakes.  The outlet is to Dry Lake and is rocky and fairly steep in places.  There is an old rock filter barrier in the outlet near where it leaves High Lake.  High Lake stratifies thermally in midsummer with surface temperatures around 70 F and bottom temperatures in the low 40's F.  Good oxygen for trout (more than 5 ppm) is retained to a depth of about 30 ft, where the temperature is about 50 F.  Note that the Secchi water clarity and dissolved oxygen measurements in the 05/31/2005 fish population assessment are not typical of conditions later in the summer.High Lake was poisoned in 1966 to remove populations of white sucker, green sunfish, rock bass, largemouth bass, yellow perch, and cisco.  Trout stocking began in 1968.  In recent years rainbow trout yearlings, brook trout fingerlings, and splake fingerlings have been stocked on a rotating schedule.  The 2005 trout assessment consisted of three gillnets set in late May, somewhat earlier than most of the eleven previous trout assessments on this lake which were completed in mid to late June.  Trapnets have not been used in most assessments on this lake due to the difficult portage access.No rainbow trout were captured in the gillnets in 2005.  Only two rainbow trout have been caught in eight assessments since splake were first introduced in 1982.  Prior to 1982 rainbow trout catches ranged from 2.7/gillnet to 4.7/gillnet.  Rainbow stocking was changed from fingerlings to yearlings starting in 1995 in an attempt to increase rainbow survival by stocking them at a larger size where they would be less vulnerable to predation by splake.  Despite the absence of rainbow trout in the assessment nets, anglers report catching some rainbows in High Lake.The brook trout catch in 2005 of 1.0 fish/gillnet (0.5 lb/gillnet) was lower than the median catch of 3.1 fish/gillnet (2.6 lb/gillnet) in all trout assessments since brook trout stocking began in 1984.  The three brook trout captured in 2005 averaged 10.8\" (range: 10.4\" to 11.0\") and had likely been stocked as 4\" fingerlings in the fall of 2003, 19 months prior to being recaptured in the 2005 assessment.  One brook trout stomach was empty, one contained mayfly nymphs, and one contained minnows.The splake catch in 2005 of 3.0 fish/gillnet (4.2 lb/gillnet) was at the median catch for all trout assessments on this lake since splake stocking began in 1982.  All but one of the splake were in a group averaging 15.8\" (range: 13.8\" to 17.5\") that had likely been stocked as 4\" fingerlings in the fall of 2002, 31 months prior to being recaptured in the 2005 assessment.  One larger splake (22.2\") may have been from a previous splake fingerling stocking in the fall of 1999.  Half of the splake stomachs contained minnows and half contained crayfish.The total catch of trout by weight (all species combined) in High Lake in 2005 of 4.7 lb/gillnet was similar to the median catch of 4.8 lb/gillnet in all trout investigations on High Lake, but was higher than the median catch of 3.9 lb/gillnet in recent assessments of 25 stream trout lakes (excluding mine pit lakes) in the Tower Fisheries Management Area.White sucker numbers in 2005 (15.0/gillnet) were at the median catch for this species in all assessments on High Lake.  Low numbers of bluegill sunfish were also captured in the 2005 assessment.</p>",
+                "headerInfo": [
+                    "High",
+                    null,
+                    "69007100",
+                    "2005-05-31",
+                    "109542",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2005-05-31",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 9
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 11
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                5
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                7,
+                                12
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                10
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 18
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                21,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 13,
+                        "maximum_length": 21
+                    }
+                }
+            },
+            {
+                "surveyID": "108364",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.22",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7.4,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.70",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "3.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 32.5,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.08",
+                        "totalCatch": 30
+                    },
+                    {
+                        "CPUE": "23.89",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 93.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.43",
+                        "totalCatch": 215
+                    },
+                    {
+                        "CPUE": "0.78",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.7,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>White sucker are present in above average numbers. Low numbers of brook trout, splake, and bluegill sunfish are also present. Bluegills are probably more numerous than observed in the gillnet catch. Several large brook trout were captured.</p>",
+                "headerInfo": [
+                    "High",
+                    null,
+                    "69007100",
+                    "1987-06-09",
+                    "108364",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1987-06-09",
+                "lengths": {}
+            },
+            {
+                "surveyID": "108284",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 41.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.95",
+                        "totalCatch": 43
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.2,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "27.00",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 52.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.32",
+                        "totalCatch": 162
+                    },
+                    {
+                        "CPUE": "1.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.7,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Composed of a very high suckers population, a high bluegill population, and good populations of splake and brook trout. Some rainbow trout are know to be present. </p>",
+                "headerInfo": [
+                    "High",
+                    null,
+                    "69007100",
+                    "1984-06-25",
+                    "108284",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1984-06-25",
+                "lengths": {}
+            },
+            {
+                "surveyID": "108375",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.22",
+                        "quartileCount": "N/A",
+                        "totalWeight": 24.2,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.20",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "11.22",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 46.6,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.46",
+                        "totalCatch": 101
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.8,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.31",
+                        "totalCatch": 9
+                    }
+                ],
+                "narrative": "<p>White sucker and bluegill are present in high numbers. Brook trout are present in low numbers, some large (19</p>",
+                "headerInfo": [
+                    "High",
+                    null,
+                    "69007100",
+                    "1988-06-29",
+                    "108375",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1988-06-29",
+                "lengths": {}
+            },
+            {
+                "surveyID": "108468",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 19.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.72",
+                        "totalCatch": 27
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 8.7,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.48",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "32.33",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 39.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.40",
+                        "totalCatch": 97
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>In the gillnet catch white sucker were the most abundant by far, followed by splake, brook trout, bluegill. Visual observation and angling in 1990 indicate, however, that small bluegill are extremely abundant. Sucker sizes are quite small. It is likely that all the brook trout captured in this assessment were from the fall 1988 fingerlings stocking, although it is possible that the smaller fish could be from the fall 1989 fingerling stocking. The average size brook trout captured in this assessment was 10.7 brook trout growth appears slow. </p>",
+                "headerInfo": [
+                    "High",
+                    null,
+                    "69007100",
+                    "1990-06-26",
+                    "108468",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1990-06-26",
+                "lengths": {}
+            },
+            {
+                "surveyID": "16011925439766087",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 210.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.46",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 12327.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.02",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1384.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.02",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "7.83",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 17149.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.80",
+                        "totalCatch": 47
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1052.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.77",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>High Lake is a 274 acre designated stream trout lake located five miles north of Ely.  There are two ways to access the lake.  The most common access is a 1/4 mile portage from Dry Lake which comes in on the south side of the middle basin of High Lake.  The other access is an approximately one mile portage from FR 460 to the northeast side of the western most basin near a major inlet.  This inlet, which is a confined drainage from a series of beaver ponds, is the only continuously flowing inlet to High Lake.  The lone outlet has a rock sill on the High Lake end before flowing over a rocky bed approximately 1/2 mile down to Dry Lake.  The surrounding landscape of High is largely rolling forest land.  The maximum depth is 66 feet and the lake has clear water.  \n\nTypical mid-summer dissolved oxygen levels are generally adequate for trout to moderate depths.  Lake bottom substrates along the shoreline were dominated by boulder, followed by rubble, sand, and gravel.  Aquatic vegetation was sparse and only grows in some of the shallow bays.  The lake is very undeveloped with only three private residences on the shore. \n\nIn 1966 a reclamation project was done on High Lake and various trout species were stocked in the years after.  Since 1990, rainbow yearlings, brookie fingerlings, and splake fingerlings have been stocked on a mostly rotating schedule.  \n\nThe gillnet catch of all trout by weight for this assessment was 5.2 pounds/net which was above average when compared to previous surveys and compared to other trout lakes in the area.  Note that trout abundance is expressed in terms of pounds/net rather than number/net to reduce the influence of occasional high catches of just-stocked fingerlings.  \n\nNine splake were sampled in this survey for a catch rate of 4.5 pounds/gill net.  Lengths ranged from 17 to 25 inches with an average of 20 inches which was quite good compared to past surveys.  The maximum length was the third highest on record for the lake and the average fish weighed 3 pounds which was also higher than most recent surveys.  The most recent splake stocking occurred in 2014 making these fish at least 5 years old in 2019.  \n\nThree brook trout were sampled in the gill nets, their catch rate was 0.5 pounds/net.  Lengths ranged from 13 to 15 inches with an average of 14 inches which was better than the historic average of 11 inches.  All brook trout sampled were likely Minnesota Wild strain stocked in the fall of 2015. The 2019 brook trout stocking occurred after this survey.\n\nOnly one rainbow trout was sampled in gill nets for a catch rate of 0.1 pound/set.  It was nearly 12 inches long and was likely stocked as a yearling in 2018.  No other larger rainbows from any other year classes were sampled, although anglers report catching rainbow trout.  \n</p>",
+                "headerInfo": [
+                    "High",
+                    null,
+                    "69007100",
+                    "2019-05-13",
+                    "16011925439766087",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2019-05-13",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 9
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 14
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 11
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                3
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                25,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 25
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                12,
+                                4
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                7
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                8
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 18
+                    }
+                }
+            },
+            {
+                "surveyID": "109104",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2299.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.46",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "13.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4548.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Misc. fish",
+                        "averageWeight": "0.77",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1226.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 1402.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.03",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 980.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Misc. fish",
+                        "averageWeight": "0.72",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 568.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Misc. fish",
+                        "averageWeight": "1.25",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>High Lake is in Ecological Lake Class 3, which consists of 72 lakes in northeast Minnesota that are deep and average sized with irregular shoreline shapes and very clear, soft, infertile water.  The water column in High Lake stratifies thermally in midsummer and has less than 5 ppm oxygen below about 30 ft, at which depth the water temperature is about 50 F.  Trout require at least 5 ppm oxygen.  Under-ice oxygen in the winter is good.High Lake has no inlets from other lakes; the outlet to Dry Lake is rocky and fairly steep in places.  A filter barrier, built to prevent fish migration, was built of rock and wood cribbing where the outlet leaves High Lake. Each year, rainbow trout, brook trout, or splake are stocked in High Lake on a rotating schedule.  This gillnet assessment was done to evaluate the stocked trout and populations of other fish species.  In addition to standard gillnets, a special monofilament gillnet was used to see how well it caught trout. Trapnets, which catch panfish well, were not carried in because of the difficult access.No rainbow trout were caught during the 1996 assessment or the previous four assessments.  The last gillnet assessment in which rainbows were caught was in 1986.  Despite the absence of rainbow trout in the gillnet assessments, anglers report catching some rainbows, although fewer than brook trout or splake.The catch of brook trout in standard gillnets in 1996 was lower than the long term average catch in High Lake since brook trout stocking began in 1984.  Brook trout sizes in 1996 averaged 10.7 in; the largest was 12.0 in.  These trout were probably from the 1994 stocking of fall fingerlings, and grew from an average length of 5.0 in at stocking to an average of 10.7 in when recaptured at the age of two, 21 months after stocking.  This is fairly slow growth.  It is possible that some of these small brook trout could have come from natural reproduction in the outlet stream, as some spawning has occurred there in the past.  The catch of brook trout in the special monofilament net was similar to the catch in the standard nets.  Brook trout were observed spawning in the outlet stream between High Lake and Dry Lake by the 1981 assessment crew.  The catch of splake in standard gillnets in 1996 was similar to the long term average catch in High Lake since splake stocking began in 1982.  The splake captured in 1996 were in two size groupings: some averaged 6.9 in and ranged from 6.8 in to 7.2 in.  Others averaged 12.2 in and ranged from 11.2 in to 15.4 in.  Both of these size groups present a puzzle, as the most recent splake stocking in High Lake prior to the 1996 assessment occurred in the fall of 1993 and the survivors of that stocking should be larger than the splake captured in 1996.  Possible explanations for the presence of these small splake in 1996 are: natural reproduction of brook trout combined with misidentification of the small brook trout as splake, migration of splake from the 1995 stocking in Dry Lake up the outlet stream to High Lake, or accidental stocking of splake in High Lake during the 1995 splake stocking of Dry Lake.  The assessment crew in 1996 was very experienced at trout identification, brook trout were observed spawning in the creek between High Lake and Dry Lake by the 1981 assessment crew, and the stocking tanks on the float plane have malfunctioned in the past.The monofilament gillnet in 1996 caught many more splake than the standard nets, and the sizes were similar to the larger size group in the standard nets.The total catch of trout (all species combined) in standard gillnets in 1996 of 3.9 lb/gillnet was near the long term average for High Lake of 4.8 lb/gillnet, but is lower than the average of 10.6 lb/gillnet for 24 stream trout lakes (excluding mine pit lakes) in the Ely Fisheries Management Area.  The average length of trout in 1996 of 10.7 in is smaller than the long term average in High Lake of 11.6 in, and is also smaller than the average length of 13.4 in for the same 24 area lakes.Low numbers of white sucker were captured in the 1996 assessment, in contrast to the high long term average of 15.3/gillnet in High Lake.  The reason for the lower catch of sucker in 1996 is not known.  Many bluegill (5 in to 7 in) were observed in the shallows during the 1996 assessment, but none were captured in the gillnets.</p>",
+                "headerInfo": [
+                    "High",
+                    null,
+                    "69007100",
+                    "1996-06-10",
+                    "109104",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1996-06-10",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 18
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                12,
+                                5
+                            ],
+                            [
+                                13,
+                                5
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 15
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 14
+                    }
+                }
+            },
+            {
+                "surveyID": "2301114326391000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 898.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 365.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.80",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "55.22",
+                        "quartileCount": "0.1-1.0",
+                        "totalWeight": 142805.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.1-3.6",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.63",
+                        "totalCatch": 497
+                    },
+                    {
+                        "CPUE": "3.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6620.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.46",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "40.11",
+                        "quartileCount": "2.4-6.0",
+                        "totalWeight": 23493.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 361
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 151.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "14.67",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 6487.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 44
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5643.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.83",
+                        "totalCatch": 15
+                    }
+                ],
+                "narrative": "<p>High Lake is a 277-acre lake with a maximum depth of 66 feet located four miles north of Ely in northeastern St. Louis County.  High is a designated stream trout lake. Since 1990, rainbow trout yearlings, brook trout fingerlings, and splake fingerlings have been stocked on a rotating schedule with only one species stocked in any given year.  Access to High Lake is a fairly difficult portage through Bass and Dry Lakes, or by long trails from the west off the Echo Trail or from the north off the High Fen Trail.   <br> \n  <br> \nIn the 2011, all three species of trout were sampled with splake being the most abundant with a catch rate similar to that in the 2005 assessment.  In 2011, sampled splake ranged in length from 9.3 inches to 28.0 inches with a mean length of 14.3 inches and weight of 1.5 pounds.  For brook trout, lengths ranged from 8.4 inches to 11.7 inches with a mean length of 9.7 inches.  Only one rainbow trout was sampled that was 13.1 inches long. <br> \n <br> \nNear-shore sampling employing trap nets was conducted for the first time since 1985.  Along with trout, white sucker and bluegill were abundantly sampled.  Because these species compete for the same food sources as trout, the suckers and bluegills caught were removed from the lake. <br> \n</p>",
+                "headerInfo": [
+                    "High",
+                    null,
+                    "69007100",
+                    "2011-05-23",
+                    "2301114326391000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2011-05-23",
+                "lengths": {
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                4
+                            ],
+                            [
+                                13,
+                                9
+                            ],
+                            [
+                                14,
+                                8
+                            ],
+                            [
+                                27,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 27
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 13,
+                        "maximum_length": 13
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                41
+                            ],
+                            [
+                                11,
+                                36
+                            ],
+                            [
+                                12,
+                                45
+                            ],
+                            [
+                                13,
+                                48
+                            ],
+                            [
+                                14,
+                                61
+                            ],
+                            [
+                                15,
+                                51
+                            ],
+                            [
+                                16,
+                                27
+                            ],
+                            [
+                                17,
+                                37
+                            ],
+                            [
+                                18,
+                                7
+                            ],
+                            [
+                                19,
+                                4
+                            ],
+                            [
+                                6,
+                                61
+                            ],
+                            [
+                                7,
+                                55
+                            ],
+                            [
+                                8,
+                                32
+                            ],
+                            [
+                                9,
+                                35
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 19
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                77
+                            ],
+                            [
+                                5,
+                                103
+                            ],
+                            [
+                                6,
+                                107
+                            ],
+                            [
+                                7,
+                                72
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 8
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 11
+                    }
+                }
+            },
+            {
+                "surveyID": "108088",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7.25,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.25,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3.75,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.94",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "18.50",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 118.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.06",
+                        "totalCatch": 111
+                    }
+                ],
+                "narrative": "<p>The sucker population is very high in High Lake and is undoubtedly reducing growth rates on the trout present. Rainbow trout, brook trout and splake were taken in below average numbers, although the rainbow trout population appears to be fair.  Fishing reports from this spring have been good.</p>",
+                "headerInfo": [
+                    "High",
+                    null,
+                    "69007100",
+                    "1981-06-08",
+                    "108088",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1981-06-08",
+                "lengths": {}
+            },
+            {
+                "surveyID": "108329",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.22",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3.6,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.80",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.44",
+                        "quartileCount": "N/A",
+                        "totalWeight": 16.3,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.08",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "6.78",
+                        "quartileCount": "N/A",
+                        "totalWeight": 23.2,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 61
+                    },
+                    {
+                        "CPUE": "25.44",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 103.8,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 229
+                    },
+                    {
+                        "CPUE": "0.44",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Composed of very high populations of sucker and (although not well represented in this assessment since trapnets were not used) bluegills. Rainbow trout and splake were present in low numbers and brook trout in quite high numbers. </p>",
+                "headerInfo": [
+                    "High",
+                    null,
+                    "69007100",
+                    "1986-06-12",
+                    "108329",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-06-12",
+                "lengths": {}
+            },
+            {
+                "surveyID": "9721415729647000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.22",
+                        "quartileCount": "N/A",
+                        "totalWeight": 138.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 456.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.34",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "19.83",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 22250.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.41",
+                        "totalCatch": 119
+                    },
+                    {
+                        "CPUE": "55.67",
+                        "quartileCount": "2.4-6.0",
+                        "totalWeight": 21541.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 501
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1748.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.39",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "10.22",
+                        "quartileCount": "0.1-1.0",
+                        "totalWeight": 17406.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.1-3.6",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.42",
+                        "totalCatch": 92
+                    },
+                    {
+                        "CPUE": "4.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 17619.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.55",
+                        "totalCatch": 25
+                    },
+                    {
+                        "CPUE": "0.22",
+                        "quartileCount": "N/A",
+                        "totalWeight": 450.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1066.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.34",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "0.11",
+                        "quartileCount": "N/A",
+                        "totalWeight": 20.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2665.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.37",
+                        "totalCatch": 16
+                    }
+                ],
+                "narrative": "<p>High Lake is a 274 acre lake located five miles north of Ely.  There are two ways to access the lake.  The most common access is a 1/4 mile portage from Dry Lake which comes in on the south side of the middle basin of High Lake.  The other access is an approximately one mile portage from FR 460 to the northeast side of the western most basin near a major inlet.  This inlet which is basically a confined drainage from a series of beaver ponds is the only continuously flowing inlet to High Lake.  The lone outlet has a rock sill on the High Lake end before flowing over a rocky bed approximately 1/2 mile down to Dry Lake.  The surrounding landscape of High is largely rolling forest land.  The maximum depth is 66 feet the lake has clear water.  \n\nOn June 9, 2014 High Lake was thermally stratified with a surface temperature of 67F and a bottom temperature of 41F.  Oxygen was adequate for trout to a depth of 50 feet.  Lake bottom substrates along the shoreline were dominated by boulder, followed by rubble, sand, and gravel.  A survey of aquatic vegetation was done in late July and showed plants to be sparse and only grow to a depth of 3 feet in some of the shallow bays.  The lake is very undeveloped with only three private residences on the shore.  \n\nIn 1966 a reclamation project was done on High Lake and various trout species were stocked in the years after.  Since 1990, rainbow yearlings, brookie fingerlings, and splake fingerlings have been stocked on a mostly rotating schedule.  \n\nThe gillnet catch of all trout by weight for this assessment was 7.5 pounds/net which is above average when compared to previous surveys.  It is also quite good compared to other surveys of stream trout lakes in the Tower area.  Note that trout abundance is expressed in terms of biomass (lb/net) rather than number/net to reduce the influence of occasional high catches of just-stocked fingerlings.    \n\nThe catch of splake in this assessment dominated the other two trout species.  The catch rate was 6.5 pounds/gill net.  Lengths ranged from 7 to 21 inches with an average of 15 inches which is at the lake's historic average.  Average weight was 1.6 pounds which is similar to other recent surveys.  There were two distinct groupings of lengths for splake, fish that ranged from 7 to 9 inches and fish that ranged from 16 to 21 inches.  The group of small fish was likely from the 2013 stocked class while the rest were likely stocked in 2011 or earlier.  \n\nTen rainbow trout were sampled in gill nets for a rate of 0.6 pounds/set.  Lengths ranged from 10 to 12 inches with an average of 11 inches.  Undoubtedly these were ten of the approximately 5,500 yearling fish that were stocked only a month earlier.  No other larger rainbows from any other year classes were sampled.\n\nSeven brook trout were sampled in the gill nets, their catch rate was 0.4 pounds/net.  Lengths ranged from 8 to 12 inches with an average of 9 inches which is smaller than the historic average of 11 inches.  The maximum length is on par with the past several assessments but somewhat small compared to assessments prior to 1994.  The largest brookie sampled came in 1988 and was nearly 21 inches long.  All brook trout sampled are likely Minnesota Wild strain stocked in the fall of 2012.  The next closest stocking would have been in 2009.\n\nThe bluegill trapnet catch was 55.7 fish/net which is way higher than other similar lakes throughout the area.  Sizes were also quite impressive ranging from 3 to nearly 10 inches with an average of 6 inches.  Over 27% of the catch was 7.5 inches or larger.  Ages ranged from 2 to 12 with an exceptional year class in 2007.  Growth appears quite good compared to other Tower area lakes. \n\nThere has always been a substantial white sucker catch on High Lake.  The 2014 gill nets sampled them at 19.8 fish/net which is higher than averge.  The trap net catch was 10.2 fish/net which is high, but substantially lower than the previous assessment of 55.2 fish/net in 2011.  The gillnetted fish had an average length of 9 inches and maximum length of 19 inches.  These seem on par with nearly all the previous surveys.\n</p>",
+                "headerInfo": [
+                    "High",
+                    null,
+                    "69007100",
+                    "2014-06-09",
+                    "9721415729647000",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2014-06-09",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                111
+                            ],
+                            [
+                                4,
+                                81
+                            ],
+                            [
+                                5,
+                                85
+                            ],
+                            [
+                                6,
+                                72
+                            ],
+                            [
+                                7,
+                                72
+                            ],
+                            [
+                                8,
+                                84
+                            ],
+                            [
+                                9,
+                                10
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 9
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                3
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 11
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                8
+                            ],
+                            [
+                                18,
+                                5
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                7,
+                                5
+                            ],
+                            [
+                                8,
+                                4
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 20
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                17
+                            ],
+                            [
+                                11,
+                                9
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                4
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                11
+                            ],
+                            [
+                                17,
+                                6
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                40
+                            ],
+                            [
+                                7,
+                                78
+                            ],
+                            [
+                                8,
+                                8
+                            ],
+                            [
+                                9,
+                                28
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 19
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 12
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    }
+                }
+            },
+            {
+                "surveyID": "109412",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "8.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 8156.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.69",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1202.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.32",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "44.33",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 19778.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 133
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 488.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>High Lake is in Ecological Lake Class 3, which consists of 72 lakes in northeast Minnesota that are deep, have irregular shoreline shapes, and have very clear, soft, and infertile water.  High Lake has no inlets from other lakes, and the outlet to Dry Lake is rocky and fairly steep in places, and has a filter barrier, built of rock and timbers, to prevent fish from moving in or out of the lake.  High Lake stratifies thermally in midsummer and has less than 5 ppm oxygen below about 30 ft, at which depth the water temperature is about 50 F.  Under-ice oxygen in the winter is good.Each year, rainbow trout, brook trout, or splake are stocked on a rotating schedule.  The 2001 fish population assessment was conducted on May 21, which was several weeks earlier than the earliest of eleven previous investigations on this lake dating back to 1965.  The 2001 netting was done earlier so it was completed prior to the stocking of yearling rainbows in late May 2001.  Trapnets have not been used in most investigations on this lake due to the difficult portage access.No rainbow trout were captured in the gillnets in 2001.  Only two rainbow trout have been caught in eight assessments since splake first appeared in 1981.  Previously, rainbow trout catches ranged from 2.7/gillnet to 4.7/gillnet.  Anglers have reported catching some rainbow trout despite their absence in the gillnet catches; rainbow angling in the fall of 2001 and the 2002 winter season was quite good..  The brook trout catch in 2001 of 0.7/gillnet (0.9 lb/gillnet) was lower than the average catch of 4.8/gillnet (2.9 lb/gillnet) since brook trout stocking began in High Lake in 1984.  Prior to the assessment in 2001, brook trout had not been stocked since the fall of 1998.  However, one of the brook trout captured in 2001 was only 7.5\".  This trout could have been naturally produced, as some brook trout reproduction has been observed in the outlet stream in the past.The splake catch in 2001 of 8.7/gillnet (6.0 lb/gillnet) was higher than the average catch of 3.4/gillnet (3.0 lb/gillnet) since splake stocking began in High Lake in 1982.  Splake were last stocked in the fall of 2000.    Splake captured in 2001were present in two size ranges.  Splake ranging from 8\" - 12\" were probably from the fall, 2000 stocking, while splake ranging from 19\" - 22\" were probably from the fall, 1997 stocking.The total catch of trout (all species combined) in High Lake in 2001 of 6.9 lb/gillnet was higher than the average catch of 4.2 lb/gillnet in all previous investigations on High Lake since trout stocking began in 1968, and was higher than the median catch of 5.0 lb/gillnet in recent investigations on 25 stream trout lakes (excluding mine pit lakes) in the Tower Management Area.   The average size of trout in High Lake in 2001 (12.3\") was larger than the average length of 11.6\" in previous investigations on High Lake, but was smaller than the average length of 13.1\" in 25 area stream trout lakes.High numbers of white sucker (44.3/gillnet) were also captured in 2001.  Sucker numbers in previous investigations have ranged from 1.5/gillnet to 32.3/gillnet.  It is possible that the earlier date of netting in 2001 (May 21) was responsible for the increased sucker catch.</p>",
+                "headerInfo": [
+                    "High",
+                    null,
+                    "69007100",
+                    "2001-05-21",
+                    "109412",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2001-05-21",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                16
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                6,
+                                9
+                            ],
+                            [
+                                7,
+                                26
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                68
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 17
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                9
+                            ],
+                            [
+                                11,
+                                8
+                            ],
+                            [
+                                12,
+                                4
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 22
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 9
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 18
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

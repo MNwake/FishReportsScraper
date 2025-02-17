@@ -1,0 +1,62 @@
+{
+    "timestamp": 1737662070,
+    "result": {
+        "lakeName": "Cougar",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.2,
+        "DOWNumber": 38076700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 68.24,
+        "areaAcres": 68.24,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 3.5,
+        "officeCode": "F215",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "113006",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "16.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 64
+                    }
+                ],
+                "narrative": "<p>The lake survey conducted on Cougar Lake in 2003 found that conditions were poor for game fish.  A maximum depth of only 4 feet, poor spawning habitat and the potential for winterkill due to low oxygen levels are factors limiting the fish population.  The only fish species collected in this survey were low numbers of brook stickleback and fathead minnows.  There is no history of game fish ever inhabiting Cougar Lake.There is no developed public access to Cougar Lake.   The nearest road is approximately 2 miles from the lake.</p>",
+                "headerInfo": [
+                    "Cougar",
+                    "Perch",
+                    "38076700",
+                    "2003-08-27",
+                    "113006",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "2003-08-27",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

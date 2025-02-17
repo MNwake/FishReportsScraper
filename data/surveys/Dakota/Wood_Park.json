@@ -1,0 +1,937 @@
+{
+    "timestamp": 1737654213,
+    "result": {
+        "lakeName": "Wood Park",
+        "sampledPlants": [
+            "Canada Waterweed (Elodea canadensis)",
+            "Curly-leaf Pondweed (Potamogeton crispus)",
+            "Naiad Group (Najas sp.)",
+            "Narrow-leaf Pondweed Group (Potamogeton sp. )"
+        ],
+        "shoreLengthMiles": 0.6,
+        "DOWNumber": 19002400,
+        "waterClarity": [
+            [
+                "05/30/2017",
+                "6"
+            ]
+        ],
+        "averageWaterClarity": "6.0",
+        "littoralAcres": 13.26,
+        "areaAcres": 14.23,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 14.0,
+        "officeCode": "F313",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "120808",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.75",
+                        "quartileCount": "0.4-3.5",
+                        "totalWeight": 164.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "26.00",
+                        "quartileCount": "8.0-90.0",
+                        "totalWeight": 5472.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.46",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "26.00",
+                        "quartileCount": "2.8-43.3",
+                        "totalWeight": 5087.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 104
+                    },
+                    {
+                        "CPUE": "83.00",
+                        "quartileCount": "2.5-25.8",
+                        "totalWeight": 3887.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 83
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "1.3-27.7",
+                        "totalWeight": 1317.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "29.50",
+                        "quartileCount": "2.5-70.2",
+                        "totalWeight": 22233.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.5",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.42",
+                        "totalCatch": 118
+                    },
+                    {
+                        "CPUE": "30.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1378.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 30
+                    }
+                ],
+                "narrative": "<p>Wood Park Pond is located in Wood Park in the City of Burnsville.  The lake is small (9 acres), but deep for its size - most of it is 13 to 14 feet deep.  Carry-in access of canoes is possible, but the lake is a fair distance from the parking lot.  Gasoline motors are not allowed.  Shorefishing is available at several locations.  Yellow perch are abundant, but not large - average size was 6.5 inches.  Bluegill are moderately abundant and small, with an average size of 5.5 inches.  Black crappie were found in low abundance- average length was 7.3 inches.  Black bullhead were found in moderate abundance, with a relatively large average size of 9.2 inches.  Largemouth bass were not sampled but are present.  The lake may be stocked with walleye in 2005.</p>",
+                "headerInfo": [
+                    "Wood Park",
+                    null,
+                    "19002400",
+                    "2004-06-10",
+                    "120808",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2004-06-10",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                15
+                            ],
+                            [
+                                5,
+                                114
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 7
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                6
+                            ],
+                            [
+                                8,
+                                46
+                            ],
+                            [
+                                9,
+                                93
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 10
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                76
+                            ],
+                            [
+                                7,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                8
+                            ],
+                            [
+                                8,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 8
+                    }
+                }
+            },
+            {
+                "surveyID": "14871714232164014",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "21.00",
+                        "quartileCount": "8.0-90.0",
+                        "totalWeight": 3012.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.32",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "3.40",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1803.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "HSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.23",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 555.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CCF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.61",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "19.60",
+                        "quartileCount": "2.8-43.3",
+                        "totalWeight": 7407.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 98
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.4-3.5",
+                        "totalWeight": 38.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.2-1.1",
+                        "totalWeight": 862.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.3-1.0",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.90",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "2.3-17.8",
+                        "totalWeight": 2523.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.7-2.1",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.62",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 20.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.80",
+                        "quartileCount": "1.3-27.7",
+                        "totalWeight": 438.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "2.40",
+                        "quartileCount": "2.5-70.2",
+                        "totalWeight": 1265.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.5",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.23",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 293.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "CCF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.65",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.80",
+                        "quartileCount": "0.3-1.3",
+                        "totalWeight": 2076.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.7-2.2",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.51",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "5.20",
+                        "quartileCount": "0.8-9.3",
+                        "totalWeight": 1506.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 320.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "2.5-25.8",
+                        "totalWeight": 297.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.0-3.8",
+                        "totalWeight": 458.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.01",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Wood Park Pond is located in Wood Park in the City of Burnsville and is part of the Fishing in the Neighborhood program.  The lake is small (9 acres), but deep for its size. Most of lake is 13 to 14 feet deep and it does not regularly winter kill. Carry-in access of canoes is possible, but the lake is a fair distance from the parking lot. Gasoline motors are not permitted, though electric motors are. Shore fishing is available at several locations and also at the fishing pier located on the north side of the lake. <br> \n <br> \nYellow Perch are not very abundant in Wood Park, and they have small average size at 6.2 inches. Black Crappies were also found in low abundance, average length was a little over 7 inches. Bluegills are abundant and small, with an average size of 5.8 inches. Black Bullhead were found in much lower abundance in 2017 than in the previous survey, when over 1,700 were found in the sampling gear. Only 33 Black Bullhead were sampled and have a relatively moderate average size of 7.8 inches. Only one Largemouth Bass was sampled in 2017, it was 12.4 inches long. Also found in low abundance were Channel Catfish. Channel Catfish in Wood Park had an average size of 12.8 inches. Wood Park has been stocked with various combinations of fry, fingerlings and adult Walleye since 2005 and 18 Walleye were seen during this survey. Walleye had an average size of 12.5 inches.  <br> \n</p>",
+                "headerInfo": [
+                    "Wood Park",
+                    null,
+                    "19002400",
+                    "2017-06-10",
+                    "14871714232164014",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2017-06-10",
+                "lengths": {
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 15
+                    },
+                    "CCF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 13
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 8
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                2,
+                                2
+                            ],
+                            [
+                                3,
+                                16
+                            ],
+                            [
+                                4,
+                                8
+                            ],
+                            [
+                                5,
+                                26
+                            ],
+                            [
+                                6,
+                                27
+                            ],
+                            [
+                                7,
+                                25
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 7
+                    },
+                    "HSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                4
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                7
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 8
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                8
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 17
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                7,
+                                12
+                            ],
+                            [
+                                8,
+                                16
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 11
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                4,
+                                5
+                            ],
+                            [
+                                5,
+                                20
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 5
+                    }
+                }
+            },
+            {
+                "surveyID": "1670707250927000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "?",
+                        "quartileCount": "N/A",
+                        "totalWeight": 667.0,
+                        "gearCount": 0.0,
+                        "quartileWeight": "N/A",
+                        "species": "WAE",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.49",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "?",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2959.0,
+                        "gearCount": 0.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.59",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Wood Park Pond is located in Wood Park (City of Burnsville).  It is a small lake (9 acres), but fairly deep, with much of it 13 to 14 feet deep.  Carry-in access is possible, but the lake is about a 700-foot walk from the paking lot.  Gasoline motors are not allowed.  Shore fishing is available at several locations on the north and east shores. <br> \n <br> \nThis electrofishing survey found moderate to high abundance of largemouth bass.  Lengths ranged from 5 to 16 inches.  Walleye were sampled in moderate abundance, with lengths from 10 to 14 inches.  Walleye stocking was initiated in 2005. <br> \n <br> \nOther species were not recorded during this assessment.  The 2004 netting assessment found moderate abundance of small bluegills, high abundance of small perch, low abundance of black crappie, and moderate abundance of black bullhead.</p>",
+                "headerInfo": [
+                    "Wood Park",
+                    null,
+                    "19002400",
+                    "2006-06-26",
+                    "1670707250927000",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2006-06-26",
+                "lengths": {
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 16
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 13
+                    }
+                }
+            },
+            {
+                "surveyID": "7191206833784031",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "114.00",
+                        "quartileCount": "8.0-90.0",
+                        "totalWeight": 4070.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 114
+                    },
+                    {
+                        "CPUE": "0.40",
+                        "quartileCount": "N/A",
+                        "totalWeight": 200.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "HSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "30.00",
+                        "quartileCount": "2.8-43.3",
+                        "totalWeight": 7156.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 150
+                    },
+                    {
+                        "CPUE": "1.60",
+                        "quartileCount": "0.4-3.5",
+                        "totalWeight": 675.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.40",
+                        "quartileCount": "1.3-27.7",
+                        "totalWeight": 85.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "353.40",
+                        "quartileCount": "2.5-70.2",
+                        "totalWeight": 2917.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.5",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1767
+                    },
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "0.8-9.3",
+                        "totalWeight": 99.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 205.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "2.5-25.8",
+                        "totalWeight": 0.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Wood Park Pond is located in Wood Park in the City of Burnsville.  The lake is small (9 acres), but deep for its size - most of it is 13 to 14 feet deep and it does not regularly winter kill.  Carry-in access of canoes is possible, but the lake is a fair distance from the parking lot. Gasoline motors are not permitted, though electric motors are. Shore fishing is available at several locations and also at the fishing pier located on the north side of the lake. <br> \n <br> \nYellow perch are not very abundant in Wood Park, but they have moderate average size at 7.32 inches. Black crappies were also found in low abundance, average length was a little over 6 inches. Bluegills are abundant and small, with an average size of 5.3 inches. Black bullhead were found in very high abundance with over 1,700  found in the sampling gear but they too have a relatively small average size of 5.9 inches. Largemouth bass were not sampled in 2012 but are present in the lake. Wood Park has been stocked with various combinations of fry, fingerlings and adult walleye since 2005. No walleye were found however during this survey. <br> \n</p>",
+                "headerInfo": [
+                    "Wood Park",
+                    null,
+                    "19002400",
+                    "2012-06-10",
+                    "7191206833784031",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "2012-06-10",
+                "lengths": {
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                2,
+                                1
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 5
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 10
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1660
+                            ],
+                            [
+                                6,
+                                150
+                            ],
+                            [
+                                7,
+                                71
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "HSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                19
+                            ],
+                            [
+                                5,
+                                135
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    }
+                }
+            }
+        ],
+        "countyName": "Dakota"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

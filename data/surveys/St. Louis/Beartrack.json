@@ -1,0 +1,212 @@
+{
+    "timestamp": 1737669021,
+    "result": {
+        "lakeName": "Beartrack",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.79,
+        "DOWNumber": 69048000,
+        "waterClarity": [
+            [
+                "08/17/2016",
+                "18"
+            ]
+        ],
+        "averageWaterClarity": "18.0",
+        "littoralAcres": 42.0,
+        "areaAcres": 156.49,
+        "meanDepthFeet": 25.3,
+        "maxDepthFeet": 55.0,
+        "officeCode": "F217",
+        "accesses": [
+            {
+                "location": "200 rod portage trail from Thumb Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "30 rod portage from Little Beartrack Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111962",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "0.3-2.5",
+                        "totalWeight": 320.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "1.17",
+                        "quartileCount": "1.0-8.0",
+                        "totalWeight": 680.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "13.33",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 32110.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.88",
+                        "totalCatch": 80
+                    }
+                ],
+                "narrative": "<p>Beartrack is a small, clear water lake located in the Boundary Waters Canoe Area Wilderness. The lake is only accessible via portage trails coming from Little Beartrack Lake or Thumb Lake. There are three primitive campsites maintained by the U.S. Forest Service on the lake. The fish community is simple with only a few species present. Individual fish are generally small.White suckers were the most common fish sampled during 2000.  Sucker numbers were high compared to other lakes like Beartrack.  Average length was 13 inches, however, suckers up to 18 inches were collected.  Yellow perch were sampled in low numbers.  The largest perch sampled was ten inches in length, however, most were less than eight inches.  The only other fish species collected during the 2000 survey was green sunfish. Green sunfish averaged five inches in length. Beartrack is a beautiful lake for paddling, camping or swimming but better fishing can probably be found in some of the neighboring lakes.</p>",
+                "headerInfo": [
+                    "Beartrack",
+                    null,
+                    "69048000",
+                    "2000-07-10",
+                    "111962",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2000-07-10",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 10
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                17
+                            ],
+                            [
+                                12,
+                                10
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                13
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                5
+                            ],
+                            [
+                                17,
+                                7
+                            ],
+                            [
+                                18,
+                                4
+                            ],
+                            [
+                                7,
+                                9
+                            ],
+                            [
+                                8,
+                                3
+                            ],
+                            [
+                                9,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 18
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                5
+                            ],
+                            [
+                                5,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    }
+                }
+            },
+            {
+                "surveyID": "11991627035793000",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Dissolved oxygen and temperature were sampled in Beartrack Lake on August 17, 2016. This data was collected as part of an assessment of Lake Trout habitat suitability during the peak of the summer. This sample showed that optimum habitat conditions for Lake Trout existed from 23 to 36 feet in depth. Over 1/4 of the water column provided optimum habitat. Water quality sampling in July of 2001 had similar results with optimum conditions existing from 21 to 35 feet deep, and in July of 2000 optimum conditions existed from 22 to 40 feet deep. </p>",
+                "headerInfo": [
+                    "Beartrack",
+                    null,
+                    "69048000",
+                    "2016-08-17",
+                    "11991627035793000",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2016-08-17",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

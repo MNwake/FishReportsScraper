@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737662254,
+    "result": {
+        "lakeName": "Faith",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.18,
+        "DOWNumber": 38016000,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 26.54,
+        "areaAcres": 26.54,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portage from Fish lake in BWCAW on non-motorized route.  Superior National Forest.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107940",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.50",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 30.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.58",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 30.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.29",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Composed of an average population of sucker and an above average population of northern pike.</p>",
+                "headerInfo": [
+                    "Faith",
+                    null,
+                    "38016000",
+                    "1981-07-08",
+                    "107940",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1981-07-08",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

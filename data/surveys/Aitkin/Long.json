@@ -1,0 +1,146 @@
+{
+    "timestamp": 1737527210,
+    "result": {
+        "lakeName": "Long",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.57,
+        "DOWNumber": 1010100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 30.5,
+        "areaAcres": 34.66,
+        "meanDepthFeet": 4.0,
+        "maxDepthFeet": 42.0,
+        "officeCode": "F211",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "113389",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.5-1.5",
+                        "totalWeight": 20.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "1.7-10.3",
+                        "totalWeight": 72.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "106.50",
+                        "quartileCount": "11.5-57.8",
+                        "totalWeight": 8195.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.5",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 213
+                    },
+                    {
+                        "CPUE": "2.40",
+                        "quartileCount": "1.1-25.2",
+                        "totalWeight": 1183.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.5",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>Long Lake is nearly devoid of gamefish. Only one pumpkinseed was caught in the survey nets; no other gamefish were caught. Black bullheads constitute the only viable fishery on the lake. The black bullheads ranged from 4.0 to 11.6 inches long and averaged 7 inches. The lake is in the latter stages of succession and is becoming a bog.</p>",
+                "headerInfo": [
+                    "Long",
+                    null,
+                    "01010100",
+                    "1994-07-15",
+                    "113389",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1994-07-15",
+                "lengths": {
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                15
+                            ],
+                            [
+                                6,
+                                39
+                            ],
+                            [
+                                7,
+                                15
+                            ],
+                            [
+                                8,
+                                15
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 11
+                    }
+                }
+            }
+        ],
+        "countyName": "Aitkin"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

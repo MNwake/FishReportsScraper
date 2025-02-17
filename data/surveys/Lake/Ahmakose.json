@@ -1,0 +1,110 @@
+{
+    "timestamp": 1737661688,
+    "result": {
+        "lakeName": "Ahmakose",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.37,
+        "DOWNumber": 38036500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 9.0,
+        "areaAcres": 42.71,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 68.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "DESIGNATED PUBLIC ACCESS VIA TWO U.S.F.S. PORTAGES 160 YARDS EAST FROM GERUND LAKE and 1/4 MI SE WISINI",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107986",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "10.50",
+                        "quartileCount": "1.0-4.5",
+                        "totalWeight": 53.75,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.9-4.3",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.56",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 23.25,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.16",
+                        "totalCatch": 20
+                    }
+                ],
+                "narrative": "<p>(Stockings:  10/78-1,017 fgl, 9/79-1,253 fgl. Composed of above average populations of lake trout and suckers.</p>",
+                "headerInfo": [
+                    "Ahmakose",
+                    null,
+                    "38036500",
+                    "1980-07-25",
+                    "107986",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1980-07-25",
+                "lengths": {}
+            },
+            {
+                "surveyID": "108314",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "1.0-4.5",
+                        "totalWeight": 10.9,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.9-4.3",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.36",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 15.7,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.96",
+                        "totalCatch": 8
+                    }
+                ],
+                "narrative": "<p>Lake trout and white sucker are present in average numbers. The lake trout are not large; natural reproduction is occuring, as evidenced by fish capture under 12 increased from an average of 13 pressent.</p>",
+                "headerInfo": [
+                    "Ahmakose",
+                    null,
+                    "38036500",
+                    "1986-09-15",
+                    "108314",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1986-09-15",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

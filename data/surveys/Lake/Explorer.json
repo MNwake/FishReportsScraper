@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737662248,
+    "result": {
+        "lakeName": "Explorer",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.38,
+        "DOWNumber": 38039900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 14.0,
+        "areaAcres": 52.07,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 75.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Accessible by canoe and portage only.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107998",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "8.33",
+                        "quartileCount": "1.0-4.5",
+                        "totalWeight": 22.8,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-4.3",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.91",
+                        "totalCatch": 25
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "1.0-8.0",
+                        "totalWeight": 0.9,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 4.4,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.88",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>All Trout appear to be very well fed.  Heads are small in relation to body size.  Not many Minnows present in shallows.  Lake Trout population high, but composed of many smaller fish.  However, reproduction seems to be successful in most years.</p>",
+                "headerInfo": [
+                    "Explorer",
+                    null,
+                    "38039900",
+                    "1972-07-01",
+                    "107998",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-07-01",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

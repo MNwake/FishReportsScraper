@@ -1,0 +1,111 @@
+{
+    "timestamp": 1737647771,
+    "result": {
+        "lakeName": "Dead Horse",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.23,
+        "DOWNumber": 11032900,
+        "waterClarity": [
+            [
+                "08/01/2017",
+                "6"
+            ]
+        ],
+        "averageWaterClarity": "6.0",
+        "littoralAcres": 10.0,
+        "areaAcres": 15.11,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 39.0,
+        "officeCode": "F212",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "12201722132733000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "31.60",
+                        "quartileCount": "0.5-10.0",
+                        "totalWeight": 2644.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.4-0.8",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 158
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "1.0-21.6",
+                        "totalWeight": 68.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.2-0.6",
+                        "species": "BRB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Dead Horse Lake is located in the Pillsbury State Forest about 12 miles northwest of Brainerd and is entirely surrounded by State Forest lands.  An unimproved carry-in access is located on the west end of the lake off of Beauty Lake Forest Road.   <br> \n <br> \nThe first survey of the fish community in Dead Horse Lake was conducted in August 2017.  Only brown bullheads were captured in the survey nets.  The brown bullheads ranged in length from 3.7 to 9.8 inches.   <br> \n</p>",
+                "headerInfo": [
+                    "Dead Horse",
+                    null,
+                    "11032900",
+                    "2017-08-01",
+                    "12201722132733000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2017-08-01",
+                "lengths": {
+                    "BRB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                12
+                            ],
+                            [
+                                4,
+                                49
+                            ],
+                            [
+                                5,
+                                36
+                            ],
+                            [
+                                6,
+                                38
+                            ],
+                            [
+                                7,
+                                4
+                            ],
+                            [
+                                8,
+                                7
+                            ],
+                            [
+                                9,
+                                14
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 9
+                    }
+                }
+            }
+        ],
+        "countyName": "Cass"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

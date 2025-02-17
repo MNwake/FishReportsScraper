@@ -1,0 +1,302 @@
+{
+    "timestamp": 1737650099,
+    "result": {
+        "lakeName": "Caribou",
+        "sampledPlants": [],
+        "shoreLengthMiles": 8.1,
+        "DOWNumber": 16014100,
+        "waterClarity": [
+            [
+                "08/08/1973",
+                "12"
+            ],
+            [
+                "07/07/1969",
+                "13"
+            ]
+        ],
+        "averageWaterClarity": "12.5",
+        "littoralAcres": 0.0,
+        "areaAcres": 461.73,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 65.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Lake is entirely inside the BWCAW.  Access by portage trails from Clearwater; Pine; and Moon Lakes.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111249",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.2-1.0",
+                        "totalWeight": 1389.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.6-1.5",
+                        "species": "BUB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.53",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "N/A",
+                        "species": "SMB",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "0.6-2.4",
+                        "totalWeight": 9955.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "2.1-4.9",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "5.49",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.3-1.4",
+                        "totalWeight": 652.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.6-1.5",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.44",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "1.2-5.2",
+                        "totalWeight": 17153.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.0-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.36",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "10.67",
+                        "quartileCount": "1.6-15.5",
+                        "totalWeight": 104187.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.0-2.1",
+                        "species": "LKW",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.59",
+                        "totalCatch": 64
+                    },
+                    {
+                        "CPUE": "0.83",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 3052.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.35",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>The catch of walleye in gill nets during this assessment was within the normal range for lakes of this class, but fairly high for this lake historically.  Growth of walleye was about normal for lakes in the Grand Marais area.  Natural reproduction had been occurring, but stocking done in the early 1990's may also have contributed to the 2000 catch.  The catch of northern pike was at the low end of the normal range in lakes of this class and mean weight was above the normal range for lakes of this class.  Growth was faster than normal for lakes in the Grand Marais area, probably due to the presence of lake whitefish population as a forage base.  The catch of smallmouth bass was well below the normal range for lakes of this class, but growth appeared to have been faster than normal for lakes in the Grand Marais area.The catch of whitefish was within the normal range for lakes of this class, but the mean weight was well above the normal range for lakes of this class.  White sucker and burbot also occur in this lake.</p>",
+                "headerInfo": [
+                    "Caribou",
+                    null,
+                    "16014100",
+                    "2000-07-17",
+                    "111249",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2000-07-17",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                41,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 41
+                    },
+                    "BUB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 18,
+                        "maximum_length": 19
+                    },
+                    "SMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                2
+                            ],
+                            [
+                                13,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 13
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 20
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                5
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                22,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 22
+                    },
+                    "LKW": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                11
+                            ],
+                            [
+                                20,
+                                20
+                            ],
+                            [
+                                21,
+                                17
+                            ],
+                            [
+                                22,
+                                11
+                            ],
+                            [
+                                23,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 23
+                    }
+                }
+            },
+            {
+                "surveyID": "20042324351371037",
+                "fishCatchSummaries": [],
+                "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Caribou Lake on August 1st, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 13 feet. Dissolved oxygen decreased to below 3.0 mg/L at 39.9 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 7.7?C (45.9?F). <br> \n <br> \nTDO3 values cooler than 17.2?C indicate that oxythermal conditions are favorable for Lake Whitefish. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for Lake Whitefish was available across a range of depths at the time of sampling during the summer of 2023. Data collected in 1977 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is available, Lake Whitefish are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+                "headerInfo": [
+                    "Caribou",
+                    null,
+                    "16014100",
+                    "2023-08-01",
+                    "20042324351371037",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2023-08-01",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

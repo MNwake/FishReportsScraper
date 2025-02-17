@@ -1,0 +1,857 @@
+{
+    "timestamp": 1737651104,
+    "result": {
+        "lakeName": "Mit",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.43,
+        "DOWNumber": 16019300,
+        "waterClarity": [
+            [
+                "06/24/2011",
+                "9"
+            ],
+            [
+                "06/23/1970",
+                "9"
+            ],
+            [
+                "06/26/2017",
+                "8.5"
+            ],
+            [
+                "06/26/2023",
+                "7.5"
+            ],
+            [
+                "08/07/1989",
+                "7"
+            ]
+        ],
+        "averageWaterClarity": "8.2",
+        "littoralAcres": 53.8,
+        "areaAcres": 87.21,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 40.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": " ",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": "Follow old road across outlet stream, continue north, turn west to access easternmost bay of lake about 70 yd from road."
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110836",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "2.3-5.1",
+                        "totalWeight": 12394.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.82",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "1.0-7.1",
+                        "totalWeight": 874.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.96",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "1.3-10.3",
+                        "totalWeight": 49.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "5.33",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 15004.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.07",
+                        "totalCatch": 16
+                    }
+                ],
+                "narrative": "<p>The catch of northern pike in 1997 increased over the catch in 1989, when the lake was last assessed, but northern pike condition was poor in 1997.  The catch of walleye in 1997 was low and had decreased since the 1989 assessment despite semi-annual walleye fry stocking.The catch of white sucker in 1997 increased since the 1989 assessment despite the increased catch of northern pike.  The catch of yellow perch remained low.It appears that walleye stocking has not produced a good walleye fishery, perhaps because of predation by northern pike, since naturally produced forage remains low (yellow perch) or of nominal quality (white sucker). </p>",
+                "headerInfo": [
+                    "Mit",
+                    null,
+                    "16019300",
+                    "1997-06-26",
+                    "110836",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1997-06-26",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                4
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                22,
+                                3
+                            ],
+                            [
+                                24,
+                                1
+                            ],
+                            [
+                                28,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 28
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                17,
+                                4
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 21
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 14
+                    }
+                }
+            },
+            {
+                "surveyID": "4311117955999000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "2.3-5.1",
+                        "totalWeight": 5294.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.67",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "3.67",
+                        "quartileCount": "1.0-7.1",
+                        "totalWeight": 6442.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.29",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 13650.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.51",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.02",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>The walleye gill net catch in 2011 was one of the highest observed to date in Mit Lake, although it did not quite meet the goal established in the 1998 lake management plan (4.0 walleye/gill net set).  The catch was well within the normal range for a lake of this class.  Several year classes were included in the catch, and the two largest (2008 and 2004) appeared to have been produced naturally.  Stocked year classes accounted for just two of the 11 walleye caught.  Growth of young walleye had been slow; three-year-old fish reached an average length of just 10.6 inches at the end of their third year.  Slow walleye growth was likely due to the absence of a significant yellow perch forage base. <br> \n <br> \nThe northern pike gill net catch was within the normal range for the lake class, and was similar to catches observed in this lake in the past.  Northern pike collected in 2011 were small, and all appeared to have been two- and three-year-old fish.  Northern pike growth rates had been better than average for this area.  Although the lack of yellow perch probably affected northern pike growth, they may have been able to compensate by foraging on small white sucker and walleye. <br> \n <br> \nYellow perch have been taken (in small numbers) in some past assessments of this lake, and were probably still present in small numbers in 2011.  Pumpkinseed sunfish were taken for the first time in Mit Lake in 2011, but did not appear to have been abundant.  The white sucker catch was within the normal range for the lake class, and was simlar to past catches in this lake. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Mit",
+                    null,
+                    "16019300",
+                    "2011-06-22",
+                    "4311117955999000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2011-06-22",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 21
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                3
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 19,
+                        "maximum_length": 22
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 19
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 3
+                    }
+                }
+            },
+            {
+                "surveyID": "111509",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "2.3-5.1",
+                        "totalWeight": 3394.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.49",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "1.0-7.1",
+                        "totalWeight": 800.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.76",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.67",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 14285.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.86",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>The walleye catch was low, both for the lake and the lake class.  The only walleye caught was five years old, and may have been one of 300,000 fry stocked in 2000.  The next fry stocking occurred in 2003, but survival of these fish to age 2 appears to have been poor.The northern pike catch was also low for the lake and lake class, but average weight was greater than usual for the lake and lake class.The white sucker catch was normal for the lake and lake class.</p>",
+                "headerInfo": [
+                    "Mit",
+                    null,
+                    "16019300",
+                    "2005-06-23",
+                    "111509",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2005-06-23",
+                "lengths": {
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 17
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                7
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 18,
+                        "maximum_length": 20
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                26,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 21,
+                        "maximum_length": 26
+                    }
+                }
+            },
+            {
+                "surveyID": "12911731942553000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "2.3-5.1",
+                        "totalWeight": 4268.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.88",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "1.0-7.1",
+                        "totalWeight": 5615.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.03",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "1.3-10.3",
+                        "totalWeight": 73.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "6.67",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 15747.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.74",
+                        "totalCatch": 20
+                    }
+                ],
+                "narrative": "<p>Mit is a small, remote lake that has been stocked with Walleye fry since the species was introduced in 1983.  Stocking has been done at an experimental high rate since 2000.  This survey was the first of two scheduled in the 2013 lake management plan to evaluate the current stocking program.  <br> \n <br> \nWalleye appeared to have been fairly abundant in 2017, although most were also fairly small.  The 2017 Walleye gill net catch equaled the long range goal for the species established in the 2013 plan, and was the highest (by a small margin) seen to date in this lake.  Only three year classes contributed to the catch.  Years in which Walleye fry had been stocked (2012 and 2015) accounted for about half the 2017 catch.  Strong natural Walleye year classes were produced in several area lakes in 2012, so its possible that natural reproduction contributed to the strength of that year class in Mit Lake as well.  Walleye growth had apparently been somewhat slow; fish reached a mean length of 14.8 inches at the end of their fifth year, compared to an area average of 16.6 inches.  Slow growth may have been due to competition from White Sucker, and low numbers of Yellow Perch. <br> \n <br> \nBecause sampling effort in any one survey of a small lake like this is usually low, confidence in the results of a single survey must also be low.  In this case, although some naturally-produced Walleye were sampled, we cannot be sure, on the strength of this survey, that the population would be able to sustain itself at a level that would meet the long range goal or support good fishing.  At the same time, we cannot say with confidence that fry stocking has been effective, or that high-rate fry stocking has been more effective than stocking at the lower rate done prior to 2000.  Results of similar surveys done in 2005 and 2011 were contradictory and inconclusive.  Fry stocking is relatively inexpensive, so it seems reasonable to wait on a stocking decision until the final survey in this evaluation has been completed (in 2023). <br> \n <br> \nNorthern Pike numbers seemed low in 2017, and most of the fish seen were fairly small.  The Northern Pike gill net catch in 2017 fell below the goal for the species in the 2013 plan (a minimum catch of 2.3 fish/gill net set); however, it was similar to catches seen in this lake in the past.  Several year classes contributed to the catch, although none appeared to have been strong.  Growth of young Northern Pike appeared to have been slow; fish reached a mean length at the end of their second year of just 11.3 inches.   A lack of forage was the likely reason for slow growth; perch were scarce, and most of the White Sucker present were too large to have been taken by young Northern Pike. <br> \n <br> \nWhite Sucker and Yellow Perch gill net catches in 2017 were similar to catches seen in this lake in the past.  Yellow Perch have never been abundant, and have often not been sampled at all. <br> \n</p>",
+                "headerInfo": [
+                    "Mit",
+                    null,
+                    "16019300",
+                    "2017-06-26",
+                    "12911731942553000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2017-06-26",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                15,
+                                6
+                            ],
+                            [
+                                16,
+                                4
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                19,
+                                3
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 20
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 7
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                26,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 26
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                5
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 16
+                    }
+                }
+            },
+            {
+                "surveyID": "20302332038954191",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "1.0-7.1",
+                        "totalWeight": 2382.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.66",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.3-10.3",
+                        "totalWeight": 361.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.27",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "5.33",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 16475.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.27",
+                        "totalCatch": 16
+                    }
+                ],
+                "narrative": "<p>Mit is a small, remote lake that has been stocked with walleye fry since the species was introduced in 1983. Public access is through a short portage trail near the southeast end of the lake and can be accessed from a rough and steep logging road. Mit is managed for walleye and northern pike. Walleye stocking has been done at an experimental high rate since 2000. The 2023 survey was the final of two scheduled in the 2013 lake management plan to evaluate the current walleye fry stocking program.  <br> \n <br> \nThe 2023 walleye catch in the gill nets was down from the previous two surveys and fell below the current management goal. Walleye ranged from 7.7 to 15.5 inches with a mean length of 11.9 inches. Aging results found a mixture of walleye likely from stocking events as well as from natural recruitment. The oldest walleye was only 5 years old. Growth rates were slow compared to other area lakes. These results suggest that walleye fry stockings may be assisting the walleye population in Mit Lake but may not be capable of achieving desired population levels.   <br> \n <br> \nNorthern pike were not captured in Pit Lake for the first time and were at low levels in the previous survey. Yellow perch are present but at low abundance. White sucker abundance was in the normal range for the lake but were relatively large in size (11 to 20 inches) and would not provide forage for most northern pike.  <br> \n <br> \nCook County, Minnesota lakes continue to be susceptible to aquatic invasive species introductions. Invasive species have the potential to significantly alter fish communities and overall lake health. Anglers should clean watercraft and fishing gear, drain all water, and dispose of unused bait in the trash to prevent accidental introductions.  <br> \n</p>",
+                "headerInfo": [
+                    "Mit",
+                    null,
+                    "16019300",
+                    "2023-06-26",
+                    "20302332038954191",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2023-06-26",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 9
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                18,
+                                5
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 20
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "110117",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "2.3-5.1",
+                        "totalWeight": 18.13,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.27",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "3.67",
+                        "quartileCount": "1.0-7.1",
+                        "totalWeight": 6.23,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.57",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 17.75,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.54",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>THERE HAS BEEN SOME SURVIVAL OF THE 1984-1987 WALLEYE STOCKINGS, HOWEVER, MOST WALLEYE SAMPLED WERE UNDER 12 IN. WALLEYE GROWTH WAS SLOW BY COOK COUNTY STANDARDS, PROBABLY BECAUSE OF THE LIMITED FORAGE AVAILABLE. INTRODUCTORY WALLEYE FRY STOCK- ING IN THIS LAKE HAS SUCCEEDED IN ESTABLISHING A FISHABLE POPULATION, DESPITE A GOOD NORTHERN PIKE POPULATION AND LIMITED FORAGE.</p>",
+                "headerInfo": [
+                    "Mit",
+                    null,
+                    "16019300",
+                    "1989-08-07",
+                    "110117",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1989-08-07",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

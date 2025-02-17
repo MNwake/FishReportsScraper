@@ -1,0 +1,162 @@
+{
+    "timestamp": 1737653925,
+    "result": {
+        "lakeName": "McDonough",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.83,
+        "DOWNumber": 19007600,
+        "waterClarity": [
+            [
+                "06/15/2015",
+                "3.8"
+            ]
+        ],
+        "averageWaterClarity": "3.8",
+        "littoralAcres": 15.06,
+        "areaAcres": 18.08,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 13.0,
+        "officeCode": "F313",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "13501510333217091",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.4-3.8",
+                        "totalWeight": 88.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.75",
+                        "quartileCount": "0.8-9.3",
+                        "totalWeight": 122.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "2.8-43.3",
+                        "totalWeight": 460.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "1.75",
+                        "quartileCount": "2.5-70.2",
+                        "totalWeight": 1006.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.5",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.32",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>McDonough Lake is a shallow marshy 15-acre lake located in the City of Eagan. The lake has a walking trail and fishing pier and is located entirely within the bounds of the Lebanon Hills Park, which is managed by Dakota County Parks and Recreation Department. McDonough Lake has been managed by the Fishing in the Neighborhood Program (FiN) since 2010 and has been stocked with Black Crappie (2010 through 2012) and Bluegill Sunfish (2010 through 2015). An agreement with Dakota County was reached in 2012 to aerate the lake in the winter as it was prone to frequent winterkill. Prior to FiN management, McDonough Lake was used with some success as a Walleye rearing pond in the late 70's and again in 1990. <br> \nThis survey represents the first comprehensive examination of McDonough Lake since 1964, when the lake was first investigated as a candidate for intensive fish management. Four species of fish were sampled by trapnet in this survey, Bluegill Sunfish, Green Sunfish, Pumpkinseed Sunfish and Black Bullhead. Bluegill, Pumpkinseed and Green Sunfish were all found in low abundance and below average size. Black Bullheads are also present in the lake and were sampled low abundance also. However the fish observed were good sized and would be worth the angling effort for those who enjoy bullhead fishing. <br> \n</p>",
+                "headerInfo": [
+                    "McDonough",
+                    "McDonough",
+                    "19007600",
+                    "2015-07-27",
+                    "13501510333217091",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2015-07-27",
+                "lengths": {
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                2,
+                                1
+                            ],
+                            [
+                                3,
+                                5
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 4
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                7
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 8
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 9
+                    }
+                }
+            }
+        ],
+        "countyName": "Dakota"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

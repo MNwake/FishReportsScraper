@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737650157,
+    "result": {
+        "lakeName": "Clam",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.08,
+        "DOWNumber": 16051800,
+        "waterClarity": [
+            [
+                "07/17/1975",
+                "8.5"
+            ]
+        ],
+        "averageWaterClarity": "8.5",
+        "littoralAcres": 54.5,
+        "areaAcres": 56.41,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 19.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 0.3 mile portage from restricted BWCA logging road.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109776",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 10.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.91",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 8.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.67",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Clam Lake has a fair N Pike population with a sparse Sucker population for forage.</p>",
+                "headerInfo": [
+                    "Clam",
+                    null,
+                    "16051800",
+                    "1975-07-17",
+                    "109776",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1975-07-17",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

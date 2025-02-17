@@ -1,0 +1,100 @@
+{
+    "timestamp": 1737651143,
+    "result": {
+        "lakeName": "Moses",
+        "sampledPlants": [
+            "Arrowhead Group (Sagittaria sp.)",
+            "Blue Flag Iris (Iris versicolor)",
+            "Common Yellow Waterlily (Nuphar variegata)",
+            "Floating-leaf Burreed Group (Sparganium sp. )",
+            "Sedge Group (Carex sp.)",
+            "Spikerush Group (Eleocharis sp.)",
+            "Stonewort Group (Nitella sp.)",
+            "Swamp Fivefinger (Potentilla palustris)",
+            "Variable -leaf Pondweed (Potamogeton gramineus)",
+            "Water Milfoil Group (Myriophyllum sp.)",
+            "large-leaved pondweed (Potamogeton amplifolius)",
+            "three-way sedge (Dulichium arundinaceum)"
+        ],
+        "shoreLengthMiles": 0.92,
+        "DOWNumber": 16018900,
+        "waterClarity": [
+            [
+                "07/02/2007",
+                "3"
+            ]
+        ],
+        "averageWaterClarity": "3.0",
+        "littoralAcres": 29.86,
+        "areaAcres": 29.86,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 4.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "220723346827008",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "3.0-23.0",
+                        "totalWeight": 155.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.34",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>This initial survey of Moses Lake found white sucker, fathead minnow, and no gamefish.  The shallow depth (3-4 ft) would probably result in mid- to late-summer water temperatures being too warm for trout.  Management of the lake for warmwater species would pose too great a risk to trout fisheries downstream (in Kemo and Pine Lakes).\n\n\n</p>",
+                "headerInfo": [
+                    "Moses",
+                    null,
+                    "16018900",
+                    "2007-07-02",
+                    "220723346827008",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "2007-07-02",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 9
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737662567,
+    "result": {
+        "lakeName": "Holt",
+        "sampledPlants": [],
+        "shoreLengthMiles": 4.51,
+        "DOWNumber": 38017800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 33.0,
+        "areaAcres": 115.3,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 73.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "None designated-lies within the BWCA.  Portage from Ogishkemuncie Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107953",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.25",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 32.5,
+                        "gearCount": 8.0,
+                        "quartileWeight": "1.5-4.0",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.25",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 15.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.75",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Composed of an average size population of lake trout and a small population of suckers. Northern pike are also present but none were caught in 8 gillnet sets.</p>",
+                "headerInfo": [
+                    "Holt",
+                    null,
+                    "38017800",
+                    "1979-07-01",
+                    "107953",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-07-01",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

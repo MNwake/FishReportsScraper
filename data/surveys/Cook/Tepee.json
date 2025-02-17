@@ -1,0 +1,86 @@
+{
+    "timestamp": 1737651797,
+    "result": {
+        "lakeName": "Tepee",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.73,
+        "DOWNumber": 16062100,
+        "waterClarity": [
+            [
+                "08/07/1979",
+                "9.5"
+            ]
+        ],
+        "averageWaterClarity": "9.5",
+        "littoralAcres": 0.0,
+        "areaAcres": 89.29,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 22.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "1/4 mile portage from Granite River.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109801",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "15.33",
+                        "quartileCount": "1.1-5.8",
+                        "totalWeight": 86.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-3.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.87",
+                        "totalCatch": 46
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "1.1-12.4",
+                        "totalWeight": 1.4,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 1.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>There is a large population of medium sized N Pike but few Suckers and Perch for forage.</p>",
+                "headerInfo": [
+                    "Tepee",
+                    null,
+                    "16062100",
+                    "1979-08-07",
+                    "109801",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-08-07",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

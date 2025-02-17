@@ -1,0 +1,86 @@
+{
+    "timestamp": 1737650810,
+    "result": {
+        "lakeName": "Kiowa",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.69,
+        "DOWNumber": 16006600,
+        "waterClarity": [
+            [
+                "08/20/1980",
+                "7"
+            ]
+        ],
+        "averageWaterClarity": "7.0",
+        "littoralAcres": 0.0,
+        "areaAcres": 30.62,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 29.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "In BWCAW and has no portage trails to it.  Must bushwhack from Shelf of Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109601",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.25,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.25,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "42.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 47.65,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.57",
+                        "totalCatch": 84
+                    }
+                ],
+                "narrative": "<p>There is a large population of Suckers with all sizes well represented.  Some Perch and Grn Snfsh are present with apparently a large population of Northern Redbelly dace.</p>",
+                "headerInfo": [
+                    "Kiowa",
+                    null,
+                    "16006600",
+                    "1980-08-20",
+                    "109601",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1980-08-20",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

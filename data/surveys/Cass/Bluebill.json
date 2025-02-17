@@ -1,0 +1,135 @@
+{
+    "timestamp": 1737647654,
+    "result": {
+        "lakeName": "Bluebill",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.56,
+        "DOWNumber": 11039700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 45.36,
+        "areaAcres": 45.36,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 6.5,
+        "officeCode": "F118",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "104710",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3127.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "111.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 14365.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BRB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.29",
+                        "totalCatch": 111
+                    },
+                    {
+                        "CPUE": "56.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 340
+                    },
+                    {
+                        "CPUE": "2.83",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "CNM",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Bluebill Lake is located in the Chippewa National Forest off of the Woodtick Trail. It is a 44 acre lake thatfrequently winterkills and has a maximum depth of only 6.5 feet. Prior to 1984, it was used as a rearing pond formuskellunge and walleye. Bluebill is connected by a small stream to Diamond Lake which is a designated streamtrout lake.  The fish rearing activities on Bluebill lake likely are responsible for appearance of muskellungein Diamond Lake. Both lakes are currently being considered for reclamation which would eliminate all existing fishby means of a fish toxicant.  After reclamation, Diamond Lake would again be stocked with rainbow trout.Brown bullhead was the only larger fish sampled in the nets.  The average size was 8 inches.  Bullheads are moretolerant of winterkill conditions than most other types of fish.  Other smaller fish sampled were mudminnow, dace,and stickleback.</p>",
+                "headerInfo": [
+                    "Bluebill",
+                    null,
+                    "11039700",
+                    "1994-06-13",
+                    "104710",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1994-06-13",
+                "lengths": {
+                    "BRB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                17
+                            ],
+                            [
+                                7,
+                                27
+                            ],
+                            [
+                                8,
+                                68
+                            ],
+                            [
+                                9,
+                                17
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 10
+                    }
+                }
+            }
+        ],
+        "countyName": "Cass"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

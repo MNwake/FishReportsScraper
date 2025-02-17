@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737650441,
+    "result": {
+        "lakeName": "Fault",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.94,
+        "DOWNumber": 16004000,
+        "waterClarity": [
+            [
+                "07/16/1980",
+                "2.6"
+            ]
+        ],
+        "averageWaterClarity": "2.6",
+        "littoralAcres": 59.08,
+        "areaAcres": 59.08,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 10.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "No public access and no trails to lake. In the BWCA.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109589",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "14.50",
+                        "quartileCount": "8.8",
+                        "totalWeight": 3.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 29
+                    },
+                    {
+                        "CPUE": "34.00",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 16.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 68
+                    }
+                ],
+                "narrative": "<p>Catches indicate fairly large populations of Sunfish and Suckers composed of small individuals.</p>",
+                "headerInfo": [
+                    "Fault",
+                    null,
+                    "16004000",
+                    "1980-07-16",
+                    "109589",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1980-07-16",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

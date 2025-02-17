@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737648824,
+    "result": {
+        "lakeName": "Tripp",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.91,
+        "DOWNumber": 11046100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 29.3,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 0.0,
+        "officeCode": "F118",
+        "accesses": [
+            {
+                "location": "Access through road entering from west side of lake from CO.41.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "105301",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "47.00",
+                        "quartileCount": "1.0-11.8",
+                        "totalWeight": 15.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 94
+                    },
+                    {
+                        "CPUE": "27.33",
+                        "quartileCount": "1.2-4.8",
+                        "totalWeight": 15.4,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 82
+                    }
+                ],
+                "narrative": "<p>Visitors to the lake reported that in the past 15 years, no other fish has been taken from Tripp Lake by angling except the small black crappies present.</p>",
+                "headerInfo": [
+                    "Tripp",
+                    null,
+                    "11046100",
+                    "1969-06-18",
+                    "105301",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1969-06-18",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cass"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

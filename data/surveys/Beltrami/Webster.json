@@ -1,0 +1,985 @@
+{
+    "timestamp": 1737646255,
+    "result": {
+        "lakeName": "Webster",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.13,
+        "DOWNumber": 4002200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 47.43,
+        "areaAcres": 47.43,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F112",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": "Northeast side of lake; 5 unit parking"
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "5701013347838000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.22",
+                        "quartileCount": "0.8-10.7",
+                        "totalWeight": 854.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.3-0.6",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.94",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "71.83",
+                        "quartileCount": "N/A",
+                        "totalWeight": 21414.0,
+                        "gearCount": 0.71,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Special electrofishing",
+                        "averageWeight": "0.93",
+                        "totalCatch": 51
+                    },
+                    {
+                        "CPUE": "116.22",
+                        "quartileCount": "3.1-24.9",
+                        "totalWeight": 177998.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 1046
+                    },
+                    {
+                        "CPUE": "1.11",
+                        "quartileCount": "0.3-1.9",
+                        "totalWeight": 7264.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.2-1.1",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.60",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "1.56",
+                        "quartileCount": "1.9-13.0",
+                        "totalWeight": 2986.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.47",
+                        "totalCatch": 14
+                    }
+                ],
+                "narrative": "<p>Webster Lake is a small, remote lake located approximately ten miles south of the city of Blackduck in Beltrami County.  The lake is located within the Chippewa National Forest.  A Forest Service campground with ten primitive campsites and a boat ramp is located on the east shore of the lake.  The maximum depth is 19 feet, although most of the lake is shallower than 8 feet in depth.  Webster Lake is in lake class 37, and similar lakes in the Bemidji area include Mission, Stocking, and McKenzie.  Class 37 lakes are typically small, shallow lakes with soft water and simple lake basins.  Bluegill and black crappie are primary management species, while largemouth bass are managed as a secondary species. <br> \nThe 2010 fish population assessment showed that Webster Lake holds a good bluegill population.  Trap net catch rates were nearly three times greater than the median for this lake class.  All bluegill captured were greater than 6.0 inches in length, and fish greater than 10.0 inches in length were present in the catch.   <br> \nBlack crappie were captured at the rate of 1.6/TN, which is similar to the first quartile value of 1.9/TN for this lake class.  Black crappie ranged in length from 4.4 to 11.3 inches TL, with a mean length of 9.6 inches TL.  A total of four year classes of fish were identified from age analysis of the sample, ranging from age 1 (2009 year class) to age 6 (2004 year class).  The majority of fish (n=8) were from the 2006 year class (age 4).  Age 4 black crappie had an average length of 9.8 inches.   <br> \nThe 2010 largemouth bass electrofishing catch rate of 70 fish/hr indicated a robust bass population. Largemouth bass ranged in length from 6.5 to 18.9 inches TL, with a mean length of 11.4 inches TL.   <br> \nAs of March 7, 2011 dissolved oxygen testing indicated that Webster Lake was most likely experiencing a winterkill of the fish population.  Unfortunately, the high quality bluegill and bass populations that have developed since the last winterkill (1995-96) will likely be impacted and potentially eliminated from Webster Lake.  The Bemidji Area Fisheries Office cannot verify the extent of the winter kill until ice off, which typically occurs in mid-April.  Please call the Bemidji Area Fisheries Office (218-308-2339) to get updated information before planning a trip to Webster Lake.  <br> \n</p>",
+                "headerInfo": [
+                    "Webster",
+                    null,
+                    "04002200",
+                    "2010-06-14",
+                    "5701013347838000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2010-06-14",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                6
+                            ],
+                            [
+                                6,
+                                38
+                            ],
+                            [
+                                7,
+                                480
+                            ],
+                            [
+                                8,
+                                490
+                            ],
+                            [
+                                9,
+                                32
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 10
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                4
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                9,
+                                8
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 11
+                    },
+                    "BRB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 12
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                10
+                            ],
+                            [
+                                11,
+                                16
+                            ],
+                            [
+                                12,
+                                7
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                5
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 20
+                    }
+                }
+            },
+            {
+                "surveyID": "12371733946916021",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "26.84",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1088.0,
+                        "gearCount": 0.707777777777778,
+                        "quartileWeight": "N/A",
+                        "species": "BLC",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.13",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "4.24",
+                        "quartileCount": "N/A",
+                        "totalWeight": 280.0,
+                        "gearCount": 0.707777777777778,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.21",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "48.04",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1347.0,
+                        "gearCount": 0.707777777777778,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.09",
+                        "totalCatch": 34
+                    },
+                    {
+                        "CPUE": "50.86",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6477.0,
+                        "gearCount": 0.707777777777778,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.40",
+                        "totalCatch": 36
+                    },
+                    {
+                        "CPUE": "42.39",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1886.0,
+                        "gearCount": 0.707777777777778,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.14",
+                        "totalCatch": 30
+                    }
+                ],
+                "narrative": "<p>Webster Lake is located next to a U.S. Forest Service campground in the Chippewa National Forest.  There is a boat launch on the east side and an area for fishing next to the campground.  Webster was a popular destination fishery after the 2010 assessment recorded Bluegills over 10 inches as well as Largemouth Bass over 20 inches in length; however, a severe winterkill in the winter of 2011-12 greatly impacted the gamefish population.  In the springs of 2013 and 2014, adult Bluegill, Black Crappie and Largemouth Bass were re-introduced back into Webster Lake. <br> \n <br> \nIn the spring of 2017, an electrofishing assessment was conducted to evaluate the fish community following the winterkill in 2012 and subsequent panfish stocking.  Five species were captured, measured, and released including Black Crappie, Bluegill, Largemouth Bass, Pumpkinseed, and Yellow Perch.  Of those, the species that were re-introduced appear to be fairly abundant but still relatively small. <br> \n <br> \nThe Largemouth Bass captured had lengths just short of 15 inches and perch had lengths over 8 inches.  The remaining species were smaller than typical sizes preferred by anglers.  It will likely be some time before Webster Lake returns to the quality fishery that it once was.  In the meantime, the abundant panfish population allows for a secluded and relaxing angling experience. <br> \n</p>",
+                "headerInfo": [
+                    "Webster",
+                    null,
+                    "04002200",
+                    "2017-05-25",
+                    "12371733946916021",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2017-05-25",
+                "lengths": {
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                4
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                19
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 14
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 8
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                4,
+                                18
+                            ],
+                            [
+                                5,
+                                14
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 5
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                5,
+                                16
+                            ],
+                            [
+                                6,
+                                12
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 6
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                5
+                            ],
+                            [
+                                6,
+                                13
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    }
+                }
+            },
+            {
+                "surveyID": "100801",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "1.0-5.8",
+                        "totalWeight": 2625.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.89",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "85.25",
+                        "quartileCount": "3.1-24.9",
+                        "totalWeight": 45489.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 682
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "0.5-5.2",
+                        "totalWeight": 3222.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 56
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.3-1.9",
+                        "totalWeight": 1440.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.2-1.1",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.40",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.75",
+                        "quartileCount": "0.8-10.7",
+                        "totalWeight": 1281.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.3-0.6",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.47",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "1.8-26.3",
+                        "totalWeight": 1012.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.56",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.12",
+                        "quartileCount": "0.3-3.3",
+                        "totalWeight": 1175.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.8-2.4",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.59",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1378.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.34",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "112.33",
+                        "quartileCount": "2.5-23.3",
+                        "totalWeight": 33944.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 337
+                    },
+                    {
+                        "CPUE": "16.67",
+                        "quartileCount": "0.9-4.3",
+                        "totalWeight": 8381.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-1.1",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.37",
+                        "totalCatch": 50
+                    }
+                ],
+                "narrative": "<p>Webster Lake is a small, remote lake in the Chippewa National Forest, about 10 miles south of the city of Blackduck.  A Forest Service campground, with about 10 camp sites, is located on the shoreline.  The public access is gravel and has parking for about five rigs.  Webster Lake has no development along the shoreline, other than the campground, and it is isolated from road noise and major boating traffic.  It offers campers and anglers relaxation and tranquility.Webster Lake has a history of moderate winterkills, followed by reintroduction of desirable species.  Yellow perch and brown bullheads are tolerant of low oxygen levels and have reestablished populations since the last winterkill in 1996.  The 1991 management plan lists northern pike as the primary management species and bluegill as the secondary management species.  Though the plan recommends reintroduction of northern pike, largemouth bass and bluegill following winterkill, only bass and bluegill were actually stocked.Bluegill have done well since their reintroduction and were sampled at a level much higher than the average for this lake type.  The largest bluegill measured was 8.7 inches, and 80% were more than 6.5 inches long.Largemouth bass have also responded well after reintroduction.  Many 8-9.5 inch  bass  were captured in the nets.  The largest largemouth bass sampled  was 13.9 inches.Yellow perch were abundant and many were large enough to be acceptable to anglers.  The average length of the sample was 8.0 inches, and the largest measured was 11.6 inches.White sucker and black and brown bullheads were also sampled, but they were not abundant.Northern pike were not captured in the 2000 standard assessment.  Apparently they were totally removed by the 1996 winterkill.  Since overabundance can sometimes be a problem in lakes of this size, and since the fish community is already well established without northern pike, it appears to be a good decision not to reintroduce that species.</p>",
+                "headerInfo": [
+                    "Webster",
+                    null,
+                    "04002200",
+                    "2000-06-12",
+                    "100801",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2000-06-12",
+                "lengths": {
+                    "BRB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 10
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                18
+                            ],
+                            [
+                                6,
+                                272
+                            ],
+                            [
+                                7,
+                                331
+                            ],
+                            [
+                                8,
+                                69
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 8
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                6,
+                                34
+                            ],
+                            [
+                                7,
+                                160
+                            ],
+                            [
+                                8,
+                                163
+                            ],
+                            [
+                                9,
+                                36
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 11
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 19
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                4
+                            ],
+                            [
+                                8,
+                                30
+                            ],
+                            [
+                                9,
+                                15
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 13
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 9
+                    }
+                }
+            },
+            {
+                "surveyID": "17642324847092000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.09",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 0.646666666666667,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "10.82",
+                        "quartileCount": "N/A",
+                        "totalWeight": 880.0,
+                        "gearCount": 0.646666666666667,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.28",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "6.19",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 0.646666666666667,
+                        "quartileWeight": "N/A",
+                        "species": "CNM",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "29.38",
+                        "quartileCount": "N/A",
+                        "totalWeight": 730.0,
+                        "gearCount": 0.646666666666667,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.08",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "17.01",
+                        "quartileCount": "N/A",
+                        "totalWeight": 164.0,
+                        "gearCount": 0.646666666666667,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.03",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "43.30",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 0.646666666666667,
+                        "quartileWeight": "N/A",
+                        "species": "BNM",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "10.82",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 0.646666666666667,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "21.65",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 0.646666666666667,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 14
+                    }
+                ],
+                "narrative": "<p>Webster Lake is located next to a U.S. Forest Service campground in the Chippewa National Forest. There is a boat launch on the east side and an area for fishing next to the campground. Webster was a popular destination fishery after the 2010 assessment recorded Bluegills over 10 inches as well as Largemouth Bass over 20 inches in length; however, a severe winterkill in the winter of 2011-12 greatly impacted the gamefish population. Since then, adult Bluegill, Black Crappie and Largemouth Bass have been re-introduced back into Webster Lake in 2013, 2014, 2019 and 2021. Unfortunately, these efforts were negated by additional winterkill events that have continued with several more occurring since 2012, most recently in 2023. <br> \n <br> \nIn 2023, multiple reports were received by the DNR Fisheries Office in Bemidji that Webster Lake may have winterkilled due to the absence of panfish and bass which are normally very abundant. Electrofishing was conducted late that summer to assess the remaining fish community and found very low abundance of Bluegill, Northern Pike, and Yellow Perch. No Black Crappie or Largemouth Bass were captured. Supplemental stocking of Black Crappie, Bluegill, and Largemouth Bass is planned for the spring of 2024. It will likely be some time before Webster Lake returns to the quality fishery that it once was. <br> \n</p>",
+                "headerInfo": [
+                    "Webster",
+                    null,
+                    "04002200",
+                    "2023-09-05",
+                    "17642324847092000",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2023-09-05",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                9
+                            ],
+                            [
+                                6,
+                                7
+                            ],
+                            [
+                                7,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 7
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                2
+                            ],
+                            [
+                                2,
+                                8
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 6
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                0,
+                                2
+                            ],
+                            [
+                                1,
+                                4
+                            ],
+                            [
+                                2,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 2
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 10
+                    }
+                }
+            },
+            {
+                "surveyID": "100408",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "0.5-5.2",
+                        "totalWeight": 1.8,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "0.8-10.7",
+                        "totalWeight": 14.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.3-0.6",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "21.50",
+                        "quartileCount": "2.8-10.0",
+                        "totalWeight": 86.9,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.5-3.3",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.02",
+                        "totalCatch": 43
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "1.5-9.5",
+                        "totalWeight": 5.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BRB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "9.75",
+                        "quartileCount": "3.1-24.9",
+                        "totalWeight": 16.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.42",
+                        "totalCatch": 39
+                    },
+                    {
+                        "CPUE": "15.50",
+                        "quartileCount": "2.5-23.3",
+                        "totalWeight": 4.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 31
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 15.1,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.52",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.3-2.4",
+                        "totalWeight": 2.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "RKB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>NORTHERN PIKE ARE ABUNDANT WITH MANY FISH IN THE 20-25 MEDIANS WITH THE PRESENCE OF SOME QUALITY SIZE FISH IN THE SAMPLE.  YELLOW PERCH NUMBERS ARE BELOW LOCAL MEDIANS AND MAY BE AFFECTED BY THE ABUNDANT NORTHERN PIKE PRESENT IN THE LAKE.</p>",
+                "headerInfo": [
+                    "Webster",
+                    null,
+                    "04002200",
+                    "1990-06-18",
+                    "100408",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1990-06-18",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Beltrami"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

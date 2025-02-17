@@ -1,0 +1,1063 @@
+{
+    "timestamp": 1737651202,
+    "result": {
+        "lakeName": "North Shady",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.17,
+        "DOWNumber": 16007600,
+        "waterClarity": [
+            [
+                "06/28/2021",
+                "6.5"
+            ],
+            [
+                "07/08/1969",
+                "3.6"
+            ],
+            [
+                "07/24/2011",
+                "3.5"
+            ],
+            [
+                "10/05/2011",
+                "6"
+            ],
+            [
+                "08/20/2014",
+                "5"
+            ],
+            [
+                "10/01/2014",
+                "3.5"
+            ],
+            [
+                "08/11/1987",
+                "8"
+            ],
+            [
+                "06/10/1991",
+                "7.5"
+            ]
+        ],
+        "averageWaterClarity": "5.5",
+        "littoralAcres": 26.0,
+        "areaAcres": 33.19,
+        "meanDepthFeet": 9.2,
+        "maxDepthFeet": 20.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110851",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "2.4-16.0",
+                        "totalWeight": 1290.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.84",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "46.33",
+                        "quartileCount": "1.1-12.4",
+                        "totalWeight": 9826.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 139
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.6-9.0",
+                        "totalWeight": 29.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "0.5-5.3",
+                        "totalWeight": 124.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "6.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2765.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.32",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 9913.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.82",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>Despite the presence of several undesirable species, the long-range goal for brook trout in North Shady Lake was met during this assessment. Yellow perch were extremely abundant, and may have a negative effect on brook trout growth.  White sucker abundance appears to be rising.There is probably high interspecific competition for forage, and some predation of brook trout by walleye.If the long-range goal for brook trout is to continue to be met, or the goal is raised, reclamation should be considered.  Reclamations were only partially successful in 1970 and 1988, and the reasons for this should be examined before another attempt is made.  </p>",
+                "headerInfo": [
+                    "North Shady",
+                    null,
+                    "16007600",
+                    "1997-06-12",
+                    "110851",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1997-06-12",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                15,
+                                6
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 18
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 12
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                7
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                27
+                            ],
+                            [
+                                6,
+                                77
+                            ],
+                            [
+                                7,
+                                5
+                            ],
+                            [
+                                8,
+                                18
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 11
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 4
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 19,
+                        "maximum_length": 19
+                    }
+                }
+            },
+            {
+                "surveyID": "17302119641135000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "97.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3791.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.04",
+                        "totalCatch": 195
+                    },
+                    {
+                        "CPUE": "361.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GOS",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.00",
+                        "totalCatch": 723
+                    },
+                    {
+                        "CPUE": "18.50",
+                        "quartileCount": "1.1-12.4",
+                        "totalWeight": 4769.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.28",
+                        "totalCatch": 37
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1991.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.55",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 1676.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.85",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>North Shady Lake lies within the Lake Superior North watershed, discharging to the Brule River via Greenwood Lake and the Greenwood River.  The lake was first rehabilitated for stream trout management in 1969, and has been stocked with Brook Trout or Rainbow Trout since that time.  Additional rehabilitations were done in 1988, 2003, and 2016, each targeting dense Yellow Perch populations.  Brook Trout were stocked following the 2016 rehabilitation.  The 2018 lake management plan (LMP) established a goal of maintaining a minimum gill net catch of Brook Trout of 5.0 fish/set, with some fish over 14 inches in length present.  Standard surveys were scheduled for 2020, 2024, and 2028 to monitor the lake for the recurrence of any undesirable fish species.  The 2020 survey was rescheduled to 2021 due to restrictions imposed during the Covid-19 pandemic.  <br> \n <br> \nYellow Perch have already become re-established in North Shady Lake, and they appear to have become abundant.  An angling party reported catching several Yellow Perch in the lake in the fall of 2019.  Those fish were large enough to suggest Yellow Perch had present for some time.  This survey confirmed the presence of Yellow Perch, apparently in fairly high numbers.  White Sucker, another species that is undesirable in a stream trout lake, were also found.  Yellow Perch taken in gill nets in 2021 ranged in length from 5.9 to 10.6 inches.  Large numbers of Yellow Perch were also taken in small-mesh mini-fyke trap nets; that catch included fish 3.0 to 13.0 inches in length.  Yellow Perch and White Sucker compete with stocked trout for forage, and their presence in high numbers typically results in slow growth and poor survival of trout, with Yellow Perch producing the most severe effects. <br> \n <br> \nBrook Trout were also taken during the 2021 survey, and may have supported a fair trout fishery, with a few larger fish available.  The gill net catch (4.00 fish/set) was similar to catches seen in this lake during past periods of high Yellow Perch abundance.  Prior to this survey Brook Trout fingerlings had been stocked in 2017 and 2019.  Both stockings contributed to the 2021 catch.   Growth appeared to have been slow; two-year-old fish reached a mean length of just 7.4 inches at the end of their second year, compared to an area average 9.0 inches.  Slow growth would have been the result of intense competition for forage with Yellow Perch, although poor summer temperature-oxygen conditions may have been a contributing factor. <br> \n <br> \nNorth Shady Lake has often exhibited marginal summer temperature-oxygen conditions for Brook Trout.  The temperature-oxygen profile measured during this survey showed that by late June surface water temperatures had reached stressful levels for Brook Trout, while dissolved oxygen in the lake's colder, deeper waters had already declined significantly.   A late-summer temperature-oxygen profile measured in 2020 on this lake failed to find conditions suitable for Brook Trout (water temperature <= 68 F, dissolved oxygen > 5 ppm) at any depth.  Tolerable conditions (water temperature < 70 F, dissolved oxygen > 5 ppm) were limited to depths of about five to nine feet. <br> \n <br> \nOur continued ability to manage this lake for stream trout is in doubt.  The Brook Trout population observed in this survey would have provided some angling opportunity, but high numbers of Yellow Perch would have limited the growth and survival of stocked trout.  Anglers would have to deal with high numbers of perch, while encountering few, and generally small, Brook Trout.  Swift recoveries of the Yellow Perch population after the last two rehabilitations suggest that further attempts to reclaim the lake would not be cost-effective.  <br> \n      <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "North Shady",
+                    null,
+                    "16007600",
+                    "2021-06-28",
+                    "17302119641135000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2021-06-28",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                17
+                            ],
+                            [
+                                12,
+                                12
+                            ],
+                            [
+                                2,
+                                1
+                            ],
+                            [
+                                3,
+                                5
+                            ],
+                            [
+                                4,
+                                60
+                            ],
+                            [
+                                5,
+                                43
+                            ],
+                            [
+                                6,
+                                8
+                            ],
+                            [
+                                7,
+                                41
+                            ],
+                            [
+                                8,
+                                24
+                            ],
+                            [
+                                9,
+                                21
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 12
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 15
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 17
+                    }
+                }
+            },
+            {
+                "surveyID": "110377",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "2.4-16.0",
+                        "totalWeight": 3490.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.56",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "0.6-9.0",
+                        "totalWeight": 1497.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 24
+                    },
+                    {
+                        "CPUE": "5.67",
+                        "quartileCount": "1.1-12.4",
+                        "totalWeight": 886.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "23.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 10719.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 71
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 3240.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.43",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Brook trout were abundant, and good numbers of fish over 12 inches were present.  The 1993, 1992, and 1991 stockings had all apparently     contributed to the population.  Brook trout growth was unusually slow for this area, possible due to the large number of brook trout     present, and competition from white sucker, walleye, and yellow perch.  Walleye and yellow perch were collected for the first time since     the lake was reclaimed in 1988.  It seemed likely that the walleye were the result of an illegal introduction, since there were few, if     any, walleye in Greenwood Lake (the other possible source), and the two lakes were separated by a fish barrier.  The presence of large     numbers of yellow perch in this lake in the 1970's eventually led to stream trout management being discontinued prior to the 1988     reclamation, so the present yellow perch population and the performance of future brook trout stockings should be closely monitored.</p>",
+                "headerInfo": [
+                    "North Shady",
+                    null,
+                    "16007600",
+                    "1994-06-16",
+                    "110377",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1994-06-16",
+                "lengths": {
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                18
+                            ],
+                            [
+                                6,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 6
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 19
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 16
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                9
+                            ],
+                            [
+                                12,
+                                14
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                6,
+                                8
+                            ],
+                            [
+                                7,
+                                32
+                            ],
+                            [
+                                8,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 13
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                7
+                            ],
+                            [
+                                6,
+                                9
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    }
+                }
+            },
+            {
+                "surveyID": "4311107459035000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 167.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.37",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "46.75",
+                        "quartileCount": "1.1-12.4",
+                        "totalWeight": 4971.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 187
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.6-9.0",
+                        "totalWeight": 91.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "5.25",
+                        "quartileCount": "0.5-5.3",
+                        "totalWeight": 547.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "1.25",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 4129.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.82",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>North Shady Lake has been managed for stream trout since 1970, and for rainbow trout since it was last rehabilitated (in 2003).  Since 2004 the lake has been managed under a special regulation intended to produce a high-quality fishery.  Under that regulation the lake has been closed to winter fishing.  During the open-water season, the lake has been open to catch-and-release fishing only, and anglers can use only artificial llures and flies with a single hook (no live baits).  Because exploitation was expected to be light, and because the lake was not expected to support any predator or competing  fish species following the rehabilitation, it was scheduled to be stocked every other year with small spring fingerlings.\n\nThis was the first assessment of North Shady Lake since it was rehabilitated.  Few fishing reports have been received since 2004, but one of those indicated that trout fishing was poor and that the yellow perch population had recovered.  This assessment was done to update information on the fish community in this lake, and to evaluate the success of rainbow trout stocking done since 2004.\n\nFour standard gill net sets yielded a total catch of one rainbow trout, 21 golden shiner, two green sunfish, five white sucker, and 187 yellow perch.  The lake had clearly returned to nearly its pre-rehabilitation condition, with a dense yellow perch population competing with (and probably preying on) stocked rainbow trout.  Green sunfish and white sucker would also have competed with rainbow trout, although neither species seemed to have been abundant.\n\nManagement goals for this lake were not met in 2011.  The rainbow trout catch consisted of a single one-year-old fish from the 2010 stocking.  The catch was well below the normal range (1.0 to 6.5 fish/net) for stream trout lakes in this area.  Survival of the 2010 and 2008 stockings seemed to have been low.  Failure to catch fish from the 2006 and 2004 stockings was not surprising, since five-year-old (or older) fish are rarely found in stream trout lakes in this area.\n\nRevision of the lake management plan for this lake is scheduled for the winter of 2013, and management changes will likely be necessary.  The strategy of stocking small spring fingerlings in this lake is probably not viable, given the presence of so many yellow perch.  Some of the perch present would have been large enough to prey directly on smaller fingerlings, and all would seriously compete with trout of all sizes for forage.  If continued management of this lake for rainbow trout is desired, larger fall fingerlings should be stocked.  Stocking of yearlings is not an option, due to the lack of a truck-accessible stocking site.  Even with a change in stocking, the lake's ability to produce a trophy trout population is doubtful; rainbow trout growth and condition will likely be poor.  In the past under these conditions we would rehabilitate the lake; however, with funding for fisheries management now severely limited, that may no longer be a realistic option.\n\n\n</p>",
+                "headerInfo": [
+                    "North Shady",
+                    null,
+                    "16007600",
+                    "2011-10-05",
+                    "4311107459035000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2011-10-05",
+                "lengths": {
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                11
+                            ],
+                            [
+                                6,
+                                9
+                            ],
+                            [
+                                7,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                5,
+                                80
+                            ],
+                            [
+                                6,
+                                99
+                            ],
+                            [
+                                7,
+                                4
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 12
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 17
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 9
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    }
+                }
+            },
+            {
+                "surveyID": "11381430450625071",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.6-9.0",
+                        "totalWeight": 191.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "82.33",
+                        "quartileCount": "1.1-12.4",
+                        "totalWeight": 7285.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 247
+                    },
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "0.5-5.3",
+                        "totalWeight": 175.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.02",
+                        "totalCatch": 24
+                    },
+                    {
+                        "CPUE": "14.33",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 25209.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.29",
+                        "totalCatch": 43
+                    }
+                ],
+                "narrative": "<p>North Shady Lake was rehabilitated to remove yellow perch in 2003, and has been managed for rainbow trout since that time.  Since 2004 the lake has been managed as a trophy trout lake.  As such, it has been closed to winter fishing, and anglers in the summer have been limited to the use of artificial lures and flies only, with a single hook only (no live baits allowed).  Few fishing reports have been received since 2004, but one of those (in 2007) indicated that fishing was poor and that yellow perch had returned. An assessment in 2011 found large numbers of yellow perch, and collecting just one rainbow trout. <br> \n <br> \nYellow perch and white sucker were apparently abundant in North Shady Lake in 2014.  Both species compete with rainbow trout for forage, and the larger yellow perch would have been capable of preying on the small rainbow trout fingerlings stocked in this lake in the spring.  No rainbow trout were collected in 2014.  Both access trails appeared to have seen little use, suggesting little use of the lake by anglers. <br> \n <br> \nNorth Shady Lake still seems to provide cool enough waters to support trout through the summer months.  A temperature-oxygen profile measured on this lake in late August found conditions suitable for brook and rainbow trout from the surface to a depth of about nine feet, with dissolved oxygen dropping rapidly at depths below nine feet.  Excellent temperature-oxygen conditions observed in North Shady Lake in 2014 may have been the result of generally cool air temperatures seen across NE Minnesota that year; however, a profile measured in late July 2011 also found conditions suitable for trout. <br> \n <br> \nResults of 2011 and 2014 assessments indicated management goals for this lake (and for the trophy trout program) were not met in North Shady Lake.  The rainbow trout catch in 2011 consisted of a single age-1 fish, while no rainbow trout were taken in 2014.  Rainbow trout can be difficult to sample, but catches in this lake in 2011 and 2014 were well below normal for fall assessments of stream trout lakes in this area.  Survival of rainbow trout stocked since 2006 seemed to have been low, approaching zero. <br> \n <br> \nThe strategy of stocking small spring fingerlings in this lake is not viable, given the presence of so many yellow perch.  Management strategies for this lake will be reviewed; options for future management include stocking larger fish, stocking more frequently, discontinuing trout management, or another rehabilitation.  Until a new strategy can be put in place, anglers on this lake should expect very poor rainbow trout fishing.  Anglers willing to target perch may find better luck, since the lake supported some nice-sized fish of that species in the fall of 2014. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "North Shady",
+                    null,
+                    "16007600",
+                    "2014-10-01",
+                    "11381430450625071",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2014-10-01",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                5,
+                                21
+                            ],
+                            [
+                                6,
+                                190
+                            ],
+                            [
+                                7,
+                                24
+                            ],
+                            [
+                                8,
+                                5
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 12
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                22
+                            ],
+                            [
+                                8,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 8
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                12
+                            ],
+                            [
+                                14,
+                                11
+                            ],
+                            [
+                                15,
+                                7
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 18
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 6
+                    }
+                }
+            },
+            {
+                "surveyID": "110191",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.6-9.0",
+                        "totalWeight": 0.13,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "13.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 12.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 41
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 3.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.65",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>BKT WERE ABUNDANT BUT SMALL.  MOST OF THE FISH COLLECTED RANGED FROM 6 TO 9 IN, AND WERE AGE I (1990 FGL STOCKING).  AGE II BKT RANGED FROM 9 TO 14 IN.  GROWTH WAS ABOUT AVERAGE FOR COOK COUNTY BKT IN LAKES.  WTS, CRC, GSF WERE COLLECTED, BUT DID NOT APPEAR TO BE ABUNDANT.</p>",
+                "headerInfo": [
+                    "North Shady",
+                    null,
+                    "16007600",
+                    "1991-06-10",
+                    "110191",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1991-06-10",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

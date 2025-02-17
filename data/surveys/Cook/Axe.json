@@ -1,0 +1,309 @@
+{
+    "timestamp": 1737649920,
+    "result": {
+        "lakeName": "Axe",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.31,
+        "DOWNumber": 16040700,
+        "waterClarity": [
+            [
+                "07/09/1991",
+                "6"
+            ],
+            [
+                "07/10/1974",
+                "7"
+            ]
+        ],
+        "averageWaterClarity": "6.5",
+        "littoralAcres": 54.77,
+        "areaAcres": 54.77,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 12.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Portage trail from Homer Lake.  Lake is outside the BWCAW.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111234",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.67",
+                        "quartileCount": "2.8-8.5",
+                        "totalWeight": 11333.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.78",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "1.3-5.0",
+                        "totalWeight": 6767.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.66",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "8.67",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 30820.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.61",
+                        "totalCatch": 26
+                    }
+                ],
+                "narrative": "<p>Walleye were present in average numbers and sizes.  It appeared that recent stocking had contributed little to the population, although natural reproduction had also not produced strong year classes.  The northern pike catch was also average in terms of numbers and size.  Growth rates were fairly good, but mortality appeared to have been high.  Only one fish older than three years of age was collected.  No yellow perch were taken in 2000; their abundance may have declined since walleye were introduced.  No other game fish, and no panfish species, were known to have been present in this lake.</p>",
+                "headerInfo": [
+                    "Axe",
+                    null,
+                    "16040700",
+                    "2000-07-13",
+                    "111234",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2000-07-13",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                4
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                23,
+                                1
+                            ],
+                            [
+                                25,
+                                1
+                            ],
+                            [
+                                28,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 28
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                18,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 18
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                9
+                            ],
+                            [
+                                18,
+                                5
+                            ],
+                            [
+                                19,
+                                7
+                            ],
+                            [
+                                20,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 20
+                    }
+                }
+            },
+            {
+                "surveyID": "110201",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "2.8-8.5",
+                        "totalWeight": 1.75,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.75",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "1.3-5.0",
+                        "totalWeight": 10.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.17",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "2.0-16.0",
+                        "totalWeight": 0.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "8.67",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 54.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.09",
+                        "totalCatch": 26
+                    }
+                ],
+                "narrative": "<p>SURVIVAL OF THE INTRODUCTORY WAE FRY STOCKINGS IN 1986-1988 WAS GOOD, BUT GROWTH WAS SLOW BY COOK COUNTY STANDARDS.  WAE CAPTURED IN THIS ASSESSMENT WERE LIKELY NOT YET MATURE, AND IT REMAINS TO BE SEEN WHETHER WAE POPULATIONS IN THIS LAKE CAN BE SUSTAINED NATURALLY.  FORAGE APPEARED TO BE LIMITED.  THE CATCH OF NOP WAS MUCH HIGHER IN THE 1974 SURVEY, AND EVEN GIVEN THE SMALL NUMBER OF NETS USED, IT IS LIKELY THAT THERE HAS BEEN A SIGNIFICANT DECLINE IN NOP ABUNDANCE SINCE 1974. SINCE THE ASSESSMENT RECORD IS LIMITED, IT IS IMPOSSIBLE TO DETERMINE WHETHER THIS DECLINE IS THE RESULT OF THE WAE INTRODUCTION, THE END RESULT OF A LONG TERM TREND, OR SIMPLY THE LOW POINT IN A POPULATION FLUCTUATION.</p>",
+                "headerInfo": [
+                    "Axe",
+                    null,
+                    "16040700",
+                    "1991-07-09",
+                    "110201",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1991-07-09",
+                "lengths": {}
+            },
+            {
+                "surveyID": "109746",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "2.8-8.5",
+                        "totalWeight": 28.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.33",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "2.0-16.0",
+                        "totalWeight": 0.35,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "6.67",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 33.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.65",
+                        "totalCatch": 20
+                    }
+                ],
+                "narrative": "<p>Axe Lake has a good poppulation of N Pike with indications of a fair size distribution.  Suckers are fairly abundant but few Perch were taken.</p>",
+                "headerInfo": [
+                    "Axe",
+                    null,
+                    "16040700",
+                    "1974-07-10",
+                    "109746",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1974-07-10",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,277 @@
+{
+    "timestamp": 1737558089,
+    "result": {
+        "lakeName": "McKewen",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.0,
+        "DOWNumber": 31068200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 26.49,
+        "areaAcres": 26.49,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 31.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "Access is off of the west shoulder of County Rd. 47.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "106237",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.56",
+                        "quartileCount": "0.3-2.7",
+                        "totalWeight": 193.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "0.11",
+                        "quartileCount": "N/A",
+                        "totalWeight": 12.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "TPM",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.03",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "9.33",
+                        "quartileCount": "2.5-7.8",
+                        "totalWeight": 14062.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.6-2.9",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.11",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "1.0-9.1",
+                        "totalWeight": 112.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.2-0.3",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.89",
+                        "quartileCount": "4.3-32.8",
+                        "totalWeight": 1626.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.89",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1140.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.31",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "1.1-10.6",
+                        "totalWeight": 3332.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 36
+                    }
+                ],
+                "narrative": "<p>McKewen Lake is primarily a northern pike/panfish lake that is located in the Chippewa National Forest.     Northern pike sampled with gill nets had a catch rate (9.3/set) that exceeded the expected range for this type of lake.  The mean length for sampled northern pike was 15.6 inches, with a length range from 9.9 to 32.4 inches.  The mean weight was 1.1 pounds.     Black crappie were sampled with trap nets, and had a mean catch rate (4.0/set) that was within the expected range.  The mean length was 6.2 inches, with a length range from 3.7 to 11.0 inches.     Other species caught include: bluegill, golden shiner, and tadpole madtom.     McKewen Lake provides anglers with a unique opportunity to fish a lake that receives little fishing pressure and maintains its undeveloped shoreline.</p>",
+                "headerInfo": [
+                    "McKewen",
+                    null,
+                    "31068200",
+                    "1997-08-04",
+                    "106237",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1997-08-04",
+                "lengths": {
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                4
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 9
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                24
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                10
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 10
+                    },
+                    "TPM": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 4
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                8
+                            ],
+                            [
+                                12,
+                                6
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                29,
+                                1
+                            ],
+                            [
+                                30,
+                                1
+                            ],
+                            [
+                                32,
+                                1
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 32
+                    }
+                }
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

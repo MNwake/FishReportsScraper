@@ -1,0 +1,98 @@
+{
+    "timestamp": 1737663131,
+    "result": {
+        "lakeName": "Planted",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.02,
+        "DOWNumber": 38056400,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 34.81,
+        "areaAcres": 34.81,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "Off USFS Rd. 383; then 0.3 miles on an abandoned road; then 375 ft. thru forest and across bog to the lake. Not a designated public access.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112604",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "36.00",
+                        "quartileCount": "2.0-16.0",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 72
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 14
+                    }
+                ],
+                "narrative": "<p>Planted Lake is a non-meandered waterfowl-muskrat marginal fishery of 35 acres in size. Maximum depth is 5.5 feet with an average depth of 3.1 feet. The secchi disk is to the bottom, and water color is brown due to bog stain. The lake has a muck/detritus bottom substrate. An abundant growth of emergent and submerged vegetation is found throughout the lake. The lake is primarily a waterfowl area. The shallow depth of the lake creates winterkill problems which limits the fish populations.</p>",
+                "headerInfo": [
+                    "Planted",
+                    null,
+                    "38056400",
+                    "1964-09-03",
+                    "112604",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1964-09-03",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112592",
+                "fishCatchSummaries": [],
+                "narrative": "<p>At the present time it appears the only fish in Planted Lake are finescale dace, central mudminnow and brook stickleback. No fish were sampled in test nets during the 1994 survey.      The lake has little fish management potential and may experience periodic winterkill.</p>",
+                "headerInfo": [
+                    "Planted",
+                    null,
+                    "38056400",
+                    "1994-06-20",
+                    "112592",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1994-06-20",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

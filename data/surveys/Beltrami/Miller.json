@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737646053,
+    "result": {
+        "lakeName": "Miller",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.1,
+        "DOWNumber": 4021300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 22.0,
+        "areaAcres": 38.02,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 24.0,
+        "officeCode": "F112",
+        "accesses": [
+            {
+                "location": "ROAD RIGHT OF WAY SOUTH SOUTHEAST SIDE OF LAKE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "100340",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.3-0.8",
+                        "totalWeight": 0.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>THE WALLEYE FINGERLINGS WERE SMALL BECAUSE OF OVER STOCKING OR LACK OF ADEQUATE SIZE FORAGE. PERCH EGG MASSES WILL BE STOCKED FROM AREA LAKES TO PROVIDE ADEQUATE FORAGE BASE IN 1987.</p>",
+                "headerInfo": [
+                    "Miller",
+                    "Stone",
+                    "04021300",
+                    "1986-04-30",
+                    "100340",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-04-30",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Beltrami"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

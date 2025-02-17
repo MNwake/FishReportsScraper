@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737650832,
+    "result": {
+        "lakeName": "Lac",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.8,
+        "DOWNumber": 16023600,
+        "waterClarity": [
+            [
+                "08/21/1973",
+                "5.5"
+            ]
+        ],
+        "averageWaterClarity": "5.5",
+        "littoralAcres": 44.0,
+        "areaAcres": 60.75,
+        "meanDepthFeet": 7.0,
+        "maxDepthFeet": 20.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 30 rod portage trail from Swan Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109683",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "12.33",
+                        "quartileCount": "2.0-8.5",
+                        "totalWeight": 62.28,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.68",
+                        "totalCatch": 37
+                    }
+                ],
+                "narrative": "<p>Lac Lake has a good population of N Pike 17.0 to 24.0 inches with Perch, a forage species, present.</p>",
+                "headerInfo": [
+                    "Lac",
+                    null,
+                    "16023600",
+                    "1973-08-21",
+                    "109683",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-08-21",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

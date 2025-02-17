@@ -1,0 +1,106 @@
+{
+    "timestamp": 1737657258,
+    "result": {
+        "lakeName": "Alice",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.51,
+        "DOWNumber": 31045600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 58.84,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 70.0,
+        "officeCode": "F216",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "105459",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "11.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 64.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.83",
+                        "totalCatch": 35
+                    },
+                    {
+                        "CPUE": "1.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.1,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 13.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "6.75",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.50",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "19.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 59
+                    }
+                ],
+                "narrative": "<p>N Pike and Bluegill populations are at quite high levels.</p>",
+                "headerInfo": [
+                    "Alice",
+                    "Erwin",
+                    "31045600",
+                    "1980-08-21",
+                    "105459",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1980-08-21",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

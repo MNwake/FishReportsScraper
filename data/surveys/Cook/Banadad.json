@@ -1,0 +1,86 @@
+{
+    "timestamp": 1737649937,
+    "result": {
+        "lakeName": "Banadad",
+        "sampledPlants": [],
+        "shoreLengthMiles": 8.17,
+        "DOWNumber": 16035000,
+        "waterClarity": [
+            [
+                "08/11/1983",
+                "7.5"
+            ]
+        ],
+        "averageWaterClarity": "7.5",
+        "littoralAcres": 89.0,
+        "areaAcres": 177.87,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 45.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109904",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.1-0.5",
+                        "totalWeight": 2.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.3-1.8",
+                        "species": "BUB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "1.2-3.9",
+                        "totalWeight": 19.2,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.28",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "1.20",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 13.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.17",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>POOR GAMEFISH POPULATION. NORTHERN PIKE ONLY GAMEFISH PRESENT. THE NORTHERNS ARE VERY SMALL AND NOT VERY ABUNDANT. FORAGE SPECIES (MINNOWS AND PERCH) ARE ALMOST NON-EXISTANT.</p>",
+                "headerInfo": [
+                    "Banadad",
+                    null,
+                    "16035000",
+                    "1983-08-09",
+                    "109904",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1983-08-09",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

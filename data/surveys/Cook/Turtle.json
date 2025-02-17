@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737651895,
+    "result": {
+        "lakeName": "Turtle",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.27,
+        "DOWNumber": 16025100,
+        "waterClarity": [
+            [
+                "08/01/1979",
+                "3.5"
+            ]
+        ],
+        "averageWaterClarity": "3.5",
+        "littoralAcres": 60.83,
+        "areaAcres": 60.83,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 8.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Road to lake North from FR 161.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109689",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "2.3-9.6",
+                        "totalWeight": 0.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-1.8",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Turtle Lake has an abundance of Minnows.</p>",
+                "headerInfo": [
+                    "Turtle",
+                    null,
+                    "16025100",
+                    "1979-07-30",
+                    "109689",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-07-30",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

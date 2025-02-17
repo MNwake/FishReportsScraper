@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737651015,
+    "result": {
+        "lakeName": "Marsh",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.7,
+        "DOWNumber": 16004800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 16.8,
+        "areaAcres": 16.8,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109594",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Marsh Lake has a large population of Minnows.</p>",
+                "headerInfo": [
+                    "Marsh",
+                    null,
+                    "16004800",
+                    "1979-08-02",
+                    "109594",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-08-02",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

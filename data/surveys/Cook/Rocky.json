@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737651474,
+    "result": {
+        "lakeName": "Rocky",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.37,
+        "DOWNumber": 16011500,
+        "waterClarity": [
+            [
+                "08/14/1974",
+                "7"
+            ]
+        ],
+        "averageWaterClarity": "7.0",
+        "littoralAcres": 0.0,
+        "areaAcres": 75.71,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 35.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 0.4 mile unmarked portage trail from Alder Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109626",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "2.3-5.1",
+                        "totalWeight": 2.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 1.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.00",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Only two N Pike and one Sucker were taken in three gillnets set overnight.  Additional netting should be done to determine if there are too many N Pike, requiring reclamation prior to Trout stocking.</p>",
+                "headerInfo": [
+                    "Rocky",
+                    null,
+                    "16011500",
+                    "1974-08-13",
+                    "109626",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1974-08-13",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

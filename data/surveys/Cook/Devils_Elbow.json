@@ -1,0 +1,384 @@
+{
+    "timestamp": 1737650263,
+    "result": {
+        "lakeName": "Devils Elbow",
+        "sampledPlants": [],
+        "shoreLengthMiles": 5.7,
+        "DOWNumber": 16061600,
+        "waterClarity": [
+            [
+                "08/22/1978",
+                "12"
+            ]
+        ],
+        "averageWaterClarity": "12.0",
+        "littoralAcres": 28.4,
+        "areaAcres": 91.14,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 50.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via canoe from Maraboeuf and Gneiss Lakes.  Minnesota side of the lake is entirely within the BWCAW.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111057",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "2.3-5.1",
+                        "totalWeight": 1830.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.03",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4500.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Small-mesh gill nets",
+                        "averageWeight": "9.92",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "1.0-4.1",
+                        "totalWeight": 155.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.5-1.5",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.34",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "5.33",
+                        "quartileCount": "1.0-7.1",
+                        "totalWeight": 6635.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.91",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "4.33",
+                        "quartileCount": "0.8-30.9",
+                        "totalWeight": 8510.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.6-5.4",
+                        "species": "LKW",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.44",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 1995.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.20",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "0.3-3.0",
+                        "totalWeight": 6802.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.6",
+                        "species": "TLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.83",
+                        "totalCatch": 18
+                    }
+                ],
+                "narrative": "<p>Devil's Elbow Lake is essentially a wide area of the Granite River.  It lies between Marabeouf and Gneiss Lakes, and it's fish populations are probably strongly influenced by those in the two larger lakes.  None of the three lakes have been stocked; all fish populations are entirely self-sustained.The walleye catch in Devil's Elbow Lake in 1999 was above the median for lakes of this class.  However, most of the fish taken were under 16 inches in length, and were less than four years of age.  Growth had been somewhat slower than average for this area, at least among young fish.  The slow growth was probably due to a lack of yellow perch.  Catches of smallmouth bass and northern pike were low in 1999, as they had been when the lake was initially surveyed (in 1978).  Forage for game fish was provided by what was probably a very small number of yellow perch, fairly high numbers of northern cisco, and, to some extent, lake whitefish.</p>",
+                "headerInfo": [
+                    "Devils Elbow",
+                    null,
+                    "16061600",
+                    "1999-08-29",
+                    "111057",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1999-08-29",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                26,
+                                1
+                            ],
+                            [
+                                37,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 26,
+                        "maximum_length": 37
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                5
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 22
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 17
+                    },
+                    "TLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                4
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 18
+                    },
+                    "LKW": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                4
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 20
+                    },
+                    "SMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 9
+                    }
+                }
+            },
+            {
+                "surveyID": "109798",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "2.3-5.1",
+                        "totalWeight": 4.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.50",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "1.0-4.1",
+                        "totalWeight": 0.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.5-1.5",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "10.33",
+                        "quartileCount": "1.0-7.1",
+                        "totalWeight": 33.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.9-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.06",
+                        "totalCatch": 31
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "1.3-10.3",
+                        "totalWeight": 0.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "0.8-30.9",
+                        "totalWeight": 18.75,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.6-5.4",
+                        "species": "LKW",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.08",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 7.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.33",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "0.3-3.0",
+                        "totalWeight": 2.75,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.6",
+                        "species": "TLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.69",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>There is a good population of Walleye, but the other species appear to be low in abundance, except for SM Bass which were not accurately smpld</p>",
+                "headerInfo": [
+                    "Devils Elbow",
+                    null,
+                    "16061600",
+                    "1978-08-21",
+                    "109798",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-08-21",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

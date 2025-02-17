@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737651644,
+    "result": {
+        "lakeName": "South Bean",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.02,
+        "DOWNumber": 16007300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 16.15,
+        "areaAcres": 16.15,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 14.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via winter logging road 1/4 mile N from F.R. 313 ~Carrot L. Rd~.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109604",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 0.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Lake contains a small population of small sized Suckers and a few small Minnows.</p>",
+                "headerInfo": [
+                    "South Bean",
+                    null,
+                    "16007300",
+                    "1976-08-23",
+                    "109604",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1976-08-23",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

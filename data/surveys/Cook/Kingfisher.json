@@ -1,0 +1,119 @@
+{
+    "timestamp": 1737650800,
+    "result": {
+        "lakeName": "Kingfisher",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.58,
+        "DOWNumber": 16081200,
+        "waterClarity": [
+            [
+                "08/14/1978",
+                "14.33"
+            ]
+        ],
+        "averageWaterClarity": "14.3",
+        "littoralAcres": 0.0,
+        "areaAcres": 37.44,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 42.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "USFS portages from Jasper Lake on E end and Ogishkemuncie Lake on W end.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109826",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.25",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.25",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LNS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "9.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 81.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LKW",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.89",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 8.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.83",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Consists of an above average population of Whtfish and below average populations of Lake Trout, Cmn Sucker, Longnose Sucker, Yel Perch and Walleye.</p>",
+                "headerInfo": [
+                    "Kingfisher",
+                    null,
+                    "16081200",
+                    "1978-08-14",
+                    "109826",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-08-14",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

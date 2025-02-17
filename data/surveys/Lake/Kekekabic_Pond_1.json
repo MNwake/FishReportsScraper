@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737662711,
+    "result": {
+        "lakeName": "Kekekabic Pond 1",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.46,
+        "DOWNumber": 38018801,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 3.0,
+        "areaAcres": 4.23,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 20.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "ACCESS BY CANOE AND PORTAGE ~PADDLE ONLY~.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108300",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "2.5-14.3",
+                        "totalWeight": 0.1,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "1.6-8.4",
+                        "totalWeight": 2.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.9-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.83",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Few fish present. Those that are present are rough fish. </p>",
+                "headerInfo": [
+                    "Kekekabic Pond 1",
+                    null,
+                    "38018801",
+                    "1972-08-28",
+                    "108300",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1972-08-28",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

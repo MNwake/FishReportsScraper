@@ -1,0 +1,114 @@
+{
+    "timestamp": 1737671186,
+    "result": {
+        "lakeName": "Stubler Pit",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.52,
+        "DOWNumber": 69129600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 1.0,
+        "areaAcres": 8.71,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 40.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "ACCESS ROAD GOES TO THE WEST SIDE OF LAKE FROM THE OLD U.S. HWY. 169.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "105929",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "0.3-2.5",
+                        "totalWeight": 1.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "21.00",
+                        "quartileCount": "1.8-16.3",
+                        "totalWeight": 2.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "1.0-8.0",
+                        "totalWeight": 0.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 4.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "1.5-4.5",
+                        "totalWeight": 1.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.3-0.5",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>A MARGINAL FISH POPULATION EXISTS IN THIS LAKE. SIZE IS GENERALLY SMALL.</p>",
+                "headerInfo": [
+                    "Stubler Pit",
+                    null,
+                    "69129600",
+                    "1984-08-23",
+                    "105929",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1984-08-23",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

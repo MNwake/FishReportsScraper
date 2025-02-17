@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737650381,
+    "result": {
+        "lakeName": "Echo",
+        "sampledPlants": [],
+        "shoreLengthMiles": 4.41,
+        "DOWNumber": 16026600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 121.21,
+        "areaAcres": 121.21,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 12.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "PRMIT",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110204",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "2.0-6.3",
+                        "totalWeight": 2.25,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.12",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "4.33",
+                        "quartileCount": "0.5-5.8",
+                        "totalWeight": 35.25,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.6-1.6",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.36",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "12.83",
+                        "quartileCount": "3.0-9.8",
+                        "totalWeight": 106.5,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.9-1.6",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.38",
+                        "totalCatch": 77
+                    },
+                    {
+                        "CPUE": "1.17",
+                        "quartileCount": "3.6-14.1",
+                        "totalWeight": 23.5,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.36",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>WAE CPUE IN THIS ASSESSMENT (12.83 FISH/GILL NET) WAS WELL ABOVE THE REGIONAL MEDIAN FOR LAKES OF THIS CLASS, AND WAE RANGING FROM 9 TO 20 IN WERE COLLECTED.  SEVERAL YEAR CLASS WERE REPRESENTED, WITH THE STRONGEST BEING 1988 AND 1986.  WAE GROWTH WAS ABOUT AVERAGE FOR COOK COUNTY.  IT IS DIFFICULT TO DETERMINE THE SUCCESS OF WAE STOCKING DONE IN 1986 AND 1987.  WAE NATURAL REPRODUCTION IS GOOD IN ECHO LAKE, AS EVIDENCED BY SEVERAL STRONG UNSTOCKED YEAR CLASSES, AND COULD COMPLETELY MASK ANY STOCKING EFFECTS.  WAE STOCKING IS UNNECESSARY IN THIS LAKE, WHETHER OR NOT THERE IS ANY SURVIVAL OF STOCKED FISH.  SMB WERE ABUNDANT, AND FISH UP TO 17 IN WERE COLLECTED; HOWEVER, FEW FISH OVER AGE IV WERE CAPTURED.  SMB GROWTH WAS FAST BY COOK COUNTY STANDARDS, WITH THE MEAN LENGTH AT LAST ANNULUS FOR AGE III FISH AT 9.4 IN, COMPARED TO THE COUNTY AVERAGE AT THAT AGE OF 7.5 IN.  NOP ABUNDANCE WAS LOW COMPARED TO ASSESSMENTS IN THE 1970'S, AND NO LARGE FISH WERE COLLECTED.  NO YEP WERE CAPTURED, ALTHOUGH THEY WERE FOUND IN LOW NUMBERS IN THE 1971 AND 1979 ASSESSMENTS.</p>",
+                "headerInfo": [
+                    "Echo",
+                    null,
+                    "16026600",
+                    "1991-09-16",
+                    "110204",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1991-09-16",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

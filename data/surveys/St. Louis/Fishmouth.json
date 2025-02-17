@@ -1,0 +1,163 @@
+{
+    "timestamp": 1737669609,
+    "result": {
+        "lakeName": "Fishmouth",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.31,
+        "DOWNumber": 69083400,
+        "waterClarity": [
+            [
+                "07/24/2009",
+                "11.5"
+            ]
+        ],
+        "averageWaterClarity": "11.5",
+        "littoralAcres": 20.0,
+        "areaAcres": 30.11,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 28.0,
+        "officeCode": "F217",
+        "accesses": [
+            {
+                "location": "Boats cannot be carried into VNP  Interior Lakes due to the concern for the spread of spiny waterflea.  Rough trail exists between Peary Lake and the east shore of Fishmouth.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "3030916344184025",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "MMS",
+                        "gear": "Special seining",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "8.25",
+                        "quartileCount": "1.3-5.3",
+                        "totalWeight": 40103.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.6-3.1",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.68",
+                        "totalCatch": 33
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNS",
+                        "gear": "Special seining",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.5-7.0",
+                        "totalWeight": 55.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Special seining",
+                        "averageWeight": "0.00",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Fishmouth Lake is a small (32 acre) lake located within the Interior of Voyageurs National Park.  The lake is only accessible via an unimproved portage trail from the west shore of Peary Lake or by going cross country from Browns Bay of Rainy Lake.  Fishmouth exhibits very low productivity; total alkalinity was 7 ppm and the total dissolved solids was 25.  Secchi disk visibility was 11.5 feet indicated moderately clear water.  The shoreline is dominated by boulder and ledgerock and the surrounding watershed is heavily forested.   Currently, boats are not allowed on Fishmouth due to the concern for the spread of invasive species to the Interior.  However, the lake is largely accessible by shore fishing.  <br> \n <br> \nNorthern pike abundance has varied considerably in Fishmouth since the first survey was conducted in 1971.  During this investigation, we caught 8.25 pike/net, however, in 1983, abundance was 18.60 fish/net.  Lengths of pike have improved however.  In 1983, the average length was 20.6 inches and the average weight was 1.75 pounds.  In 2009, the average length was 23.9 inches and the average weight was 2.7 pounds.  The largest pike caught during our survey was 27.0 inches long and weighed 4.00 pounds.  <br> \n <br> \nThe only other species caught in Fishmouth were yellow perch and two species of shiners.</p>",
+                "headerInfo": [
+                    "Fishmouth",
+                    "Moosetrack",
+                    "69083400",
+                    "2009-07-22",
+                    "3030916344184025",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2009-07-22",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                11
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 6
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                22,
+                                2
+                            ],
+                            [
+                                23,
+                                6
+                            ],
+                            [
+                                24,
+                                8
+                            ],
+                            [
+                                25,
+                                6
+                            ],
+                            [
+                                26,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 26
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

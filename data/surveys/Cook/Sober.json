@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737651631,
+    "result": {
+        "lakeName": "Sober",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.61,
+        "DOWNumber": 16049100,
+        "waterClarity": [
+            [
+                "07/23/1979",
+                "5.5"
+            ]
+        ],
+        "averageWaterClarity": "5.5",
+        "littoralAcres": 0.0,
+        "areaAcres": 9.59,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 18.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "150 ft. portage from Temperance River Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109768",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 14.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.27",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Sober Lake has a small population of stunted N Pike with forage fish lacking.</p>",
+                "headerInfo": [
+                    "Sober",
+                    null,
+                    "16049100",
+                    "1979-07-23",
+                    "109768",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-07-23",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

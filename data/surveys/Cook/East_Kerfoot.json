@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737650344,
+    "result": {
+        "lakeName": "East Kerfoot",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.63,
+        "DOWNumber": 16058600,
+        "waterClarity": [
+            [
+                "09/10/1978",
+                "9"
+            ]
+        ],
+        "averageWaterClarity": "9.0",
+        "littoralAcres": 8.0,
+        "areaAcres": 12.15,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 26.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 0.3 mile blazed portage trail from Pine River.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109785",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "16.00",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 10.75,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.34",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>A good population of small Suckers and some Pumpkinseed Sunfish are present.</p>",
+                "headerInfo": [
+                    "East Kerfoot",
+                    "Kerfoot",
+                    "16058600",
+                    "1978-09-10",
+                    "109785",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-09-10",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,200 @@
+{
+    "timestamp": 1737543098,
+    "result": {
+        "lakeName": "Unnamed",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.56,
+        "DOWNumber": 16090300,
+        "waterClarity": [
+            [
+                "09/04/1973",
+                "9"
+            ]
+        ],
+        "averageWaterClarity": "9.0",
+        "littoralAcres": 0.0,
+        "areaAcres": 7.84,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 36.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "4311014652362000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 451.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Open-water angling",
+                        "averageWeight": "0.99",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3519.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.78",
+                        "totalCatch": 10
+                    }
+                ],
+                "narrative": "<p>With just a single gill net set used, in a lake with no history of gill netting, little can be said about brook trout abundance in Weasel Lake in 2010.    There had been some survival of brook trout fingerlings stocked in 2009 and 2008.  Growth of two-year-old brook trout had been relatively fast; those fish averaged 10.9 inches in length at the end of their third year, compared to an area average of 9.4 inches.  Good growth observed in 2010 met one of the long range goals for the lake - that brook trout growth not be too far below the area average (slow growth had been a problem in this lake).  Two-year-old fish accounted for over half of the spring catch in 2010.  That probably met the age-distribution goal from the 2006 lake management plan (at least a third of the catch should consist of fish at least two years of age).  No fish older than two years were taken, but that was not unusual for this lake, which has been known mainly for producing relatively high numbers of small brook trout.  <br> \n</p>",
+                "headerInfo": [
+                    "Unnamed",
+                    null,
+                    "16090300",
+                    "2010-05-11",
+                    "4311014652362000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2010-05-11",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                4
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 14
+                    }
+                }
+            },
+            {
+                "surveyID": "110168",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 8.5,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.53",
+                        "totalCatch": 16
+                    }
+                ],
+                "narrative": "<p>GROWTH AND SURVIVAL OF BKT STOCKED IN 1989 AND 1988 WERE FAIR; HOWEVER, IT APPEARS THAT FEW FISH ARE SURVIVING BEYOND AGE II.</p>",
+                "headerInfo": [
+                    "Unnamed",
+                    null,
+                    "16090300",
+                    "1990-10-04",
+                    "110168",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1990-10-04",
+                "lengths": {}
+            },
+            {
+                "surveyID": "110739",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.30",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2537.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.43",
+                        "totalCatch": 13
+                    }
+                ],
+                "narrative": "<p>This assessment used 1/4-in-mesh trap nets to collect brook trout for a population estimate.  The brook trout catch in 1996 was lower than the catch observed in 1993, when the same gear was used.  The estimated size of the brook trout population was 106 fish age 1 or older (possible range 56 to 223 fish).  Survival of brook trout beyond age 2 appeared to have been low.  Growth of brook trout was also relatively slow, resulting in few large fish being produced. </p>",
+                "headerInfo": [
+                    "Unnamed",
+                    null,
+                    "16090300",
+                    "1996-09-23",
+                    "110739",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1996-09-23",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                5
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 12
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

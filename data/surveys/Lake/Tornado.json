@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737663535,
+    "result": {
+        "lakeName": "Tornado",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.26,
+        "DOWNumber": 38044900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 23.68,
+        "areaAcres": 23.68,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 7.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "BWCAW access via canoe routes; no motorized travel allowed.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112810",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "4.0-15.0",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "2.0-15.0",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "3.0-23.0",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Tornado Lake is a 25 acre, moderately soft-water lake in the Kawishiwi River Watershed. The lake lies in the roadless area and airspace reservation zone (Boundary Waters Canoe Area) of the Superior National Forest and is completely surrounded by federal land. The maximum depth of Tornado Lake is 7 feet; the median depth is about 6 feet. The lake is completely surrounded by forest land with some marshes, and is accessible by temporary restricted logging roads, which come within 500 feet of the shore. There are four inlets to the lake and one outlet. Shoal water soils are mostly boulders and muck.     At the time of the survey, the water color was dark brown and moderate amounts of aquatic vegetation were present in depths to 5 feet. Northern Pike were the only species of gamefish taken in test netting. The Northern Pike appeared to be about average in abundance and generally small sized.     Spawning facilities area rated \"fair\" for Northern Pike and \"poor\" for other gamefish.     Tornado Lake has difficult accessibility (there is no trail to the lake) and appears to get little use by anglers. Two beaver lodges and fresh beaver cuttings were seen around the lake.</p>",
+                "headerInfo": [
+                    "Tornado",
+                    null,
+                    "38044900",
+                    "1964-09-04",
+                    "112810",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1964-09-04",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

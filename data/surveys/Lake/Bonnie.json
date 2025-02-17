@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737661885,
+    "result": {
+        "lakeName": "Bonnie",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.53,
+        "DOWNumber": 38039000,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 104.9,
+        "areaAcres": 104.9,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 11.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portage from Knife Lake or Spoon Lake.  BWCA-No motors allowed.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107996",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.60",
+                        "quartileCount": "2.0-6.3",
+                        "totalWeight": 72.6,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.59",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "1.40",
+                        "quartileCount": "2.2-14.6",
+                        "totalWeight": 1.1,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "6.20",
+                        "quartileCount": "3.6-14.1",
+                        "totalWeight": 51.4,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.66",
+                        "totalCatch": 31
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Good population of northern pike; however, most are small (2-4 lbs). Sucker population is high and yellow perch population is low.</p>",
+                "headerInfo": [
+                    "Bonnie",
+                    null,
+                    "38039000",
+                    "1972-08-09",
+                    "107996",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-08-09",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

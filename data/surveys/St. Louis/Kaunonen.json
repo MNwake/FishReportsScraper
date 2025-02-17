@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737669983,
+    "result": {
+        "lakeName": "Kaunonen",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.6,
+        "DOWNumber": 69025200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 13.6,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 23.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Outlet which runs adjacent to Co. Road 104.Right of way.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108126",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.50",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 8.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.21",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.23",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Consists of about average populations of Northern Pike and Sucker.</p>",
+                "headerInfo": [
+                    "Kaunonen",
+                    null,
+                    "69025200",
+                    "1978-09-01",
+                    "108126",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-09-01",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

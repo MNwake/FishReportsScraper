@@ -1,0 +1,149 @@
+{
+    "timestamp": 1737650795,
+    "result": {
+        "lakeName": "Kindle",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.02,
+        "DOWNumber": 16008100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 18.16,
+        "areaAcres": 18.16,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 3.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Game trail from USFS 1386 (Shoe Lake Rd.) to NE corner of lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111429",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 26.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "137.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2201.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 137
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 40.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "15.83",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 95
+                    }
+                ],
+                "narrative": "<p>Kindle Lake appeared to have no game fish, but had a dense population of very small white sucker.  All those collected were under 9 in.  Three minnow species were collected: common shiner, creek chub, and northern redbelly dace.</p>",
+                "headerInfo": [
+                    "Kindle",
+                    "Fire",
+                    "16008100",
+                    "2003-07-08",
+                    "111429",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "2003-07-08",
+                "lengths": {
+                    "CSH": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "CRC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                6
+                            ],
+                            [
+                                6,
+                                117
+                            ],
+                            [
+                                7,
+                                9
+                            ],
+                            [
+                                8,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 8
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

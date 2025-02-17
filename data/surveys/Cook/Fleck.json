@@ -1,0 +1,97 @@
+{
+    "timestamp": 1737650480,
+    "result": {
+        "lakeName": "Fleck",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.42,
+        "DOWNumber": 16038500,
+        "waterClarity": [
+            [
+                "08/27/1976",
+                "5"
+            ]
+        ],
+        "averageWaterClarity": "5.0",
+        "littoralAcres": 38.38,
+        "areaAcres": 38.38,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 20 rod portage from Crescent Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109733",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "15.50",
+                        "quartileCount": "4.0-15.0",
+                        "totalWeight": 52.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.68",
+                        "totalCatch": 31
+                    },
+                    {
+                        "CPUE": "9.50",
+                        "quartileCount": "2.0-12.0",
+                        "totalWeight": 45.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.0-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.37",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "2.0-15.0",
+                        "totalWeight": 0.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "3.0-23.0",
+                        "totalWeight": 9.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.25",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Fleck Lake has a good population of Walleye and N Pike, with some Perch and Suckers present.</p>",
+                "headerInfo": [
+                    "Fleck",
+                    null,
+                    "16038500",
+                    "1976-08-16",
+                    "109733",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1976-08-16",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

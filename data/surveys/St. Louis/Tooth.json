@@ -1,0 +1,159 @@
+{
+    "timestamp": 1737671281,
+    "result": {
+        "lakeName": "Tooth",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.89,
+        "DOWNumber": 69075600,
+        "waterClarity": [
+            [
+                "07/21/2008",
+                "11"
+            ]
+        ],
+        "averageWaterClarity": "11.0",
+        "littoralAcres": 36.0,
+        "areaAcres": 58.87,
+        "meanDepthFeet": 12.0,
+        "maxDepthFeet": 43.0,
+        "officeCode": "F217",
+        "accesses": [
+            {
+                "location": " ",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": "Portage trail from Net Lake (690757)."
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "3030819253931000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "1.3-5.3",
+                        "totalWeight": 11440.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.6-3.1",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.80",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 50.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.01",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>Tooth is a small (58 acre) bog-stained lake located within Voyageurs National Park's Proposed Wilderness.  The lake is remote with only a lightly-worn trail connecting it with Net Lake.  To access Tooth, our survey crew boated to the southern end of Junction Bay of Namakan Lake and then portaged into Net Lake.  We then paddled across Net to the Tooth Lake trailhead.  We then portaged the 0.80 mile trail into Tooth.   In spite of its small size, Tooth has a maximum depth of 43 feet.  There are no developed campsites on Tooth Lake however, there are several suitable locations.\n\nThe 2008 northern pike gill-net abundance was 3.50 per net and well below the 1973 catch rate (8.50 per net).  The low abundance noted in 2008 was not unusual for lakes in the same classification as Tooth.  Most of the northern pike captured were small.  Lengths of captured fish ranged from 12.1 to 24.7 inches with an average length of 20.9 inches.  Sizes may have improved slightly since the 1973 investigation.  Northern pike in Tooth Lake grow very slowly (13th percentile of all pike lakes in the International Falls Management Area).  \n\nYellow perch were the only other species captured in Tooth Lake.  These perch were likely one year olds and were taken in minnow traps.  \n\nTooth is a beautiful lake and well worth the extensive travel required to get there.  The small northern pike present will likely provide sufficient catch rates to interest most anglers.</p>",
+                "headerInfo": [
+                    "Tooth",
+                    null,
+                    "69075600",
+                    "2008-07-21",
+                    "3030819253931000",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2008-07-21",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                2,
+                                10
+                            ],
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 4
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                3
+                            ],
+                            [
+                                21,
+                                4
+                            ],
+                            [
+                                22,
+                                2
+                            ],
+                            [
+                                23,
+                                1
+                            ],
+                            [
+                                24,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 24
+                    }
+                }
+            },
+            {
+                "surveyID": "111581",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "8.50",
+                        "quartileCount": "1.3-5.3",
+                        "totalWeight": 54.2,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.6-3.1",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.59",
+                        "totalCatch": 34
+                    }
+                ],
+                "narrative": "<p>(rolls of old chicken wire and wire from (stakes in the water.</p>",
+                "headerInfo": [
+                    "Tooth",
+                    null,
+                    "69075600",
+                    "1973-07-25",
+                    "111581",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-07-25",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737652149,
+    "result": {
+        "lakeName": "Zoo",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.59,
+        "DOWNumber": 16025900,
+        "waterClarity": [
+            [
+                "06/30/1976",
+                "6"
+            ]
+        ],
+        "averageWaterClarity": "6.0",
+        "littoralAcres": 80.0,
+        "areaAcres": 93.08,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 26.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "PRMIT",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109693",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "13.00",
+                        "quartileCount": "2.0-8.5",
+                        "totalWeight": 48.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.85",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "1.6-8.4",
+                        "totalWeight": 6.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.9-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "6.00",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Zoo Lake has a good population of small N Pike and a few Suckers.</p>",
+                "headerInfo": [
+                    "Zoo",
+                    null,
+                    "16025900",
+                    "1976-07-01",
+                    "109693",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1976-07-01",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

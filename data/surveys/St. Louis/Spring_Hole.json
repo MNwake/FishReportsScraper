@@ -1,0 +1,214 @@
+{
+    "timestamp": 1737671126,
+    "result": {
+        "lakeName": "Spring Hole",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.35,
+        "DOWNumber": 69137200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 1.2,
+        "areaAcres": 2.13,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 16.0,
+        "officeCode": "F213",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "107532",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1292.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.42",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "32.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 12743.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.88",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "18.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 13147.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.61",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 533.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.18",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Springhole Lake has been stocked with yearling brook trout annually from 1955 through 1968 and 1993 through 1995.  Mean length of sampled brook trout was 14.3 inches, with an age distribution of 7, 7 and 1 for ages I, II and III.  Of 17 aged brook trout, 7 were identified as naturally reproduced and 10 were identified as stocked.  The presence or absence of a distinct stocking check on the scale was the feature used to distinguish between natural and stocked fish.  Mean length of sampled northern pike was 14.8 inches with an age distribution of 28 and 3 for ages I and II.  The single sampled white sucker was 11.1 inches long.</p>",
+                "headerInfo": [
+                    "Spring Hole",
+                    null,
+                    "69137200",
+                    "1995-09-07",
+                    "107532",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1995-09-07",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                4
+                            ],
+                            [
+                                13,
+                                10
+                            ],
+                            [
+                                14,
+                                7
+                            ],
+                            [
+                                15,
+                                5
+                            ],
+                            [
+                                16,
+                                4
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                28,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 28
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                13,
+                                5
+                            ],
+                            [
+                                14,
+                                4
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 19
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 11
+                    }
+                }
+            },
+            {
+                "surveyID": "107534",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 5.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.04",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 1.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.50",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Abundance of northern pike in gillnets was between first and third quartile for lake class 14.  Only two age classes (II & III) were represented in the sample with growth rates typical for Duluth Area.  White sucker abundance was below first qaurtile value with only one individual sampled.</p>",
+                "headerInfo": [
+                    "Spring Hole",
+                    null,
+                    "69137200",
+                    "1991-06-19",
+                    "107534",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1991-06-19",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

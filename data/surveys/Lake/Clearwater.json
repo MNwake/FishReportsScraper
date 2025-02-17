@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737662038,
+    "result": {
+        "lakeName": "Clearwater",
+        "sampledPlants": [],
+        "shoreLengthMiles": 7.59,
+        "DOWNumber": 38063800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 173.0,
+        "areaAcres": 640.19,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 46.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Lake is within non-motorized zone of BWCA.  Three USFS portage trails include Turtle  Cambre  and Rock Island Lakes",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108038",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.88",
+                        "quartileCount": "1.8-5.5",
+                        "totalWeight": 108.5,
+                        "gearCount": 8.0,
+                        "quartileWeight": "1.9-3.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.50",
+                        "totalCatch": 31
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "1.7-14.1",
+                        "totalWeight": 0.45,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.88",
+                        "quartileCount": "9.5-43.0",
+                        "totalWeight": 14.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.3-1.4",
+                        "species": "LKW",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.00",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "4.25",
+                        "quartileCount": "2.3-8.7",
+                        "totalWeight": 46.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "1.5-2.2",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.35",
+                        "totalCatch": 34
+                    }
+                ],
+                "narrative": "<p>Composed of an above average population of northern pike, average populations of suckers and whitefish, and a below average population of perch.</p>",
+                "headerInfo": [
+                    "Clearwater",
+                    null,
+                    "38063800",
+                    "1977-07-21",
+                    "108038",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1977-07-21",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

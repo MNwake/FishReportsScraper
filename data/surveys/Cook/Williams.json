@@ -1,0 +1,137 @@
+{
+    "timestamp": 1737652108,
+    "result": {
+        "lakeName": "Williams",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.41,
+        "DOWNumber": 16036100,
+        "waterClarity": [
+            [
+                "07/05/1972",
+                "11"
+            ]
+        ],
+        "averageWaterClarity": "11.0",
+        "littoralAcres": 36.0,
+        "areaAcres": 36.25,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 19.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110001",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "22.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 69.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.58",
+                        "totalCatch": 44
+                    }
+                ],
+                "narrative": "<p>THIS LAKE IS FULL OF SMALL NORTHERN PIKE. THERE APPEARS TO BE LITTLE OR NO FORAGE AVAILABLE.</p>",
+                "headerInfo": [
+                    "Williams",
+                    null,
+                    "16036100",
+                    "1986-07-02",
+                    "110001",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-07-02",
+                "lengths": {}
+            },
+            {
+                "surveyID": "109718",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.25",
+                        "quartileCount": "0.4-2.4",
+                        "totalWeight": 16.1,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.9-2.8",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "3.22",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "10.67",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 61.3,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.92",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 0.3,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 7.3,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.65",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "3.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 26.9,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.07",
+                        "totalCatch": 13
+                    }
+                ],
+                "narrative": "<p>Williams Lake has a good population of N Pike, mostly small sizes, with a few Suckers and Perch for forage.</p>",
+                "headerInfo": [
+                    "Williams",
+                    null,
+                    "16036100",
+                    "1972-07-05",
+                    "109718",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-07-05",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,188 @@
+{
+    "timestamp": 1737647705,
+    "result": {
+        "lakeName": "Carnahan",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.99,
+        "DOWNumber": 11018800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 21.23,
+        "areaAcres": 31.49,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 25.0,
+        "officeCode": "F118",
+        "accesses": [
+            {
+                "location": "SE CORNER OF LAKE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "104673",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.56",
+                        "quartileCount": "0.5-1.5",
+                        "totalWeight": 108.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "13.00",
+                        "quartileCount": "4.5-11.3",
+                        "totalWeight": 13682.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.8",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.16",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.5-3.8",
+                        "totalWeight": 3170.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.6-2.8",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.49",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 16140.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.99",
+                        "totalCatch": 36
+                    },
+                    {
+                        "CPUE": "0.11",
+                        "quartileCount": "1.2-4.8",
+                        "totalWeight": 548.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.21",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Status of the Fishery  Carnahan Lake (11-188)Minnesota's lakes have been categorized into 44 different classifications based on a number of physical andchemical factors. Carnahan belongs to Lake Class 37. Other local lakes in this same class include Cedar (threemiles northwest of Walker), Jackpine (four miles west of Hackensack), and Mitten (nine miles southeast ofLongville).Carnahan has 23 acres and is located three miles west of Longville, Minnesota. Compared to other lakes in Class37, Carnahan has a high population of northern pike. Northern pike in this lake were small: all were less than21 inches long. Northerns grew slowly here. Black crappie and walleye were present but scarce in Carnahan. The only black crappie that was sampled was 12inches long, and the average size of the two walleyes sampled was 22 inches. No other game fish species werefound, and the only other fish sampled were several species of minnows.        </p>",
+                "headerInfo": [
+                    "Carnahan",
+                    null,
+                    "11018800",
+                    "1993-06-11",
+                    "104673",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1993-06-11",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                4
+                            ],
+                            [
+                                16,
+                                11
+                            ],
+                            [
+                                17,
+                                17
+                            ],
+                            [
+                                18,
+                                16
+                            ],
+                            [
+                                19,
+                                7
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 20
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 21,
+                        "maximum_length": 22
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 12
+                    }
+                }
+            }
+        ],
+        "countyName": "Cass"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

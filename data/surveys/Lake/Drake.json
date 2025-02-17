@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737662168,
+    "result": {
+        "lakeName": "Drake",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.23,
+        "DOWNumber": 38092300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.35,
+        "areaAcres": 2.34,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 32.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112305",
+                "fishCatchSummaries": [],
+                "narrative": "<p>None of the fall Brook Trout fingerling stocking of 1985 were sampled. Fish population unknown at this time. </p>",
+                "headerInfo": [
+                    "Drake",
+                    null,
+                    "38092300",
+                    "1986-06-12",
+                    "112305",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-06-12",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112367",
+                "fishCatchSummaries": [],
+                "narrative": "<p>No fish were taken in 1 gillnet in 1986 or 2 gillnets in 1987. Brook Trout stocked in 1985 apparently did not survive. Several minnows were observed near the shore, but they were not identified. </p>",
+                "headerInfo": [
+                    "Drake",
+                    null,
+                    "38092300",
+                    "1987-05-15",
+                    "112367",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1987-05-15",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

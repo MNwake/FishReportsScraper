@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737661840,
+    "result": {
+        "lakeName": "Besho",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.95,
+        "DOWNumber": 38004000,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 40.48,
+        "areaAcres": 40.48,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 4.5,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112212",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "1.1-12.8",
+                        "totalWeight": 0.2,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.3-1.9",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>White Sucker catch was well below area average. A variety of minnnow species were also sampled. </p>",
+                "headerInfo": [
+                    "Besho",
+                    null,
+                    "38004000",
+                    "1985-06-17",
+                    "112212",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1985-06-17",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

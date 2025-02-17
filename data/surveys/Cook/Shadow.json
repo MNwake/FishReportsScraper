@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737651577,
+    "result": {
+        "lakeName": "Shadow",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.58,
+        "DOWNumber": 16061100,
+        "waterClarity": [
+            [
+                "08/09/1979",
+                "9"
+            ]
+        ],
+        "averageWaterClarity": "9.0",
+        "littoralAcres": 0.0,
+        "areaAcres": 13.25,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 23.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "1/4 mile on unmarked portage from Maraboeuf Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109794",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.4,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>There were only small Suckers and Sunfish taken during this survey.</p>",
+                "headerInfo": [
+                    "Shadow",
+                    null,
+                    "16061100",
+                    "1979-08-09",
+                    "109794",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-08-09",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

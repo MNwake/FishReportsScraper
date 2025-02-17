@@ -1,0 +1,197 @@
+{
+    "timestamp": 1737668299,
+    "result": {
+        "lakeName": "Emily",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.92,
+        "DOWNumber": 62008000,
+        "waterClarity": [
+            [
+                "07/05/2006",
+                "3"
+            ]
+        ],
+        "averageWaterClarity": "3.0",
+        "littoralAcres": 0.0,
+        "areaAcres": 12.99,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 0.0,
+        "officeCode": "F313",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "410621655225000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "17.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 724.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "84.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2709.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 84
+                    },
+                    {
+                        "CPUE": "24.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4760.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 121
+                    },
+                    {
+                        "CPUE": "24.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5325.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 124
+                    },
+                    {
+                        "CPUE": "127.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 23859.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 639
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 23.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>There is no public access to Lake Emily.  This assessment sampled three species (black bullhead, black crappie, and bluegill).  Black bullhead and black crappie were abundant.  Black bullhead lengths ranged from 4.5 to 11.5 inches, with most fish between 5 and 6 inches.  The largest black crappie sampled was 12 inches, but most were less than 6 inches.  Bluegill were sampled in moderate numbers.  Average length was 5 inches and the largest bluegill sampled was 7 inches.</p>",
+                "headerInfo": [
+                    "Emily",
+                    null,
+                    "62008000",
+                    "2006-07-05",
+                    "410621655225000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2006-07-05",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                9
+                            ],
+                            [
+                                4,
+                                40
+                            ],
+                            [
+                                5,
+                                66
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 7
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                18
+                            ],
+                            [
+                                4,
+                                52
+                            ],
+                            [
+                                5,
+                                484
+                            ],
+                            [
+                                6,
+                                56
+                            ],
+                            [
+                                7,
+                                54
+                            ],
+                            [
+                                8,
+                                25
+                            ],
+                            [
+                                9,
+                                35
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 11
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                115
+                            ],
+                            [
+                                6,
+                                23
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 12
+                    }
+                }
+            }
+        ],
+        "countyName": "Ramsey"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

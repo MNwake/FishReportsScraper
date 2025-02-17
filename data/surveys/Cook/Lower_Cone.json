@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737650965,
+    "result": {
+        "lakeName": "Lower Cone",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.26,
+        "DOWNumber": 16039300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 58.0,
+        "areaAcres": 69.94,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 21.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110032",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "2.0-8.5",
+                        "totalWeight": 9.25,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.08",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "1.60",
+                        "quartileCount": "1.6-3.5",
+                        "totalWeight": 17.75,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.5-2.1",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.22",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.80",
+                        "quartileCount": "2.2-10.5",
+                        "totalWeight": 10.75,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.1-1.9",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.69",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.6-8.4",
+                        "totalWeight": 12.5,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.9-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.50",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>WALLEYE ARE PRESENT IN LOW NUMBERS, WITH FAIR AVERAGE SIZE. WALLEYE ABUNDANCE HAS APPARENTLY NOT CHANGED SIGNIFICANTLY SINCE 1971. SMALLMOUTH BASS ABUNDANCE AND AVERAGE SIZE ARE GOOD, AND HAVE BOTH IMPROVED SINCE 1971. FORAGE FOR GAMEFISH APPEARS TO BE LIMITED TO MINNOWS.</p>",
+                "headerInfo": [
+                    "Lower Cone",
+                    "South Cone",
+                    "16039300",
+                    "1987-07-28",
+                    "110032",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1987-07-28",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

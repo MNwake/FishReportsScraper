@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737670652,
+    "result": {
+        "lakeName": "Otter",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.36,
+        "DOWNumber": 69032600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 75.78,
+        "areaAcres": 75.78,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 17.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "USFS 25 YARD PORTAGE FROM CUMMINGS LAKE OR 18 MILES UP THE INDIAN SIOUX RIVER FROM THE ECHO TRAIL.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108245",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "2.0-6.3",
+                        "totalWeight": 37.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.06",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "4.33",
+                        "quartileCount": "0.3-2.0",
+                        "totalWeight": 2.8,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "7.67",
+                        "quartileCount": "0.5-5.8",
+                        "totalWeight": 39.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.6-1.6",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.70",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "7.33",
+                        "quartileCount": "3.6-14.1",
+                        "totalWeight": 48.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.18",
+                        "totalCatch": 22
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>Otter Lake contains above average populations of northern pike, smallmouth bass, bluegill sunfish, sucker, and rock bass. </p>",
+                "headerInfo": [
+                    "Otter",
+                    null,
+                    "69032600",
+                    "1983-08-08",
+                    "108245",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1983-08-08",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

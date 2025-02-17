@@ -1,0 +1,205 @@
+{
+    "timestamp": 1737673813,
+    "result": {
+        "lakeName": "Toner's",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.26,
+        "DOWNumber": 81005800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 129.77,
+        "areaAcres": 129.77,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 6.0,
+        "officeCode": "F417",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "118683",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "14.75",
+                        "quartileCount": "0.3-4.9",
+                        "totalWeight": 875.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.03",
+                        "totalCatch": 59
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.2-20.0",
+                        "totalWeight": 140.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "25.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 49.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 25
+                    },
+                    {
+                        "CPUE": "25.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 143.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 25
+                    },
+                    {
+                        "CPUE": "145.75",
+                        "quartileCount": "11.5-132.6",
+                        "totalWeight": 96037.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.36",
+                        "totalCatch": 583
+                    }
+                ],
+                "narrative": "<p>Tuners has little value as a sport fishery because of the high winter kill frequency.  Some excellent walleye fishing occurred in 1982 after fingerlings survived a couple of winters.  Tuners Lake is used by local bait dealers to harvest fathead minnows.  In recent years, bait production has been hampered by a persistent bullhead population.</p>",
+                "headerInfo": [
+                    "Toner's",
+                    null,
+                    "81005800",
+                    "1995-08-30",
+                    "118683",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1995-08-30",
+                "lengths": {
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                7
+                            ],
+                            [
+                                10,
+                                33
+                            ],
+                            [
+                                11,
+                                23
+                            ],
+                            [
+                                12,
+                                13
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                2,
+                                17
+                            ],
+                            [
+                                3,
+                                22
+                            ],
+                            [
+                                4,
+                                22
+                            ],
+                            [
+                                5,
+                                129
+                            ],
+                            [
+                                6,
+                                85
+                            ],
+                            [
+                                7,
+                                124
+                            ],
+                            [
+                                8,
+                                108
+                            ],
+                            [
+                                9,
+                                25
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 13
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 5
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                7
+                            ],
+                            [
+                                2,
+                                10
+                            ],
+                            [
+                                3,
+                                49
+                            ],
+                            [
+                                4,
+                                13
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 6
+                    }
+                }
+            }
+        ],
+        "countyName": "Waseca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

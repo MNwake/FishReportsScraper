@@ -1,0 +1,1170 @@
+{
+    "timestamp": 1737649578,
+    "result": {
+        "lakeName": "Island",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.62,
+        "DOWNumber": 15012700,
+        "waterClarity": [
+            [
+                "06/12/2006",
+                "10.8"
+            ]
+        ],
+        "averageWaterClarity": "10.8",
+        "littoralAcres": 26.5,
+        "areaAcres": 44.34,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 58.0,
+        "officeCode": "F112",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": "State owned in T.144;R.38;S.21 Northeast corner of lake.Approximatly two unit parking."
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "100841",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "201.17",
+                        "quartileCount": "0.5",
+                        "totalWeight": 50776.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 1207
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3064.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.35",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.4-1.3",
+                        "totalWeight": 1100.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.43",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "41.00",
+                        "quartileCount": "0.3",
+                        "totalWeight": 6688.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 123
+                    },
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "0.5-2.0",
+                        "totalWeight": 7734.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.44",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Island (Waputus) Lake is a 38 acre lake with a maximum depth of 58 feet.  It is located five miles west and three miles south of Zerkel.  The lake is entirely within the White Earth Indian Reservation and the County Memorial Forest.  Approximately three-fourths of the shoreline is under public ownership.  There is an earthen public access on the northeast corner of the lake off of the Height of Land Trail.  The Minnesota Department of      Natural Resources has classified Minnesota's lakes into 43 different lake classes based on physical and chemical characteristics.  Island Lake is in lake class 21. Typically lakes in this class are small in size, with soft water and regular shaped.  Occasionally a lake in this lake class will have      adequate temperatures and oxygen levels to support trout.  Island Lake has been managed as a stream trout lake since 1976 and is stocked annually with rainbow trout.When trout management was initiated, Island Lake was virtually void of other fish species.  This made it a prime candidate for trout management since there were no predators or species that would compete with trout for food.  The entire lake's productivity was available for stocked trout fingerlings to grow.  Some time between fisheries assessments in 1988 and 1996, both green sunfish and white sucker were introduced into Island      Lake.  It is not likely that anyone intentionally stocked either of these undesirable species into the lake.  These introductions probably occurred inadvertently by escapement from minnow buckets.  This is the reason that use of live bait (specifically minnows) is prohibited on designated stream trout lakes.  Both of these invasive species are now firmly established, and green sunfish abundance has vastly increased to the point where it is      now the dominant species.Rainbow trout abundance in 2001 was the lowest ever recorded.  Trout ranged in length from 11.5 to 16 inches with an average length of 15 inches.  It is uncertain if competition with other species is now affecting trout survival but it is almost certainly affecting rate of growth.</p>",
+                "headerInfo": [
+                    "Island",
+                    "Wapatus",
+                    "15012700",
+                    "2001-06-20",
+                    "100841",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2001-06-20",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 16
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                4
+                            ],
+                            [
+                                19,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 19
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                59
+                            ],
+                            [
+                                4,
+                                46
+                            ],
+                            [
+                                5,
+                                53
+                            ],
+                            [
+                                6,
+                                11
+                            ],
+                            [
+                                7,
+                                11
+                            ],
+                            [
+                                8,
+                                10
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 8
+                    }
+                }
+            },
+            {
+                "surveyID": "16652216051897000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "89.25",
+                        "quartileCount": "0.5",
+                        "totalWeight": 35412.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.2",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 714
+                    },
+                    {
+                        "CPUE": "4.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6373.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.08",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "23.50",
+                        "quartileCount": "0.3-2.7",
+                        "totalWeight": 10215.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 188
+                    },
+                    {
+                        "CPUE": "33.33",
+                        "quartileCount": "0.3",
+                        "totalWeight": 5341.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 100
+                    },
+                    {
+                        "CPUE": "14.33",
+                        "quartileCount": "0.5-3.0",
+                        "totalWeight": 1802.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 43
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 140.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.31",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Island Lake is a 44-acre lake with a maximum depth of 58 feet located 10 miles southwest of the village of Zerkel in Clearwater County. Rules specific to designated trout lakes can be found in the regulation book.The lake is located south of HWY 200 off of the Height of Land Forest Road.  There is a DNR public water access with an earthen ramp and parking for approximately 2 vehicles/trailers.  The access road is narrow and is not suitable for larger boats.  Winter access may be difficult and require a snowmobile or utility vehicle.  <br> \n <br> \nIsland is a designated stream trout lake managed for Rainbow Trout so a trout stamp is required for most anglers that want to fish on the lake. The lake is stocked with 2,000 catchable-size Rainbow Trout annually.Rules specific to designated trout lakes can be found in the regulation book. <br> \n <br> \nIsland Lake has been managed as a stream trout lake since the 1970s and has a history of producing quality trout fishing throughout much of that time.  In the early 2000s, Island Lake became overrun with Green Sunfish.  They were soon utilizing most of the forage resources in the lake and started to outcompete stocked Rainbow Trout.  As a result the lake's stocking strategies have been changed from \"put and grow\" where small trout are stocked and grow to acceptable sizes for anglers in the lake to \"put and take\" where catchable-size trout are stocked directly from the hatchery. <br> \n <br> \nEarly results of the new stocking strategy are promising, with catch rates for Rainbow Trout increasing from the previous survey.  Rainbow Trout had a good average size of over 14 inches, with fish up to 22 inches in length captured.  Reports of good trout fishing in both summer and winter on Island Lake have been received by the Bemidji Area Fisheries Office in recent years. <br> \n <br> \nAs stated previously Green Sunfish are very abundant in Island Lake.  Although a nuisance to trout management, they are readily caught, put up a good fight for their size and are similar to other sunfish species as far as table fare.  Green Sunfish over 8 inches in length were captured in this survey.     <br> \n</p>",
+                "headerInfo": [
+                    "Island",
+                    "Wapatus",
+                    "15012700",
+                    "2022-06-09",
+                    "16652216051897000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2022-06-09",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                4
+                            ],
+                            [
+                                14,
+                                5
+                            ],
+                            [
+                                22,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 22
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                16
+                            ],
+                            [
+                                6,
+                                25
+                            ],
+                            [
+                                7,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "CSH": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 8
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                43
+                            ],
+                            [
+                                5,
+                                29
+                            ],
+                            [
+                                6,
+                                21
+                            ],
+                            [
+                                7,
+                                5
+                            ],
+                            [
+                                8,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 8
+                    }
+                }
+            },
+            {
+                "surveyID": "370701851486000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "332.00",
+                        "quartileCount": "0.5",
+                        "totalWeight": 74297.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.2",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 2656
+                    },
+                    {
+                        "CPUE": "26.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 18128.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.51",
+                        "totalCatch": 79
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7722.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.40",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "42.00",
+                        "quartileCount": "0.3",
+                        "totalWeight": 2912.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 126
+                    },
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "0.5-2.0",
+                        "totalWeight": 7850.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.47",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Island Lake, also known as Wapatus Lake, is a 38-acre lake located in Clearwater County.  It is located five miles west and three miles south of Zerkel.  The lake is within the White Earth Indian Reservation and the County Memorial Forest.  Approximately ? of the shoreline is under public ownership.  There is an earthen public access on the northeast corner of the lake off of the Height of Land Trail.  Adequate temperature and oxygen levels exist through out the year to support trout.  Island Lake has been managed as a stream trout lake since 1976 and is stocked annually with rainbow trout.  In 2002, brown trout, available as surplus from the State Hatchery system, were also stocked.   <br> \n <br> \nThe best stream trout lakes are lakes where no other fish species exist.  When other species exist in the lake, they can be predators on trout or compete with trout for food.  In most instances trout lakes are chemically reclaimed to remove other species.  Island Lake had no other species present when trout management was initiated in 1976.  After 20 years of trout management green sunfish and white sucker were first sampled in the 1996 assessment.  It is uncertain how the species was introduced.  Since Island Lake is landlocked (no connection to other waters), the most likely scenario is that they were inadvertently stocked via minnow buckets.  This is why the use of live bait is prohibited on designated stream trout lakes.  Both of these species are now firmly established and green sunfish is now the most dominant species in Island Lake.   <br> \n <br> \nAt this point the presence of undesirable species has not had noticeable impact on trout management. Rainbow trout abundance in 2006 was the highest ever recorded.  Rainbow trout ranged in length from 9 - 12 inches with an average length of 10.8 inches. These trout are one year old, originating from the 2005 fall fingerling stocking.  Since fingerling trout are stocked annually, the lack of older rainbow trout indicates fairly high angling mortality.  <br> \n <br> \nFive brown trout were also sampled in 2006 that ranged in length from 19 - 20 inches.  Since brown trout have only been stocked once as yearlings in 2002, these fish have survived to age five.  Brown trout are notoriously more difficult to catch than rainbows.  Since they are able to persist and grow to older ages they provide a bonus quality component to the fishery.  Also of interest is that the stomach contents of those sampled held considerable numbers of green sunfish, possibly providing some predatory control on this unwanted species.  <br> \n</p>",
+                "headerInfo": [
+                    "Island",
+                    "Wapatus",
+                    "15012700",
+                    "2006-06-12",
+                    "370701851486000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2006-06-12",
+                "lengths": {
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                2,
+                                2
+                            ],
+                            [
+                                3,
+                                689
+                            ],
+                            [
+                                4,
+                                1688
+                            ],
+                            [
+                                5,
+                                268
+                            ],
+                            [
+                                6,
+                                29
+                            ],
+                            [
+                                7,
+                                87
+                            ],
+                            [
+                                8,
+                                19
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 8
+                    },
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 18,
+                        "maximum_length": 19
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 19
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                43
+                            ],
+                            [
+                                11,
+                                30
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                9,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 12
+                    }
+                }
+            },
+            {
+                "surveyID": "100267",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Only fish species present appear to be red belly dace and stickleback minnows.  Test netting in 1971 also indicated lack of fish species except minnows.</p>",
+                "headerInfo": [
+                    "Island",
+                    "Wapatus",
+                    "15012700",
+                    "1976-07-27",
+                    "100267",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1976-07-27",
+                "lengths": {}
+            },
+            {
+                "surveyID": "13411715651518000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "178.67",
+                        "quartileCount": "0.5",
+                        "totalWeight": 12466.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.03",
+                        "totalCatch": 1072
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 508.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.12",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "36.17",
+                        "quartileCount": "0.3-2.7",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 217
+                    },
+                    {
+                        "CPUE": "3.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 22490.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.96",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "21.67",
+                        "quartileCount": "0.3",
+                        "totalWeight": 2724.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 65
+                    },
+                    {
+                        "CPUE": "8.33",
+                        "quartileCount": "0.5-3.0",
+                        "totalWeight": 1066.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 25
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1001.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "HSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.74",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.5-2.0",
+                        "totalWeight": 1432.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.16",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Island Lake is a 44-acre lake with a maximum depth of 58 feet located 10 miles southwest of the town of Zerkel in Clearwater County.  The lake is located south of HWY 200 off of the Height of Land Forest Road.  There is a DNR public water access with an earthen ramp and parking for approximately 2 vehicles/trailers.  The access road is narrow and may not be suitable for larger boats.  Island Lake is managed for Rainbow Trout.  The lake has been stocked annually with Rainbow Trout fingerlings as well as yearlings and surplus broodstock from the Lanesboro State Fish Hatchery when available. <br> \n <br> \nThe Rainbow Trout population of Island Lake was in poor shape when surveyed in 2017.  The lake contains high numbers of unwanted Green Sunfish, which have outcompeted stocked Rainbow Trout fingerlings for food resources.  As a result the survival and growth of stocked fingerling trout had declined to the point that only one Rainbow Trout was captured in the 2017 survey.  <br> \n <br> \nIn response the 2017 survey results a stocking of surplus yearling Rainbow Trout occurred in late October 2017 and is currently providing good fishing in the winter of 2017-18.  A lake reclamation project is being considered for Island Lake but may not be feasible due to the lake's connectivity to several other waterbodies which complicates the project considerably.  Management plans are currently being revised and may include the annual stocking of yearling Rainbow Trout if these fish are available from the hatchery system.   <br> \n <br> \nBrown Trout, which were stocked prior to 2013, are still present in the lake and were captured in decent numbers in the 2017 survey (3.3 fish/gill net).  Brown Trout stocking was discontinued due to poor angler success and their potential interference with Rainbow Trout management through predation.  Brown Trout captured in the 2017 survey ranged from 18.11 inches to 26.69 inches in length with an average size of 22.53 inches and 4.96 lbs/fish.   <br> \n</p>",
+                "headerInfo": [
+                    "Island",
+                    "Wapatus",
+                    "15012700",
+                    "2017-06-07",
+                    "13411715651518000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2017-06-07",
+                "lengths": {
+                    "HSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 9
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                7
+                            ],
+                            [
+                                6,
+                                18
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 13,
+                        "maximum_length": 13
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 19,
+                        "maximum_length": 19
+                    },
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                22,
+                                3
+                            ],
+                            [
+                                23,
+                                1
+                            ],
+                            [
+                                26,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 18,
+                        "maximum_length": 26
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                183
+                            ],
+                            [
+                                4,
+                                300
+                            ],
+                            [
+                                5,
+                                246
+                            ],
+                            [
+                                6,
+                                138
+                            ],
+                            [
+                                7,
+                                185
+                            ],
+                            [
+                                8,
+                                84
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 8
+                    }
+                }
+            },
+            {
+                "surveyID": "100574",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "30.17",
+                        "quartileCount": "0.5",
+                        "totalWeight": 5240.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 181
+                    },
+                    {
+                        "CPUE": "11.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11587.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.75",
+                        "totalCatch": 34
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.4-1.3",
+                        "totalWeight": 618.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.36",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "0.3",
+                        "totalWeight": 66.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.83",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1907.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "0.5-2.0",
+                        "totalWeight": 4610.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.03",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 64.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "HHC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Island (Wapatus) Lake is in class 21 which is a group of very small, soft water lakes with regular shorelines.  Class 21 lakes have primary distribution through east-central Minnesota.  The Bemidji Fisheries Area does not actively manage any other lakes from that class.    Rainbow trout fingerlings are stocked each fall, and trout from each of the past four years were sampled.  Abundance has fluctuated over the survey history.  Trout size is dependent on the number of fish carrying over from previous stockings.  In 1996 trout ranged in size from 6.7 to 19.4 inches with an average of about 11 inches.  The largest trout weighed 2.6 pounds.       Green sunfish are abundant with an average length of 4.1 inches.  This species is generally not acceptable to anglers regardless of size.    White suckers have become well established but are not commonly caught by anglers.  Their recent increase in abundance should have little effect on the trout fishery.</p>",
+                "headerInfo": [
+                    "Island",
+                    "Wapatus",
+                    "15012700",
+                    "1996-06-20",
+                    "100574",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1996-06-20",
+                "lengths": {
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                2,
+                                3
+                            ],
+                            [
+                                3,
+                                35
+                            ],
+                            [
+                                4,
+                                64
+                            ],
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 5
+                    },
+                    "HHC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 7
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 18
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                11
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                5
+                            ],
+                            [
+                                9,
+                                14
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 19
+                    }
+                }
+            },
+            {
+                "surveyID": "5701215939142020",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "344.50",
+                        "quartileCount": "0.5",
+                        "totalWeight": 72414.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.2",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 2756
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 114.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6694.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.23",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.12",
+                        "quartileCount": "0.4-1.3",
+                        "totalWeight": 1531.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "3.38",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "75.67",
+                        "quartileCount": "0.3",
+                        "totalWeight": 9334.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 227
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.5-3.0",
+                        "totalWeight": 94.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "0.5-2.0",
+                        "totalWeight": 1547.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.71",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Island Lake is a 44 acre lake located five miles southwest of Zerkel in southern Clearwater County.  There is an undeveloped public water access located off of the Height of Land Forest Road.  Island Lake has been managed as a stream trout lake since 1976.  The lake is stocked annually with rainbow and brown trout fingerlings as well as surplus hatchery broodstock of these species when available. <br> \n <br> \nIsland Lake contains a population of green sunfish that was first documented in 1996.  The abundance of this population has reached a level that is likely interfering with stream trout management in the lake through competition for aquatic invertebrates, which are primary forage items for trout, and rainbow trout in particular.  The 2006 population assessment catch rate for rainbow trout (26.33 fish/gill net) was the highest recorded for the lake, with good growth and survival evident from the assessment.  At that time the increase in green sunfish abundance did not raise concern for the trout fishery.  However, the 2012 assessment documented a dramatic decline in rainbow trout catch rates to 0.33 fish/gill net.  The few trout that were captured had not exhibited growth since being stocked the previous fall, and no carryover of fish from previous stockings was documented.  Conversely, brown trout are utilizing green sunfish as prey and are exhibiting good survival and growth under these conditions.  The 2012 brown trout catch rate of 4.0 fish/gill net was the highest recorded for the lake since brown trout were stocked for the first time in 2002.  Brown trout ranged in length up to 17.4 inches, with the majority of the catch in the 13-inch to 16-inch length range. <br> \n</p>",
+                "headerInfo": [
+                    "Island",
+                    "Wapatus",
+                    "15012700",
+                    "2012-06-11",
+                    "5701215939142020",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2012-06-11",
+                "lengths": {
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                2,
+                                88
+                            ],
+                            [
+                                3,
+                                904
+                            ],
+                            [
+                                4,
+                                1092
+                            ],
+                            [
+                                5,
+                                435
+                            ],
+                            [
+                                6,
+                                174
+                            ],
+                            [
+                                7,
+                                147
+                            ],
+                            [
+                                8,
+                                143
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 8
+                    },
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 17
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 20
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 8
+                    }
+                }
+            }
+        ],
+        "countyName": "Clearwater"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

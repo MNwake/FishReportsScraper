@@ -1,0 +1,553 @@
+{
+    "timestamp": 1737644585,
+    "result": {
+        "lakeName": "Loch Ness",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.75,
+        "DOWNumber": 2058500,
+        "waterClarity": [
+            [
+                "06/01/2010",
+                "8"
+            ]
+        ],
+        "averageWaterClarity": "8.0",
+        "littoralAcres": 13.05,
+        "areaAcres": 9.52,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F313",
+        "accesses": [
+            {
+                "location": "NO BOAT RAMP.  Field crew launched boat off of the SW shore.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "441033550754000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "0.4-3.8",
+                        "totalWeight": 472.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 22
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.8-9.3",
+                        "totalWeight": 10.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.02",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.2-2.2",
+                        "totalWeight": 1250.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.0-2.0",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.76",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "38.25",
+                        "quartileCount": "2.8-43.3",
+                        "totalWeight": 4018.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 153
+                    },
+                    {
+                        "CPUE": "0.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 80.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "HSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "2.75",
+                        "quartileCount": "1.3-27.7",
+                        "totalWeight": 789.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "2.5-70.2",
+                        "totalWeight": 352.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.5",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>Loch Ness is an 11-acre FiN pond located in Blaine at the intersection of Lexington and 111th Avenues.  The City of Blaine manages Loch Ness Park, which provides picnic tables and shelters, grills, playground, and a fishing pier.  The sport fish community consists of black crappie, bluegill, green sunfish, hybrid sunfish, and pumpkinseed sunfish.  Winterkill occurs periodically, thus limiting intensive predator management.  Black crappies, bluegills, and northern pike, a species that is tolerant of low dissolved oxygen, are stocked on a regular basis.      <br> \n <br> \nAlthough we did not sample largemouth bass or northern pike in our trap nets, they are present based on field observations during the two day survey.  Northern pike have been stocked three out of the last ten years and one adult largemouth bass was stocked in 2000.   <br> \n <br> \nPanfish are present in varying numbers.  Bluegill catches (38.3/trap net) are up from the previous survey in 2005 (4.6/trap net).  Only one fish exceeded 6.0 inches.  Sampled crappies (N=11) averaged 6.1 inches with the largest fish measuring 11.4 inches.  Green sunfish (N=22), hybrid sunfish (N=3) and pumpkinseeds (N=1) did not exceed 5.0 inches and were sampled in relatively low numbers.     <br> \n <br> \nBlack bullhead numbers have varied, ranging from 3.0/trap net in 2010 to 91.6/trap net in 1998.  No bullheads exceeded 6.0 inches during 2010 survey.    <br> \n</p>",
+                "headerInfo": [
+                    "Loch Ness",
+                    null,
+                    "02058500",
+                    "2010-06-01",
+                    "441033550754000",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "2010-06-01",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                5
+                            ],
+                            [
+                                4,
+                                144
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 6
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                16
+                            ],
+                            [
+                                4,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 4
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                6
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 11
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 18,
+                        "maximum_length": 18
+                    },
+                    "HSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 4
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                10
+                            ],
+                            [
+                                5,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 3
+                    }
+                }
+            },
+            {
+                "surveyID": "13501510329196028",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.4-3.8",
+                        "totalWeight": 312.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "22.00",
+                        "quartileCount": "1.5-9.0",
+                        "totalWeight": 5556.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.8-3.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.56",
+                        "totalCatch": 22
+                    },
+                    {
+                        "CPUE": "15.00",
+                        "quartileCount": "8.0-90.0",
+                        "totalWeight": 884.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "2.40",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2028.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "HSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.37",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "19.40",
+                        "quartileCount": "2.8-43.3",
+                        "totalWeight": 17242.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.39",
+                        "totalCatch": 97
+                    },
+                    {
+                        "CPUE": "6.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4750.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.34",
+                        "totalCatch": 31
+                    },
+                    {
+                        "CPUE": "6.60",
+                        "quartileCount": "2.5-70.2",
+                        "totalWeight": 3751.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.5",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 33
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.8-13.0",
+                        "totalWeight": 83.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 120.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "HSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.8-9.3",
+                        "totalWeight": 525.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.23",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.4-3.9",
+                        "totalWeight": 9.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.02",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Loch Ness Lake is a 14 acre FiN pond located in Loch Ness Park, City of Blaine at the intersection of Lexington and 111th Avenues and has been intensively managed since 1976. The City of Blaine manages Loch Ness Park, which provides picnic tables and shelters, grills, playground, and a fishing pier.   <br> \nThe sport fish community consists of Northern Pike, Bluegill, Green, Pumpkinseed and Hybrid sunfish.  Winterkill occurs periodically, thus limiting intensive predator management.  Bluegill Sunfish and Northern Pike, a species that is tolerant of low dissolved oxygen, have been stocked on a semi regular basis.  Northern Pike have been stocked as recently as 2014.  Although we did not sample Largemouth Bass in our trap or gill nets, they are present based on field observations during the two day survey.  Panfish are present in varying numbers.  2015 Bluegill catches (19.4/trap net) are down from the previous survey in 2010 (38.25/trap net). Green Sunfish (N=6), Hybrid Sunfish (N=13) and Pumpkinseeds (N=5) were sampled in relatively low numbers.  Black Bullhead (N=36, 2015) numbers have varied, ranging from a low of 3.0/trap net in 2010 to high of 91.6/trap net in 1998. Black Bullhead mean length did not exceed 6.0 inches during this survey.    <br> \n</p>",
+                "headerInfo": [
+                    "Loch Ness",
+                    null,
+                    "02058500",
+                    "2015-06-01",
+                    "13501510329196028",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2015-06-01",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                17
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                12,
+                                11
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                5
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                24,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                9,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 24
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                10
+                            ],
+                            [
+                                7,
+                                71
+                            ],
+                            [
+                                8,
+                                13
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 8
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                0,
+                                13
+                            ],
+                            [
+                                4,
+                                8
+                            ],
+                            [
+                                5,
+                                11
+                            ],
+                            [
+                                6,
+                                6
+                            ],
+                            [
+                                7,
+                                8
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 9
+                    },
+                    "HSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                7
+                            ],
+                            [
+                                7,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 7
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 4
+                    }
+                }
+            }
+        ],
+        "countyName": "Anoka"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

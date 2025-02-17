@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737661735,
+    "result": {
+        "lakeName": "Arkose",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.85,
+        "DOWNumber": 38038200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 7.0,
+        "areaAcres": 19.07,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 37.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "In BWCA  Non-motor route.  No portage trails provided.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107993",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "0.3-2.5",
+                        "totalWeight": 0.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "1.0-8.0",
+                        "totalWeight": 0.8,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.80",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "11.00",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 21.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.95",
+                        "totalCatch": 22
+                    }
+                ],
+                "narrative": "<p>(East Three L.) and their guests would travel to Missionary on these trails to fish lake trout.  These trails are completely grwn over. Composed of an above-average population of white sucker and low populations of perch and green sunfish.</p>",
+                "headerInfo": [
+                    "Arkose",
+                    null,
+                    "38038200",
+                    "1979-08-15",
+                    "107993",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-08-15",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

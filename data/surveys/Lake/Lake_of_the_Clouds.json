@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737662763,
+    "result": {
+        "lakeName": "Lake of the Clouds",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.47,
+        "DOWNumber": 38016900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 14.0,
+        "areaAcres": 28.56,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 110.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portage from Ely on USFS land through BWCA.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107948",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "0.2-0.9",
+                        "totalWeight": 0.6,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "4.33",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 11.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.88",
+                        "totalCatch": 13
+                    }
+                ],
+                "narrative": "<p>Consists of White Suckers and Green Sunfish.  Suckers are present in above average numbers and weights. No game fish are present.</p>",
+                "headerInfo": [
+                    "Lake of the Clouds",
+                    null,
+                    "38016900",
+                    "1973-07-11",
+                    "107948",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-07-11",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

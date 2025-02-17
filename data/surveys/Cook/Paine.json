@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737651269,
+    "result": {
+        "lakeName": "Paine",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.89,
+        "DOWNumber": 16005700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 16.48,
+        "areaAcres": 16.48,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 2.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "1/8 mile portage from logging road East from Forest Route 307.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109597",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.1,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "27.00",
+                        "quartileCount": "3.0-23.0",
+                        "totalWeight": 0.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 27
+                    }
+                ],
+                "narrative": "<p>Paine Lake has a large population of small Suckers and a fair population of Minnows.  The Suckers may migrate up from outlet creek during spring high water flows.</p>",
+                "headerInfo": [
+                    "Paine",
+                    null,
+                    "16005700",
+                    "1979-07-09",
+                    "109597",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-07-09",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

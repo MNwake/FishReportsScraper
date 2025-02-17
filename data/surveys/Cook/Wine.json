@@ -1,0 +1,153 @@
+{
+    "timestamp": 1737652122,
+    "result": {
+        "lakeName": "Wine",
+        "sampledPlants": [],
+        "shoreLengthMiles": 9.56,
+        "DOWNumber": 16068600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 153.0,
+        "areaAcres": 268.11,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 65.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "Entirely within the BWCAW. Canoe access via portage trail from Frederick L. on the southeast end; Mug L. on the northwest end.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112516",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 49.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.5-4.0",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.08",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>Prior to 1977 the only fish present in Wine Lake were three species of minnows. The initial introduction of Lake Trout in 1977 has been a complete success. All the female trout taken during the assessment operation were carrying well developed eggs. Natural reproduction should have taken place in the fall of 1981. No future stocking of this lake is planned at the present time. Netting checks will be made in about 5 years to determine the success of natural reproduction in this lake.</p>",
+                "headerInfo": [
+                    "Wine",
+                    null,
+                    "16068600",
+                    "1981-06-17",
+                    "112516",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1981-06-17",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112291",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.00",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 0.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.5-4.0",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "N/A",
+                        "totalCatch": 0
+                    }
+                ],
+                "narrative": "<p>Winter oxygen tests must be run before any management recommendations can be made. If winter oxygen is not a problem the lake will be managed for Lake Trout.</p>",
+                "headerInfo": [
+                    "Wine",
+                    null,
+                    "16068600",
+                    "1975-07-28",
+                    "112291",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1975-07-28",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112515",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.83",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 33230.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.5-4.0",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "6.66",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Test nets in 1993 found higher numbers and larger average size Lake Trout in Wine Lake than in similar types of Lake Trout lakes. Lake Trout ranged from 19\" to 31.2\" (3.8 lbs to 9.7 lbs) with an average size of 6.7 lbs. A large part of the successful fishing occurs during the winter trout season, which requires a snowshoe or ski trek of approximately 7 miles into the BWCAW.</p>",
+                "headerInfo": [
+                    "Wine",
+                    null,
+                    "16068600",
+                    "1993-08-02",
+                    "112515",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1993-08-02",
+                "lengths": {
+                    "LAT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                22,
+                                4
+                            ],
+                            [
+                                23,
+                                1
+                            ],
+                            [
+                                24,
+                                1
+                            ],
+                            [
+                                27,
+                                2
+                            ],
+                            [
+                                28,
+                                1
+                            ],
+                            [
+                                31,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 19,
+                        "maximum_length": 31
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

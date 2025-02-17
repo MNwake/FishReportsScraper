@@ -1,0 +1,201 @@
+{
+    "timestamp": 1737662240,
+    "result": {
+        "lakeName": "Eskwagama",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.01,
+        "DOWNumber": 38070700,
+        "waterClarity": [
+            [
+                "07/20/2015",
+                "5"
+            ]
+        ],
+        "averageWaterClarity": "5.0",
+        "littoralAcres": 88.09,
+        "areaAcres": 88.09,
+        "meanDepthFeet": 5.0,
+        "maxDepthFeet": 12.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "North end of portage is flooded due to beaver dam. Flooded area was deep enough to paddle through to reach lake during survey.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "12641535248432000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "3.0-9.0",
+                        "totalWeight": 7739.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.42",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.7-5.0",
+                        "totalWeight": 695.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.53",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 1092.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 6573.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.90",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Eskwagama Lake is located approximately 6 miles SE of Ely in the BWCAW. This relatively shallow lake is surrounded by a hilly terrain with a mixed forest of aspen, birch and assorted conifers. Water levels were high in 2015 because of a beaver dam at the outlet. <br> \n <br> \nThere are portages from either the South Kawishiwi River (85 rods) or Clear Lake (100 rods) for public access. In 2015, the portage from the river was flooded at approximately the 30 rod mark and the survey crew paddled the remaining distance to access the lake. There is a spacious USFS campsite located on the E side of the lake. <br> \n <br> \nNorthern pike numbers in 2015 (4.0/gill net) were slightly below average compared to other area lakes that are similar. The average pike sampled was 17.2 inches and the largest pike was 28.5 inches long. <br> \n <br> \nYellow perch abundance in 2015 (6.0/gill net) was also slightly below average compared to other similar area lakes. The average perch sampled was 6.5 inches and the largest perch was 9.5 inches long. <br> \n <br> \nFive white sucker and one black crappie were also sampled in 2015. The crappie was 13.9 inches long and estimated to be at least 10 years old. The only other survey of Eskwagama Lake was in 1964 when northern pike and white sucker were sampled. Pike relative abundance was higher then (7.0/gill net), however the size structure was similar to 2015. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Eskwagama",
+                    null,
+                    "38070700",
+                    "2015-07-20",
+                    "12641535248432000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2015-07-20",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                28,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 28
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 19
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                8
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 9
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 13,
+                        "maximum_length": 13
+                    }
+                }
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

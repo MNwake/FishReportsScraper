@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737651714,
+    "result": {
+        "lakeName": "Stump",
+        "sampledPlants": [],
+        "shoreLengthMiles": 6.31,
+        "DOWNumber": 16003900,
+        "waterClarity": [
+            [
+                "08/21/1972",
+                "6"
+            ]
+        ],
+        "averageWaterClarity": "6.0",
+        "littoralAcres": 59.0,
+        "areaAcres": 254.2,
+        "meanDepthFeet": 24.0,
+        "maxDepthFeet": 54.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "The lake is accessible via a 0.5 mile portage from Pine Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109588",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.75",
+                        "quartileCount": "0.6-2.4",
+                        "totalWeight": 32.2,
+                        "gearCount": 4.0,
+                        "quartileWeight": "2.1-4.9",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.19",
+                        "totalCatch": 27
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 36.1,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.64",
+                        "totalCatch": 22
+                    }
+                ],
+                "narrative": "<p>There is a good population of small N Pike and Suckers.  No other fish were taken.</p>",
+                "headerInfo": [
+                    "Stump",
+                    null,
+                    "16003900",
+                    "1972-08-21",
+                    "109588",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-08-21",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

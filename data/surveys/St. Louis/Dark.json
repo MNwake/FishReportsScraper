@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737669374,
+    "result": {
+        "lakeName": "Dark",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.02,
+        "DOWNumber": 69020200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 33.66,
+        "areaAcres": 33.66,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 10.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "ACCESS GAINED BY USFS PORTAGES- 1/4 MI FROM IRON LAKE OR 1/4 MI FROM RUSH LAKE  OR BY LONG PORTAGES",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108261",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.67",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 13.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.57",
+                        "totalCatch": 23
+                    }
+                ],
+                "narrative": "<p>Dark Lake has an extremely simple species complex above average numbers of small white suckers and unidentified minnow species. </p>",
+                "headerInfo": [
+                    "Dark",
+                    null,
+                    "69020200",
+                    "1984-08-30",
+                    "108261",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1984-08-30",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,143 @@
+{
+    "timestamp": 1737663523,
+    "result": {
+        "lakeName": "Tommy",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.76,
+        "DOWNumber": 38042500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 10.27,
+        "areaAcres": 10.27,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "FROM KELLY LANDING TAKE USFS RD. #369 WEST 3/8MILES TO UNMARKED ROAD  THEN RIGHT ABOUT 2 MILES",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112369",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "23.00",
+                        "quartileCount": "3.0-23.0",
+                        "totalWeight": 6.4,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.28",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>The lake maintains a population of small Brook Trout with a gillnet catch 2/3 the area average. A native Brook Trout population has been in the lake for over 25 years. A very high population of White Sucker is in the lake. The gillnet catch of White Sucker is 1.5 times the area average with an average length of 8.7 inches. Also sampled was 10 species of minnnows. </p>",
+                "headerInfo": [
+                    "Tommy",
+                    null,
+                    "38042500",
+                    "1987-06-12",
+                    "112369",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1987-06-12",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112473",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "22.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 22
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.8,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "48.00",
+                        "quartileCount": "3.0-23.0",
+                        "totalWeight": 10.1,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 48
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Tommy Lake continues to support a small native Brook Trout population comprised primarily of less than desirable size fish. White Sucker are very abundant and the average size of seven sampled in previous assessments. Creek Chub were not sampled in gillnets in 1987, however; the 1991 catch indicated a sizable population is present. </p>",
+                "headerInfo": [
+                    "Tommy",
+                    null,
+                    "38042500",
+                    "1991-07-10",
+                    "112473",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1991-07-10",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

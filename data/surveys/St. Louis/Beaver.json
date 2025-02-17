@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737669042,
+    "result": {
+        "lakeName": "Beaver",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.31,
+        "DOWNumber": 69021600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 94.72,
+        "areaAcres": 94.72,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 4.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "3/8 MILE PORTAGE FROM BEARHEAD STATE PARK ROAD.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108266",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "16.00",
+                        "quartileCount": "3.0-9.0",
+                        "totalWeight": 47.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.47",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 0.6,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 7.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.50",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.5-1.6",
+                        "totalWeight": 2.4,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.1",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.40",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Larger numbers (16/gillnet set) of northern pike are present althought their size is small. Average population of yellow perch, white sucker, pumpkinseed, sunfish and largemouth bass are also present. </p>",
+                "headerInfo": [
+                    "Beaver",
+                    "Grassy",
+                    "69021600",
+                    "1984-07-25",
+                    "108266",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1984-07-25",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

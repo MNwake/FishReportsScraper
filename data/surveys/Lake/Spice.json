@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737663379,
+    "result": {
+        "lakeName": "Spice",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.12,
+        "DOWNumber": 38018900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 17.0,
+        "areaAcres": 24.79,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 27.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "15 rod portage from Ogishkemuncie Lake in BWCAW on paddle-only route.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107957",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "1.1-5.8",
+                        "totalWeight": 25.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-3.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.12",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "1.1-12.4",
+                        "totalWeight": 0.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "8.67",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 21.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.82",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.4,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Composed of an above average population of sucker, average populations of northern pike and pumpkinseed sunfish, and a low population of yellow perch.</p>",
+                "headerInfo": [
+                    "Spice",
+                    null,
+                    "38018900",
+                    "1980-08-17",
+                    "107957",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1980-08-17",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,95 @@
+{
+    "timestamp": 1737657262,
+    "result": {
+        "lakeName": "Allen",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.65,
+        "DOWNumber": 31048800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 57.22,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 25.0,
+        "officeCode": "F216",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "105475",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "7.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 31
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 63.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.23",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "36.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 16.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 147
+                    },
+                    {
+                        "CPUE": "3.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.8,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.32",
+                        "totalCatch": 15
+                    }
+                ],
+                "narrative": "<p>N. Pike and bluegill populations are at fairly high levels.  The abundance of other fishes is within normal limits for this type of lake.</p>",
+                "headerInfo": [
+                    "Allen",
+                    null,
+                    "31048800",
+                    "1982-07-07",
+                    "105475",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1982-07-07",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

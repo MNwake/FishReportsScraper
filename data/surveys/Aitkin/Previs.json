@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737644237,
+    "result": {
+        "lakeName": "Previs",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.74,
+        "DOWNumber": 1014100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 16.83,
+        "areaAcres": 16.83,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 14.0,
+        "officeCode": "F211",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "113226",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.6,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 22
+                    }
+                ],
+                "narrative": "<p>Only brown bullheads were found and most of them were small.</p>",
+                "headerInfo": [
+                    "Previs",
+                    null,
+                    "01014100",
+                    "1984-07-23",
+                    "113226",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1984-07-23",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Aitkin"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

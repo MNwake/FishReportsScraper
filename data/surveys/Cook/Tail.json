@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737651768,
+    "result": {
+        "lakeName": "Tail",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.7,
+        "DOWNumber": 16065500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 20.76,
+        "areaAcres": 20.76,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 3.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "On USFS Rd. 170 go 0.8 mile east of Toohey L. access; then 0.6 mile south on logging road; then northeast 180 yards on trail to the lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112639",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "NPS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "N/A",
+                        "totalCatch": 0
+                    }
+                ],
+                "narrative": "<p>No fish were sampled in 1 gillnet set. This very shallow lake likely supports only a minnow population. Two overnight minnow trap sets sampled 2 Northern Redbelly Dace. Also many minnows were observed in the shallows including male Fatheads in breeding condition.</p>",
+                "headerInfo": [
+                    "Tail",
+                    null,
+                    "16065500",
+                    "1992-06-11",
+                    "112639",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1992-06-11",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

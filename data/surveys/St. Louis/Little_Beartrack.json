@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737670091,
+    "result": {
+        "lakeName": "Little Beartrack",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.89,
+        "DOWNumber": 69038600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 42.8,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 0.0,
+        "officeCode": "F217",
+        "accesses": [
+            {
+                "location": "None designated-portage from Thumb.  This is a",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111828",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 23.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.61",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 9.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.80",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Composed of relatively low populations of N Pike and Sucker.</p>",
+                "headerInfo": [
+                    "Little Beartrack",
+                    "Contentment",
+                    "69038600",
+                    "1980-07-11",
+                    "111828",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1980-07-11",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

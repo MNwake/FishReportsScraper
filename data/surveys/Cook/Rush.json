@@ -1,0 +1,86 @@
+{
+    "timestamp": 1737542290,
+    "result": {
+        "lakeName": "Rush",
+        "sampledPlants": [],
+        "shoreLengthMiles": 8.65,
+        "DOWNumber": 16029900,
+        "waterClarity": [
+            [
+                "08/03/1982",
+                "10.5"
+            ]
+        ],
+        "averageWaterClarity": "10.5",
+        "littoralAcres": 137.0,
+        "areaAcres": 261.01,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 54.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "ENTIRE LAKE IS WITHIN BWCA and  ACCESSIBLE BY PORTAGE ONLY; 60 RODS FROM ONE ISLAND  10 FROM BANADAD",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110026",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.1-0.5",
+                        "totalWeight": 0.2,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.3-1.8",
+                        "species": "BUB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "7.17",
+                        "quartileCount": "1.2-3.9",
+                        "totalWeight": 93.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.16",
+                        "totalCatch": 43
+                    },
+                    {
+                        "CPUE": "5.67",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 54.9,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.61",
+                        "totalCatch": 34
+                    }
+                ],
+                "narrative": "<p>THIS LAKE HAS AN ABUNDANT NORTHERN PIKE POPULATION THAT SEEMS TO SHOW GROWTH UP TO A SIZE OF APPROXI- MATELY 21' THEN GROWTH SLOWS TO BELOW STATE AVER- AGES.</p>",
+                "headerInfo": [
+                    "Rush",
+                    null,
+                    "16029900",
+                    "1982-08-03",
+                    "110026",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1982-08-03",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

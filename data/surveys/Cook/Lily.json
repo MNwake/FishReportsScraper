@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737650863,
+    "result": {
+        "lakeName": "Lily",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.95,
+        "DOWNumber": 16040000,
+        "waterClarity": [
+            [
+                "07/24/1972",
+                "10.5"
+            ]
+        ],
+        "averageWaterClarity": "10.5",
+        "littoralAcres": 0.0,
+        "areaAcres": 18.81,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 51.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "A 0.1 mile portage from Brule Lake to the Southern tip of Lily Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109740",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "2.3-5.1",
+                        "totalWeight": 8.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.91",
+                        "totalCatch": 9
+                    }
+                ],
+                "narrative": "<p>A fair population of small N Pike is present. Yel Perch and Minnows were taken by seining only.</p>",
+                "headerInfo": [
+                    "Lily",
+                    null,
+                    "16040000",
+                    "1972-07-24",
+                    "109740",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-07-24",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

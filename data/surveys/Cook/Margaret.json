@@ -1,0 +1,525 @@
+{
+    "timestamp": 1737650998,
+    "result": {
+        "lakeName": "Margaret",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.48,
+        "DOWNumber": 16089600,
+        "waterClarity": [
+            [
+                "06/29/1970",
+                "9.5"
+            ],
+            [
+                "09/03/1992",
+                "11.5"
+            ],
+            [
+                "09/17/2013",
+                "12"
+            ],
+            [
+                "10/26/1989",
+                "10"
+            ],
+            [
+                "09/14/2015",
+                "12"
+            ]
+        ],
+        "averageWaterClarity": "11.0",
+        "littoralAcres": 3.5,
+        "areaAcres": 6.19,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 29.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2422.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.67",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 1479.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.27",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>Brook trout abundance appeared to have been about average, both for this lake historically, and compared to other stream trout lakes in the area.  All the brook trout collected were age-2 fish from the 1996 stocking, and had exhibited average growth for the area.  It would have been unusual to have seen any fish from the 1994 stocking, since brook trout rarely survive past age-3 in lakes in this area.  Brook trout collected in 1998 were all 11 to 13 inches in length.No rainbow trout were taken, despite their regular stocking since 1991.  Rainbow trout are difficult to collect in standard gill nets, so this single failure may not have much significance.White sucker were present, and the 1998 catch was similar to past catches in fall assessments in this lake.</p>",
+                "headerInfo": [
+                    "Margaret",
+                    null,
+                    "16089600",
+                    "1998-09-17",
+                    "111000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1998-09-17",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                6,
+                                8
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 14
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 13
+                    }
+                }
+            },
+            {
+                "surveyID": "110020",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.75,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.55",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 1.25,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.42",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>THIS LAKE HAS ALWAYS BEEN DIFFICULT TO ASSESS WITH GILLNETS BECAUSE OF STEEP SHORELINE DROP-OFFS. BROOK TROUT TAKEN ARE PROBABLY FROM THE 1984 STOCKING. IF SO, GROWTH IS SOMEWHAT SLOW. THE 1986 STOCKING WAS MADE AFTER THIS ASSESSMENT.</p>",
+                "headerInfo": [
+                    "Margaret",
+                    null,
+                    "16089600",
+                    "1986-09-08",
+                    "110020",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-09-08",
+                "lengths": {}
+            },
+            {
+                "surveyID": "110683",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.19,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5.19,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.37",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 1.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 8
+                    }
+                ],
+                "narrative": "<p>The brook trout catch was below the 1989 catch, but was above the historic average (0.5 to 3.0 fish/net) for Margaret Lake.  The growth rate in Margaret Lake brook trout was somewhat below average for lakes in this area.  The rainbow trout catch in this assessment was very low, but this species is notoriously difficult to sample in gill nets, and the fish stocked in 1991 may not have been fully recruited to the gear.</p>",
+                "headerInfo": [
+                    "Margaret",
+                    null,
+                    "16089600",
+                    "1992-09-03",
+                    "110683",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1992-09-03",
+                "lengths": {}
+            },
+            {
+                "surveyID": "4311326834500013",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2765.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.44",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "7.50",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 2223.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 15
+                    }
+                ],
+                "narrative": "<p>Brook trout were fairly abundant in Margaret Lake in the fall of 2013, and some larger fish were present.  Fish collected ranged in length from 6.9 to 15.6 inches.  Fingerling stockings done in 2012 and 2010 had contributed to the catch.  Growth of three-year-old fish had been close to average for the area; they reached a mean length of 12.3 inches by the end of their third year. <br> \n <br> \nThe white sucker gill net catch in 2013 was within the normal range for gill net catches in fall assessments of stream trout lakes in this area (2.0 - 11.5 fish/net).  White sucker compete with brook trout for invertebrate forage, but fairly good growth for brook trout collected in 2013 suggested that competition was not a limiting factor at current levels of white sucker abundance. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Margaret",
+                    null,
+                    "16089600",
+                    "2013-09-17",
+                    "4311326834500013",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2013-09-17",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                8,
+                                4
+                            ],
+                            [
+                                9,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 14
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                7,
+                                6
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "110118",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 18
+                    }
+                ],
+                "narrative": "<p>BROOK TROUT STOCKED IN 1988 SHOW GOOD SURVIVAL AND FAIR GROWTH. NO BROOK TROUT FROM THE 1986 STOCKING WERE SAMPLED. THIS IS THE FIRST ASSESS- MENT WHICH DID NOT SAMPLE WHITE SUCKER.</p>",
+                "headerInfo": [
+                    "Margaret",
+                    null,
+                    "16089600",
+                    "1989-10-26",
+                    "110118",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1989-10-26",
+                "lengths": {}
+            },
+            {
+                "surveyID": "12861525760197080",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 284.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 1032.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.46",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Margaret is a small, relatively remote Brook Trout lake located west of the Arrowhead Trail and just south of the eastern end of the Shoe Lake Road. This lake is stocked with fingerling Brook Trout via air-drop in the fall of even numbered years. Net catches of Brook Trout were low in September 2015, with only four fish sampled in two gill net sets. An otter was seen near one of the nets and may have removed fish from it, resulting in lower catches.  All Brook Trout captured in 2015 were from the fall 2014 fingerling stocking. Failure to capture larger older brook trout from the 2012  or 2010 stockings could mean those fish were harvested by anglers or were present and simply missed by the nets.  Stocking failures can be ruled out since both these year classes were sampled in the 2013 survey in fair numbers.  <br> \n <br> \nCatches of Brook Trout in past surveys on Margaret Lake have been variable. Most past surveys have caught some Brook Trout over 12 inches, with several sampling fish in the 14 to 15 inch range. <br> \n <br> \nThe White Sucker gill net catch in 2015 was within the normal range for gill net catches in fall assessments of stream trout lakes in this area (2.0 - 11.5 fish/net).  White Sucker compete with Brook Trout for invertebrate forage, but fairly good growth for Brook Trout collected in a previous survey (2013) suggested that competition was not a limiting factor at current levels of White Sucker abundance. <br> \n</p>",
+                "headerInfo": [
+                    "Margaret",
+                    null,
+                    "16089600",
+                    "2015-09-14",
+                    "12861525760197080",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2015-09-14",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                8,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 12
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                7,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 7
+                    }
+                }
+            },
+            {
+                "surveyID": "111461",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 613.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1275.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.94",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 895.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.66",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>The brook trout catch in 2004 was relatively low, both compared to other stream trout lakes in the area, and compared to past catches in this lake.  The rainbow trout catch was about average compared to other stream trout lakes in the area, and it was one of the better catches seen in this lake.  Margaret Lake supported a few trout larger than 12 inches.  White sucker abundance appeared to have been fairly low.Margaret Lake is a very small, relatively inaccessible stream trout lake that is probably lightly fished.  However, because it is so small, trout abundance and fishing success can decline quickly in response to harvests of fish by just a handfull of successful fishing parties.</p>",
+                "headerInfo": [
+                    "Margaret",
+                    null,
+                    "16089600",
+                    "2004-10-20",
+                    "111461",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2004-10-20",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                14,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 14
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 11
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 17
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

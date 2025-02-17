@@ -1,0 +1,154 @@
+{
+    "timestamp": 1737662202,
+    "result": {
+        "lakeName": "Eddy",
+        "sampledPlants": [],
+        "shoreLengthMiles": 4.53,
+        "DOWNumber": 38018700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 45.0,
+        "areaAcres": 121.53,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 95.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "LAKE IS ENTIRELY WITHIN THE BWCAW ON A NON-MOTORIZED ROUTE. PORTAGE ROUTES ARE FROM KNIFE LAKE AND KEK PONDS",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107956",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.6-2.4",
+                        "totalWeight": 49.5,
+                        "gearCount": 6.0,
+                        "quartileWeight": "2.1-4.9",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "8.25",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "20.67",
+                        "quartileCount": "1.6-15.5",
+                        "totalWeight": 125.25,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.0-2.1",
+                        "species": "LKW",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.01",
+                        "totalCatch": 124
+                    },
+                    {
+                        "CPUE": "2.83",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 3.5,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 17
+                    }
+                ],
+                "narrative": "<p>Whitefish are present in very high numbers. Suckers and northern pike are present in about average numbers.  No Lake Trout were taken in this assessment; however, they were taken in the 1972 survey.</p>",
+                "headerInfo": [
+                    "Eddy",
+                    null,
+                    "38018700",
+                    "1972-08-26",
+                    "107956",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1972-08-26",
+                "lengths": {}
+            },
+            {
+                "surveyID": "108206",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.75",
+                        "quartileCount": "0.6-2.4",
+                        "totalWeight": 94.5,
+                        "gearCount": 8.0,
+                        "quartileWeight": "2.1-4.9",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "6.75",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "0.12",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 0.1,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "17.00",
+                        "quartileCount": "1.6-15.5",
+                        "totalWeight": 100.3,
+                        "gearCount": 8.0,
+                        "quartileWeight": "1.0-2.1",
+                        "species": "LKW",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.74",
+                        "totalCatch": 136
+                    },
+                    {
+                        "CPUE": "2.25",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 15.4,
+                        "gearCount": 8.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.86",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "0.12",
+                        "quartileCount": "0.3-1.1",
+                        "totalWeight": 0.1,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.3-1.4",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Fish populations are dominated by large numbers of small whitefish and smaller, but substantial numbers of big northern pike and small white suckers. Yellow perch and largemouth bass also present. </p>",
+                "headerInfo": [
+                    "Eddy",
+                    null,
+                    "38018700",
+                    "1985-09-08",
+                    "108206",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1985-09-08",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

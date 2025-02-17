@@ -1,0 +1,253 @@
+{
+    "timestamp": 1737670904,
+    "result": {
+        "lakeName": "Saca",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.54,
+        "DOWNumber": 69029800,
+        "waterClarity": [
+            [
+                "07/08/2013",
+                "3"
+            ]
+        ],
+        "averageWaterClarity": "3.0",
+        "littoralAcres": 68.0,
+        "areaAcres": 76.86,
+        "meanDepthFeet": 7.0,
+        "maxDepthFeet": 18.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "6851332636388059",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 42.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "HSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "2.0-6.3",
+                        "totalWeight": 910.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.01",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "2.2-14.6",
+                        "totalWeight": 32.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "5.33",
+                        "quartileCount": "3.6-14.1",
+                        "totalWeight": 16824.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.32",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "0.3-1.9",
+                        "totalWeight": 4486.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.4-1.5",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.10",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 204.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Saca Lake is located approximately 12 miles NW of Ely and is entirely within the BWCAW. It has a surface area of 73 acres and a maximum depth of 18 feet. The water clarity is poor with brown, bog stained water. Dissolved oxygen is adequate to a depth of 12 feet. <br> \n <br> \nAccess is by portage from Crab Lake (95 rods) or Hassel Lake (80 rods). There is one designated USFS campsite located on the lake. <br> \n <br> \nLargemouth bass numbers in 2013 (3.0/gill net) were higher than average when compared to similar lakes in the area. The average largemouth sampled was 12.2 inches long and about 6 years old. The largest bass sampled was 15.9 inches long and 12 years old.  <br> \n <br> \nWhite sucker was the most abundant fish species. Other fish species sampled in 2013 included bluegill, hybrid sunfish, and yellow perch. These species were sampled in relatively low numbers. Only one 21.6\" northern pike was sampled. <br> \n</p>",
+                "headerInfo": [
+                    "Saca",
+                    null,
+                    "69029800",
+                    "2013-07-08",
+                    "6851332636388059",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2013-07-08",
+                "lengths": {
+                    "HSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 4
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                21,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 21,
+                        "maximum_length": 21
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                4
+                            ],
+                            [
+                                18,
+                                5
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 21
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 15
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

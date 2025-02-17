@@ -1,0 +1,166 @@
+{
+    "timestamp": 1737651514,
+    "result": {
+        "lakeName": "Ruby",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.97,
+        "DOWNumber": 16011800,
+        "waterClarity": [
+            [
+                "09/05/1979",
+                "7.5"
+            ],
+            [
+                "06/12/2014",
+                "4.4"
+            ]
+        ],
+        "averageWaterClarity": "6.0",
+        "littoralAcres": 14.56,
+        "areaAcres": 14.56,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 10.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109628",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 17.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.89",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "23.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 16.6,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.36",
+                        "totalCatch": 46
+                    }
+                ],
+                "narrative": "<p>N Pike are present in average numbers with a fair range of sizes.  Perch of all sizes appear abund. Bluegills & Grn Sunfish are present.  SM Bass are reported to be present but none were taken during this survey.</p>",
+                "headerInfo": [
+                    "Ruby",
+                    null,
+                    "16011800",
+                    "1979-09-05",
+                    "109628",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-09-05",
+                "lengths": {}
+            },
+            {
+                "surveyID": "4311421362567000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 8481.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.87",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 35.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Ruby Lake was added to the area's assessment schedule in 2014 to provide a training opportunity for newly hired staff, and because no survey information had been collected on the lake since 1979.  Ruby Lake lies outside the BWCAW, and is known to see some use by local residents and guests at nearby resorts. <br> \n <br> \nNorthern pike were fairly abundant in Ruby Lake in 2014, and a few larger fish were present.  The 2014 northern pike catch fell within the normal range for a lake of this type, and was similar to the catch observed in the 1979 survey.  Fish taken in 2014 ranged in length from 16.1 to 25.9 inches.  Although no scale samples were collected, and no fish were aged, it appeared from the sizes of fish taken that two or three year classes had contributed to the catch.  Northern pike of similar size were collected in 1979. <br> \n <br> \nThe yellow perch catch in two gill net sets in 2014 consisted of a single fish, compared to 43 taken in two gill net sets in 1979.  Despite the large difference in catches, low sampling effort in both years, and a complete lack of data from intervening years, makes it impossible to say with any certainty that the yellow perch population has declined in this lake.   <br> \n <br> \nIn addition to northern pike and yellow perch, sampling with 0.25-in-mesh minnow traps in 1979 also collected YOY bluegill and green sunfish.  Its possible that both species were still present in 2014, since neither may have been present at sizes vulnerable to the gill nets used in the 2014 assessment.  The 1979 survey crew reported anglers had caught smallmouth bass in Ruby Lake at around that time; however, none were collected in the 1979 survey or in this assessment. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Ruby",
+                    null,
+                    "16011800",
+                    "2014-06-12",
+                    "4311421362567000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2014-06-12",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                24,
+                                1
+                            ],
+                            [
+                                25,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 25
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

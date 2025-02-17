@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737663218,
+    "result": {
+        "lakeName": "Sagus",
+        "sampledPlants": [],
+        "shoreLengthMiles": 5.63,
+        "DOWNumber": 38022500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 107.0,
+        "areaAcres": 159.98,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 37.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portages from Fraser and Row Lake in BWCA on non-motor route.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107971",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.25",
+                        "quartileCount": "1.2-3.9",
+                        "totalWeight": 13.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.70",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "4.75",
+                        "quartileCount": "3.0-13.2",
+                        "totalWeight": 28.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.7-1.3",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.50",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.5-2.8",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 36.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.57",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "1.0-5.3",
+                        "totalWeight": 7.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.8",
+                        "species": "TLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.75",
+                        "totalCatch": 10
+                    }
+                ],
+                "narrative": "<p>Sagus Lake contains above average numbers of walleye and suckers.  Few walleyes from the younger age classes are present.  Cisco are present in about average numbers.  Northern pike and yellow perch are present.</p>",
+                "headerInfo": [
+                    "Sagus",
+                    null,
+                    "38022500",
+                    "1975-09-09",
+                    "107971",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1975-09-09",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

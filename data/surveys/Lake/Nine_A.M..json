@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737662991,
+    "result": {
+        "lakeName": "Nine A.M.",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.63,
+        "DOWNumber": 38044500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 15.14,
+        "areaAcres": 15.14,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 14.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "AT SAWBILL LANDING GO NORTH 2 MILES ON USFS RD.#174; WEST 1.6 MILES ON USFS RD. #374",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112476",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "29.33",
+                        "quartileCount": "1.0-5.9",
+                        "totalWeight": 23.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 88
+                    },
+                    {
+                        "CPUE": "23.00",
+                        "quartileCount": "2.0-16.0",
+                        "totalWeight": 11.9,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 46
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 4.4,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.20",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>The initial survey in 1963 showed Yellow Perch to be the most abundant species in Nine A.M. Lake and net catches in 1991 indicate that they still are. Both gillnet and trapnet catches declined by at least 50% in 1991, however; present densities are high for a lake in this classification. More large Yellow Perch are present in the lake than before as 25% of the sample was 9 inches or larger, none in 1963. White Sucker were not sampled in 1963, but low numbers were found in 1991. </p>",
+                "headerInfo": [
+                    "Nine A.M.",
+                    null,
+                    "38044500",
+                    "1991-08-07",
+                    "112476",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1991-08-07",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

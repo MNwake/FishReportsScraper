@@ -1,0 +1,141 @@
+{
+    "timestamp": 1737651134,
+    "result": {
+        "lakeName": "Morgan",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.08,
+        "DOWNumber": 16022000,
+        "waterClarity": [
+            [
+                "08/14/1984",
+                "13"
+            ],
+            [
+                "09/28/1992",
+                "10.5"
+            ]
+        ],
+        "averageWaterClarity": "11.8",
+        "littoralAcres": 40.0,
+        "areaAcres": 84.13,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 46.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109924",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "2.3-5.1",
+                        "totalWeight": 37.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.79",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 2.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.50",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>NORTHERN PIKE NUMBERS ARE FAIRLY HIGH, AND THERE IS A WIDE REPRESENTATION OF AGE CLASSES. GROWTH RATES ARE SLOW, WHICH IS SURPRISING IN LIGHT OF THE LARGE NUMBERS OF YY PERCH OBSERVED IN THE LAKE THESE PERCH MAY REPRESENT AN UNUSUALLY LARGE YEAR- CLASS, BUT IF THEIR PRESENCE IS CONTINUED THERE MAY BE SOME FUTURE IMPROVEMENT IN N PIKE GROWTH.</p>",
+                "headerInfo": [
+                    "Morgan",
+                    null,
+                    "16022000",
+                    "1984-08-14",
+                    "109924",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1984-08-14",
+                "lengths": {}
+            },
+            {
+                "surveyID": "110685",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.67",
+                        "quartileCount": "2.3-5.1",
+                        "totalWeight": 36.9,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.35",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3.3,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.30",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "5.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Survival of brook trout stocked since 1989 has been very poor, almost certainly due to predation by northern pike.  The 1986 reclamation either failed to acheive a compete kill, or the fish barrier constructed below Jake Lake failed to prevent the movement of northern pike (and other species) back into the system.Northern pike were relatively abundant, and had exhibited fast growth by area standards.  Brook trout fingerlings were a seasonal source of high quality forage, but yellow perch were also present and contributed to the forage base when trout were not available.</p>",
+                "headerInfo": [
+                    "Morgan",
+                    null,
+                    "16022000",
+                    "1992-09-28",
+                    "110685",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1992-09-28",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

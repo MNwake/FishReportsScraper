@@ -1,0 +1,97 @@
+{
+    "timestamp": 1737651207,
+    "result": {
+        "lakeName": "North Temperance",
+        "sampledPlants": [],
+        "shoreLengthMiles": 7.33,
+        "DOWNumber": 16045600,
+        "waterClarity": [
+            [
+                "09/05/1990",
+                "12"
+            ]
+        ],
+        "averageWaterClarity": "12.0",
+        "littoralAcres": 84.0,
+        "areaAcres": 185.16,
+        "meanDepthFeet": 17.0,
+        "maxDepthFeet": 50.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "PORTAGE TRAILS FORM SOUTH TEMPERANCE and  SITKA LAKE ENTIRE LAKE IS WITHIN THE BWCAW.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110155",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "0.6-2.4",
+                        "totalWeight": 70.81,
+                        "gearCount": 6.0,
+                        "quartileWeight": "2.1-4.9",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.93",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "1.2-5.2",
+                        "totalWeight": 39.06,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.0-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.17",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 0.03,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.03",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.83",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 7.88,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.58",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>INTRODUCTORY STOCKINGS SUCCEEDED IN ESTABLISHING FAIR NUMBERS OF WAE IN NORTH TEMPERANCE LAKE. SURVIVAL FROM THE 1985 AND 1986 STOCKINGS WAS POOR, BUT THE 1987 STOCKING HAD EXCELLENT SURVIVAL AND GROWTH; ALL FISH OF THAT YEAR CLASS WERE OVER 17 IN.  NO NATURAL REPRODUCTION WAS EVIDENT; HOWEVER, WAE WERE PROBABLY JUST REACHING SEXUAL MATURITY.  NOP ABUNDANCE AND SIZE WERE GOOD; 67% OF THE FISH COLLECTED WERE OVER 25 IN.  SEVERAL YEAR CLASSES WERE PRESENT, WITH 1984 THE STRONG- EST; HOWEVER, THERE WERE ALSO SEVERAL MISSING YEAR CLASSES.  NOP RECRUITMENT OR REPRODUCTION MAY BE SUBJECT TO FREQUENT FAILURES.  GROWTH WAS FAST BY COOK COUNTY STANDARDS.  FORAGE IN NORTH TEMPERANCE LAKE APPEARS TO BE LIMITED.  ONLY ONE YELLOW PERCH WAS COLLECTED.</p>",
+                "headerInfo": [
+                    "North Temperance",
+                    null,
+                    "16045600",
+                    "1990-09-04",
+                    "110155",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1990-09-04",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

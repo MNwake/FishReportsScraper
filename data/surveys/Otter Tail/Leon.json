@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737666398,
+    "result": {
+        "lakeName": "Leon",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.83,
+        "DOWNumber": 56048000,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 44.0,
+        "areaAcres": 78.76,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 35.0,
+        "officeCode": "F115",
+        "accesses": [
+            {
+                "location": "NO PUBLIC ACCESS",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "101900",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 13.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.86",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.25",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.2,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.2,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.2,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>     Testnetting catch data indicate that northern pike, bluegill, and yellow perch numbers are above both statewide and area medians. Northern pike fishing is good to excellent with small size being the major complaint. Bluegill fishing is excellent, but fish are also small in size. Black crappie fishing is seasonally excellent, with 0.5-2.0 lb. fish being caught. With no developed public access available to Leon Lake, it has limited fishing pressure. </p>",
+                "headerInfo": [
+                    "Leon",
+                    "Lion",
+                    "56048000",
+                    "1985-06-20",
+                    "101900",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1985-06-20",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Otter Tail"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

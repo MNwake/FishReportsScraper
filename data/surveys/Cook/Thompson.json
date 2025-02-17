@@ -1,0 +1,561 @@
+{
+    "timestamp": 1737651802,
+    "result": {
+        "lakeName": "Thompson",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.88,
+        "DOWNumber": 16016000,
+        "waterClarity": [
+            [
+                "09/28/2015",
+                "9.5"
+            ],
+            [
+                "06/18/1974",
+                "6.5"
+            ]
+        ],
+        "averageWaterClarity": "8.0",
+        "littoralAcres": 18.22,
+        "areaAcres": 18.22,
+        "meanDepthFeet": 7.6,
+        "maxDepthFeet": 12.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111424",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 450.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "1-in trap nets",
+                        "averageWeight": "0.99",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5250.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.45",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "1.88",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3203.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.47",
+                        "totalCatch": 15
+                    }
+                ],
+                "narrative": "<p>Rainbow trout were abundant, but small, with most of the catch consisting of fish that had been stocked as yearlings in the spring of 2003.  The brown trout catch was about average, compared to other brown trout lakes in this area, but brown trout taken were also small.  Most of the brown trout taken were survivors of a 2001 fingerling stocking, although a few fish from the 1999 stocking were also present.  Growth rates for brown trout and rainbow trout had been about average for this area.  A proposal has been made to manage Thompson lake as a catch-and-release only trout lake, where fishing could only done using artificial lures and flies, with a single hook.  The lake would be closed to winter fishing.  Public comments on this proposal will be taken through September 2004.</p>",
+                "headerInfo": [
+                    "Thompson",
+                    null,
+                    "16016000",
+                    "2003-09-29",
+                    "111424",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2003-09-29",
+                "lengths": {
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 19
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                9
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 14
+                    }
+                }
+            },
+            {
+                "surveyID": "110017",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.06,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.06",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "18.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.25,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 4.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.64",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>THERE APPEARS TO HAVE BEEN GOOD OVER-WINTER SURVIVAL OF 1985 STOCKED BROOK TROUT. THE SINGLE RAINBOW TROUT WAS PROBABLY MIS-AGED, AND IS MOST LIKELY FROM THE 1984 STOCKING OF FINGERLINGS. THERE ARE EXTREMELY HIGH NUMBERS OF SMALL SUCKERS PRESENT, AND LARGE NUMBERS OF GOLDEN SHINERS.</p>",
+                "headerInfo": [
+                    "Thompson",
+                    null,
+                    "16016000",
+                    "1986-05-27",
+                    "110017",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-05-27",
+                "lengths": {}
+            },
+            {
+                "surveyID": "110806",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6534.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.40",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 696.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.77",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Brown trout were relatively abundant, and fish as large as 22 inches were collected.  It appeared that brown trout survival was fairly good, despite the heavy fishing pressure on this lake.  Few rainbow trout were collected, and survival of stocked yearlings through their first season in the lake appeared to have been low.</p>",
+                "headerInfo": [
+                    "Thompson",
+                    null,
+                    "16016000",
+                    "1997-09-30",
+                    "110806",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1997-09-30",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 13
+                    },
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 13,
+                        "maximum_length": 22
+                    }
+                }
+            },
+            {
+                "surveyID": "220712143870016",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4955.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.18",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 617.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.68",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Since March 2005 Thompson Lake has been managed as a trophy trout lake, under a suite of special regulations.  It is closed to winter fishing.  During the open water season, it is open for catch-and-release fishing only, and anglers are limited to artificial lures and flies only, with a single hook. <br> \n <br> \nRainbow trout abundance was relatively low in Thompson Lake in the fall of 2007, and no large fish were taken.  Thompson Lake is stocked each spring with catchable-sized rainbow trout yearlings.  Apparently few of those fish survive until fall, despite the protection provided by current regulations on this lake.  Brown trout, on the other hand, were present in fair numbers in 2007, with some fish over 20 inches in length present.  Long-term survival of stocked brown trout had been good, with several six-year-old fish included in the 2007 catch. <br> \n</p>",
+                "headerInfo": [
+                    "Thompson",
+                    null,
+                    "16016000",
+                    "2007-10-01",
+                    "220712143870016",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2007-10-01",
+                "lengths": {
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 20
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 12
+                    }
+                }
+            },
+            {
+                "surveyID": "4311209655236006",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 8425.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "3.10",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "3.40",
+                        "quartileCount": "N/A",
+                        "totalWeight": 13246.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.86",
+                        "totalCatch": 34
+                    }
+                ],
+                "narrative": "<p>Thompson Lake is a designated stream trout lake, and has been managed for a variety of trout species since it was first stocked in 1953.  The lake was rehabilitated for stream trout management in 1988, and has since been stocked only with rainbow trout and brown trout.  Since 2005 Thompson Lake has been one of eight \"trophy trout\" lakes in the Grand Marais area.  As such, it is closed to winter fishing.  Only catch-and-release fishing is allowed during the open-water season, and only artificail lures and flies, with a single hook, may be used.  No bait is allowed. <br> \n <br> \nThe 2008 management plan for Thompson Lake established goals for the rainbow trout population consisting of a minimum trap net catch of 0.75 fish/set, with 50% of those fish exceeding 12 inches in length.  The goal for brown trout was a minimum trap net catch of 0.68 fish/set, with 40% of those fish exceeding 16 inches in length.  The 2012 assessment was the second of three scheduled in the 2008 plan to determine whether long range goals for the lake would be met with increased rainbow trout stocking and reduced brown trout stocking called for in that plan.  The first assessment (in 2009) was canceled due to a shortage of staff and funding.  The management plan will be reviewed and revised in March 2017, following completion of the final assessment scheduled for 2015. <br> \n <br> \nThe 2012 rainbow trout trap net catch, and the mean weight for rainbow trout taken in trap nets, were the highest seen in Thompson Lake since it was last reclaimed.  Catch and size goals for the species from the 2008 plan were met.  The trap net catch, and the mean weight for rainbow trout, exceeded normal ranges for fall assessments of stream trout lakes in this area (0.30-2.10 fish/set and 0.47-0.82 lb/fish, respectively).  Rainbow trout as old as three years were collected, although one- and two-year-old fish made up the bulk of the catch.  Growth had been about average; two-year-old fish reached an average length of 11.3 inches at the end of their second year, compared to an area average of 11.4 inches.  Survival through two full seasons seemed to have been relatively high, suggesting that mortality in the catch-and-release fishery was not excessive. <br> \n <br> \nThe brown trout catch in 2012 was within the normal range for a fall assessment in this area (0.20-1.25 fish/set), while the mean weight for brown trout taken in trap nets exceeded the normal range (1.05-2.87 lb/fish).  The catch fell just short of the goal for the species, but the size goal established in the 2008 plan was met.  Most of the brown trout taken were three-year-old fish from a 2009 fingerling stocking.  Growth had been relatively fast; three-year-old fish reached an average length of 15.3 inches at the end of their third year, compared to an area mean of 13.4 inches.   <br> \n <br> \nNo undesirable fish species were found in 2012.  Thompson lake is known to be infested with chinese mystery snails, and anglers and other visitors should carefully drain and clean their equipment before moving to another lake. <br> \n <br> \n <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Thompson",
+                    null,
+                    "16016000",
+                    "2012-10-01",
+                    "4311209655236006",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2012-10-01",
+                "lengths": {
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 20
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                10
+                            ],
+                            [
+                                12,
+                                14
+                            ],
+                            [
+                                13,
+                                6
+                            ],
+                            [
+                                14,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 14
+                    }
+                }
+            },
+            {
+                "surveyID": "12861527244454000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 12027.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.06",
+                        "totalCatch": 25
+                    }
+                ],
+                "narrative": "<p>Thompson Lake is a designated stream trout lake, and has been managed for trout since at least 1952.  Since March 2005 it has been managed as a trophy trout lake, under a suite of special regulations.  It is closed to winter fishing.  During the open water season, it is open for catch-and-release fishing only, and anglers are limited to artificial lures and flies only, with a single hook.\n\nThis was the third of what was to have been three standard surveys scheduled in the 2008 lake management plan to determine whether management goals could be met with the current stocking regime, and under the existing special regulation.  The first survey (2009) could not be completed, but the 2012 survey was done as planned.\n\nRainbow Trout were apparently abundant in Thompson Lake in the fall of 2015, and they were above-average in size.  Survey results from 2012 and 2015 clearly indicate Rainbow Trout catch and size goals have been met by the current stocking plan and the special regulation.  The 2015 Rainbow Trout catch was well above the goal of 0.75 fish/set, and most of the fish collected were over 12 inches in length.  Several fish had survived to three years of age, unusual in an accessible lake like Thompson, and most likely attributable to the special regulation.  Rainbow Trout growth had been about average for the area; fish reached a mean length of 11.9 inches by the end of their second year, compared to an area average of 11.6 inches. \n\nNo Brown Trout were taken in 2015; however, low catches have been common in this lake, and they may simply have been missed in this survey.  Brown Trout have been regularly stocked, and fish over 16 inches in length have been seen in most past surveys. \n\nNo undesirable fish species were found in 2015.  Thompson Lake is not connected to any other waters, so no natural routes exist for new species to enter the lake.  This lake is infested with Chinese Mystery Snail, so users should take special care to clean all equipment used in the lake before moving to other waters.\n</p>",
+                "headerInfo": [
+                    "Thompson",
+                    null,
+                    "16016000",
+                    "2015-09-28",
+                    "12861527244454000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2015-09-28",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                10
+                            ],
+                            [
+                                13,
+                                5
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                4
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 18
+                    }
+                }
+            },
+            {
+                "surveyID": "109867",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.28,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "0.4-2.4",
+                        "totalWeight": 4.6,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.9-2.8",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.29",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.03,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.03",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>ALL THE BROOK TROUT CAPTURED IN THIS ASSESSMENT CAME FROM THE FALL 1985 FINGERLING STOCKING. THE RAINBOW ARE PROBABLY FROM THE 1984 STOCKING. LARGE NUMBERS OF WHITE SUCKERS WERE PRESENT, AND THESE MAY BE A PROBLEM IN THIS LAKE. EXCELLENT FORAGE, IN THE FORM OF GOLDEN SHINERS, IS AVAILABLE.</p>",
+                "headerInfo": [
+                    "Thompson",
+                    null,
+                    "16016000",
+                    "1985-10-30",
+                    "109867",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1985-10-30",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

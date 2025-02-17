@@ -1,0 +1,610 @@
+{
+    "timestamp": 1737647032,
+    "result": {
+        "lakeName": "Forbay",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.95,
+        "DOWNumber": 9000200,
+        "waterClarity": [
+            [
+                "08/10/2022",
+                "3.75"
+            ]
+        ],
+        "averageWaterClarity": "3.8",
+        "littoralAcres": 27.0,
+        "areaAcres": 34.73,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 34.0,
+        "officeCode": "F213",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "3541214236761000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "74.21",
+                        "quartileCount": "N/A",
+                        "totalWeight": 20502.0,
+                        "gearCount": 0.633333333333333,
+                        "quartileWeight": "N/A",
+                        "species": "SMB",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.96",
+                        "totalCatch": 47
+                    }
+                ],
+                "narrative": "<p>Forbay is a 29-acre reservoir with 97% (28 acres) littoral area and a maximum depth of 16 feet. The reservoir is located just east of Thomson, MN and is within Jay Cooke State Park.  Prior to this survey, Forbay had never been surveyed by DNR Fisheries.  Forbay was to be surveyed during the summer of 2012 to gather baseline information about fish populations and aquatic habitat.  Unfortunately, during the historic flooding of June 20, 2012, a levee broke along the southern shoreline and completely drained the basin.  Prior to the flood, a daytime smallmouth bass electrofishing assessment was completed.  All other survey activities were subsequently cancelled.   <br> \n <br> \nA total of 47 smallmouth bass were sampled with electrofishing equipment.  The catch rate of smallmouth bass was 74.2 fish per hour of electrofishing on-time.  Smallmouth bass average length was 12.2 inches and growth was slow compared to other Duluth Area lakes.  All year-classes from 2004 through 2010 were represented in the sample, with strong 2007 and 2008 year-classes.   <br> \n <br> \nOther species observed included northern pike, bluegill, white sucker and shorthead redhorse.   <br> \n</p>",
+                "headerInfo": [
+                    "Forbay",
+                    null,
+                    "09000200",
+                    "2012-06-12",
+                    "3541214236761000",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2012-06-12",
+                "lengths": {
+                    "SMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                8
+                            ],
+                            [
+                                12,
+                                11
+                            ],
+                            [
+                                13,
+                                13
+                            ],
+                            [
+                                14,
+                                5
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "19072215257030002",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.4-18.6",
+                        "totalWeight": 52.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.9",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.5-2.1",
+                        "totalWeight": 199.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.44",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "0.3-2.0",
+                        "totalWeight": 685.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-0.8",
+                        "species": "YEB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "44.21",
+                        "quartileCount": "N/A",
+                        "totalWeight": 16605.0,
+                        "gearCount": 0.95,
+                        "quartileWeight": "N/A",
+                        "species": "SMB",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.87",
+                        "totalCatch": 42
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2160.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CCF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.38",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "0.5-1.8",
+                        "totalWeight": 508.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.3-0.4",
+                        "species": "RKB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "0.4-2.6",
+                        "totalWeight": 1295.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.6-1.0",
+                        "species": "YEB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.95",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.40",
+                        "quartileCount": "N/A",
+                        "totalWeight": 663.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.73",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "0.3-1.7",
+                        "totalWeight": 3210.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-2.2",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.18",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "2.20",
+                        "quartileCount": "0.3-2.3",
+                        "totalWeight": 2003.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.40",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "6.50",
+                        "quartileCount": "0.8-5.0",
+                        "totalWeight": 3705.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.2",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.63",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "1.05",
+                        "quartileCount": "N/A",
+                        "totalWeight": 260.0,
+                        "gearCount": 0.95,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.57",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.80",
+                        "quartileCount": "0.2-1.6",
+                        "totalWeight": 2584.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.3",
+                        "species": "SMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.42",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "1.6-7.6",
+                        "totalWeight": 1475.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.1",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.25",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.3-6.8",
+                        "totalWeight": 573.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.3-0.6",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.63",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "2.80",
+                        "quartileCount": "0.3-1.3",
+                        "totalWeight": 7498.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.4-2.0",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.18",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "0.4-3.8",
+                        "totalWeight": 573.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.42",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "2.4-16.0",
+                        "totalWeight": 165.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.36",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "0.4-2.0",
+                        "totalWeight": 3710.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.6-2.6",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.73",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "1.8-9.7",
+                        "totalWeight": 52.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.3",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Forbay is a 35-acre reservoir located just east of Thomson, MN with a maximum depth of 34 feet.  This man-made waterbody supplies water for renewable power generation for the Thomson Hydroelectric facility.  Water is drawn into Forbay from upstream Thomson Reservoir before exiting through one of three large diameter pipes on the eastern corner of the basin.  Retention time of water in the reservoir varies greatly and is correlated to local power generation needs.  Unpredictable and rapid water level fluctuations can cause dangerous conditions for users and makes the waterbody hazardous for swimming and boating, but shoreline angling opportunities are abundant.  Public trails ring the basin and portions of the northern shoreline are within Jay Cooke State Park.   <br> \n <br> \nDuring the historic flooding of June 2012, a levee broke along the southern shoreline of Forbay and completely drained the basin.  Over the next couple years, the levee was rebuilt and eventually the basin was refilled.  In 2022, a standard survey was conducted to gather information about the status of the fishery. <br> \n <br> \nA total of forty-two Smallmouth Bass were sampled by electrofishing.  The Smallmouth Bass catch rate was 44.2 fish per hour, which was above average compared to other Duluth Area lakes.  Average length of sampled Largemouth Bass was 11.2 inches.  The proportion of adult Smallmouth Bass that exceeded quality size (greater than 11 inches) was 59%, while the proportion that exceeded preferred size (greater than 14 inches) was 21%.  One Brook Trout measuring 12.7 inches was also captured while electrofishing.   <br> \n <br> \nThe Walleye gillnet abundance of 6.5 per lift was above average compared to other similar Minnesota lakes.  Average size was 13.0 inches but more quality size fish were captured in the trapnets.  The proportion of adult Walleye that exceeded quality size (greater than 15 inches) was 46%, while the proportion that exceeded preferred size (greater than 20 inches) was 0%.  The 2020 year-class was strong, and comprised about 70% of the overall catch. <br> \n <br> \nChannel Catfish abundance was 1.0 per gillnet lift with two specimens captured with an average length of 19.0 inches.  Two young Northern Pike with an average length of 15.6 inches were captured in the trapnets.  Panfish were scarce with only one Bluegill, Black Crappie and Yellow Perch captured.  Several Pumpkinseed Sunfish were captured in the trapnets with an average length of 7.4 inches.</p>",
+                "headerInfo": [
+                    "Forbay",
+                    null,
+                    "09000200",
+                    "2022-08-08",
+                    "19072215257030002",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2022-08-08",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 16
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                9
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                4
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                5
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 19
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "CCF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 18,
+                        "maximum_length": 19
+                    },
+                    "SMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                7
+                            ],
+                            [
+                                11,
+                                5
+                            ],
+                            [
+                                12,
+                                9
+                            ],
+                            [
+                                13,
+                                8
+                            ],
+                            [
+                                14,
+                                11
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                7,
+                                6
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 14
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 8
+                    },
+                    "YEB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                8,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 12
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 8
+                    },
+                    "RKB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                4
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 9
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 20
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 11
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 12
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    }
+                }
+            }
+        ],
+        "countyName": "Carlton"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

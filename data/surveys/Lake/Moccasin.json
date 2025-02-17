@@ -1,0 +1,83 @@
+{
+    "timestamp": 1737662907,
+    "result": {
+        "lakeName": "Moccasin",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.57,
+        "DOWNumber": 38068000,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 13.69,
+        "areaAcres": 13.69,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "Carry across a recently logged area; then thru thick alder and across a bog. About 400 yards total. No marked trail.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112853",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "167.00",
+                        "quartileCount": "2.0-15.0",
+                        "totalWeight": 2905.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 167
+                    }
+                ],
+                "narrative": "<p>East Moccasin Lake is in the Superior National Forest approximately 9 miles northwest of Isabella, MN off of the Bandana Lake Road (USFS Rd #383).  There is no designated public access, however the lake is surrounded by public land.  There are no roads within 1/4 mile of the lake.       The lake is very small (14 acres), has a maximum depth of 5 feet and is surrounded by bog.  The fish population was surveyed in East Moccasin Lake in 1999.  Yellow perch were the only fish captured in test nets and are very abundant.  Yellow perch ranged in size from 6.1 inches to 10.6 inches but almost all were less than 9 inches and unacceptable to most anglers.     At the time of the survey minnows were the only other fish species in the lake.</p>",
+                "headerInfo": [
+                    "Moccasin",
+                    null,
+                    "38068000",
+                    "1999-07-07",
+                    "112853",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1999-07-07",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                6,
+                                77
+                            ],
+                            [
+                                7,
+                                79
+                            ],
+                            [
+                                8,
+                                11
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 10
+                    }
+                }
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

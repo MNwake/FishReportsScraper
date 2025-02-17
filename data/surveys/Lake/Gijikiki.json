@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737662400,
+    "result": {
+        "lakeName": "Gijikiki",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.2,
+        "DOWNumber": 38020900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 24.6,
+        "areaAcres": 113.05,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 70.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portage from Cypress Lake.  BWCA Lake  non motorized route.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107966",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.0-4.5",
+                        "totalWeight": 12.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.9-4.3",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.00",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "19.17",
+                        "quartileCount": "1.0-8.0",
+                        "totalWeight": 15.2,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 115
+                    },
+                    {
+                        "CPUE": "7.17",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 108.5,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.52",
+                        "totalCatch": 43
+                    }
+                ],
+                "narrative": "<p>Composed of above average populations of perch, sucker and rock bass.  Lake trout are present in average numbers.</p>",
+                "headerInfo": [
+                    "Gijikiki",
+                    "Cedar",
+                    "38020900",
+                    "1976-07-24",
+                    "107966",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1976-07-24",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

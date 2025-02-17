@@ -1,0 +1,1218 @@
+{
+    "timestamp": 1737670505,
+    "result": {
+        "lakeName": "Muckwa",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.27,
+        "DOWNumber": 69015900,
+        "waterClarity": [
+            [
+                "07/20/2023",
+                "6.4"
+            ],
+            [
+                "08/09/2010",
+                "7"
+            ]
+        ],
+        "averageWaterClarity": "6.7",
+        "littoralAcres": 146.68,
+        "areaAcres": 146.68,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 8.5,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": "Last quarter mile of access road is very rocky & fairly steep, NOT boat trailer friendly.     Suggested watercraft would be cartop boat or canoe.         Parking for 3-4 vehicles without trailers.    You can drive to the lake but the actual landing is \"carry down\"."
+            },
+            {
+                "location": "Old portage from N shore of Bear Island Lake across USFS and private land; approximately 1 mile.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "20162320129535000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "11.50",
+                        "quartileCount": "2.3-9.6",
+                        "totalWeight": 15376.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-1.8",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.47",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "21.00",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 4613.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 42
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 4060.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.24",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Muckwa is a 146-acre lake located six miles northwest of Babbitt. Like similar Tower Area walleye lakes Agassa and Nina Moose, Muckwa is shallow, bog-stained, and has moderate water clarity. <br> \n <br> \nMuckwa is five miles down the minimum maintenance Bear Island Cabin Road, and the access is carry-down only.  A high clearance vehicle with four-wheel drive is suggested, but a lighter vehicle would be sufficient until the last 1/4 mile to the lake. Boat trailers are not recommended. Recent logging activity at the turn to the lake had somewhat obscured the access trail. Camping is not allowed at the parking area, but there are some boat-accessible user-maintained sites on the lake. Its backcountry location, minimal development, and reputation as a walleye fishery make it a destination fishing trip. <br> \n <br> \nThe 2023 survey catch was dominated by walleye and yellow perch. Low numbers of white sucker are also present in this simple fish community. This survey was targeted to evaluate walleye stocking so only gill nets were used. <br> \n <br> \nWalleye numbers, at 11.5/gill net, were lower than recent surveys of Muckwa, but above average for the Tower Area. Lengths ranged from 13 to nearly 22 inches with an average of 16 inches. Walleye growth was average with four-year-old fish measuring 14 inches. Muckwa is stocked with walleye fry but is primarily a self-sustaining population. Over 90% of the walleye captured were not from stocked years and several year classes were present. The 2020 year class represented 41% of the walleye captured, and walleye fry were not stocked in that year.  <br> \n <br> \nYellow perch numbers, at 21/gill net, were also lower than recent surveys of Muckwa, but above average for the Tower Area. Lengths ranged from 5 to 10.5 inches with a mean length just short of 8 inches. Anglers targeting perch may find numbers of eater fish, and Muckwa has historically produced quality-sized perch. <br> \n</p>",
+                "headerInfo": [
+                    "Muckwa",
+                    null,
+                    "69015900",
+                    "2023-07-20",
+                    "20162320129535000",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2023-07-20",
+                "lengths": {
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                14,
+                                6
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                4
+                            ],
+                            [
+                                17,
+                                4
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 21
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 19
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                5,
+                                5
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                14
+                            ],
+                            [
+                                8,
+                                15
+                            ],
+                            [
+                                9,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 10
+                    }
+                }
+            },
+            {
+                "surveyID": "108361",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "16.33",
+                        "quartileCount": "0.5-3.8",
+                        "totalWeight": 6.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 49
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "0.4-1.8",
+                        "totalWeight": 4.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.0-2.3",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "10.67",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 46.6,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.46",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "17.00",
+                        "quartileCount": "2.3-9.6",
+                        "totalWeight": 10.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-1.8",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 34
+                    },
+                    {
+                        "CPUE": "52.50",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 12.8,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 105
+                    },
+                    {
+                        "CPUE": "43.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 146.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.70",
+                        "totalCatch": 86
+                    }
+                ],
+                "narrative": "<p>White sucker, yellow perch, and walleye are present in above average numbers. All walleye are from the initial stocking in 1985. Growth of these walleye is average (8.2</p>",
+                "headerInfo": [
+                    "Muckwa",
+                    null,
+                    "69015900",
+                    "1987-08-13",
+                    "108361",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1987-08-13",
+                "lengths": {}
+            },
+            {
+                "surveyID": "108454",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.80",
+                        "quartileCount": "0.5-3.8",
+                        "totalWeight": 5.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "0.4-1.8",
+                        "totalWeight": 44.9,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.0-2.3",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.50",
+                        "totalCatch": 30
+                    },
+                    {
+                        "CPUE": "8.20",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 84.4,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.06",
+                        "totalCatch": 41
+                    },
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "2.3-9.6",
+                        "totalWeight": 29.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-1.8",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.46",
+                        "totalCatch": 20
+                    },
+                    {
+                        "CPUE": "14.50",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 7.4,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 29
+                    },
+                    {
+                        "CPUE": "37.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 170.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.30",
+                        "totalCatch": 74
+                    }
+                ],
+                "narrative": "<p>In the gillnet catch sucker were most abundant, followed by yellow perch and walleye.  Sucker also dominated the gillnet catch by weight.  In the trapnet catch sucker were most abundant, followed by walleye and yellow perch.  Sucker also dominated the trapnet catch by weight.  Sucker sizes are larger than average.  Most walleye are from stocked year-classes.  Over 70% of the walleye captured in assessment are from the 1985 small walleye fingerling (277-381/lb.) stocking. This is a lake where the small walleye fingerlings from the Shagawa pond have worked well.  Walleye and perch growth is average when compared with Ely area lakes.</p>",
+                "headerInfo": [
+                    "Muckwa",
+                    null,
+                    "69015900",
+                    "1990-08-15",
+                    "108454",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1990-08-15",
+                "lengths": {}
+            },
+            {
+                "surveyID": "4271028729003000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.33",
+                        "quartileCount": "0.5-3.8",
+                        "totalWeight": 1897.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 39
+                    },
+                    {
+                        "CPUE": "11.22",
+                        "quartileCount": "0.4-1.8",
+                        "totalWeight": 78540.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.0-2.3",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.71",
+                        "totalCatch": 101
+                    },
+                    {
+                        "CPUE": "0.11",
+                        "quartileCount": "0.3-2.8",
+                        "totalWeight": 27.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.22",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 2695.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.97",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "25.00",
+                        "quartileCount": "2.3-9.6",
+                        "totalWeight": 16827.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.7-1.8",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.48",
+                        "totalCatch": 25
+                    },
+                    {
+                        "CPUE": "41.00",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 6990.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 41
+                    },
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 15764.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.90",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>Muckwa is a 146-acre lake located six miles northwest of Babbitt and just a mile north of Bear Island Lake.  Muckwa Lake is a shallow (max. depth=8.5 feet), bog-stained lake with moderate water clarity and low productivity.  Access requires traveling five miles down a rough forest road (Bear Island Cabin Road).  Boat trailers are not recommended.  \n\nThis investigation found a simple fish community in Muckwa Lake.  Walleye made up the greatest proportion of the catch (by weight) followed by white sucker and yellow perch.\n\nWalleye abundance (25.0/net) in Muckwa Lake in 2010 was comparable to abundance recorded during the previous two assessments (1995 and 2000).  Compared to other lakes in the same classification however, walleye abundance in Muckwa was exceptional exceeding the 75th percentile.  Walleye caught during this investigation ranged in length from 9.3 to 26.0 inches and averaged 15.4 inches.  Forty-four percent of the walleye exceeded 17 inches in length.  Seven year classes were present in the walleye catch with one and four year old fish being most numerous.  \n\nThe earliest assessments on Muckwa indicated that walleye were not native to the lake.  DNR Fisheries stocked walleye in Muckwa up until 1996 when it was determined that natural reproduction was maintaining the population.  All of the walleye captured during this investigation were from natural reproduction.\n\nYellow perch appear to be the primary forage for Muckwa's walleye population.  Perch abundance (41.0/net) in 2010 was similar to previous investigations on Muckwa but greatly exceeded catches from all other lakes in the same classification.  Most of the yellow perch caught were small (50% less than eight inches) however, 32% of the catch exceeded ten inches. The largest perch was just under twelve inches in length.</p>",
+                "headerInfo": [
+                    "Muckwa",
+                    null,
+                    "69015900",
+                    "2010-08-09",
+                    "4271028729003000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2010-08-09",
+                "lengths": {
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                9
+                            ],
+                            [
+                                14,
+                                4
+                            ],
+                            [
+                                15,
+                                8
+                            ],
+                            [
+                                16,
+                                30
+                            ],
+                            [
+                                17,
+                                27
+                            ],
+                            [
+                                18,
+                                13
+                            ],
+                            [
+                                19,
+                                5
+                            ],
+                            [
+                                20,
+                                4
+                            ],
+                            [
+                                21,
+                                5
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                23,
+                                1
+                            ],
+                            [
+                                24,
+                                3
+                            ],
+                            [
+                                25,
+                                1
+                            ],
+                            [
+                                9,
+                                15
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 25
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                4
+                            ],
+                            [
+                                20,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 20
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                6
+                            ],
+                            [
+                                11,
+                                8
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                39
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                9
+                            ],
+                            [
+                                9,
+                                8
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 11
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    }
+                }
+            },
+            {
+                "surveyID": "108110",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "261.50",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1046
+                    },
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 18
+                    }
+                ],
+                "narrative": "<p>(American mergansers were observed on lake (during survey.  A pair of adult bald eagles (was observed in the vicinity of Muckwa Lake (during one day of the survey.</p>",
+                "headerInfo": [
+                    "Muckwa",
+                    null,
+                    "69015900",
+                    "1964-07-08",
+                    "108110",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1964-07-08",
+                "lengths": {}
+            },
+            {
+                "surveyID": "108199",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "17.33",
+                        "quartileCount": "0.5-3.8",
+                        "totalWeight": 12.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 52
+                    },
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 18.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.31",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "116.50",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 50.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 233
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "TPM",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "22.50",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 101.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.26",
+                        "totalCatch": 45
+                    }
+                ],
+                "narrative": "<p>Consists of high numbers of white sucker and very high numbers of yellow perch. Tadpole madtoms, Iowa darters and fathead minnows are also present.</p>",
+                "headerInfo": [
+                    "Muckwa",
+                    null,
+                    "69015900",
+                    "1985-06-18",
+                    "108199",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1985-06-18",
+                "lengths": {}
+            },
+            {
+                "surveyID": "108948",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "0.5-3.8",
+                        "totalWeight": 11559.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 108
+                    },
+                    {
+                        "CPUE": "15.11",
+                        "quartileCount": "0.4-1.8",
+                        "totalWeight": 76978.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.0-2.3",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.25",
+                        "totalCatch": 136
+                    },
+                    {
+                        "CPUE": "4.22",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 95660.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "5.55",
+                        "totalCatch": 38
+                    },
+                    {
+                        "CPUE": "27.50",
+                        "quartileCount": "2.3-9.6",
+                        "totalWeight": 25637.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-1.8",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.03",
+                        "totalCatch": 55
+                    },
+                    {
+                        "CPUE": "14.50",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 1892.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 29
+                    },
+                    {
+                        "CPUE": "14.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 68290.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "5.38",
+                        "totalCatch": 28
+                    }
+                ],
+                "narrative": "<p>This assessment consisted of nine trapnet sets, two gillnet sets, and water quality testing.Muckwa Lake is typical of the 91 lakes in ecological Lake Class 17:  small, shallow, and chemically infertile.  However, it is larger (146 acres) than the lake class average of 96 acres and has a lower alkalinity (a measure of chemical fertility) than the lake class average of 14 ppm.Fish populations in 1995 were simple, consisting of high numbers of walleye and yellow perch, and average numbers of white sucker.  The total catch of fish (all species combined) in the gillnets and trapnets was higher than average for this type of lake.Walleye were not present in Muckwa Lake until first introduced in 1985 and subsequent stockings in 1986, 1988, 1990, and 1993.  Walleye numbers in 1995 were very high.  Walleye sizes averaged about 1.1 lb.  Large year classes of walleye were present each year from 1990 through 1994, including the non-stocked years of 1991, 1992, and 1994.  This indicates that natural reproduction may sustain the walleye population, although it is unlikely that walleye numbers can be maintained at such high levels over the long term.  Walleye numbers are typically very high shortly after they are first stocked in a lake.  Walleye growth was faster than average in 1995.  Twenty-eight percent of walleye examined had \"black spot\" (neascus), an innocuous skin parasite.Yellow perch numbers were high in 1995, and similar to the last assessment in 1990.  Perch numbers were very high before walleye were introduced in 1985, but declined shortly thereafter.  Perch sizes are average, growth and reproduction are good.  Seventy percent of perch examined had black spot (neascus).Sucker numbers are average and sucker sizes are large.  Sucker numbers in Muckwa Lake have been quite variable.  The strong naturally produced year classes of walleye in 1992 and of perch in 1993 are unusual.  The summers of 1992 and 1993 were very cold, and poor year classes of perch and walleye were produced in many area lakes during those years.</p>",
+                "headerInfo": [
+                    "Muckwa",
+                    null,
+                    "69015900",
+                    "1995-08-09",
+                    "108948",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1995-08-09",
+                "lengths": {
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                7
+                            ],
+                            [
+                                11,
+                                14
+                            ],
+                            [
+                                12,
+                                5
+                            ],
+                            [
+                                13,
+                                19
+                            ],
+                            [
+                                14,
+                                39
+                            ],
+                            [
+                                15,
+                                36
+                            ],
+                            [
+                                16,
+                                31
+                            ],
+                            [
+                                17,
+                                17
+                            ],
+                            [
+                                18,
+                                12
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                24,
+                                1
+                            ],
+                            [
+                                26,
+                                1
+                            ],
+                            [
+                                6,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 26
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                5
+                            ],
+                            [
+                                17,
+                                8
+                            ],
+                            [
+                                18,
+                                17
+                            ],
+                            [
+                                19,
+                                16
+                            ],
+                            [
+                                20,
+                                13
+                            ],
+                            [
+                                21,
+                                5
+                            ],
+                            [
+                                22,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 13,
+                        "maximum_length": 22
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                16
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                17
+                            ],
+                            [
+                                6,
+                                49
+                            ],
+                            [
+                                7,
+                                20
+                            ],
+                            [
+                                8,
+                                16
+                            ],
+                            [
+                                9,
+                                17
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 11
+                    }
+                }
+            },
+            {
+                "surveyID": "109395",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "41.89",
+                        "quartileCount": "0.5-3.8",
+                        "totalWeight": 13097.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 377
+                    },
+                    {
+                        "CPUE": "10.67",
+                        "quartileCount": "0.4-1.8",
+                        "totalWeight": 51909.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.0-2.3",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.19",
+                        "totalCatch": 96
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.3-2.8",
+                        "totalWeight": 75.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "8.11",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 97324.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.94",
+                        "totalCatch": 73
+                    },
+                    {
+                        "CPUE": "27.50",
+                        "quartileCount": "2.3-9.6",
+                        "totalWeight": 39741.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-1.8",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.59",
+                        "totalCatch": 55
+                    },
+                    {
+                        "CPUE": "86.50",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 14603.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 173
+                    },
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 35142.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.23",
+                        "totalCatch": 24
+                    }
+                ],
+                "narrative": "<p>Muckwa Lake is in Ecological Lake Class 17, which consists of 99 lakes in northeast Minnesota that are small, shallow, and have very soft (unmineralized) and bog-stained water.Muckwa Lake was not thermally stratified on 06/07/2000 and had good oxygen to the bottom.  There are no inlets.  The outlet to Bear Island Lake has beaver dams and marshes that limit fish movement.  Lake bottom substrates along the shoreline are 62% boulder, 19% muck, 16% rubble, 2% gravel, and 1% ledgerock.  Aquatic plants are sparse and grow to a depth of 4 ft; yellow waterlily is the most common plant.This fish population assessment consisted of two gillnet sets and nine trapnet sets.  Five previous investigations, dating back to 1964, consisted of 2-4 gillnet sets and 2-9 trapnet sets.The total catch of fish (all species combined) in the gillnets in 2000 of 126 fish/net (95.6 lb/net) was in the fourth quartile for this lake class, and was similar to the median catch of 119.3 fish/net (84.5 lb/net) in all investigations on this lake.The total catch of fish in the trapnets in 2000 of 61 fish/net (40.7 lb/net) was higher than the median catch of 25.5 fish/net (23.0 lb/net) in all investigations on this lake.Early investigations on Muckwa Lake captured very high numbers of yellow perch and low numbers of white sucker.  Except for minnows, no other fish species were present.  Walleye stocking began in 1985.  Walleye numbers in 2000 (27.5/gillnet, 10.7/trapnet) were in the fourth quartile for this lake class and were similar to the median catches of 22.3/gillnet and 8.4/trapnet in all investigations since walleye were introduced.   Walleye sizes in 2000 averaged 16.2\" (1.6 lb) in the gillnets and 13.4\" (1.2 lb) in the trapnets, which was in the third and second quartiles, respectively, for this lake class.  The largest walleye was 27.2\".  Most of the walleye (54 percent) were ages one and two, from the non-stocked years of 1998 and 1999.  Walleye growth was in the fourth quartile for area lakes.White sucker numbers in 2000 (12.0/gillnet, 8.1/trapnet) were in the third and fourth quartiles, respectively, for this lake class, and were similar to the median catches of 18.3/gillnet and 7.6/trapnet in all investigations on this lake.  Sucker sizes averaged 19.5\" (3.0 lb) in the gillnets and 18.9\" (2.7 lb) in the trapnets, which was in the fourth quartile for both gear types.Yellow perch numbers in 2000 (86.5/gillnet, 41.9/trapnet) were in the fourth quartile for both gear types, and were higher than the median catches of 69.5/gillnet and 14.2/trapnet in all investigations on this lake.  Perch sizes averaged 7.1\" (0.18 lb) in the gillnets and 6.7\" (0.14 lb) in the trapnets, which was in the second quartile for both gear types.  The largest perch was 12.2\".  Perch growth was at the third quartile for area lakes.Many of the walleye and yellow perch examined during this assessment had \"black spot\" (neascus) in their skin.</p>",
+                "headerInfo": [
+                    "Muckwa",
+                    null,
+                    "69015900",
+                    "2000-06-06",
+                    "109395",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2000-06-06",
+                "lengths": {
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                21
+                            ],
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                217
+                            ],
+                            [
+                                6,
+                                157
+                            ],
+                            [
+                                7,
+                                85
+                            ],
+                            [
+                                8,
+                                44
+                            ],
+                            [
+                                9,
+                                17
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 12
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                7
+                            ],
+                            [
+                                13,
+                                16
+                            ],
+                            [
+                                14,
+                                17
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                6
+                            ],
+                            [
+                                17,
+                                13
+                            ],
+                            [
+                                18,
+                                9
+                            ],
+                            [
+                                19,
+                                14
+                            ],
+                            [
+                                20,
+                                6
+                            ],
+                            [
+                                21,
+                                6
+                            ],
+                            [
+                                22,
+                                8
+                            ],
+                            [
+                                23,
+                                1
+                            ],
+                            [
+                                27,
+                                1
+                            ],
+                            [
+                                6,
+                                8
+                            ],
+                            [
+                                7,
+                                30
+                            ],
+                            [
+                                8,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 27
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                11
+                            ],
+                            [
+                                17,
+                                25
+                            ],
+                            [
+                                18,
+                                16
+                            ],
+                            [
+                                19,
+                                17
+                            ],
+                            [
+                                20,
+                                3
+                            ],
+                            [
+                                21,
+                                12
+                            ],
+                            [
+                                22,
+                                8
+                            ],
+                            [
+                                23,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 23
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

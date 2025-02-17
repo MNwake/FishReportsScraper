@@ -1,0 +1,136 @@
+{
+    "timestamp": 1737663304,
+    "result": {
+        "lakeName": "Sister",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.91,
+        "DOWNumber": 38005000,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 125.11,
+        "areaAcres": 125.11,
+        "meanDepthFeet": 8.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112098",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.4-2.8",
+                        "totalWeight": 0.3,
+                        "gearCount": 15.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.07",
+                        "quartileCount": "0.3-1.3",
+                        "totalWeight": 2.3,
+                        "gearCount": 15.0,
+                        "quartileWeight": "1.2-2.5",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.30",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.07",
+                        "quartileCount": "0.8-4.4",
+                        "totalWeight": 26.4,
+                        "gearCount": 15.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.65",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "12.25",
+                        "quartileCount": "3.0-8.3",
+                        "totalWeight": 81.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.4-3.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.65",
+                        "totalCatch": 49
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "1.3-4.8",
+                        "totalWeight": 3.4,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.9-2.5",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.70",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "4.5-19.0",
+                        "totalWeight": 1.7,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "14.50",
+                        "quartileCount": "2.0-11.5",
+                        "totalWeight": 107.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.1-2.1",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.85",
+                        "totalCatch": 58
+                    },
+                    {
+                        "CPUE": "0.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 20.6,
+                        "gearCount": 15.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.72",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>The Northern Pike population is very high while the Walleye population is extremely low.</p>",
+                "headerInfo": [
+                    "Sister",
+                    null,
+                    "38005000",
+                    "1980-09-02",
+                    "112098",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1980-09-02",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

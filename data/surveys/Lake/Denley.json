@@ -1,0 +1,174 @@
+{
+    "timestamp": 1737662126,
+    "result": {
+        "lakeName": "Denley",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.11,
+        "DOWNumber": 38077300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 38.22,
+        "areaAcres": 43.22,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 21.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112943",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "2.0-8.5",
+                        "totalWeight": 3875.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.42",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>Northern pike were introduced into Denley Lake in 1995.  Prior to that there were no game fish in the lake.  Yellow perch were introduced in 1994 to increase the forage base, however, none were sampled in the 2001 assessment.  Northern pike were collected in average numbers in the assessment, however, their size was below average, with the largest northern pike sampled, weighing just two pounds.</p>",
+                "headerInfo": [
+                    "Denley",
+                    null,
+                    "38077300",
+                    "2001-06-07",
+                    "112943",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2001-06-07",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 21
+                    }
+                }
+            },
+            {
+                "surveyID": "112252",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Denley Lake apparently supports only a minnow population. </p>",
+                "headerInfo": [
+                    "Denley",
+                    null,
+                    "38077300",
+                    "1983-07-21",
+                    "112252",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1983-07-21",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112500",
+                "fishCatchSummaries": [],
+                "narrative": "<p>At the present time the only fish life in Denley Lake is comprised of minnows. An experimental stocking of Brook Trout in 1992 was unsuccessful.</p>",
+                "headerInfo": [
+                    "Denley",
+                    null,
+                    "38077300",
+                    "1993-09-30",
+                    "112500",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1993-09-30",
+                "lengths": {}
+            },
+            {
+                "surveyID": "4251201227380000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6805.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Ice-fishing",
+                        "averageWeight": "1.67",
+                        "totalCatch": 9
+                    }
+                ],
+                "narrative": "<p>Denley Lake is 43.2 acres having a maximum depth of 21 feet and a littoral area of area of 38.2 acres.  Located 16.8 miles northwest of Isabella, MN about 2.3 miles west of State Highway1 on USFS Rd #424 (New Tomahawk Road), where the snowmobile/ATV trail gets near the road.  Then a total distance of 0.9 mile on the snowmobile/ATV trail east and winter road north to the east side of Denley Lake.  The route is mostly black spruce/tamarack bog and limited to foot travel in summer. <br> \n <br> \nWinter sampling found a good population of northern pike, four consecutive year-classes, indicating adequate natural reproduction to maintain the population.  The average size was 20.7 inches (1.7 pounds) the largest northern pike was 2.2 pounds.  Yellow perch were stocked in Denley Lake in 1994, it is not known if a fishable population exists in Denley Lake. <br> \n</p>",
+                "headerInfo": [
+                    "Denley",
+                    null,
+                    "38077300",
+                    "2012-01-11",
+                    "4251201227380000",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2012-01-11",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                21,
+                                4
+                            ],
+                            [
+                                22,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 22
+                    }
+                }
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

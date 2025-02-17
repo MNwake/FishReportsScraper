@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737650083,
+    "result": {
+        "lakeName": "Cam",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.45,
+        "DOWNumber": 16039700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 29.0,
+        "areaAcres": 56.43,
+        "meanDepthFeet": 15.0,
+        "maxDepthFeet": 57.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "A 0.35 mile portage trail from Brule Lake provides access to Cam Lake.  Entirely inside the BWCAW.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109738",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 25.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.09",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3.6,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.90",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Suckers and Perch are present in low numbers. A fair N Pike population with a good distribution of sizes provides a fair limited fishery.</p>",
+                "headerInfo": [
+                    "Cam",
+                    null,
+                    "16039700",
+                    "1973-07-16",
+                    "109738",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-07-16",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

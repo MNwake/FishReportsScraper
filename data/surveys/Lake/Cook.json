@@ -1,0 +1,400 @@
+{
+    "timestamp": 1737662061,
+    "result": {
+        "lakeName": "Cook",
+        "sampledPlants": [
+            "Arrowhead Group (Sagittaria sp.)",
+            "Cattail Group (Typha sp.)",
+            "Common Yellow Waterlily (Nuphar variegata)",
+            "Filamentous algae (Eukaryotic)",
+            "Freshwater Sponge (Freshwater Sponge)",
+            "Grass Group  (Gramineae/Poaceae Family)",
+            "Joe pye weed group (Eutrochium sp.)",
+            "Muskgrass Group (Chara sp.)",
+            "Northern Milfoil (Myriophyllum sibiricum)",
+            "Quillwort Group  (Isoetes sp.)",
+            "Sedge Group (Carex sp.)",
+            "Spikerush  (Eleocharis palustris)",
+            "Wool Grass (Scirpus cyperinus)",
+            "common bladderwort (Utricularia vulgaris)",
+            "floating bur-reed (Sparganium fluctuans)",
+            "lake sedge (Carex lacustris)",
+            "leatherleaf (Chamaedaphne calyculata)",
+            "ribbon-leaved pondweed (Potamogeton epihydrus)",
+            "sweet gale (Myrica gale)",
+            "three-way sedge (Dulichium arundinaceum)",
+            "water lobelia (Lobelia dortmanna)",
+            "watershield (Brasenia schreberi)"
+        ],
+        "shoreLengthMiles": 2.62,
+        "DOWNumber": 38000400,
+        "waterClarity": [
+            [
+                "07/20/2015",
+                "3.8"
+            ]
+        ],
+        "averageWaterClarity": "3.8",
+        "littoralAcres": 86.01,
+        "areaAcres": 86.01,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 12.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "113063",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.75",
+                        "quartileCount": "2.0-6.3",
+                        "totalWeight": 17109.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.43",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "2.2-14.6",
+                        "totalWeight": 2731.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "9.75",
+                        "quartileCount": "3.6-14.1",
+                        "totalWeight": 20597.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.16",
+                        "totalCatch": 39
+                    }
+                ],
+                "narrative": "<p>Cook Lake is a relatively small, shallow body of water that supports a natural population of northern pike, yellow perch and white sucker.Northern pike were sampled in average numbers in 2005 but fewer were taken than in 1985, the last time this lake was evaluated.  The average size was 3.4 lb/fish which is above average for the lake class.  The largest northern pike taken in this assessment was 36 inches (11.0 lb), and a few between 26-31 inches were sampled.Yellow perch were sampled in average numbers and the catch included some fish between 9.0 and 10.5 inches.  Approximately one half the yellow perch collected were over 8.0 inches.</p>",
+                "headerInfo": [
+                    "Cook",
+                    null,
+                    "38000400",
+                    "2005-07-25",
+                    "113063",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2005-07-25",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                26,
+                                3
+                            ],
+                            [
+                                29,
+                                1
+                            ],
+                            [
+                                30,
+                                1
+                            ],
+                            [
+                                36,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 36
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                6
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                7
+                            ],
+                            [
+                                9,
+                                7
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 10
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                5
+                            ],
+                            [
+                                13,
+                                15
+                            ],
+                            [
+                                14,
+                                9
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                18,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 18
+                    }
+                }
+            },
+            {
+                "surveyID": "11951522255324000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "2.0-6.3",
+                        "totalWeight": 17789.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.3-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.45",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "2.2-14.6",
+                        "totalWeight": 673.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "6.25",
+                        "quartileCount": "3.6-14.1",
+                        "totalWeight": 21087.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.86",
+                        "totalCatch": 25
+                    }
+                ],
+                "narrative": "<p>Cook Lake is an 86.0 acre lake located 20.0 miles northwest of Schroeder, MN that offers anglers a remote wilderness type of experience.  The maximum depth of the lake is 12.0 feet.  Cook Lake has soft, brown bog-stained water with water clarity visible down to 3.8 feet.  Northern Pike and Yellow Perch compose the game fish community in the lake.  The shoreline around the lake is mixed coniferous and deciduous forest and bog and is under federal ownership.  The northern most shore of the lake is on the border of the Boundary Waters Canoe Area Wilderness (BWCAW).  Twenty-one aquatic plant species are present.  Boulder, sand, and gravel are the most abundant substrates with areas of muck present.    <br> \n <br> \nThe lake access road (USFS Rd # 168J/349) is 0.8 miles east of the Lake County/Cook County line off of Cook County Rd #3.  Follow along USFS Rd. #168J/349 for 0.4 miles until the road forks.  Take a right at the fork in the road to stay on USFS Rd # 168J/349A and continue 0.8 miles to the small parking area, suitable for 1-2 vehicles.  A high clearance vehicle is recommended for traveling the access road as there are several low areas and boulders.  The entire length of the access road was brushed by DNR Trails in the spring of 2015.  A 100 yard carry-in trail starts at the parking area and leads to the southeast shore of the lake.  The bay where the access is located contains numerous boulders so careful navigation is recommended as many boulders are difficult to see in the dark stained water.   <br> \n <br> \nIn 2015, a survey was conducted to monitor the fish populations within Cook Lake.  Northern Pike were sampled at average numbers for similar lakes in northeastern Minnesota.  The average length of Northern Pike was 20.0 inches and average weight was 2.45 pounds.  The largest pike was 40.0 inches long and weighed 14.3 pounds.  Natural reproduction appears to be consistent as eight year classes were present in the 2015 survey.  Growth of Northern Pike appears to be average for the Finland Area.   <br> \n <br> \nThe Yellow Perch catch was near average for similar lakes in northeastern Minnesota.  A total of 16 Yellow Perch were caught and averaged 6.2 inches long and 0.1 pounds.  The largest Yellow Perch sampled was 7.7 inches and weighed 0.2 pounds.  Yellow Perch growth was above average for the Finland Area.  Most Yellow Perch are below the size preferred by anglers, but they provide an important forage species for Northern Pike.  <br> \n <br> \nTwenty-five White Suckers were caught in the gill nets.  The average length was 15.0 inches and the average weight was 1.9 pounds.  The White Suckers in the lake also provide an important prey species for Northern Pike.   <br> \n <br> \nCook Lake offers the angler a wilderness type of angling experience for Northern Pike and Yellow Perch.  While most Northern Pike observed where less than 24 inches long, there are a few larger Northern Pike present with the potential for a few 40 plus inch fish to be found.   <br> \n</p>",
+                "headerInfo": [
+                    "Cook",
+                    null,
+                    "38000400",
+                    "2015-07-20",
+                    "11951522255324000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2015-07-20",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                20,
+                                3
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                22,
+                                2
+                            ],
+                            [
+                                24,
+                                1
+                            ],
+                            [
+                                31,
+                                1
+                            ],
+                            [
+                                40,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 40
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                9
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                6
+                            ],
+                            [
+                                18,
+                                4
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 20
+                    }
+                }
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

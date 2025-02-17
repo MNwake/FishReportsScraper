@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737645057,
+    "result": {
+        "lakeName": "Hernando DeSoto",
+        "sampledPlants": [],
+        "shoreLengthMiles": 6.95,
+        "DOWNumber": 3003200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 104.0,
+        "areaAcres": 171.18,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 22.0,
+        "officeCode": "F112",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "100371",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "171.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 62.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 687
+                    },
+                    {
+                        "CPUE": "11.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 44.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.97",
+                        "totalCatch": 46
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6.3,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "6.30",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "34.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 34
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.2,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.20",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>GREEN SUNFISH POPULATION IS VERY HIGH. THE ONE WALLEYE TAKEN IS PROBABLY A HOLD OVER FROM WHEN THE ADJACENT POND WAS USED FOR WALLEYE REARING POND BY  PARK RAPIDS.</p>",
+                "headerInfo": [
+                    "Hernando DeSoto",
+                    null,
+                    "03003200",
+                    "1988-07-05",
+                    "100371",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1988-07-05",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Becker"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

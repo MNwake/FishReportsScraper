@@ -1,0 +1,104 @@
+{
+    "timestamp": 1737651281,
+    "result": {
+        "lakeName": "Parsnip",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.56,
+        "DOWNumber": 16012000,
+        "waterClarity": [
+            [
+                "08/25/1976",
+                "5"
+            ]
+        ],
+        "averageWaterClarity": "5.0",
+        "littoralAcres": 20.0,
+        "areaAcres": 20.26,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 25.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109884",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "54.00",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 125.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.16",
+                        "totalCatch": 108
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "2.0",
+                        "totalWeight": 2.25,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.6",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.56",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>LARGEMOUTH BASS DID NO SHOW UP IN THE 1976 SURVEY AND POSSIBLY CAME DOWNSTREAM FROM BEAN LAKE WHERE THERE PRESENCE HAS BEEN REPORTED BY ANGLERS. WHITE SUCKERS ARE EXTREMELY ABUNDANT.</p>",
+                "headerInfo": [
+                    "Parsnip",
+                    null,
+                    "16012000",
+                    "1983-07-13",
+                    "109884",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1983-07-13",
+                "lengths": {}
+            },
+            {
+                "surveyID": "109629",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 30.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.14",
+                        "totalCatch": 14
+                    }
+                ],
+                "narrative": "<p>Lake contains on average population of medium sized Suckers.</p>",
+                "headerInfo": [
+                    "Parsnip",
+                    null,
+                    "16012000",
+                    "1976-08-24",
+                    "109629",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1976-08-24",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

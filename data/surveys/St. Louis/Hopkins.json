@@ -1,0 +1,182 @@
+{
+    "timestamp": 1737669849,
+    "result": {
+        "lakeName": "Hopkins",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.85,
+        "DOWNumber": 69010100,
+        "waterClarity": [
+            [
+                "08/03/2015",
+                "5"
+            ]
+        ],
+        "averageWaterClarity": "5.0",
+        "littoralAcres": 17.77,
+        "areaAcres": 17.77,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 11.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "12631533626292000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "16.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 17898.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.23",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.6-4.3",
+                        "totalWeight": 788.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.5-1.2",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.74",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Hopkins Lake is located approximately 13 miles N of Ely in the BWCAW. This remote lake is characterized by it's densely forested shorelines of black spruce and other conifers. Small outcrops of ledgerock can be found and a prominent ledgerock bluff is located on the west side.  <br> \n <br> \nHopkins Lake appears to have very little use. A primitive, poorly maintained portage from Holy Lake was used to gain access. There are no designated USFS campsites. <br> \n <br> \nSmall northern pike were found in good numbers in 2015. Pike abundance (16.0/gill net) was well above average compared to other similar lakes in the area. The average pike sampled was 18.6 inches long and the largest pike sampled was only 22.0 inches long. <br> \n <br> \nOne 14.8 inch largemouth bass was sampled in the gill nets. There is a connection from the outlet to Little Bass Lake where largemouth bass have been established for some time. <br> \n <br> \nSmall yellow perch and bluegill were sampled in baited minnow traps. Perch were also observed in northern pike stomach samples. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Hopkins",
+                    null,
+                    "69010100",
+                    "2015-08-03",
+                    "12631533626292000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2015-08-03",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                4
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                12
+                            ],
+                            [
+                                20,
+                                4
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 22
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 14
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                0,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 0,
+                        "maximum_length": 0
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                9
+                            ],
+                            [
+                                2,
+                                2
+                            ],
+                            [
+                                2,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 2
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

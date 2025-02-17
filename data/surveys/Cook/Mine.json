@@ -1,0 +1,188 @@
+{
+    "timestamp": 1737651071,
+    "result": {
+        "lakeName": "Mine",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.16,
+        "DOWNumber": 16059700,
+        "waterClarity": [
+            [
+                "09/22/2009",
+                "11.5"
+            ],
+            [
+                "09/01/1981",
+                "12"
+            ]
+        ],
+        "averageWaterClarity": "11.8",
+        "littoralAcres": 0.0,
+        "areaAcres": 34.28,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 30.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "4310926555670002",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 551.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 678.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.49",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "14.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2404.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 28
+                    }
+                ],
+                "narrative": "<p>This was the first assessment of Mine Lake since brook trout stocking began in 2005.  Two and four-year-old fish from the 2005 and 2007 fingerling stockings should have been present in 2009, although four-year-old fish would have been scarce.  Brook trout stocking in 2009 was done after this assessment was completed. <br> \n <br> \nThe brook trout catch was well below the normal range (1.5 - 14.0 fish/set) for catches in fall assessments of stream trout lakes in this area, and fell well short of the goal in the 2003 lake management plan (6.0 fish/set).  The single brook trout taken was a fin-clipped two-year-old fish from the 2007 stocking.  Brook trout gill net catches have been known to be quite variable in lakes in this area, particularly when the number of net sets used has been low.  It is too soon to say with any certainty whether stocking of Mine Lake has been successful, or whether the 2009 catch was representative of actual brook trout abundance in this lake.  We can only say that some stocked fish have survived. <br> \n <br> \nThe white sucker gill net catch was higher than normal for a stream trout lake in this area.  Many of the white sucker taken were small enough to have provided some forage for large brook trout.  Green sunfish were also present in fairly high numbers, and were probably competing with brook trout for invertebrate forage.  White sucker and green sunfish were both present when the lake was first (and last) assessed in 1981, and were taken in numbers similar to those seen in 2009. <br> \n</p>",
+                "headerInfo": [
+                    "Mine",
+                    null,
+                    "16059700",
+                    "2009-09-22",
+                    "4310926555670002",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2009-09-22",
+                "lengths": {
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                6
+                            ],
+                            [
+                                5,
+                                6
+                            ],
+                            [
+                                6,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 6
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                7,
+                                19
+                            ],
+                            [
+                                8,
+                                5
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 12
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "109787",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.25,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "9.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3.4,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 19
+                    }
+                ],
+                "narrative": "<p>Dominated by Wht Sucker and Grn Sunfish.</p>",
+                "headerInfo": [
+                    "Mine",
+                    null,
+                    "16059700",
+                    "1981-09-01",
+                    "109787",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1981-09-01",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

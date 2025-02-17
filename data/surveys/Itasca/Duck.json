@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737658033,
+    "result": {
+        "lakeName": "Duck",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.62,
+        "DOWNumber": 31031400,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 12.84,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 45.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "County unimproved access on the north side of the lake off the Larson Lake road.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "106357",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.6,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "SMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>The lake has a slow growing population of smallmouth bass.  Calculated mean length of age 3 smallmouth bass was 7.1\" (n=6), considerably slower than other lakes in this management area.  Although no forage species were captured, it is doubtful that an introduction of one could maintain itself and competition between the two species could have a negative impact on the smallmouth bass.  Crayfish which generally makes up 60-90% of an adult smallmouth bass diet, were not captured or observed during this assessment.</p>",
+                "headerInfo": [
+                    "Duck",
+                    null,
+                    "31031400",
+                    "1992-06-02",
+                    "106357",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1992-06-02",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

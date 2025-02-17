@@ -1,0 +1,390 @@
+{
+    "timestamp": 1737670821,
+    "result": {
+        "lakeName": "Quill",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.81,
+        "DOWNumber": 69087100,
+        "waterClarity": [
+            [
+                "07/28/2015",
+                "14"
+            ]
+        ],
+        "averageWaterClarity": "14.0",
+        "littoralAcres": 23.0,
+        "areaAcres": 85.31,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 46.0,
+        "officeCode": "F217",
+        "accesses": [
+            {
+                "location": "Access is possible by float plane or portage.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "13351523746889000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.56",
+                        "quartileCount": "0.5-3.3",
+                        "totalWeight": 105.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "1.3-5.3",
+                        "totalWeight": 8200.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.6-3.1",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "18.08",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "0.3-2.3",
+                        "totalWeight": 383.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.21",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "0.3-1.5",
+                        "totalWeight": 3653.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.2-0.6",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 21.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.5-2.8",
+                        "totalWeight": 613.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "2.17",
+                        "quartileCount": "0.3-1.8",
+                        "totalWeight": 6827.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.5-1.5",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.16",
+                        "totalCatch": 13
+                    }
+                ],
+                "narrative": "<p>Quill Lake is located about 19 miles ESE of International Falls, MN.  The lake is 85 acres and generally deep; only 27 percent is less than 15 feet deep.  Several species of sportfish were present in 2015. <br> \n <br> \nLargemouth Bass trap-net abundance was above the expected range for this lake type and above the level found in the previous investigation.  Length in trap nets ranged from 6.0-15.4 inches and the average was 12.5.  The average weight was within the expected range for this lake type.  Five year-classes were sampled and age ranged from 2-8 years.  The 2008 year-class was the strongest and represented 50% of the sample.  Growth was similar to the area and statewide averages.   <br> \n <br> \nOnly one Northern Pike was captured; it was 44.5 inches and 18.1 pounds.  Clearly, Quill Lake has the ability to produce giganitic Northern Pike.     <br> \n <br> \nA few Pumpkinseed and Rock Bass were also captured during this investigation.  Yellow Perch were not captured during this investigation, but they have been captured in the past.   <br> \n <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Quill",
+                    null,
+                    "69087100",
+                    "2015-07-27",
+                    "13351523746889000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2015-07-27",
+                "lengths": {
+                    "RKB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 8
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                44,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 44,
+                        "maximum_length": 44
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                5
+                            ],
+                            [
+                                15,
+                                4
+                            ],
+                            [
+                                5,
+                                7
+                            ],
+                            [
+                                7,
+                                6
+                            ],
+                            [
+                                8,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 15
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                4
+                            ],
+                            [
+                                4,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 4
+                    }
+                }
+            },
+            {
+                "surveyID": "111997",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "15.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 817.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 45
+                    },
+                    {
+                        "CPUE": "0.89",
+                        "quartileCount": "0.3-1.5",
+                        "totalWeight": 495.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.2-0.6",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "13.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 10170.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Open-water angling",
+                        "averageWeight": "0.86",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 85.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "RKB",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.22",
+                        "quartileCount": "0.5-2.8",
+                        "totalWeight": 340.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.37",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.17",
+                        "quartileCount": "0.3-1.8",
+                        "totalWeight": 1705.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.5-1.5",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.54",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Quill Lake is a 85 acre lake, located approximately 19 miles ESE of International Falls.  The lake is in Voyageurs National Park and access is limited to portages from Rainy or Kabetogama lakes, or by float plane.  The fishery is mainly limited to largemouth bass.Eighty-six largemouth bass were captured by angling, gill nets, and trap nets.  Most were caught in 0.25-inch trap nets (N=45, 42 were age-0 fish) followed by angling (N=26).  Eight largemouth bass were caught in standard trap nets (0.89/set), which was above average (0.68/set) for this lake type.  In 2002, ten year-classes were present in all gears combined and age ranged from 0-11 years.  Mean weights of largemouth bass captured in standard trap and gill nets were below average.  Growth rate was also below average.    Angling was used to capture largemouth bass at a rate of 6.9 per hour, which was greater than the rate in 1992 (2.35 per hour).  Mean length of angled largemouth bass was also greater in 2002 (11.2 inches) than in 1992 (10.4 inches).  Of all the gear types used in 2002, the longest largemouth bass was captured by angling (17.4 inches).     Rock bass were captured in 2001, however, the number captured decreased from previous investigations.  Yellow perch, which were captured during previous investigations, were not captured in 2001. </p>",
+                "headerInfo": [
+                    "Quill",
+                    null,
+                    "69087100",
+                    "2002-07-30",
+                    "111997",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2002-07-30",
+                "lengths": {
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                42
+                            ],
+                            [
+                                10,
+                                4
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                12,
+                                7
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                5
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 17
+                    },
+                    "RKB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 8
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

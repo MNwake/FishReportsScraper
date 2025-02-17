@@ -1,0 +1,125 @@
+{
+    "timestamp": 1737657285,
+    "result": {
+        "lakeName": "Ann",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.89,
+        "DOWNumber": 31030500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 70.0,
+        "areaAcres": 95.53,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 20.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "Good private road on the NE shore of the lake; no public access.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "105413",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "0.5-3.3",
+                        "totalWeight": 2.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.6-1.0",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "4.8-12.5",
+                        "totalWeight": 10.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.67",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "1.0-4.8",
+                        "totalWeight": 1.8,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "8.3-50.1",
+                        "totalWeight": 3.1,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.62",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "2.0-21.5",
+                        "totalWeight": 0.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11.8,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "5.90",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "0.8-4.3",
+                        "totalWeight": 1.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Fish population is within normal limits for this type of lake.</p>",
+                "headerInfo": [
+                    "Ann",
+                    null,
+                    "31030500",
+                    "1979-08-20",
+                    "105413",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-08-20",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

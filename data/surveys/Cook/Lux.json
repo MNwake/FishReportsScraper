@@ -1,0 +1,97 @@
+{
+    "timestamp": 1737650981,
+    "result": {
+        "lakeName": "Lux",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.85,
+        "DOWNumber": 16022300,
+        "waterClarity": [
+            [
+                "08/16/1984",
+                "9.5"
+            ]
+        ],
+        "averageWaterClarity": "9.5",
+        "littoralAcres": 41.0,
+        "areaAcres": 48.35,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 21.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109925",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.4",
+                        "totalWeight": 0.25,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.6",
+                        "species": "BUB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "2.0-8.5",
+                        "totalWeight": 13.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.96",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "2.5-14.3",
+                        "totalWeight": 0.85,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "8.50",
+                        "quartileCount": "1.6-8.4",
+                        "totalWeight": 24.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.9-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.44",
+                        "totalCatch": 17
+                    }
+                ],
+                "narrative": "<p>NORTHERN PIKE NUMBERS ARE HIGH, AND A FAIRLY GOOD RANGE OF AGE CLASSES IS PRESENT. GROWTH RATES ARE GOOD, THANKS TO A FAIR FORAGE BASE OF PERCH AND WHITE SUCKERS. SPAWNING AREAS ARE LIMITED HOWEVER, AND THERE IS SOME POTENTIAL FOR MISSED YEAR- CLASSES.</p>",
+                "headerInfo": [
+                    "Lux",
+                    null,
+                    "16022300",
+                    "1984-08-16",
+                    "109925",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1984-08-16",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

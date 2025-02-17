@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737652099,
+    "result": {
+        "lakeName": "Whisker",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.2,
+        "DOWNumber": 16033800,
+        "waterClarity": [
+            [
+                "06/29/1979",
+                "4"
+            ]
+        ],
+        "averageWaterClarity": "4.0",
+        "littoralAcres": 18.44,
+        "areaAcres": 18.44,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "PRMIT",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109710",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "3.0-23.0",
+                        "totalWeight": 3.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.44",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Whisker Lake has a population of small Suckers (probably migrants) and Minnows.</p>",
+                "headerInfo": [
+                    "Whisker",
+                    null,
+                    "16033800",
+                    "1979-06-28",
+                    "109710",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-06-28",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

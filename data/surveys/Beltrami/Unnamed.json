@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737531734,
+    "result": {
+        "lakeName": "Unnamed",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.42,
+        "DOWNumber": 4038500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 5.0,
+        "areaAcres": 6.2,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 45.0,
+        "officeCode": "F112",
+        "accesses": [
+            {
+                "location": "LOGGING TRAIL OFF OF A TOWNSHIP ROAD LEADS TO THE NORTH SIDE OF LAKE ON TAX FORFEITED LAND.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "100402",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5.6,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "5.60",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "19.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.15,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.9,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.90",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>THE LAKE APPEARS TO HAVE A SMALL RESIDENT GAME FISH POPULATION CONSISTING OF NORTHERN PIKE WITH YELLOW PERCH AS THE PRIMARY FORAGE SPECIE.  NO TROUT WERE CAPTURED.</p>",
+                "headerInfo": [
+                    "Unnamed",
+                    null,
+                    "04038500",
+                    "1984-08-08",
+                    "100402",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1984-08-08",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Beltrami"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

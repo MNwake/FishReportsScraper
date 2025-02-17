@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737671810,
+    "result": {
+        "lakeName": "Pike",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.3,
+        "DOWNumber": 70007600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 48.97,
+        "areaAcres": 48.97,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 9.0,
+        "officeCode": "F314",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "121287",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.60",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Test nettting in Pike Lake caught 2 BLB and 1 YP in 3 trap nets and numerous salamanders in the gillnet set.</p>",
+                "headerInfo": [
+                    "Pike",
+                    null,
+                    "70007600",
+                    "1978-07-20",
+                    "121287",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1978-07-20",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Scott"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

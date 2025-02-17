@@ -1,0 +1,199 @@
+{
+    "timestamp": 1737669264,
+    "result": {
+        "lakeName": "Chub",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.53,
+        "DOWNumber": 69081500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 126.43,
+        "areaAcres": 126.43,
+        "meanDepthFeet": 9.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F217",
+        "accesses": [
+            {
+                "location": "No designated access.  User maintained portage trail off of USFS Road 493B.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112057",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.33",
+                        "quartileCount": "1.3-4.8",
+                        "totalWeight": 16077.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.9-2.5",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.81",
+                        "totalCatch": 44
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.3-1.7",
+                        "totalWeight": 110.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "16.17",
+                        "quartileCount": "2.0-11.5",
+                        "totalWeight": 96799.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.1-2.1",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.20",
+                        "totalCatch": 97
+                    }
+                ],
+                "narrative": "<p>Chub is a remote 129 acre lake located seven miles northeast of Ash Lake.  Maximum depth is 15 feet and the waters are strongly bog-stained.  The shoreline is heavily forested and near shore substrates are dominated by boulders (>10\" diameter) and rubble (3-10\" diameter).  Outcroppings of ledgerock are also common.  There are no permanent dwellings on the lake.  The survey crew accessed the lake by portaging 0.25 miles off a US Forest Service forest road.     Test netting during this investigation indicated that Chub Lake is home to a very simple fish community.  Only three species of fish were captured in the gill nets; white sucker, walleye and golden shiner.Walleye gill-net abundance (7.33/lift) in 2005 was relatively high falling within the upper 25% of all Class 19 lakes in Minnesota and all walleye lakes in the International Falls Management Area (IFMA).  The only previous investigation on Chub Lake was conducted in 1973 and also reported high abundance (6.67/lift).  Most of the walleye sampled in 2005, however, were small.  Lengths of walleye captured ranged from 8.0 to 17.1 inches with a mean of 13.2 inches.  Half of the walleye captured were between 14.0 and 16.0 inches in length.  No walleye over 18.0 inches were captured. Lengths of walleye captured in 1973 were similar. Growth of Chub Lake walleye was below the IFMA average.  White sucker gill-net abundance (16.17/lift) was less than that reported in 1973 (58.17/lift) but still ranked high for Class 19 lakes. Lengths of suckers ranged from 9.7 to 21.6 inches. The average individual weight was 2.26 pounds. The only other species reported during the 2005 investigation was golden shiner.</p>",
+                "headerInfo": [
+                    "Chub",
+                    null,
+                    "69081500",
+                    "2005-07-18",
+                    "112057",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2005-07-18",
+                "lengths": {
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                7
+                            ],
+                            [
+                                12,
+                                6
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                6
+                            ],
+                            [
+                                16,
+                                19
+                            ],
+                            [
+                                17,
+                                13
+                            ],
+                            [
+                                18,
+                                11
+                            ],
+                            [
+                                19,
+                                18
+                            ],
+                            [
+                                20,
+                                7
+                            ],
+                            [
+                                21,
+                                3
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 21
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                6
+                            ],
+                            [
+                                15,
+                                16
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                6
+                            ],
+                            [
+                                9,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 17
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

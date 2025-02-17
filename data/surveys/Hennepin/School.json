@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737551165,
+    "result": {
+        "lakeName": "School",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.83,
+        "DOWNumber": 27015100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 8.0,
+        "areaAcres": 11.2,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 19.0,
+        "officeCode": "F314",
+        "accesses": [
+            {
+                "location": "Canoe launched from private road at outlet on East end.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "121262",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "19.00",
+                        "quartileCount": "11.5-57.8",
+                        "totalWeight": 7.2,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.5",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 19
+                    }
+                ],
+                "narrative": "<p>Blk Bullhead were the only fish taken in the net.</p>",
+                "headerInfo": [
+                    "School",
+                    null,
+                    "27015100",
+                    "1979-07-26",
+                    "121262",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1979-07-26",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Hennepin"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

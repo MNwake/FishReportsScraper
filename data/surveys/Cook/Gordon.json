@@ -1,0 +1,157 @@
+{
+    "timestamp": 1737650568,
+    "result": {
+        "lakeName": "Gordon",
+        "sampledPlants": [],
+        "shoreLengthMiles": 6.98,
+        "DOWNumber": 16056900,
+        "waterClarity": [
+            [
+                "08/16/1983",
+                "13"
+            ],
+            [
+                "08/16/1983",
+                "13"
+            ]
+        ],
+        "averageWaterClarity": "13.0",
+        "littoralAcres": 63.3,
+        "areaAcres": 134.6,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 95.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Entirely inside the BWCAW.  Access by portage trail from the Long Island River; Cherokee Lake; and Unload Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109905",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 6.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.5-4.0",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "6.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "4.67",
+                        "quartileCount": "0.6-2.4",
+                        "totalWeight": 18.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "2.1-4.9",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.29",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 5.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.67",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>ALL SPECIES EXCEPT NORTHERN PIKE APPEAR TO BE LOW IN ABUNDANCE.</p>",
+                "headerInfo": [
+                    "Gordon",
+                    null,
+                    "16056900",
+                    "1983-08-16",
+                    "109905",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1983-08-16",
+                "lengths": {}
+            },
+            {
+                "surveyID": "111041",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.6-2.4",
+                        "totalWeight": 320.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "2.1-4.9",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.71",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 4653.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.42",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Catches of fish of any species were very low in the 1999 survey, and were much lower than catches observed in the last (1983) survey.  Some of the change may have been due to a shift in net locations to deeper waters.  No lake trout were collected in 1999, but temperature-oxygen conditions remained suitable (if marginal) for the species, and it was likely that a small number were still present.  A single lake trout was collected in 1983.</p>",
+                "headerInfo": [
+                    "Gordon",
+                    null,
+                    "16056900",
+                    "1999-08-06",
+                    "111041",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1999-08-06",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 19,
+                        "maximum_length": 20
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 15
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

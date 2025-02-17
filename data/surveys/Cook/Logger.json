@@ -1,0 +1,160 @@
+{
+    "timestamp": 1737650939,
+    "result": {
+        "lakeName": "Logger",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.67,
+        "DOWNumber": 16010300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 16.01,
+        "areaAcres": 16.01,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 4.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "11381421760310000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.50",
+                        "quartileCount": "4.0-15.0",
+                        "totalWeight": 8757.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.29",
+                        "totalCatch": 15
+                    }
+                ],
+                "narrative": "<p>Logger is a small, very shallow lake that was briefly managed for stream trout (in the 1960s) without success, and used as a walleye rearing pond for a few years (1984-1992) with mixed success.  Use as a rearing pond was discontinued when northern pike became established in the lake and walleye production dropped to zero. <br> \n <br> \nA full survey of Logger Lake was scheduled in 2014 to monitor the northern pike population and to determine whether the lake was suitable for the introduction of minnows or yellow perch as forage.  Unfortunately, funding and staffing in 2014 did not allow completion of a full survey; instead, an assessment using two gill net and eight minnow trap sets was done in June. <br> \n <br> \nThe winter of 2013-2014 was severe, and we thought some lakes in the area might winterkill.  Logger Lake, which was known to be very shallow, and suspected of past winterkills, seemed a likely candidate.  Results of the 2014 assessment indicate conditions in Logger Lake were not severe enough to eliminate northern pike, which are very tolerant of low winter oxygen levels.  The 2014 catch was within the normal range for lakes of this class, and was similar to the catch observed in the last (2007) assessment.  Northern pike collected in 2014 were small,with none larger than 20 inches taken.  No scale samples were collected, but from the length frequency distribution it appeared the catch may have consisted of just one or two year classes.  Based on aging done as part of the 2007 assessment, northern pike collected in 2014 were probably all three or four-year-old fish.  Growth in this lake was slow in 2007 (and presumably in 2014 as well) due to a lack of forage fish. <br> \n <br> \nNo fish of any kind were taken in eight minnow trap sets.  Although minnow traps do not sample nearshore fishes as well as standard trap nets, seines, or electrofishing, the failure to catch anything suggested few minnows or other small fish were present in 2014. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Logger",
+                    null,
+                    "16010300",
+                    "2014-06-11",
+                    "11381421760310000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2014-06-11",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                4
+                            ],
+                            [
+                                19,
+                                4
+                            ],
+                            [
+                                20,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 20
+                    }
+                }
+            },
+            {
+                "surveyID": "220723346892009",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "4.0-15.0",
+                        "totalWeight": 7752.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.07",
+                        "totalCatch": 16
+                    }
+                ],
+                "narrative": "<p>Logger Lake could offer fair fishing for small northern pike.  Growth of northern pike was relatively slow, due to a lack of forage fish.  The lake is unlikely to produce large fish, due to slow growth and the lake's small size and shallow depth.\n</p>",
+                "headerInfo": [
+                    "Logger",
+                    null,
+                    "16010300",
+                    "2007-07-19",
+                    "220723346892009",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2007-07-19",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                4
+                            ],
+                            [
+                                23,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 23
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

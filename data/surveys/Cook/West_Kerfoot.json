@@ -1,0 +1,97 @@
+{
+    "timestamp": 1737652052,
+    "result": {
+        "lakeName": "West Kerfoot",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.98,
+        "DOWNumber": 16058700,
+        "waterClarity": [
+            [
+                "09/11/1978",
+                "7.5"
+            ]
+        ],
+        "averageWaterClarity": "7.5",
+        "littoralAcres": 23.02,
+        "areaAcres": 23.02,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via very difficult 1/4 mile portage from East Kerfoot Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109786",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "31.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 150.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.42",
+                        "totalCatch": 62
+                    },
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.7,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "7.50",
+                        "quartileCount": "0.6-4.3",
+                        "totalWeight": 9.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.5-1.2",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.60",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "34.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6.25,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 68
+                    }
+                ],
+                "narrative": "<p>West Kerfoot has good populations of LM Bass, Bluegills and Suckers with some Pumpkinseed Sunfsh also.</p>",
+                "headerInfo": [
+                    "West Kerfoot",
+                    "Kerfoot",
+                    "16058700",
+                    "1978-09-11",
+                    "109786",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-09-11",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

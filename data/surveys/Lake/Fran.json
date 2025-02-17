@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737662332,
+    "result": {
+        "lakeName": "Fran",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.73,
+        "DOWNumber": 38077100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 14.0,
+        "areaAcres": 20.61,
+        "meanDepthFeet": 11.0,
+        "maxDepthFeet": 19.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112203",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.2-3.4",
+                        "totalWeight": 0.1,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "0.7-4.8",
+                        "totalWeight": 8.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.6-2.1",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.67",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "1.1-5.8",
+                        "totalWeight": 10.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.8-3.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.75",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "1.1-12.4",
+                        "totalWeight": 0.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 15.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.00",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Northern Pike catch in gillnets was 1.5 times the area average. Yellow Perch and White Sucker catches in gillnets were well below the area averages. </p>",
+                "headerInfo": [
+                    "Fran",
+                    null,
+                    "38077100",
+                    "1985-08-26",
+                    "112203",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1985-08-26",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,339 @@
+{
+    "timestamp": 1737665726,
+    "result": {
+        "lakeName": "Foster-Arend",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.73,
+        "DOWNumber": 55001900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 6.0,
+        "areaAcres": 17.69,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 42.0,
+        "officeCode": "F317",
+        "accesses": [
+            {
+                "location": "FUTURE PLANS CALL FOR ROCHESTER PARK AND REC TO DEVELOP A SWIMMING BEACH AND FISHING DOCKS ON EAST SHORE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "3520913840571000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 98.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLC",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.22",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 126.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.09",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "18.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11262.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "1.38",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "28.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1102.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.09",
+                        "totalCatch": 28
+                    }
+                ],
+                "narrative": "<p>Foster Arend Lake is an 18 acre former gravel pit located in Foster Arend Park in Rochester.  The park provides ample parking and a handicapped accessible fishing pier is present.  A beach with consession stand and restrooms is also located in the park. <br> \n <br> \nDue to the steep dropping shoreline trap netting is not effective therefore electrofishing was used to sample the gamefish population.  The total catch was low.  Twenty-eight bluegill, 18 largemouth bass, 3 green sunfish, and 1 black crappie were collected.  Bluegill were small with an average length of 5.2 inches.  Largemouth bass had a mean length of 12.4 inches and a maximum size of 20.8 inches. Several additional large bass were observed but not captured.   <br> \n <br> \nFoster Arend Lake is unique in that it is managed as a two-story fishery with the stocking of catchable size rainbow trout.  In this evaluation, numerous rainbow trout were observed.  The management plan for Foster-Arend calls for 10,000 rainbow trout to be stocked annually and they are very popular with anglers, particularly during the ice fishing season.  </p>",
+                "headerInfo": [
+                    "Foster-Arend",
+                    null,
+                    "55001900",
+                    "2009-05-20",
+                    "3520913840571000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2009-05-20",
+                "lengths": {
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                5,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 5
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                5
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 20
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                3
+                            ],
+                            [
+                                4,
+                                9
+                            ],
+                            [
+                                5,
+                                11
+                            ],
+                            [
+                                6,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 6
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 7
+                    }
+                }
+            },
+            {
+                "surveyID": "119762",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.3-2.8",
+                        "totalWeight": 0.1,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "0.5-4.5",
+                        "totalWeight": 2.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "WHC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.5-2.5",
+                        "totalWeight": 1.9,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.0-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.95",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CCF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.65",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "9.40",
+                        "quartileCount": "2.9-41.2",
+                        "totalWeight": 6.2,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 47
+                    },
+                    {
+                        "CPUE": "14.40",
+                        "quartileCount": "1.5-9.1",
+                        "totalWeight": 10.6,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "WHC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 72
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.7-4.3",
+                        "totalWeight": 0.2,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.2",
+                        "totalWeight": 0.9,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.9",
+                        "species": "WHB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.90",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.80",
+                        "quartileCount": "0.7-16.4",
+                        "totalWeight": 5.1,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.6",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.36",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.4,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "CCF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.40",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.40",
+                        "quartileCount": "0.3-1.2",
+                        "totalWeight": 3.8,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.4-3.0",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.90",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "1.9-19.1",
+                        "totalWeight": 0.4,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>A fair to good population of various species is present in the system. Largemouth bass are well represented and reproduction appears adequate. Crappies and bluegill are of a borderline size, which may or may not be acceptable to anglers. Walleyes were stocked by the previous owner and will provide a short term fishery of only a few years. Although white bass are present, no reproduction is possible and fishing opportunity is limited to a short period of time. Crappies, bluegills, largemouth bass and bullheads make up the present fishable population.</p>",
+                "headerInfo": [
+                    "Foster-Arend",
+                    null,
+                    "55001900",
+                    "1982-06-30",
+                    "119762",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1982-06-30",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Olmsted"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

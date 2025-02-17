@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737650840,
+    "result": {
+        "lakeName": "Lantern",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.67,
+        "DOWNumber": 16019500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 8.5,
+        "areaAcres": 12.07,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 30.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110016",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7.44,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.24",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "53.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 10.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 53
+                    }
+                ],
+                "narrative": "<p>SUCKERS HAVE TOTALLY RECOVERED FROM REMOVAL DONE IN 1980 AND 1981. THEY ARE PRESENT IN HIGH NUMBERS THERE ARE LARGE NUMBERS OF SMALL BROOK TROUT PRE- SENT. THERE IS KNOWN TO BE SOME NATURAL BROOK TROUT REPRODUCTION AFFECTING THIS LAKE. NO RAINBOWS WERE TAKEN, BUT ANGLERS CONSISTENTLY CATCH THEM.</p>",
+                "headerInfo": [
+                    "Lantern",
+                    null,
+                    "16019500",
+                    "1986-05-20",
+                    "110016",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-05-20",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

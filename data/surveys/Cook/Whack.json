@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737652081,
+    "result": {
+        "lakeName": "Whack",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.8,
+        "DOWNumber": 16041000,
+        "waterClarity": [
+            [
+                "06/29/1974",
+                "2"
+            ]
+        ],
+        "averageWaterClarity": "2.0",
+        "littoralAcres": 26.0,
+        "areaAcres": 29.86,
+        "meanDepthFeet": 8.0,
+        "maxDepthFeet": 27.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "PRMIT",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109749",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.50",
+                        "quartileCount": "1.1-5.8",
+                        "totalWeight": 15.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-3.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.79",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 20.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.00",
+                        "totalCatch": 20
+                    }
+                ],
+                "narrative": "<p>Whack Lake has a good population of small sized N Pike.  No other fish were found.</p>",
+                "headerInfo": [
+                    "Whack",
+                    null,
+                    "16041000",
+                    "1974-06-28",
+                    "109749",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1974-06-28",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

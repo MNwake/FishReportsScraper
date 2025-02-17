@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737663213,
+    "result": {
+        "lakeName": "Round Island",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.64,
+        "DOWNumber": 38041700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 54.82,
+        "areaAcres": 54.82,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 4.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112242",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "17.25",
+                        "quartileCount": "0.5-3.8",
+                        "totalWeight": 9.4,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 69
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.4-1.8",
+                        "totalWeight": 0.1,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.0-2.3",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 6.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.63",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.50",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>The fish population is dominated by Yellow Perch, various minnows and White Sucker. Two Northern Pike and one Walleye were sampled. The Walleye is most likely a migrant from Delay Lake. </p>",
+                "headerInfo": [
+                    "Round Island",
+                    null,
+                    "38041700",
+                    "1983-06-27",
+                    "112242",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1983-06-27",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": 1737651656,
+    "result": {
+        "lakeName": "South Temperance",
+        "sampledPlants": [],
+        "shoreLengthMiles": 10.09,
+        "DOWNumber": 16045700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 151.0,
+        "areaAcres": 214.3,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 24.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109989",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.50",
+                        "quartileCount": "1.2-3.9",
+                        "totalWeight": 22.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.5-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.50",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "0.2-0.7",
+                        "totalWeight": 18.75,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.3-2.2",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.94",
+                        "totalCatch": 20
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "3.0-13.2",
+                        "totalWeight": 19.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.7-1.3",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.75",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.5-2.8",
+                        "totalWeight": 0.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "2.6-11.7",
+                        "totalWeight": 24.45,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.7-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.06",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.0-5.3",
+                        "totalWeight": 3.75,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.8",
+                        "species": "TLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.88",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>ABUNDANCE AND SIZE OF WALLEYES IS GOOD. THERE APPEARS TO BE FAIRLY RELIABLE NATURAL REPRODUCTION GROWTH RATES ARE GOOD. SMALLMOUTH BASS ARE PRESENT IN GOOD NUMBERS. GROWTH IS GOOD, AND THERE ARE SOME LARGE INDIVIDUALS PRESENT. A SMALL NORTHERN CISCO POPULATION IS PRESENT, AND THERE ARE GOOD NUMBERS OF SMALL NORTHERN PIKE.</p>",
+                "headerInfo": [
+                    "South Temperance",
+                    null,
+                    "16045700",
+                    "1986-09-04",
+                    "109989",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-09-04",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737657470,
+    "result": {
+        "lakeName": "Big Jack",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.15,
+        "DOWNumber": 31062700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 25.51,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 46.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "NONE - TRAIL ON NORTH SIDE OF LAKE VIA USFS. ROAD.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "105837",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "90.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 72.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 363
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>BLUEGILLS ARE VERY ABUNDANT, BUT SMALL IN SIZE. LACK LACKS PREDATOR SPECIES.</p>",
+                "headerInfo": [
+                    "Big Jack",
+                    null,
+                    "31062700",
+                    "1987-07-23",
+                    "105837",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1987-07-23",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

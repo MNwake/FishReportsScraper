@@ -1,0 +1,158 @@
+{
+    "timestamp": 1737670370,
+    "result": {
+        "lakeName": "McCormack",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.49,
+        "DOWNumber": 69091400,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 21.0,
+        "areaAcres": 54.93,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 25.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "Public access off County Road #484  state ownership.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "105620",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.2-5.7",
+                        "totalWeight": 5.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.6-3.3",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.67",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.6-7.6",
+                        "totalWeight": 7.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.1",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.33",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "20.50",
+                        "quartileCount": "2.4-16.0",
+                        "totalWeight": 16.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 82
+                    },
+                    {
+                        "CPUE": "0.75",
+                        "quartileCount": "0.3-11.3",
+                        "totalWeight": 3.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.3-0.9",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.17",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "1.75",
+                        "quartileCount": "1.8-9.7",
+                        "totalWeight": 3.2,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.3",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.46",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.4-2.0",
+                        "totalWeight": 3.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.6-2.6",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "3.50",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "0.4-3.8",
+                        "totalWeight": 3.9,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 22
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.6,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.60",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "2.0-16.5",
+                        "totalWeight": 0.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>The population of fishes other than Bluegill are below state and local medians.  Limited littoral area appears to be responsible for low population levels.  Natural reproduction seems adequate for population maintenance.</p>",
+                "headerInfo": [
+                    "McCormack",
+                    null,
+                    "69091400",
+                    "1982-07-12",
+                    "105620",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1982-07-12",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

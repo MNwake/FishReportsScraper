@@ -1,0 +1,125 @@
+{
+    "timestamp": 1737651840,
+    "result": {
+        "lakeName": "Tomato",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.36,
+        "DOWNumber": 16007000,
+        "waterClarity": [
+            [
+                "07/12/1971",
+                "4"
+            ],
+            [
+                "06/13/2011",
+                "3.5"
+            ]
+        ],
+        "averageWaterClarity": "3.8",
+        "littoralAcres": 0.0,
+        "areaAcres": 26.78,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 19.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "4311117050956000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 10631.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.60",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "0.10",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.01",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 109.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Tomato Lake has been managed for rainbow trout since 2004.  To satisfy a demand for high-quality rainbow trout fisheries, the lake is managed under a special regulation that closes the lake to winter fishing.  During the open-water season, the lake is open to catch-and-release fishing only, and anglers can use only artificial llures and flies with a single hook (no live baits).  Because exploitation was expected to be light, and because the lake was not known to support any predator fish species, it was scheduled to be stocked every other year with small spring fingerlings. <br> \n <br> \nFew angler reports have been recieved from Tomato Lake since stocking began, but the reports that were provided were disturbing.  An angler who fished the lake in 2009 reported catching many largemouth bass, and no rainbow trout.  Another angler who fished the lake in 2010 reported one largemouth bass and \"a bunch\" of smallmouth bass, but no rainbow trout.  To confirm the presence of bass in this lake, a population assessment was scheduled for 2011. <br> \n <br> \nNo rainbow trout were taken in the two gill net sets used in 2011.  Because the number of sets was low, we can't be very confident that the zero catch means that no rainbow trout were present.  Largemouth bass were found in 2011, but given the light sampling effort, we are not able to make any judgements as to their abundance.  The presence of largemouth bass, and the possible lack of rainbow trout, confirmed to some degree previous reports from anglers.  White sucker were also present; it appeared from their length frequency distribution that all the fish collected would have been adults. <br> \n <br> \nThe lack of rainbow trout in the 2011 catch could have been the result of predation on stocked fish by largemouth bass; however, even if largemouth bass had not been present, the 2011 assessment was not likely to have yielded a normal rainbow trout catch.  Only fish stocked in 2010 would likely have been present in significant numbers in 2011.  Those fish should have been large enough in June 2011 to have been vulnerable to standard gill nets, but with only a single year class present, overall rainbow trout numbers would still have been lower than usual.  The average gill net catch for rainbow trout in spring assessments in Grand Marais area stream trout lakes is just one fish per net. it would be easy to miss the species entirely if their numbers, and netting effort, were low. <br> \n <br> \nLarger fingerlings had been requested for the 2012 stocking, in hopes that larger fish would be less vulnerable to predation.  Unfortunately, disease problems at State hatcheries have once again forced the cancellation of rainbow trout stocking in Tomato Lake.  Stocking planned for 2012 is not likely to be possible.  That means Tomato Lake could not be expected to support a rainbow trout fishery any earlier than late 2015 or 2016, assuming we are able to resume stocking in 2014. <br> \n</p>",
+                "headerInfo": [
+                    "Tomato",
+                    null,
+                    "16007000",
+                    "2011-06-13",
+                    "4311117050956000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2011-06-13",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                5
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                19,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 16,
+                        "maximum_length": 19
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                2,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 8
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

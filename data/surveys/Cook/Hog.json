@@ -1,0 +1,257 @@
+{
+    "timestamp": 1737650660,
+    "result": {
+        "lakeName": "Hog",
+        "sampledPlants": [],
+        "shoreLengthMiles": 4.3,
+        "DOWNumber": 16065300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 128.0,
+        "areaAcres": 127.92,
+        "meanDepthFeet": 5.0,
+        "maxDepthFeet": 7.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "A logging road provided access to a short trail on the southeast end of Hog Lake. This road is now impassable; restricting access to foot; ATV or bike.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112591",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "18.25",
+                        "quartileCount": "3.0-9.0",
+                        "totalWeight": 34736.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.2-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.05",
+                        "totalCatch": 73
+                    },
+                    {
+                        "CPUE": "3.25",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 562.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "21.50",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 83760.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.15",
+                        "totalCatch": 86
+                    }
+                ],
+                "narrative": "<p>The fish population in Hog Lake is comprised of northern pike, yellow perch and white sucker. The lake has a history of supporting a high population of small size northern pike. The 1994 survey again found high numbers of northern pike, with fish up to 28.5 inches observed, however northern pike over 22.0 inches are uncommon. Average size was only 17.5 inches for northern pike. The poor quality (size) of northern pike is related to the scarcity of yellow perch for forage. The small size of yellow perch (6 inch average) also leaves them undesirable to anglers.</p>",
+                "headerInfo": [
+                    "Hog",
+                    null,
+                    "16065300",
+                    "1994-07-18",
+                    "112591",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1994-07-18",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                4
+                            ],
+                            [
+                                15,
+                                9
+                            ],
+                            [
+                                16,
+                                13
+                            ],
+                            [
+                                17,
+                                22
+                            ],
+                            [
+                                18,
+                                14
+                            ],
+                            [
+                                19,
+                                5
+                            ],
+                            [
+                                20,
+                                3
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                28,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 13,
+                        "maximum_length": 28
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                14,
+                                6
+                            ],
+                            [
+                                15,
+                                19
+                            ],
+                            [
+                                16,
+                                17
+                            ],
+                            [
+                                17,
+                                14
+                            ],
+                            [
+                                18,
+                                7
+                            ],
+                            [
+                                19,
+                                12
+                            ],
+                            [
+                                20,
+                                7
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 21
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                9
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 8
+                    }
+                }
+            },
+            {
+                "surveyID": "112613",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 36
+                    },
+                    {
+                        "CPUE": "13.50",
+                        "quartileCount": "3.0-9.0",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 27
+                    },
+                    {
+                        "CPUE": "29.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 58
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 10
+                    }
+                ],
+                "narrative": "<p>Hog Lake is a 192 acre, soft-water lake in the headwater area of the Kawishiwi River Watershed. The lake lies within the Superior National Forest and is entirely surounded by federal land. Access can be gained from Forest Route #347 which runs within 100 feet of the south shore. The lake is quite shallow, having a maximum depth of 7 feet. While the water level is quite stable, fluctuatin about 10 inches annually. The lake has no inlets, but receives its water by runoff from the surrrounding hills. The lake has one outlet. Beaver, although not presently active, have built a dam at the outlet maintaining the present water level.     Shoal water soils consist of 60% muck, 39% gravel and boulder, and a trace of sand. The bottom soils are silt and muck over gravel and boulder. The watershed soils are mainly gravel and boulder with a mixed forest of birch, aspen and various pine for cover. There is a marsh area at the outlet.     Aquatic vegetation is sparse and is scattered throughout most of the lake to depth of 6 feet.     Northern Pike was the only species of gamefish taken by testnetting, however White Sucker were also taken. Yellow Perch and Johnny Darters were taken by shoal water seining.     Spawning conditions were rated \"fair\" for Northern Pike and Smallmouth Bass and \"poor\" for Walleye, Largemouth Bass and centrarchid panfish.     Fishing pressure is very light on Hog Lake because of its remote location, however , one logger in the area reported that numerous small Northern Pike are taken.</p>",
+                "headerInfo": [
+                    "Hog",
+                    null,
+                    "16065300",
+                    "1966-08-11",
+                    "112613",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1966-08-11",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

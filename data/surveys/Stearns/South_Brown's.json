@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737672771,
+    "result": {
+        "lakeName": "South Brown's",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.75,
+        "DOWNumber": 73014800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 65.09,
+        "areaAcres": 65.09,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F315",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "115675",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.9,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BOF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.32",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.6,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.60",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.6,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>South Browns Lake is a 65 acre shallow lake located 3 miles north of the City of Eden Lake in Stearns County. The maximum lake depth found during the survey was 5 feet, with an average depth of 3.5 feet. A carry-in access owned by the U.S. Fish and Wildlife Service is located in the southwest side of the lake and is suitable for portable watercraft like canoes, and kayaks. <br> \n <br> \nVegetation diversity and abundance were both somewhat low across South Browns Lake. Coontail, sago pondweed, and yellow water lily were the dominant plant species found, with northern milfoil, and flat-stem pondweed also sampled during the survey. The fringe of the lake was made up of cattails and bulrushes, with forest coming to the water's edge in several locations. <br> \n <br> \nA single 19.5 inch northern pike was sampled in trap nets along with 11 black bullhead all less than 10 inches and 6 bowfin (dogfish).  The shallowness of South Browns Lake along with the type of species present indicate a tendency to periodically winterkill during moderate to severe winters with above average snowfall.  A connection to North Browns Lake exists and is likely how fish repopulate the lake after such winterkill events.   <br> \n</p>",
+                "headerInfo": [
+                    "South Brown's",
+                    null,
+                    "73014800",
+                    "1972-07-31",
+                    "115675",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-07-31",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Stearns"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

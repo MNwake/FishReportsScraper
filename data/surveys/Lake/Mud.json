@@ -1,0 +1,114 @@
+{
+    "timestamp": 1737662932,
+    "result": {
+        "lakeName": "Mud",
+        "sampledPlants": [],
+        "shoreLengthMiles": 4.38,
+        "DOWNumber": 38074200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 158.0,
+        "areaAcres": 182.01,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 16.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portage from Fall Lake-1 mile  portage from Ella Hall-85 rods.  Portage from Four Mile Prtg-40 rods",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108064",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.4-2.8",
+                        "totalWeight": 0.25,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.17",
+                        "quartileCount": "0.8-4.4",
+                        "totalWeight": 17.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.43",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "8.33",
+                        "quartileCount": "3.0-8.3",
+                        "totalWeight": 88.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.4-3.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.76",
+                        "totalCatch": 50
+                    },
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "4.5-19.0",
+                        "totalWeight": 8.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 60
+                    },
+                    {
+                        "CPUE": "7.17",
+                        "quartileCount": "2.0-11.5",
+                        "totalWeight": 97.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.1-2.1",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.26",
+                        "totalCatch": 43
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 16.5,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.38",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>(Two deer were observed, one doe & one fawn. Mud Lake has above average populations of northern pike, yellow perch, and suckers.</p>",
+                "headerInfo": [
+                    "Mud",
+                    null,
+                    "38074200",
+                    "1981-08-15",
+                    "108064",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1981-08-15",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

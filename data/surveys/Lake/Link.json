@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737662796,
+    "result": {
+        "lakeName": "Link",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.77,
+        "DOWNumber": 38016300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 17.0,
+        "areaAcres": 38.1,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 34.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "By portage only-in BWCA.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107943",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "2.3-5.1",
+                        "totalWeight": 6.8,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.2",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.13",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "4.67",
+                        "quartileCount": "0.8-30.9",
+                        "totalWeight": 8.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.6-5.4",
+                        "species": "LKW",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.58",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 14.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.84",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>The northern pike population is below average in size and numbers.  The whitefish population is above average in number but below average in size. The white sucker population is about average.</p>",
+                "headerInfo": [
+                    "Link",
+                    null,
+                    "38016300",
+                    "1973-08-07",
+                    "107943",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-08-07",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

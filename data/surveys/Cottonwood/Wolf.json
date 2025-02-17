@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737652278,
+    "result": {
+        "lakeName": "Wolf",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.49,
+        "DOWNumber": 17001300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 60.69,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 0.0,
+        "officeCode": "F418",
+        "accesses": [
+            {
+                "location": "ROAD RIGHT-OF-WAY ON NORTH SIDE.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "119297",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "80.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 15.25,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 80
+                    },
+                    {
+                        "CPUE": "11.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CAP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.50",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 29.25,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BIB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "3.25",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1903.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 216.25,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 1903
+                    }
+                ],
+                "narrative": "<p>MOSTLY BLBS (SMALL), AND SEVERAL YEAR-CLASSES OF YEP.</p>",
+                "headerInfo": [
+                    "Wolf",
+                    null,
+                    "17001300",
+                    "1990-03-30",
+                    "119297",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1990-03-30",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cottonwood"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

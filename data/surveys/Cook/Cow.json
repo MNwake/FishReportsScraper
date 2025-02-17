@@ -1,0 +1,93 @@
+{
+    "timestamp": 1737650183,
+    "result": {
+        "lakeName": "Cow",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.46,
+        "DOWNumber": 16027100,
+        "waterClarity": [
+            [
+                "07/23/1974",
+                "12"
+            ]
+        ],
+        "averageWaterClarity": "12.0",
+        "littoralAcres": 19.0,
+        "areaAcres": 38.96,
+        "meanDepthFeet": 15.0,
+        "maxDepthFeet": 36.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109894",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "38.50",
+                        "quartileCount": "1.3-10.3",
+                        "totalWeight": 11.25,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 77
+                    }
+                ],
+                "narrative": "<p>YELLOW PERCH WERE THE ONLY SPECIES SAMPLED AND OBSERVED AND THEIR ABUNDANCE APPEARS GOOD.</p>",
+                "headerInfo": [
+                    "Cow",
+                    null,
+                    "16027100",
+                    "1983-07-11",
+                    "109894",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1983-07-11",
+                "lengths": {}
+            },
+            {
+                "surveyID": "109696",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "1.3-10.3",
+                        "totalWeight": 4.8,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 30
+                    }
+                ],
+                "narrative": "<p>Cow Lake appears to have high populations of Yel Perch similar to Calf Lake, however, Cow Lake, Perch were almost twice the size of Calf Lk Perch. No Minnows were taken in two large Minnow traps.</p>",
+                "headerInfo": [
+                    "Cow",
+                    null,
+                    "16027100",
+                    "1974-07-23",
+                    "109696",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1974-07-23",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

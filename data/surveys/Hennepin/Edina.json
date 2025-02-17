@@ -1,0 +1,200 @@
+{
+    "timestamp": 1737655348,
+    "result": {
+        "lakeName": "Arrowhead",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.09,
+        "DOWNumber": 27004500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 22.03,
+        "areaAcres": 22.03,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 7.0,
+        "officeCode": "F314",
+        "accesses": [
+            {
+                "location": "City of Edina access on the east side of the lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "121451",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "197.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Survey seining",
+                        "averageWeight": "0.00",
+                        "totalCatch": 394
+                    },
+                    {
+                        "CPUE": "84.29",
+                        "quartileCount": "0.2-12.4",
+                        "totalWeight": 51793.0,
+                        "gearCount": 7.0,
+                        "quartileWeight": "0.2-0.3",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 590
+                    },
+                    {
+                        "CPUE": "0.57",
+                        "quartileCount": "3.1-24.9",
+                        "totalWeight": 80.0,
+                        "gearCount": 7.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "39.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Survey seining",
+                        "averageWeight": "0.00",
+                        "totalCatch": 79
+                    },
+                    {
+                        "CPUE": "144.43",
+                        "quartileCount": "1.8-26.3",
+                        "totalWeight": 40362.0,
+                        "gearCount": 7.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 1011
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Survey seining",
+                        "averageWeight": "0.00",
+                        "totalCatch": 8
+                    }
+                ],
+                "narrative": "<p>Arrowhead Lake is a small, shallow winterkill lake. The 1995 lake survey found black bullheads and green sunfish dominating the population. Each species was sampled in numbers well above average for similar lakes. The average size of fish, for both species, was slightly below average. Only 4 bluegills were sampled during the survey, even though 400  were stocked by the city of Edina in 1994. None of the 600 Largemouth bass stocked by the city were sampled.</p>",
+                "headerInfo": [
+                    "Arrowhead",
+                    null,
+                    "27004500",
+                    "1995-08-02",
+                    "121451",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1995-08-02",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 4
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                3,
+                                13
+                            ],
+                            [
+                                4,
+                                96
+                            ],
+                            [
+                                5,
+                                598
+                            ],
+                            [
+                                6,
+                                173
+                            ],
+                            [
+                                7,
+                                72
+                            ],
+                            [
+                                8,
+                                26
+                            ],
+                            [
+                                9,
+                                32
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 11
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                11
+                            ],
+                            [
+                                4,
+                                29
+                            ],
+                            [
+                                5,
+                                99
+                            ],
+                            [
+                                6,
+                                354
+                            ],
+                            [
+                                7,
+                                90
+                            ],
+                            [
+                                8,
+                                8
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 8
+                    }
+                }
+            }
+        ],
+        "countyName": "Hennepin"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,125 @@
+{
+    "timestamp": 1737645359,
+    "result": {
+        "lakeName": "Pickerel",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.93,
+        "DOWNumber": 3005800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 63.0,
+        "areaAcres": 97.46,
+        "meanDepthFeet": 9.0,
+        "maxDepthFeet": 32.0,
+        "officeCode": "F114",
+        "accesses": [
+            {
+                "location": "No designated access.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "100955",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "64.57",
+                        "quartileCount": "0.6-5.2",
+                        "totalWeight": 109.6,
+                        "gearCount": 7.0,
+                        "quartileWeight": "0.4-0.9",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 452
+                    },
+                    {
+                        "CPUE": "1.14",
+                        "quartileCount": "1.5-9.1",
+                        "totalWeight": 1.05,
+                        "gearCount": 7.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "PMK",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.14",
+                        "quartileCount": "0.3-1.3",
+                        "totalWeight": 0.7,
+                        "gearCount": 7.0,
+                        "quartileWeight": "1.6-2.9",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.70",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "7.20",
+                        "quartileCount": "2.3-9.2",
+                        "totalWeight": 83.6,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.5-2.7",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.32",
+                        "totalCatch": 36
+                    },
+                    {
+                        "CPUE": "33.20",
+                        "quartileCount": "0.5-5.5",
+                        "totalWeight": 51.8,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.4-1.0",
+                        "species": "BRB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.31",
+                        "totalCatch": 166
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.5-3.3",
+                        "totalWeight": 0.4,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.6-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.40",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.86",
+                        "quartileCount": "N/A",
+                        "totalWeight": 26.2,
+                        "gearCount": 7.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.02",
+                        "totalCatch": 13
+                    }
+                ],
+                "narrative": "<p>bluebills use the lake each fall.</p>",
+                "headerInfo": [
+                    "Pickerel",
+                    null,
+                    "03005800",
+                    "1963-07-31",
+                    "100955",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1963-07-31",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Becker"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

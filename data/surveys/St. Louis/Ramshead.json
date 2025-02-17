@@ -1,0 +1,165 @@
+{
+    "timestamp": 1737670831,
+    "result": {
+        "lakeName": "Ramshead",
+        "sampledPlants": [],
+        "shoreLengthMiles": 7.62,
+        "DOWNumber": 69033900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 552.93,
+        "areaAcres": 552.93,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 10.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "USFS PORTAGES FROM NINA MOOSE RIVER ~1.2 MILE~ AND LAMB LAKE ~800 YDS~.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108485",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.80",
+                        "quartileCount": "2.0-6.0",
+                        "totalWeight": 192.7,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.3-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "5.67",
+                        "totalCatch": 34
+                    },
+                    {
+                        "CPUE": "132.80",
+                        "quartileCount": "4.7-15.8",
+                        "totalWeight": 57.8,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 664
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "0.3-4.0",
+                        "totalWeight": 0.9,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "9.40",
+                        "quartileCount": "3.0-11.0",
+                        "totalWeight": 49.5,
+                        "gearCount": 5.0,
+                        "quartileWeight": "1.4-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.05",
+                        "totalCatch": 47
+                    },
+                    {
+                        "CPUE": "0.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Fish populations were dominated by very high numbers of yellow perch, followed by northern pike and white sucker. A few golden shiner and pumpkin sunfish were also captured.  The average length of northern pike (29\" was very high for the area.  A few very large (12\") perch were captured. Yellow perch reproduction is very good, although no age II perch were captured. Yellow perch growth is slower than average for the area.</p>",
+                "headerInfo": [
+                    "Ramshead",
+                    null,
+                    "69033900",
+                    "1991-06-26",
+                    "108485",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1991-06-26",
+                "lengths": {}
+            },
+            {
+                "surveyID": "108154",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.67",
+                        "quartileCount": "2.0-6.0",
+                        "totalWeight": 55.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.3-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.77",
+                        "totalCatch": 20
+                    },
+                    {
+                        "CPUE": "44.00",
+                        "quartileCount": "3.2-13.7",
+                        "totalWeight": 125.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-1.3",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.95",
+                        "totalCatch": 132
+                    },
+                    {
+                        "CPUE": "36.67",
+                        "quartileCount": "4.7-15.8",
+                        "totalWeight": 29.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.2-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.27",
+                        "totalCatch": 110
+                    },
+                    {
+                        "CPUE": "33.00",
+                        "quartileCount": "3.0-11.0",
+                        "totalWeight": 139.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.4",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.40",
+                        "totalCatch": 99
+                    }
+                ],
+                "narrative": "<p>Consists of high population of suckers, northern pike, walleyes, and perch.  All species are below average in size.</p>",
+                "headerInfo": [
+                    "Ramshead",
+                    null,
+                    "69033900",
+                    "1976-09-03",
+                    "108154",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1976-09-03",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

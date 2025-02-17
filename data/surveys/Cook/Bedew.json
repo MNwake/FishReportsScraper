@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737649974,
+    "result": {
+        "lakeName": "Bedew",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.0,
+        "DOWNumber": 16030000,
+        "waterClarity": [
+            [
+                "06/28/1977",
+                "10.5"
+            ]
+        ],
+        "averageWaterClarity": "10.5",
+        "littoralAcres": 0.0,
+        "areaAcres": 33.76,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 18.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible from logging road on N side of lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109703",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "2.5-14.3",
+                        "totalWeight": 0.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "52.00",
+                        "quartileCount": "1.6-8.4",
+                        "totalWeight": 51.8,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.9-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 104
+                    }
+                ],
+                "narrative": "<p>Bedew Lake has a large population of Suckers and a low abundance of Perch.</p>",
+                "headerInfo": [
+                    "Bedew",
+                    null,
+                    "16030000",
+                    "1977-06-28",
+                    "109703",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1977-06-28",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

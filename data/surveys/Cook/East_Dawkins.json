@@ -1,0 +1,159 @@
+{
+    "timestamp": 1737650334,
+    "result": {
+        "lakeName": "East Dawkins",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.15,
+        "DOWNumber": 16041800,
+        "waterClarity": [
+            [
+                "08/29/1972",
+                "3.5"
+            ]
+        ],
+        "averageWaterClarity": "3.5",
+        "littoralAcres": 63.64,
+        "areaAcres": 63.64,
+        "meanDepthFeet": 7.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109752",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "2.8-8.5",
+                        "totalWeight": 2.3,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.15",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "1.3-5.0",
+                        "totalWeight": 17.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.43",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "2.0-16.0",
+                        "totalWeight": 6.8,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.76",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 48.4,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.30",
+                        "totalCatch": 21
+                    }
+                ],
+                "narrative": "<p>N Pike are present in small numbers and Perch are also low in number.  There appears to be a fair Walleye population of small fish for angling but not much evidence of fingerling or yearling size Walleyes present.</p>",
+                "headerInfo": [
+                    "East Dawkins",
+                    null,
+                    "16041800",
+                    "1972-08-29",
+                    "109752",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-08-29",
+                "lengths": {}
+            },
+            {
+                "surveyID": "109966",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "2.8-8.5",
+                        "totalWeight": 2.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.12",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "1.3-5.0",
+                        "totalWeight": 5.51,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.79",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "5.33",
+                        "quartileCount": "2.0-16.0",
+                        "totalWeight": 8.75,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.55",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "3.33",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 20.75,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.08",
+                        "totalCatch": 10
+                    }
+                ],
+                "narrative": "<p>THIS WALLEYE POPULATION IS SUPPORTED THROUGH (POSSIBLY) NATURAL REPRODUCTION, AND (POSSIBLY) MOVEMENT INTO THE LAKE FROM TUCKER LAKE, WHICH IS STOCKED WITH WALLEYE FRY REGULARLY. GROWTH IS SLOW, AND WALLLEYE NUMBERS ARE LOW. THERE IS A FAIRLY GOOD YELLOW PERCH POPULATION PRESENT, AND RELATIVELY LOW NUMBERS OF NORTHERN PIKE AND SUCKERS.</p>",
+                "headerInfo": [
+                    "East Dawkins",
+                    null,
+                    "16041800",
+                    "1986-08-07",
+                    "109966",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-08-07",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

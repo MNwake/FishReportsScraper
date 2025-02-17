@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737662392,
+    "result": {
+        "lakeName": "Gibson",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.22,
+        "DOWNumber": 38050800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 24.0,
+        "areaAcres": 33.03,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 24.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portages from -   Cattyman ~200 yards~ Ashigan ~1/3mi.~ Swing ~300 yards~.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108014",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "1.1-5.8",
+                        "totalWeight": 15.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-3.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.00",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "2.4-16.0",
+                        "totalWeight": 16.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.00",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "13.00",
+                        "quartileCount": "1.1-12.4",
+                        "totalWeight": 4.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 8.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.70",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "3.8",
+                        "totalWeight": 5.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4",
+                        "species": "TLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Composed of above average populations of cisco and perch, average populations of walleye and northern pike, & a below average population of suckers. Growth rates are above average for walleyes in this type of a lake.</p>",
+                "headerInfo": [
+                    "Gibson",
+                    null,
+                    "38050800",
+                    "1982-07-12",
+                    "108014",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1982-07-12",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

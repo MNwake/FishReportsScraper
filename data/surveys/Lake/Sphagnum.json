@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737663375,
+    "result": {
+        "lakeName": "Sphagnum",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.57,
+        "DOWNumber": 38057800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 10.87,
+        "areaAcres": 10.87,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 6.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112215",
+                "fishCatchSummaries": [],
+                "narrative": "<p>No fish were sampled in one gillnet. It is probable that some minnow species are present, but no minnow traps were set.</p>",
+                "headerInfo": [
+                    "Sphagnum",
+                    null,
+                    "38057800",
+                    "1985-08-14",
+                    "112215",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1985-08-14",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112388",
+                "fishCatchSummaries": [],
+                "narrative": "<p>No fish were sampled even though 507 surplus Rainbow Trout fingerlings were stocked in June 1986.</p>",
+                "headerInfo": [
+                    "Sphagnum",
+                    null,
+                    "38057800",
+                    "1988-06-30",
+                    "112388",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1988-06-30",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

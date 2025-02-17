@@ -1,0 +1,131 @@
+{
+    "timestamp": 1737655211,
+    "result": {
+        "lakeName": "Birch Island",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.42,
+        "DOWNumber": 27008100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 39.0,
+        "areaAcres": 7.26,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 21.0,
+        "officeCode": "F314",
+        "accesses": [
+            {
+                "location": "OFF RAILROAD GRADE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "121244",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "17.40",
+                        "quartileCount": "0.5-5.4",
+                        "totalWeight": 44.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.4-0.7",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.51",
+                        "totalCatch": 87
+                    },
+                    {
+                        "CPUE": "168.20",
+                        "quartileCount": "0.3-2.0",
+                        "totalWeight": 145.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 841
+                    },
+                    {
+                        "CPUE": "74.00",
+                        "quartileCount": "5.2-56.2",
+                        "totalWeight": 6.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 74
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "0.7-6.2",
+                        "totalWeight": 1.1,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.2-0.6",
+                        "species": "BRB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.55",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "0.3-1.6",
+                        "totalWeight": 0.4,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "32.80",
+                        "quartileCount": "1.3-26.0",
+                        "totalWeight": 22.5,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 164
+                    }
+                ],
+                "narrative": "<p>Blk Bullhead, Brn Bullhead and Grn Sunfish were the only fish species found to be present in Birch Island Lake.  All exist in extremely high populations as gauged from the trapnet catch rates</p>",
+                "headerInfo": [
+                    "Birch Island",
+                    null,
+                    "27008100",
+                    "1981-07-29",
+                    "121244",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1981-07-29",
+                "lengths": {}
+            },
+            {
+                "surveyID": "121406",
+                "fishCatchSummaries": [],
+                "narrative": "<p>ONLY FHM WERE SAMPLED DURING THE SURVEY.</p>",
+                "headerInfo": [
+                    "Birch Island",
+                    null,
+                    "27008100",
+                    "1992-07-22",
+                    "121406",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1992-07-22",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Hennepin"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

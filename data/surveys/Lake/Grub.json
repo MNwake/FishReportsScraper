@@ -1,0 +1,114 @@
+{
+    "timestamp": 1737662461,
+    "result": {
+        "lakeName": "Grub",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.72,
+        "DOWNumber": 38050400,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 30.53,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 31.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Lies within BWCA in a non-motorized zone.  Only access is 25 rod USFS portage from Snowbank Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108010",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.25,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "1.40",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.6,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.35,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.25,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6.75,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "SMB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.28",
+                        "totalCatch": 24
+                    }
+                ],
+                "narrative": "<p>Consists of a very high population of smallmouth bass, and average population of largemouth bass, and a relatively high population of green sunfish.</p>",
+                "headerInfo": [
+                    "Grub",
+                    null,
+                    "38050400",
+                    "1978-06-21",
+                    "108010",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-06-21",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

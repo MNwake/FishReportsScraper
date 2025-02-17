@@ -1,0 +1,154 @@
+{
+    "timestamp": 1737662937,
+    "result": {
+        "lakeName": "Mueller",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.51,
+        "DOWNumber": 38019300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 23.6,
+        "areaAcres": 23.6,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 36.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "80 rod portage from Ogishkemuncie Lake",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "100 rod portage from Agamok Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109427",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 4400.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.23",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 294.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 7488.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.38",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>Mueller Lake is in Ecological Lake Class 14, which consists of 92 lakes in northeast Minnesota that are small, shallow, and have very soft (unmineralized) water.  Mueller Lake is deeper and has a more irregular shoreline shape than most of the lakes in this lake class.  With water chemistry showing total phosphorus of 21 ppb, chlorophyll-a of 3.7 ppb, and Secchi water clarity of 3.1 m, Mueller Lake ranks as mesotrophic, according to Carlson's Trophic State Index.  Mueller Lake was not thermally stratified on 09/11/2001 and retained oxygen at saturation to the bottom.The inlet (from Agamok Lake) drains the Gabimichigami and Little Saganaga lakes system to the southeast and has a large flow.  The outlet is to Ogishkemuncie Lake.  Both the inlet and outlet have rapids and falls along their watercourses.  Lake bottom substrates along the shoreline are mostly ledgerock, boulder, and rubble.  Aquatic plants are sparse,Mueller Lake is within the Boundary Waters Canoe Area Wilderness on a no-motor route.  Access is difficult: about ten miles of paddling and portaging from the Gunflint Trail.  There are two campsites on the lake.Fish sampling in this fisheries lake survey consisted of two gillnet sets.  Trapnets were not set due to the difficult access, and shoreline seining was not done due to the lack of suitable areas to seine and difficult access.The total catch of fish (all species combined) in the gillnets in 2001 of 11.0 fish/net (13.1 lb/net) was in the second quartile for this lake class.  Flowage-type lakes like Mueller Lake often have rather poor fish populations.  Fish species captured in 2001 were white sucker, northern pike, and yellow perch.Sucker numbers in 2001 (6.0/gillnet) were near the median for this lake class.  Sucker sizes averaged 14.1\" (1.3 lb), which was also near the median for this lake class.Northern pike numbers in 2001 (1.5/gillnet) were in the first quartile for this lake class.  Pike sizes averaged 23.7\" (3.2 lb), which was in the fourth quartile for this lake class.  Pike growth was normal by area standards.Yellow perch numbers in 2001 (3.5/gillnet) were in the second quartile for this lake class.  Perch sizes averaged 6.5\" (0.1 lb), which was in the first quartile for this lake class.  Perch growth was normal by area standards.</p>",
+                "headerInfo": [
+                    "Mueller",
+                    null,
+                    "38019300",
+                    "2001-09-11",
+                    "109427",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "2001-09-11",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                23,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 23,
+                        "maximum_length": 23
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 19
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                7
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    }
+                }
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

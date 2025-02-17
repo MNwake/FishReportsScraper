@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737662670,
+    "result": {
+        "lakeName": "Kangas",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.81,
+        "DOWNumber": 38024100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 21.82,
+        "areaAcres": 21.82,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112308",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "4.0-15.0",
+                        "totalWeight": 6.9,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.99",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>The catch of Northern Pike was 1.7 times the local average, no other fish were sampled.</p>",
+                "headerInfo": [
+                    "Kangas",
+                    null,
+                    "38024100",
+                    "1986-07-10",
+                    "112308",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1986-07-10",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

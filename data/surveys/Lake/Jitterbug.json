@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737662646,
+    "result": {
+        "lakeName": "Jitterbug",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.44,
+        "DOWNumber": 38050900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 28.49,
+        "areaAcres": 28.49,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portage from Ahsub L. 1/8 mi. or portage by way of Adventure 1/8 mile.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108015",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "4.0-15.0",
+                        "totalWeight": 15.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.36",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "2.0-15.0",
+                        "totalWeight": 3.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "3.0-23.0",
+                        "totalWeight": 41.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-1.9",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.42",
+                        "totalCatch": 12
+                    }
+                ],
+                "narrative": "<p>Jitterbug lake contains about average numbers of northern pike, perch and suckers.</p>",
+                "headerInfo": [
+                    "Jitterbug",
+                    null,
+                    "38050900",
+                    "1982-07-16",
+                    "108015",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1982-07-16",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,95 @@
+{
+    "timestamp": 1737658602,
+    "result": {
+        "lakeName": "Libby",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.91,
+        "DOWNumber": 31004800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 114.05,
+        "areaAcres": 114.05,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F216",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "105349",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "0.8-10.7",
+                        "totalWeight": 2.6,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.3-0.6",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.43",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "2.8-10.0",
+                        "totalWeight": 23.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.5-3.3",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.64",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "26.50",
+                        "quartileCount": "1.5-9.5",
+                        "totalWeight": 7.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BRB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 53
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "3.1-24.9",
+                        "totalWeight": 0.8,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.80",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5.2,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.30",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Fish population is indicative of a lake which periodically experiences low winter oxygen levels.</p>",
+                "headerInfo": [
+                    "Libby",
+                    null,
+                    "31004800",
+                    "1978-08-02",
+                    "105349",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-08-02",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

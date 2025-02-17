@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737647660,
+    "result": {
+        "lakeName": "Boot",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.21,
+        "DOWNumber": 11034300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 46.71,
+        "areaAcres": 46.71,
+        "meanDepthFeet": 7.0,
+        "maxDepthFeet": 14.0,
+        "officeCode": "F212",
+        "accesses": [
+            {
+                "location": "None.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "114158",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "18.00",
+                        "quartileCount": "0.8-10.7",
+                        "totalWeight": 8.45,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.3-0.6",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 72
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "1.5-48.5",
+                        "totalWeight": 0.75,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "1.5-9.5",
+                        "totalWeight": 1.75,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BRB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "1.8-26.3",
+                        "totalWeight": 1.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 10
+                    }
+                ],
+                "narrative": "<p>Black bullhead net catches indicate average population levels and smaller than average size fish. They were between the first and third quartiles of lakes in lake class 37. Brown bullhead net catches indicate higher than average population levels and smaller than average size. Net catches were above the third quartile for lakes in lake class 37. This lake could possibly be used a walleye rearing pond.</p>",
+                "headerInfo": [
+                    "Boot",
+                    null,
+                    "11034300",
+                    "1989-07-31",
+                    "114158",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1989-07-31",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cass"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

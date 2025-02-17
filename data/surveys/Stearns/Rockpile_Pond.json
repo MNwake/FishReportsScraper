@@ -1,0 +1,150 @@
+{
+    "timestamp": 1737672736,
+    "result": {
+        "lakeName": "Rockpile Pond",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.47,
+        "DOWNumber": 73076800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 8.62,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 0.0,
+        "officeCode": "F315",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "12691615931386000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "42.53",
+                        "quartileCount": "N/A",
+                        "totalWeight": 519.0,
+                        "gearCount": 0.329166666666667,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.08",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "33.42",
+                        "quartileCount": "N/A",
+                        "totalWeight": 62.0,
+                        "gearCount": 0.329166666666667,
+                        "quartileWeight": "N/A",
+                        "species": "GOS",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.01",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "91.14",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3985.0,
+                        "gearCount": 0.329166666666667,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.29",
+                        "totalCatch": 30
+                    },
+                    {
+                        "CPUE": "69.87",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 0.329166666666667,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 23
+                    }
+                ],
+                "narrative": "<p>Rock Island Pond is 8.4 acres in size with a maximum depth of approximately six feet and is located within the city limits of Waite Park. The pond was built for stormwater retention and is entirely on city-owned land. Access and parking are available off of 10th Avenue South. A paved path encircles the pond and the entire pond perimeter is suitable for shore fishing.   <br> \n <br> \nDaytime electrofishing was conducted on June 7, 2016 to assess the fishery and to consider options to improve fishing. Dense submerged vegetation and green algae made visibility poor. The perimeter of the pond was circled along with part of the island. Many Golden Shiners, Green Sunfish, and White Suckers were seen and a subsample were captured for measurement. Golder Shiner lengths were very uniform and ranged from 5.7 to 5.8 inches. Green Sunfish lengths ranged from 3.0 to 5.8 inches, and White Sucker were 5.9 to 18.9 inches. One Channel Catfish was seen but not captured. <br> \n <br> \nWinterkill is likely a limiting factor for the fishery, but the frequency and severity are unknown. Electrofishing should be repeated annually to assess fish survival. Largemouth Bass will be stocked to control Green Sunfish and Bluegill could be stocked when available. A total of 171 Channel Catfish were stocked in 2015 and 147 in 2016 after electrofishing. Channel Catfish will continue to be stocked as availability permits. Two youth fishing events are hosted annually by Muskies Inc. The pond has excellent shore access and the fishery should be promoted further.  <br> \n</p>",
+                "headerInfo": [
+                    "Rockpile Pond",
+                    null,
+                    "73076800",
+                    "2016-06-07",
+                    "12691615931386000",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2016-06-07",
+                "lengths": {
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                11
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                2,
+                                1
+                            ],
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                7
+                            ],
+                            [
+                                5,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 5
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                14
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                7
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 18
+                    }
+                }
+            }
+        ],
+        "countyName": "Stearns"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": 1737655005,
+    "result": {
+        "lakeName": "Graham",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.72,
+        "DOWNumber": 26020400,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 138.18,
+        "areaAcres": 138.18,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 7.0,
+        "officeCode": "F116",
+        "accesses": [
+            {
+                "location": "THERE IS A TOWNSHIP OWNED PUBLIC ACCESS WITHOUT A CONCRETE RAMP ON THE EAST SIDE OF THE LAKE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "103099",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 32.8,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.52",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "0.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 24.6,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "CAP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "6.15",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "168.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 22.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 336
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CAP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.87",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "3.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 41.9,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.33",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "111.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 43.6,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 556
+                    }
+                ],
+                "narrative": "<p>Most fish sampled wer black bullheads that were too small to have any value to the angler or commercial fisherman.  Adult carp present were succesful in producing a year class of young carp. Northern pike captured were large and adequately abundant to provide some value to the sport fisherman.  The population of northern pike is probably dependent on winterkill and water levels.</p>",
+                "headerInfo": [
+                    "Graham",
+                    null,
+                    "26020400",
+                    "1989-06-12",
+                    "103099",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1989-06-12",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Grant"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

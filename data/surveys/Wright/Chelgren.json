@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737674701,
+    "result": {
+        "lakeName": "Chelgren",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.14,
+        "DOWNumber": 86025600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 37.0,
+        "areaAcres": 53.54,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 24.0,
+        "officeCode": "F411",
+        "accesses": [
+            {
+                "location": "Chelgren Lake is accessible via Collinwood Lake County Park.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "116685",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.10",
+                        "quartileCount": "N/A",
+                        "totalWeight": 14.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.67",
+                        "totalCatch": 21
+                    }
+                ],
+                "narrative": "<p>Chelgren Lake is fertile, productive and typical of lakes in Southern MN.  Max. depth is 24' however, the lake is still subject to winterkill.  Most years the lake is isolated, except in high water, when fish may move into Chelgren Lake from Collinwood Lake.  The present fishery is composed of Black Bullheads.</p>",
+                "headerInfo": [
+                    "Chelgren",
+                    "Little Lake, John Lake",
+                    "86025600",
+                    "1979-08-08",
+                    "116685",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1979-08-08",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Wright"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

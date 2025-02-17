@@ -1,0 +1,97 @@
+{
+    "timestamp": 1737650064,
+    "result": {
+        "lakeName": "Bulge",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.56,
+        "DOWNumber": 16036400,
+        "waterClarity": [
+            [
+                "09/01/1976",
+                "8"
+            ]
+        ],
+        "averageWaterClarity": "8.0",
+        "littoralAcres": 11.04,
+        "areaAcres": 11.04,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 8.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 0.25 mile portage from Silver Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109721",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "8.50",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 27.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.62",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "9.50",
+                        "quartileCount": "1.0-7.2",
+                        "totalWeight": 26.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.4",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.37",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 0.7,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 24.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.40",
+                        "totalCatch": 10
+                    }
+                ],
+                "narrative": "<p>Bulge Lake has fair populations of Walleye, N Pike Perch and Suckers.</p>",
+                "headerInfo": [
+                    "Bulge",
+                    null,
+                    "16036400",
+                    "1976-09-01",
+                    "109721",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1976-09-01",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

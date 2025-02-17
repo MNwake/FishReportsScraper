@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737669707,
+    "result": {
+        "lakeName": "Godfrey-Glen Pit",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.19,
+        "DOWNumber": 69133100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 1.38,
+        "areaAcres": 1.38,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 10.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "THROUGH IRON WORLD.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "105946",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.84",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.3,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6.7,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.12",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.7,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 20
+                    }
+                ],
+                "narrative": "<p>THIS PIT HAS A VERY SIMPLE FISH COMMUNITY.  THE ONLY SPECIES OF FISH SAMPLED WITH TRAPNETS AND GILLNETS WERE BLC AND WTS.  BLC ARE VERY ABUNDANT. 10.0/TRAPNET LIFT.  THE CRAPPIE RANGE IN SIZE FROM 4.5-6.5 INCHES WITH A MODE OF 5.0 RATES OF BLC ARE VERY SLOW, AND ALSO QUITE ERRATIC.  MEAN LENGTH AT LAST ANNULUS FORMATION WAS AGE II=3.9 V=4.8</p>",
+                "headerInfo": [
+                    "Godfrey-Glen Pit",
+                    null,
+                    "69133100",
+                    "1990-07-05",
+                    "105946",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1990-07-05",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

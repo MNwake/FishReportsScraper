@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737662026,
+    "result": {
+        "lakeName": "Clam",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.26,
+        "DOWNumber": 38017500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 21.98,
+        "areaAcres": 21.98,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 10.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "By portage only-in BWCA  USFS land.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107952",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.3-0.5",
+                        "totalWeight": 0.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "30.50",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 10.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 61
+                    }
+                ],
+                "narrative": "<p>Consists of numerous small perch and a small number of green sunfish.</p>",
+                "headerInfo": [
+                    "Clam",
+                    null,
+                    "38017500",
+                    "1973-07-13",
+                    "107952",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1973-07-13",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

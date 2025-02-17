@@ -1,0 +1,121 @@
+{
+    "timestamp": 1737669537,
+    "result": {
+        "lakeName": "Emerald",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.29,
+        "DOWNumber": 69033500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 23.0,
+        "areaAcres": 77.17,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 34.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "USFS PORTAGE FROM HUSTLER LAKE ~800 FT~. BWCAW - NON MOTOR ROUTE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108274",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "1.0-8.0",
+                        "totalWeight": 1.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "33.00",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 56.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.86",
+                        "totalCatch": 66
+                    }
+                ],
+                "narrative": "<p>The 1984 assessment showed Emerald Lake has an extremely simple species complex with gillnet catches consisting of large numbers of small suckers (mean length = 12.5 yellow perch. Green sunfish are known to be present but were not captured in the 1984 netting. </p>",
+                "headerInfo": [
+                    "Emerald",
+                    null,
+                    "69033500",
+                    "1984-08-14",
+                    "108274",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1984-08-14",
+                "lengths": {}
+            },
+            {
+                "surveyID": "108152",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "0.3-2.5",
+                        "totalWeight": 0.7,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.0-8.0",
+                        "totalWeight": 0.75,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "11.00",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 53.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.62",
+                        "totalCatch": 33
+                    }
+                ],
+                "narrative": "<p>Large populations of Sucker and Green Sunfish. Perch are present in low numbers.</p>",
+                "headerInfo": [
+                    "Emerald",
+                    null,
+                    "69033500",
+                    "1974-08-20",
+                    "108152",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1974-08-20",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737650349,
+    "result": {
+        "lakeName": "East Otter",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.35,
+        "DOWNumber": 16024600,
+        "waterClarity": [
+            [
+                "09/04/1986",
+                "9"
+            ]
+        ],
+        "averageWaterClarity": "9.0",
+        "littoralAcres": 44.41,
+        "areaAcres": 44.41,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109973",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.50",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "19.50",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 14.75,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 39
+                    }
+                ],
+                "narrative": "<p>POPULATION OF WHITE SUCKERS SEEM TO BE HIGH, ALTHOUGH MORE SUCKERS WERE CAUGHT ON THE ORGINAL ASSESSMENT. SUCKERS ALSO SEEM TO RUN SMALL. NUMBER OF SUCKERS IN THE LAKE PROBABLY ACCOUNTS FOR SMALLER SIZE. BROOK TROUT HAVE PROBABLY ENTERED LAKE FROM SOCK LAKE, A MANAGED TROUT LAKE WITH ITS OUTLET FLOWING INTO THE HOAT LAKE OUTLET.</p>",
+                "headerInfo": [
+                    "East Otter",
+                    "Dan",
+                    "16024600",
+                    "1986-09-03",
+                    "109973",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1986-09-03",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,62 @@
+{
+    "timestamp": 1737674963,
+    "result": {
+        "lakeName": "Maxim",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.99,
+        "DOWNumber": 86021800,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 42.0,
+        "areaAcres": 45.82,
+        "meanDepthFeet": 6.6,
+        "maxDepthFeet": 18.0,
+        "officeCode": "F315",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "115318",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "14.50",
+                        "quartileCount": "0.4-5.1",
+                        "totalWeight": 14.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.4-0.9",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 58
+                    },
+                    {
+                        "CPUE": "9.75",
+                        "quartileCount": "1.5-58.0",
+                        "totalWeight": 7.9,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 39
+                    }
+                ],
+                "narrative": "<p>Only Black and Brown Bullheads were caught in the trap nets and only 2 of these were good size, the rest averaged about 7-9 inches.</p>",
+                "headerInfo": [
+                    "Maxim",
+                    null,
+                    "86021800",
+                    "1971-08-18",
+                    "115318",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1971-08-18",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Wright"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

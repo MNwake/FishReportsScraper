@@ -1,0 +1,114 @@
+{
+    "timestamp": 1737659210,
+    "result": {
+        "lakeName": "Murphy",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.54,
+        "DOWNumber": 31038900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 107.0,
+        "areaAcres": 139.19,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 20.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "USFS. trail to lake from County Road 49.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "105434",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "11.25",
+                        "quartileCount": "1.1-9.6",
+                        "totalWeight": 7.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 45
+                    },
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "4.5-11.3",
+                        "totalWeight": 98.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.8",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.72",
+                        "totalCatch": 36
+                    },
+                    {
+                        "CPUE": "82.00",
+                        "quartileCount": "1.5-14.0",
+                        "totalWeight": 37.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BRB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 246
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "2.5-24.8",
+                        "totalWeight": 0.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "1.0-3.4",
+                        "totalWeight": 1.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.50",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Fish population is indicative of a lake with occasional winterkill.</p>",
+                "headerInfo": [
+                    "Murphy",
+                    null,
+                    "31038900",
+                    "1978-07-19",
+                    "105434",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-07-19",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

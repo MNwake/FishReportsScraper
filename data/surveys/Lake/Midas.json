@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737662887,
+    "result": {
+        "lakeName": "Midas",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.9,
+        "DOWNumber": 38016400,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 17.34,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 50.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "50 rod ~totally unimproved~ path from Gift Lake located in BWCAW and Superior National Forest on a non-motorized route.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107944",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 17.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.50",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Composed of an average population of northern pike.</p>",
+                "headerInfo": [
+                    "Midas",
+                    null,
+                    "38016400",
+                    "1981-07-12",
+                    "107944",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1981-07-12",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737651995,
+    "result": {
+        "lakeName": "Virgin",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.59,
+        "DOWNumber": 16071900,
+        "waterClarity": [
+            [
+                "07/29/1980",
+                "11.5"
+            ]
+        ],
+        "averageWaterClarity": "11.5",
+        "littoralAcres": 22.0,
+        "areaAcres": 57.69,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 40.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "PRMIT",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109811",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "15.00",
+                        "quartileCount": "1.7-12.5",
+                        "totalWeight": 16.75,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.28",
+                        "totalCatch": 60
+                    }
+                ],
+                "narrative": "<p>Large populations of White Suckers.</p>",
+                "headerInfo": [
+                    "Virgin",
+                    null,
+                    "16071900",
+                    "1980-07-29",
+                    "109811",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1980-07-29",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

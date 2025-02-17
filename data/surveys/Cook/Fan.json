@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737650436,
+    "result": {
+        "lakeName": "Fan",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.0,
+        "DOWNumber": 16008400,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 4.08,
+        "areaAcres": 6.1,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 3.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 2 portages -  0.2 mile from Mountain lake and the other is 0.15 mile from Vaseux Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109609",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "21.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.4,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 21
+                    }
+                ],
+                "narrative": "<p>Shallow depth prevents fish populations other than Minnows.</p>",
+                "headerInfo": [
+                    "Fan",
+                    "West Lily",
+                    "16008400",
+                    "1978-06-22",
+                    "109609",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-06-22",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737670949,
+    "result": {
+        "lakeName": "Schlamm",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.86,
+        "DOWNumber": 69029400,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 68.63,
+        "areaAcres": 68.63,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 6.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Portage from Lunetta or Glenmore Lake  Extension of Wolf Lake road by per. of USFS.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108135",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "11.33",
+                        "quartileCount": "11.3",
+                        "totalWeight": 50.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.5",
+                        "species": "SHR",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.49",
+                        "totalCatch": 34
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "2.8-8.5",
+                        "totalWeight": 53.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.52",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "2.0-16.0",
+                        "totalWeight": 0.2,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "5.33",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 18.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.12",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Consists of above average populations of northern pike, northern redhorse, and white sucker.  The northern pike are really small.</p>",
+                "headerInfo": [
+                    "Schlamm",
+                    "Schlam",
+                    "69029400",
+                    "1976-07-12",
+                    "108135",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1976-07-12",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,295 @@
+{
+    "timestamp": 1737674839,
+    "result": {
+        "lakeName": "Henshaw",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.89,
+        "DOWNumber": 86021300,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 272.39,
+        "areaAcres": 272.21,
+        "meanDepthFeet": 4.3,
+        "maxDepthFeet": 8.0,
+        "officeCode": "F315",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "1760704053356000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "49.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5614.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 298
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 18.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "HSF",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "94.83",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11838.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLC",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 569
+                    },
+                    {
+                        "CPUE": "12.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3268.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 76
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 511.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BRB",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1121.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 60
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6941.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "CAP",
+                        "gear": "Special trap nets",
+                        "averageWeight": "3.83",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Henshaw Lake is located three miles southwest of Maple Lake in Wright County. It has a surface area of 262 acres and a maximum depth of nine feet. The watershed is 9,717 acres, mostly agricultural, and water quality is poor.  Henshaw Lake lies within the Clearwater River Watershed District and has been targeted by the district for phosphorous reduction.  Henshaw Lake has not been considered to be a \"fish lake\" and no fisheries management has taken place with the exception of bullhead removal by commercial fishermen. This brief survey was intended to determine fishery values of Henshaw Lake. <br> \n <br> \nOn September 12, 2006, six standard lake survey trap nets were set in Henshaw Lake.  The following day catches were dominated by black crappie (94.8/net) and bluegill (49.7/net).   Black bullhead (12.7/net) and pumpkinseed (10.0/net) were common.  Few brown bullhead and hybrid sunfish were captured, as well as four common carp (0.7/net).  <br> \n</p>",
+                "headerInfo": [
+                    "Henshaw",
+                    null,
+                    "86021300",
+                    "2006-09-12",
+                    "1760704053356000",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2006-09-12",
+                "lengths": {
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                5,
+                                38
+                            ],
+                            [
+                                6,
+                                40
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 6
+                    },
+                    "HSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 3
+                    },
+                    "BRB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 11
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                113
+                            ],
+                            [
+                                11,
+                                44
+                            ],
+                            [
+                                12,
+                                113
+                            ],
+                            [
+                                3,
+                                113
+                            ],
+                            [
+                                4,
+                                20
+                            ],
+                            [
+                                6,
+                                25
+                            ],
+                            [
+                                7,
+                                77
+                            ],
+                            [
+                                8,
+                                44
+                            ],
+                            [
+                                9,
+                                20
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 12
+                    },
+                    "PMK": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                19
+                            ],
+                            [
+                                5,
+                                22
+                            ],
+                            [
+                                6,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 6
+                    },
+                    "CAP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                23,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 23
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                4,
+                                8
+                            ],
+                            [
+                                5,
+                                6
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                15
+                            ],
+                            [
+                                8,
+                                4
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 10
+                    }
+                }
+            }
+        ],
+        "countyName": "Wright"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

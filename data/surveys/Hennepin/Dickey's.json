@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737655321,
+    "result": {
+        "lakeName": "Dickey's",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.47,
+        "DOWNumber": 27016100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 7.0,
+        "areaAcres": 8.6,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 26.0,
+        "officeCode": "F314",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "121268",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "202.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 22.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 202
+                    }
+                ],
+                "narrative": "<p>Blk Bullheads were taken in extremely high numbers in the gill net.  Most of these fish were less than 6.0 inches in length.</p>",
+                "headerInfo": [
+                    "Dickey's",
+                    "Brown",
+                    "27016100",
+                    "1979-08-01",
+                    "121268",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1979-08-01",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Hennepin"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

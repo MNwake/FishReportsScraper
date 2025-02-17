@@ -1,0 +1,92 @@
+{
+    "timestamp": 1737651423,
+    "result": {
+        "lakeName": "Rat",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.89,
+        "DOWNumber": 16022900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 32.1,
+        "areaAcres": 32.1,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 5.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 0.25 mile portage from South Lake and 20 ft. portage from Rose Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109677",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "0.5-3.8",
+                        "totalWeight": 0.6,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.07",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.3",
+                        "totalWeight": 0.05,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "0.3-1.5",
+                        "totalWeight": 2.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.6-1.6",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "43.00",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 19.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 86
+                    }
+                ],
+                "narrative": "<p>There is a large population of Perch and a fair population of SM Bass with some Grn Sunfish prsnt.</p>",
+                "headerInfo": [
+                    "Rat",
+                    null,
+                    "16022900",
+                    "1978-07-15",
+                    "109677",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-07-15",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

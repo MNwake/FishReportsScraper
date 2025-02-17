@@ -1,0 +1,162 @@
+{
+    "timestamp": 1737664004,
+    "result": {
+        "lakeName": "Drietz",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.34,
+        "DOWNumber": 41007000,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 72.31,
+        "areaAcres": 72.32,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 4.0,
+        "officeCode": "F415",
+        "accesses": [
+            {
+                "location": "Carry in access on NW corner of lake off Lincoln County Road 110. (T112N; R45W; S24)",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "117722",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.4-3.5",
+                        "totalWeight": 478.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.05",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "5465.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 14750.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 21860
+                    },
+                    {
+                        "CPUE": "245.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 980
+                    },
+                    {
+                        "CPUE": "20.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 377.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 82
+                    },
+                    {
+                        "CPUE": "148.67",
+                        "quartileCount": "2.5-70.2",
+                        "totalWeight": 36602.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.5",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 892
+                    }
+                ],
+                "narrative": "<p>Drietz is a shallow, nutrient rich lake located north of Ivanhoe in Lincoln County.  Drietz does not have a developed public access, however, carry-in or winter access can be gained on the northwest corner of the lake from Lincoln County Road 110.  Abundant aquatic vegetation recorded during the 2000 assessment may limit angling opportunities from spring to early summer or winter.     Black bullhead were abundant in 2000.  Trap net catch rates were twice the expected range for a similar lake class.  Bullhead varied in size, but the majority ranged from 8.0-9.5 inches.  An abundant population of young-of-year black bullhead were also present.             Yellow perch were found in low abundance.  A total of three adult perch ranging from 9.0-13.3 inches were caught.  A low to moderate year class of young-of-year yellow perch was indicated by quarter-inch trap nets.  However, competition and or predation by black bullhead may limit recruitment of this year class into the fishery.     Fathead minnows were the only other species documented during the assessment.  They were abundant as indicated by catch rates of over 5,000 per quarter-inch trap net.     Annual winter dissolved oxygen monitoring conducted from 1990-2000 has recorded adequate oxygen levels to sustain game fish populations.  However, low water levels coupled with early ice and heavy snow resulted in decreased oxygen levels in 2001.  An ice-out investigation to evaluate potential winterkill will be conducted in 2001.       Based on historic winter dissolved oxygen monitoring and the present fishery, stocking a predator will be considered.  It is hoped a larger predator will decrease the black bullhead population and increase the yellow perch population by reducing competition and predation.     Fisheries management plans for Dreitz Lake include annual winter dissolved oxygen monitoring, conducting an ice out evaluation in 2001, stocking a predator such as northern pike when a source is available, and assessments to evaluate any such stocking.       </p>",
+                "headerInfo": [
+                    "Drietz",
+                    null,
+                    "41007000",
+                    "2000-06-07",
+                    "117722",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2000-06-07",
+                "lengths": {
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                15
+                            ],
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                7,
+                                95
+                            ],
+                            [
+                                8,
+                                508
+                            ],
+                            [
+                                9,
+                                264
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 11
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                72
+                            ],
+                            [
+                                4,
+                                8
+                            ],
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 13
+                    }
+                }
+            }
+        ],
+        "countyName": "Lincoln"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

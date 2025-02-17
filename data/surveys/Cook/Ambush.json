@@ -1,0 +1,75 @@
+{
+    "timestamp": 1737649901,
+    "result": {
+        "lakeName": "Ambush",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.4,
+        "DOWNumber": 16061800,
+        "waterClarity": [
+            [
+                "08/31/1972",
+                "6"
+            ]
+        ],
+        "averageWaterClarity": "6.0",
+        "littoralAcres": 31.26,
+        "areaAcres": 31.26,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109800",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.33",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 37.1,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.32",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "13.33",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 14.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.35",
+                        "totalCatch": 40
+                    }
+                ],
+                "narrative": "<p>Ambush Lk has a large N Pike population with a good distribution of sizes.  A forage species. Yel Perch are abundant with a good proportion of angling size, 10-12 inches.</p>",
+                "headerInfo": [
+                    "Ambush",
+                    null,
+                    "16061800",
+                    "1972-09-01",
+                    "109800",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1972-09-01",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

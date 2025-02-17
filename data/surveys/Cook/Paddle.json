@@ -1,0 +1,108 @@
+{
+    "timestamp": 1737651260,
+    "result": {
+        "lakeName": "Paddle",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.9,
+        "DOWNumber": 16011300,
+        "waterClarity": [
+            [
+                "08/14/1974",
+                "7"
+            ]
+        ],
+        "averageWaterClarity": "7.0",
+        "littoralAcres": 16.0,
+        "areaAcres": 17.05,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 16.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via 0.1 mile inlet channel from Canoe Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109624",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.50",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 13.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.87",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.4-1.7",
+                        "totalWeight": 1.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.4-2.0",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.50",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "17.00",
+                        "quartileCount": "1.0-7.2",
+                        "totalWeight": 33.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.4",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.97",
+                        "totalCatch": 34
+                    },
+                    {
+                        "CPUE": "21.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 7.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 42
+                    },
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 35.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.75",
+                        "totalCatch": 20
+                    }
+                ],
+                "narrative": "<p>Paddle Lake contains good populations of Walleyes, N Pike, Perch and Suckers.  SM Bass appear to be sparse.</p>",
+                "headerInfo": [
+                    "Paddle",
+                    null,
+                    "16011300",
+                    "1974-08-13",
+                    "109624",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1974-08-13",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

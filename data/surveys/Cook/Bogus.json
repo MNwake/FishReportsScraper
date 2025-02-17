@@ -1,0 +1,885 @@
+{
+    "timestamp": 1737650029,
+    "result": {
+        "lakeName": "Bogus",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.77,
+        "DOWNumber": 16005000,
+        "waterClarity": [
+            [
+                "10/01/2007",
+                "11"
+            ],
+            [
+                "10/02/2023",
+                "13"
+            ],
+            [
+                "08/18/1956",
+                "7.5"
+            ],
+            [
+                "09/24/1990",
+                "7.5"
+            ],
+            [
+                "07/25/1973",
+                "12"
+            ]
+        ],
+        "averageWaterClarity": "10.2",
+        "littoralAcres": 13.1,
+        "areaAcres": 18.29,
+        "meanDepthFeet": 10.0,
+        "maxDepthFeet": 25.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109875",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "1.3",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "8.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 16.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.18",
+                        "totalCatch": 14
+                    }
+                ],
+                "narrative": "<p>THE POPULATIONS OF BROOK TROUT AND SPLAKE ARE MAINTAINED ONLY BY STOCKING AND BOTH SPECIES APPEAR TO GROW WELL. THE SPLAKE WERE INTRODUCED IN 1982 AND ARE WELL REPRESENTED IN THIS SAMPLING. GOLDEN SHINERS AND 5-SPINE STICKLEBACKS (FOUND IN BROOK TROUT STOMACHS) ARE PRESENT FOR FORAGE.</p>",
+                "headerInfo": [
+                    "Bogus",
+                    "Patty's",
+                    "16005000",
+                    "1983-07-19",
+                    "109875",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1983-07-19",
+                "lengths": {}
+            },
+            {
+                "surveyID": "111260",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.10",
+                        "quartileCount": "0.7-4.8",
+                        "totalWeight": 700.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.6-2.1",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.54",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "14.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4621.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.73",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.0-8.9",
+                        "totalWeight": 210.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.4-1.7",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.46",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "4.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 15792.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.76",
+                        "totalCatch": 46
+                    },
+                    {
+                        "CPUE": "2.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 25
+                    }
+                ],
+                "narrative": "<p>Splake were abundant in Bogus Lake in 2000.  Most of the catch consisted of two-year-old fish from a 1998 stocking, but fish as large as 20.9 inches were taken.  It was estimated that 235 splake one year old or older were present in Bogus Lake in late September - an unusually high number for a lake of this size. </p>",
+                "headerInfo": [
+                    "Bogus",
+                    "Patty's",
+                    "16005000",
+                    "2000-09-28",
+                    "111260",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2000-09-28",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 16
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                4
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                8
+                            ],
+                            [
+                                14,
+                                12
+                            ],
+                            [
+                                15,
+                                12
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                4
+                            ],
+                            [
+                                9,
+                                11
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 20
+                    }
+                }
+            },
+            {
+                "surveyID": "490728405508000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.20",
+                        "quartileCount": "0.7-4.8",
+                        "totalWeight": 6921.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.6-2.1",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.69",
+                        "totalCatch": 22
+                    },
+                    {
+                        "CPUE": "4.40",
+                        "quartileCount": "N/A",
+                        "totalWeight": 14740.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.74",
+                        "totalCatch": 44
+                    }
+                ],
+                "narrative": "<p>Splake abundance in the fall of 2007 was average or better, compared to similar lakes in the area.  Although some fish larger than 16 inches were present, fish 11 to 14 inches were most abundant.  Survival of splake fingerlings stocked in 2003-2006 had been good, and growth rates among younger fish had been somewhat faster than average for this area.  No splake older than four years of age were taken in this assessment.  White sucker were the only undesirable fish species found in 2007.  They had been present in this lake for many years, but the catch in 2007 was the highest observed to date.\n\n</p>",
+                "headerInfo": [
+                    "Bogus",
+                    "Patty's",
+                    "16005000",
+                    "2007-10-01",
+                    "490728405508000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2007-10-01",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 19
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                10
+                            ],
+                            [
+                                12,
+                                8
+                            ],
+                            [
+                                13,
+                                10
+                            ],
+                            [
+                                14,
+                                4
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 17
+                    }
+                }
+            },
+            {
+                "surveyID": "20302404353708061",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1031.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "345.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1380
+                    },
+                    {
+                        "CPUE": "79.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 317
+                    },
+                    {
+                        "CPUE": "121.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1262.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 484
+                    },
+                    {
+                        "CPUE": "12.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 50
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.7-4.8",
+                        "totalWeight": 1561.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.6-2.1",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.15",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "31.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 26.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "GOS",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 126
+                    },
+                    {
+                        "CPUE": "2.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1554.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNS",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 20
+                    }
+                ],
+                "narrative": "<p>Bogus Lake is an 18-acre designated stream trout lake located 15 miles northeast of Grand Marais. Public access is through a carry-in portage landing along the west shore. The primary management species in Bogus Lake is splake, which are stocked as fingerlings annually. The 2023 standard survey was conducted to evaluate the survival and growth of stocked splake year classes. In addition, 0.25-inch trap nets were set to evaluate the nearshore minnow community in Bogus Lake that may provide forage for larger piscivorous splake and/or interspecific competition for stocked fingerlings.  <br> \n <br> \nSplake abundance in the 2023 survey was the lowest seen in the lake, however it was similar to other stream trout lakes in the area. Splake up to 13.4 inches were sampled and individuals from most recent stocking events were present (2021 and 2022), but no older fish were found. The average sized splake was smaller than in previous surveys. Small mesh trap nets captured high levels of minnows indicating good forage for larger splake, but also indicate potential competition as white sucker numbers were also high. Habitats are still suitable for splake in Bogus Lake. <br> \n <br> \nCook County, Minnesota lakes continue to be susceptible to aquatic invasive species introductions. Invasive species have the potential to significantly alter fish communities and overall lake health. Anglers should clean watercraft and fishing gear, drain all water, and dispose of unused bait in the trash to prevent accidental introductions.  <br> \n</p>",
+                "headerInfo": [
+                    "Bogus",
+                    "Patty's",
+                    "16005000",
+                    "2023-10-02",
+                    "20302404353708061",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2023-10-02",
+                "lengths": {
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                33
+                            ],
+                            [
+                                4,
+                                27
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 4
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                7
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 13
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                16,
+                                29
+                            ],
+                            [
+                                3,
+                                80
+                            ],
+                            [
+                                4,
+                                352
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 16
+                    },
+                    "BST": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                137
+                            ],
+                            [
+                                2,
+                                12
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 2
+                    },
+                    "FHM": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                220
+                            ],
+                            [
+                                2,
+                                102
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 2
+                    }
+                }
+            },
+            {
+                "surveyID": "111435",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.40",
+                        "quartileCount": "1.3",
+                        "totalWeight": 108.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.1",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "0.7-4.8",
+                        "totalWeight": 7225.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.6-2.1",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.65",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2092.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.66",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "8.40",
+                        "quartileCount": "N/A",
+                        "totalWeight": 25727.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.68",
+                        "totalCatch": 84
+                    }
+                ],
+                "narrative": "<p>Splake were abundant in Bogus Lake in the fall of 2003, and their average size was similar to sizes seen in other area stream trout lakes.  Most of the 2003 catch consisted of fish from the previous fall's stocking, but fish as old as four years were also taken.  Splake growth rates had been slightly faster than average for this area.  Population estimates were done as part of this assessment.  It was estimated that the lake supported a total of 178 splake in late September 2003, of which 51 fish were 12 inches in length or longer.  Although those numbers may seem low, they are typical of the numbers of fish to be found in stocked stream trout lakes in this area.White sucker were present, but not abundant.  No other undesirable fish species were found.</p>",
+                "headerInfo": [
+                    "Bogus",
+                    "Patty's",
+                    "16005000",
+                    "2003-10-07",
+                    "111435",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2003-10-07",
+                "lengths": {
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                23,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 23
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                15
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                8
+                            ],
+                            [
+                                14,
+                                14
+                            ],
+                            [
+                                15,
+                                7
+                            ],
+                            [
+                                16,
+                                11
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                7,
+                                5
+                            ],
+                            [
+                                8,
+                                7
+                            ],
+                            [
+                                9,
+                                17
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 17
+                    }
+                }
+            },
+            {
+                "surveyID": "110743",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.10",
+                        "quartileCount": "0.7-4.8",
+                        "totalWeight": 1323.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.6-2.1",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.92",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "7.10",
+                        "quartileCount": "N/A",
+                        "totalWeight": 25817.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.80",
+                        "totalCatch": 71
+                    }
+                ],
+                "narrative": "<p>Splake were abundant, and some large fish were present.  The catch included fish stocked in 1995, 1994, 1993, and possibly 1992.  Splake growth had been fast, compared to other area lakes.  The fall population of age-1 or older fish was estimated at 187 fish.</p>",
+                "headerInfo": [
+                    "Bogus",
+                    "Patty's",
+                    "16005000",
+                    "1996-09-24",
+                    "110743",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1996-09-24",
+                "lengths": {
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                14
+                            ],
+                            [
+                                11,
+                                8
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                5
+                            ],
+                            [
+                                15,
+                                11
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                3
+                            ],
+                            [
+                                22,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                8
+                            ],
+                            [
+                                9,
+                                10
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 22
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 19,
+                        "maximum_length": 19
+                    }
+                }
+            },
+            {
+                "surveyID": "110141",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.25,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.12",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "2.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 12.62,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.57",
+                        "totalCatch": 22
+                    }
+                ],
+                "narrative": "<p>SPLAKE FROM THE 1989 STOCKING WERE ABUNDANT AND THERE WAS ONE FISH FROM THE 1985 STOCKING CAPTURED.  GROWTH APPEARED TO BE GOOD.  THERE WAS SOME SURVIVAL FROM THE 1988 OR 1987 STOCKINGS OF BROOK TROUT.  GROWTH WAS APPARENTLY FAIRLY SLOW.</p>",
+                "headerInfo": [
+                    "Bogus",
+                    "Patty's",
+                    "16005000",
+                    "1990-09-24",
+                    "110141",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1990-09-24",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

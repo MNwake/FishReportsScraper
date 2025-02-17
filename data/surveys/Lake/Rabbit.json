@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737663165,
+    "result": {
+        "lakeName": "Rabbit",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.39,
+        "DOWNumber": 38021400,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 20.0,
+        "areaAcres": 117.02,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 105.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "Access by USFS portage from Ester Lake within the BWCAW non-motor route.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107968",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.25",
+                        "quartileCount": "0.2-1.0",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.6-1.5",
+                        "species": "BUB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "5.25",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.5-4.0",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "1.25",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Composed of above average populations of lake trout and burbot.  Suckers are present in below average numbers.  The lake trout are relatively small in size.</p>",
+                "headerInfo": [
+                    "Rabbit",
+                    null,
+                    "38021400",
+                    "1980-07-08",
+                    "107968",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1980-07-08",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,847 @@
+{
+    "timestamp": 1737652197,
+    "result": {
+        "lakeName": "Eagle",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.53,
+        "DOWNumber": 17002000,
+        "waterClarity": [
+            [
+                "08/13/2014",
+                "0.7"
+            ],
+            [
+                "08/20/2008",
+                "1.2"
+            ]
+        ],
+        "averageWaterClarity": "1.0",
+        "littoralAcres": 105.41,
+        "areaAcres": 105.41,
+        "meanDepthFeet": 6.0,
+        "maxDepthFeet": 8.0,
+        "officeCode": "F418",
+        "accesses": [
+            {
+                "location": "STATE OWNED ACCESS ON NORTHEAST SIDE OF LAKE. ACCESS DEVELOPED IN 1996",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "16311813044894065",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "19347.59",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3482.0,
+                        "gearCount": 0.259722222222222,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Special electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 5025
+                    },
+                    {
+                        "CPUE": "19.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 57.0,
+                        "gearCount": 0.259722222222222,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Special electrofishing",
+                        "averageWeight": "0.03",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Eagle Lake is a 120-acre, class 43 lake located near the City of Mountain Lake in Cottonwood County.  Eagle Lake averages 6.0 ft. deep, with a maximum depth of 8.0 ft.  Lack of an aeration system and the lakes shallowness make it prone to occasional winterkills if ice is thick and/or snow covered.  While winterkill was limited in the area during the winter of 2017-2018, dissolved oxygen in was low at 0.3 ppm on March 2, 2018, well below 2.0 ppm, the level at which fish become stressed.  Eagle Lake is managed primarily for yellow perch, and secondarily for northern pike and walleye.  A winterkill check was conducted on May 10, 2018 by daytime electrofishing the perimeter of the lake.  <br> \n <br> \nThe most recent standard survey done in August of 2014 showed that restocking efforts following the winterkill of 2013-2014 were successful, as desired numbers of Black Bullhead, Northern pike, Walleye and Yellow Perch were captured.  The winterkill check conducted in 2018 suggested that Eagle Lake had taken a significant winterkill as thousands of Black Bullhead were observed during sampling, and very few Yellow Perch were observed (19.3 per hour). Other game species were not observed.  In response to the winterkill, Walleye fry were stocked in the spring of 2018, and an additional 130 adult Walleye were stocked during the summer.  Eagle Lake is scheduled to be surveyed in 2020. <br> \n</p>",
+                "headerInfo": [
+                    "Eagle",
+                    null,
+                    "17002000",
+                    "2018-05-10",
+                    "16311813044894065",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2018-05-10",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                3,
+                                2
+                            ],
+                            [
+                                4,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 4
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                7,
+                                1206
+                            ],
+                            [
+                                8,
+                                3819
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 8
+                    }
+                }
+            },
+            {
+                "surveyID": "119395",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Survey seining",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "19.00",
+                        "quartileCount": "0.3-3.8",
+                        "totalWeight": 7440.0,
+                        "gearCount": 7.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 133
+                    },
+                    {
+                        "CPUE": "26.00",
+                        "quartileCount": "30.3-150.6",
+                        "totalWeight": 5901.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "256.00",
+                        "quartileCount": "2.7-25.0",
+                        "totalWeight": 4140.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 256
+                    },
+                    {
+                        "CPUE": "23.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Survey seining",
+                        "averageWeight": "0.00",
+                        "totalCatch": 69
+                    },
+                    {
+                        "CPUE": "0.29",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4350.0,
+                        "gearCount": 7.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "4.80",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "109.43",
+                        "quartileCount": "11.5-132.6",
+                        "totalWeight": 19286.0,
+                        "gearCount": 7.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 766
+                    }
+                ],
+                "narrative": "<p>Eagle Lake was first surveyed in 1995.  The lake covers 120-acres, and the deepest spot is approximately 7 ? feet.  The bottom of the lake is mainly comprised of sand and muck.  Some submergent and emergent vegetation is present which provides good habitat for fish.  Only four fish species were present in our sampling gear in 1995.Yellow perch numbers were extremely high compared to similar lakes in our area.  Although the population is dominated by smaller perch in the 6-inch class, a fair number of fish were near 10 inches in length.Black bullhead numbers are considered normal.  Two distinct size classes were evident during our sampling in 1995.  Although most of the fish sampled in trapnets were 4 to 6 inches in length, good numbers of bullhead were over 12 inches.Only two northern pike were collected in our gear.  These fish were similar in size and approximately 27 inches in length.The only other fish species collected in 1995 were fathead minnows.  These fish are considered good prey for sportfish. To promote and maintain a healthy fish population, pollution and other inputs need to be controlled.  Fish habitat is directly affected by water quality.  Nutrient, sediment and other waste inputs can drastically alter the chemical and physical components of a Lake.  It is paramount to maintain if not improve the current water quality of Eagle Lake through watershed management to preserve this fishery for future generations to enjoy.   </p>",
+                "headerInfo": [
+                    "Eagle",
+                    null,
+                    "17002000",
+                    "1995-08-21",
+                    "119395",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1995-08-21",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                2,
+                                1
+                            ],
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                5,
+                                77
+                            ],
+                            [
+                                6,
+                                71
+                            ],
+                            [
+                                7,
+                                9
+                            ],
+                            [
+                                8,
+                                4
+                            ],
+                            [
+                                9,
+                                20
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 10
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                25,
+                                1
+                            ],
+                            [
+                                27,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 25,
+                        "maximum_length": 27
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                4
+                            ],
+                            [
+                                11,
+                                61
+                            ],
+                            [
+                                12,
+                                54
+                            ],
+                            [
+                                13,
+                                9
+                            ],
+                            [
+                                3,
+                                17
+                            ],
+                            [
+                                4,
+                                459
+                            ],
+                            [
+                                5,
+                                148
+                            ],
+                            [
+                                6,
+                                36
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 3,
+                        "maximum_length": 13
+                    }
+                }
+            },
+            {
+                "surveyID": "9851422526912314",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.38",
+                        "quartileCount": "0.3-3.8",
+                        "totalWeight": 359.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.62",
+                        "quartileCount": "0.5-3.0",
+                        "totalWeight": 2109.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.93",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "1.1-8.0",
+                        "totalWeight": 349.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.8-3.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "99.00",
+                        "quartileCount": "30.3-150.6",
+                        "totalWeight": 2316.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 99
+                    },
+                    {
+                        "CPUE": "29.00",
+                        "quartileCount": "2.3-18.1",
+                        "totalWeight": 15494.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.0-2.3",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.18",
+                        "totalCatch": 29
+                    },
+                    {
+                        "CPUE": "26.00",
+                        "quartileCount": "2.7-25.0",
+                        "totalWeight": 3323.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.28",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "0.88",
+                        "quartileCount": "N/A",
+                        "totalWeight": 625.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.20",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "133.50",
+                        "quartileCount": "11.5-132.6",
+                        "totalWeight": 11017.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.02",
+                        "totalCatch": 1068
+                    }
+                ],
+                "narrative": "<p>INTRODUCTION <br> \nEagle Lake is a 120-acre lake located near the City of Mountain Lake in Cottonwood County. Eagle Lake averages 6.0 ft. deep and has a maximum depth of 8.0 ft. Eagle Lake suffered a severe winterkill during the winter of 2013-2014. A winterkill assessment done in April only captured black bullheads at a rate of 121.8 per trap net. The winter of 2013-2014 proved to be harsh on many area lakes, as the ice was snow covered for much of the winter and ice thickness was consistently over 30 inches, preventing sunlight penetration for photosynthesis. Eagle Lake is managed primarily for yellow perch and secondarily for walleye and northern pike. Because sport fish populations were decimated from winterkill, adult yellow perch, adult walleye, northern pike fingerlings, and walleye fingerlings were stocked in 2014. A population assessment was conducted during the week of August 13, 2014 using one gill net and eight trap nets to gauge the success of the stockings.  <br> \n <br> \nYELLOW PERCH <br> \nHistorically, yellow perch have been extremely abundant in Eagle Lake with catch rates of 256.0 per gill net in 1995 and 127.0 per gill net in 2008. Following the winterkill and subsequent restocking in 2014, yellow perch were captured at a rate of 26.0 per gill net, which is below the long term average of 136.3 per gill net, but slightly above the expected range of catch rates for similar lakes. This indicates that there were plenty of adult yellow perch in the lake to reproduce and bolster the population. Lengths of yellow perch ranged from 5.4 to 9.9 inches and averaged 8.1 inches. Yellow perch were plump, indicating that prey is abundant in Eagle Lake. The yellow perch population appears to be recovering from the winterkill in 2013-2014, and should have a decent population of yellow perch in a couple of years.  <br> \n <br> \nNORTHERN PIKE <br> \nManagement of northern pike in Eagle Lake began in 2004, which marks the first stocking of northern pike fingerlings in this system, in recent history. Additionally, northern pike fingerlings were stocked in 2007, 2010, 2011, and 2014. Despite stocking efforts, northern pike had not been sampled in Eagle Lake until the 2014 survey, when they were captured at a rate of 3.0 per gill net and 0.9 per trap net. The gill net catch rate of 3.0 is within the expected range of catch rates for similar lakes. Northern pike sampled in gill nets and trap nets ranged from 8.7 to 11.4 inches and averaged around 10 inches, and are likely the northern pike fingerlings that were stocked in mid-June 2014. The northern pike population should be on its way to recovery barring any setbacks during the winter of 2014-2015.  <br> \n <br> \nWALLEYE <br> \nWalleye have been abundant in the two surveys that have been conducted since walleye management began in Eagle Lake in 1999 (initial fry stocking). In 2008, walleye were captured at a rate of 27.0 per gill net. In 2014, the catch rate of walleyes was slightly higher at 29.0 per gill net, which is higher than expected catch rates for similar lakes. The walleyes that were captured in the gill net were likely from the stocking of adult walleyes that occurred in May 2014. Walleyes ranged in length from 12.4 to 19.5 inches and averaged 14.9 inches. Walleye were plump, indicating that there is plenty of food available in Eagle Lake. Walleyes will continue to be stocked every third year to maintain the walleye population. The next walleye fry stocking will occur in 2015.  <br> \n <br> \nBLACK BULLHEAD <br> \nBlack bullhead abundance has been highly variable since 1995, as gill net catch rates went from 26.0 per gill net in 1995 to 251.0 per gill net in 2008 to 99.0 per gill net in 2014, and as trap net catch rates went from 109.4 per trap net in 1995 to 5.0 per trap net in 2008 to 133.5 per trap net in 2014. The 2014 gill net catch rate was within the expected range of catch rates for similar lakes. The 2014 trap net catch rate slightly exceeded what would be expected in similar lakes. Black bullhead captured in the trap nets ranged from 4.7 to 11.9 inches and averaged 6.6 inches.  <br> \n <br> \nOTHER SPECIES <br> \nBluegill (7.8 per trap net) and black crappie (1.5 per trap net) were sampled in the 2008 survey, but were not sampled in the 2014 survey. These species are vulnerable to low dissolved oxygen levels and likely did not survive through the winter of 2013-2014. Additionally, yellow bullheads were sampled in 2008 (0.8 per trap net), but were not detected in 2014.  <br> \n <br> \nPlants in the water and at the water's edge provide habitat, prevent erosion, and absorb excess nutrients.  Shrubs, trees, and woody debris such as fallen trees or limbs provide good habitat both above and below the water and should be left in place.  By leaving a buffer strip of natural vegetation along the shoreline, property owners can reduce erosion, help maintain or improve water quality, and provide habitat and travel corridors for wildlife. <br> \n <br> \nBest management practices within the watershed (no-till farming, cover crops, buffer strips, targeted fertilizer application, reduced or metered tiling) would help reduce nutrients entering the lake. High nutrient and sediment input can cause algae blooms and reduce overall water quality. Any improvements in the watershed are likely to have positive impacts on the fishery. <br> \n <br> \nPrepared by Jonah Dagel <br> \n</p>",
+                "headerInfo": [
+                    "Eagle",
+                    null,
+                    "17002000",
+                    "2014-08-13",
+                    "9851422526912314",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2014-08-13",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                7,
+                                4
+                            ],
+                            [
+                                8,
+                                16
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 9
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 11
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                11
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                4,
+                                62
+                            ],
+                            [
+                                5,
+                                557
+                            ],
+                            [
+                                6,
+                                52
+                            ],
+                            [
+                                7,
+                                353
+                            ],
+                            [
+                                8,
+                                127
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 13
+                    },
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                18
+                            ],
+                            [
+                                15,
+                                10
+                            ],
+                            [
+                                19,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 19
+                    }
+                }
+            },
+            {
+                "surveyID": "290823127649000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "251.00",
+                        "quartileCount": "30.3-150.6",
+                        "totalWeight": 17561.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 251
+                    },
+                    {
+                        "CPUE": "7.75",
+                        "quartileCount": "1.2-20.0",
+                        "totalWeight": 8540.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLG",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 62
+                    },
+                    {
+                        "CPUE": "12.75",
+                        "quartileCount": "0.3-3.8",
+                        "totalWeight": 4720.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 102
+                    },
+                    {
+                        "CPUE": "27.00",
+                        "quartileCount": "2.3-18.1",
+                        "totalWeight": 10404.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.0-2.3",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.85",
+                        "totalCatch": 27
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "1.2-20.5",
+                        "totalWeight": 1882.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.2-0.5",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.35",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1500.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.65",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "11.5-132.6",
+                        "totalWeight": 5234.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.29",
+                        "totalCatch": 40
+                    },
+                    {
+                        "CPUE": "2.12",
+                        "quartileCount": "0.5-3.0",
+                        "totalWeight": 9330.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.21",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1110.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.27",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "127.00",
+                        "quartileCount": "2.7-25.0",
+                        "totalWeight": 10206.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 127
+                    },
+                    {
+                        "CPUE": "0.75",
+                        "quartileCount": "0.5-2.5",
+                        "totalWeight": 610.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "0.3-0.7",
+                        "species": "YEB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>Eagle is a 120-acre lake located between Mountain Lake and Bingham Lake in Cottonwood County.  The lake has a maximum depth of 8.0 feet, has a shoreline length of 1.5 miles and is a class 43 lake.  The lake is managed for yellow perch primarily while walleye and yellow bullhead are managed secondarily.  Eagle Lake was reclaimed in the fall of 1998 as part of the Mountain Lake reclamation.  The lake was re-stocked in the spring of 1999 with yellow perch, yellow bullhead, and walleye.  Northern pike fingerlings were added in 2004 and 2007.   <br> \n <br> \nEagle Lake has an excellent yellow perch population.  In lakes similar to Eagle, we would expect to catch anywhere from 2.7 to 25.0 yellow perch per gill net.  The gill net catch rate was 127.0 yellow perch per net during the 2008 assessment.  Lengths of yellow perch caught in our gill nets ranged from 5.5 to 12.6 inches and averaged 7.7 inches.   <br> \n <br> \nEagle also has a very good walleye population present.  In lakes similar to Eagle, we would expect to see catch rates from 2.3 to 18.0 walleye per gill net.  The gill net catch rate was 27.0 walleye per net in 2008.  Lengths of walleye caught in gill nets ranged from 11.5 to 18.8 inches and averaged 13.4 inches.  The small average length can be attributed to catching large numbers of age 1 and age 2 walleye.   <br> \n <br> \nEagle Lake has a better than average bluegill population present.  The average number of bluegill we would expect to catch in trap nets is 4 bluegill per net.  During the 2008 survey we caught 7.8 bluegill per net.  Lengths of bluegill sampled in trap nets ranged from 6.0 to 7.5 inches and averaged 6.8 inches. <br> \n  <br> \nThere is an average number black crappie present in Eagle Lake.  Lengths of black crappie ranged from 2.5 to 13.2 inches and averaged 7.6 inches.  <br> \n <br> \nIf you are looking for a good meal of bullhead, Eagle might be a good place to go.  There are good numbers of bullhead and their lengths ranged from 4.9 to 12.3 inches and averaged 8.3 inches. <br> \n <br> \nTo maintain a healthy fishery in Eagle Lake, we need to promote Best Management Practices (BMP\u0019s) within the watershed to help reduce nutrients entering the lake.  High nutrients and sediments in a lake can cause algae blooms and reduce water clarity. <br> \n <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Eagle",
+                    null,
+                    "17002000",
+                    "2008-08-18",
+                    "290823127649000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2008-08-18",
+                "lengths": {
+                    "WAE": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                12,
+                                22
+                            ],
+                            [
+                                13,
+                                7
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                22,
+                                2
+                            ],
+                            [
+                                23,
+                                1
+                            ],
+                            [
+                                6,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 23
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                32
+                            ],
+                            [
+                                8,
+                                231
+                            ],
+                            [
+                                9,
+                                21
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 12
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                23,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 23,
+                        "maximum_length": 23
+                    },
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                2,
+                                1
+                            ],
+                            [
+                                7,
+                                9
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 13
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                4,
+                                23
+                            ],
+                            [
+                                5,
+                                75
+                            ],
+                            [
+                                6,
+                                28
+                            ],
+                            [
+                                7,
+                                27
+                            ],
+                            [
+                                8,
+                                59
+                            ],
+                            [
+                                9,
+                                13
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 12
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                52
+                            ],
+                            [
+                                7,
+                                18
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "YEB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                7,
+                                2
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 9
+                    }
+                }
+            }
+        ],
+        "countyName": "Cottonwood"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,59 @@
+{
+    "timestamp": 1737671498,
+    "result": {
+        "lakeName": "Unnamed ",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.72,
+        "DOWNumber": 69012200,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.4,
+        "areaAcres": 11.26,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 28.0,
+        "officeCode": "F213",
+        "accesses": [
+            {
+                "location": "0.5 mile portage along state snowmobile trail west of County Road 44",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107342",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "25.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 25
+                    }
+                ],
+                "narrative": "<p>Brook trout ages I-III were well represented in the gillnet catch.  Growth is slow compared with area stream data.  No other species were sampled.</p>",
+                "headerInfo": [
+                    "Unnamed ",
+                    "East Pond",
+                    "69012200",
+                    "1991-09-06",
+                    "107342",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1991-09-06",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

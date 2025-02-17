@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737671688,
+    "result": {
+        "lakeName": "Young",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.6,
+        "DOWNumber": 69063500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 132.2,
+        "areaAcres": 132.2,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 10.0,
+        "officeCode": "F213",
+        "accesses": [
+            {
+                "location": "CARRY DOWN ACCESS OFF OF TOWNSHIP RD 6701 ON THE WEST SHORE.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "107499",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 44.2,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.70",
+                        "totalCatch": 26
+                    },
+                    {
+                        "CPUE": "0.30",
+                        "quartileCount": "0.7-3.8",
+                        "totalWeight": 1.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.2-0.7",
+                        "species": "BLC",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "41.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 40.3,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 410
+                    }
+                ],
+                "narrative": "<p>NOP ARE WELL DISTRIBUTED FROM AGES I THROUGH IV WITH GROWTH RATES AND ABUNDANCE COMPARABLE TO LOCAL AND LAKE CLASS MEDIANS RESPECTIVELY.  SMALL (AVERAGE LENGTH OF 5.2 INCHES) BLBS ARE ABUNDANT, WELL OVER THE STATE MEDIAN.  BLCS ARE REPRESENTED BY ONLY THE 1990 YEAR CLASS AND EXHIBIT GROWTH RATES ABOVE THE LOCAL MEDIAN.</p>",
+                "headerInfo": [
+                    "Young",
+                    null,
+                    "69063500",
+                    "1992-08-05",
+                    "107499",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1992-08-05",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

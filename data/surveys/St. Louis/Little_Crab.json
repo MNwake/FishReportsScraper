@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737670103,
+    "result": {
+        "lakeName": "Little Crab",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.16,
+        "DOWNumber": 69029600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 63.22,
+        "areaAcres": 63.22,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "USFS 20 rod portage from Crab Lake  Water routes from Lunette Lake and Korb Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108137",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "3.0-9.0",
+                        "totalWeight": 48.75,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.5",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.25",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.4-2.3",
+                        "totalWeight": 0.5,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "RKB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.3-1.5",
+                        "totalWeight": 1.25,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.6-1.6",
+                        "species": "SMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.25",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 16.75,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.40",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.5-1.6",
+                        "totalWeight": 1.75,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.1",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.75",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Consists of above average populations of northern pike and sucker with average populations of smallmouth bass, largemouth bass, and rock bass.</p>",
+                "headerInfo": [
+                    "Little Crab",
+                    null,
+                    "69029600",
+                    "1978-07-20",
+                    "108137",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-07-20",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737659011,
+    "result": {
+        "lakeName": "Lower Spring",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.77,
+        "DOWNumber": 31044600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 17.0,
+        "areaAcres": 17.0,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 15.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "105762",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.3-3.3",
+                        "totalWeight": 0.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.8-2.4",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "1.8-26.3",
+                        "totalWeight": 1.2,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>DACE, FATHEAD, AND SHINER MINNOW POPULATIONS ARE FAIRLY HIGH.</p>",
+                "headerInfo": [
+                    "Lower Spring",
+                    "Moore",
+                    "31044600",
+                    "1986-06-24",
+                    "105762",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1986-06-24",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

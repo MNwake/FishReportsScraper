@@ -1,0 +1,137 @@
+{
+    "timestamp": 1737675313,
+    "result": {
+        "lakeName": "Washington",
+        "sampledPlants": [],
+        "shoreLengthMiles": 3.2,
+        "DOWNumber": 86005600,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 157.8,
+        "areaAcres": 155.46,
+        "meanDepthFeet": 9.0,
+        "maxDepthFeet": 21.0,
+        "officeCode": "F315",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "3830816149180012",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.09",
+                        "quartileCount": "N/A",
+                        "totalWeight": 900.0,
+                        "gearCount": 0.846666666666667,
+                        "quartileWeight": "N/A",
+                        "species": "BLC",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "0.33",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "90.94",
+                        "quartileCount": "N/A",
+                        "totalWeight": 48237.0,
+                        "gearCount": 0.846666666666667,
+                        "quartileWeight": "N/A",
+                        "species": "LMB",
+                        "gear": "Standard electrofishing",
+                        "averageWeight": "1.38",
+                        "totalCatch": 77
+                    }
+                ],
+                "narrative": "<p>Washington Lake was originally surveyed in 1972.  At that time no fish were taken in either gill nets or trap nets.  Up until 1992 there were some severe winters and a tendency toward low oxygen.  Since 2001 winters have been mild and there have been no reports of dead fish after winter.  Rising water levels have provided more habitat/volume for well-oxygenated water.   <br> \n <br> \nThe fishery has changed markedly since 1972.  We have reports of excellent northern pike and largemouth fishing.  Sunfish and crappies are caught.  Yellow perch were observed during electrofishing. <br> \n <br> \nPast Management of this shallow, natural environment lake has been limited to oxygen testing, and a largemouth \"angler survey\" on June 20, 2006.  Largemouth electrofishing was accomplished on 5/6/09 and a survey of curled pondweed took place June 2009. <br> \n <br> \nLargemouth bass were sampled by night-time electrofishing on May 6, 2009.  No previous electrofishing survey had ever been conducted.   A total of 77 largemouth bass were sampled in 0.93 hours of effort for a catch rate of 90.9 fish/hr.  Largemouth bass sampled ranged in length from 6.2 to 19.1 inches with an average length of 12.5 inches.  Proportional stock density (PSD) was 54, with RSD-P, 24.   <br> \n <br> \nCurled pondweed was mapped at the time of peak abundance on June 3, 2009.  It was found growing at or near the surface on 59.5 acres, 36.3 percent of the lakes' surface.   <br> \n <br> \nResults of water quality testing from a single sample collected on 7/27/09 showed that total phosphorous and chlorophyll a were: 0.081 ppm and 90.6. ppb, respectively.  Corresponding TSI values were: 67 and 75.  Washington Lake has hyper-eutrophic status. <br> \n <br> \nThe lake is undeveloped in a landscape that is rapidly developing (eastern Wright County).  The lake seems unique in that (reportedly) few fish are harvested, bald eagles nest and beaver occupy the shoreline.</p>",
+                "headerInfo": [
+                    "Washington",
+                    null,
+                    "86005600",
+                    "2009-08-03",
+                    "3830816149180012",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2009-08-03",
+                "lengths": {
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                8,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 8
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                12
+                            ],
+                            [
+                                11,
+                                7
+                            ],
+                            [
+                                12,
+                                5
+                            ],
+                            [
+                                13,
+                                8
+                            ],
+                            [
+                                14,
+                                8
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                6
+                            ],
+                            [
+                                17,
+                                4
+                            ],
+                            [
+                                18,
+                                5
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                6
+                            ],
+                            [
+                                9,
+                                8
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 19
+                    }
+                }
+            }
+        ],
+        "countyName": "Wright"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

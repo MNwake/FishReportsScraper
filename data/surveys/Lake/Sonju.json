@@ -1,0 +1,968 @@
+{
+    "timestamp": 1737663341,
+    "result": {
+        "lakeName": "Sonju",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.58,
+        "DOWNumber": 38024800,
+        "waterClarity": [
+            [
+                "08/10/2011",
+                "3"
+            ],
+            [
+                "05/03/2016",
+                "4.5"
+            ],
+            [
+                "08/11/2010",
+                "4"
+            ],
+            [
+                "09/24/2012",
+                "4.5"
+            ],
+            [
+                "09/29/2009",
+                "5.5"
+            ],
+            [
+                "08/13/2009",
+                "5.2"
+            ]
+        ],
+        "averageWaterClarity": "4.5",
+        "littoralAcres": 37.14,
+        "areaAcres": 37.14,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 8.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "Cut new access west of old trail on more gentle slope.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "4251122233007000",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Sonju Lake gets light annual fishing pressure, with highest fishing pressure usually near the May opener for open-water angling and the January opener of the winter trout season.  Brook trout yearlings are stocked annually in this designated stream trout lake.  Low dissolved oxygen levels in winter and warm water temperatures in summer can stress the trout population in both seasons.  Water quality measurements show that fishing early in the winter trout season, or the early or late part of the open-water trout season, should be the most productive periods for trout angling on Sonju Lake. <br> \n <br> \nWinter access is 4.2 miles from the nearest plowed road (Sonju Lake Road) unless there are logging operations in the Sonju Lake area.  Summer access is a 30 yard trail from the Sonju Lake Road to the northwest end of the lake.  </p>",
+                "headerInfo": [
+                    "Sonju",
+                    null,
+                    "38024800",
+                    "2011-08-10",
+                    "4251122233007000",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2011-08-10",
+                "lengths": {}
+            },
+            {
+                "surveyID": "11941613255444000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "27.33",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 27618.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.37",
+                        "totalCatch": 164
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 35.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Sonju Lake is a 37 acre lake with a maximum depth of 8 feet located 5 miles northeast of Finland Minnesota.  There is a carry in access down a fairly steep hill from the Sonju Lake road to the northwest corner of the lake.  Other than the access there is no development on the lake shore, it is entirely in public ownership.  Sonju Lake connects to the East Branch of the Baptism River, a designated trout stream by way of an unnamed creek. <br> \n <br> \nThe purpose of the spring 2016 targeted survey was to assess if any Brook Trout remained in the lake following the decision to discontinue stocking in 2014.  No Brook Trout were sampled during the 2016 survey.  It is possible that Brook Trout may move into the lake seasonally from the East Branch of the Baptism River, but is unlikely that they can maintain a population in the lake year round due to the limited depth.  The only fish sampled during the 2016 survey were White Sucker and Common Shiner. <br> \n <br> \nWith the notable exception of summer 2009 (an exceptionally cold summer) the trout fishery in Sonju Lake and net catch in Sonju Lake have been poor.  Surveys of winter dissolved oxygen have revealed that it is inadequate to support Brook Trout through the winter; due to the shallow depth of the lake (max depth 8 feet) summer temperatures are not suitable for Brook Trout either.  Most likely as a result of these two issues, observed survival of stocked Brook Trout was very poor.  Brook Trout stocking on Sonju Lake was discontinued in 2014.  From a game fish perspective, this lake will not be of interest to most anglers as there are no permanent gamefish populations.  It however is a scenic lake and may be of interest to canoers and duck hunters, it has been used in the past as a source of bait for local minnow dealers. <br> \n</p>",
+                "headerInfo": [
+                    "Sonju",
+                    null,
+                    "38024800",
+                    "2016-05-03",
+                    "11941613255444000",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2016-05-03",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                12,
+                                21
+                            ],
+                            [
+                                13,
+                                26
+                            ],
+                            [
+                                14,
+                                32
+                            ],
+                            [
+                                15,
+                                37
+                            ],
+                            [
+                                16,
+                                23
+                            ],
+                            [
+                                6,
+                                8
+                            ],
+                            [
+                                7,
+                                9
+                            ],
+                            [
+                                8,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 16
+                    },
+                    "CSH": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    }
+                }
+            },
+            {
+                "surveyID": "112823",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3223.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "42.88",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 127569.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.82",
+                        "totalCatch": 343
+                    },
+                    {
+                        "CPUE": "0.12",
+                        "quartileCount": "N/A",
+                        "totalWeight": 48.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7683.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.60",
+                        "totalCatch": 28
+                    }
+                ],
+                "narrative": "<p>Sonju Lake is a Designated Trout Lake which prohibits the possession and use of live minnows.  Access is limited to canoes and small boats, and requires a 30 yard carry from a gravel road.     The fish population is comprised of brown trout, brook trout and white sucker.  Test nets in 1997 found fair numbers of brook trout and brown trout.  The brook trout averaged 9.1 inches, with a maximum length of 11.3 inches recorded.  Brown trout averaged 10.2 inches, with a maximum length of 11.2 inches sampled.     Stocking of brook trout was discontinued after 1996 in favor of brown trout.  The lake will be stocked with 1000 brown trout yearlings each spring.</p>",
+                "headerInfo": [
+                    "Sonju",
+                    null,
+                    "38024800",
+                    "1997-10-20",
+                    "112823",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1997-10-20",
+                "lengths": {
+                    "CSH": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                5
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                11
+                            ],
+                            [
+                                9,
+                                8
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 11
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                64
+                            ],
+                            [
+                                11,
+                                29
+                            ],
+                            [
+                                12,
+                                13
+                            ],
+                            [
+                                13,
+                                15
+                            ],
+                            [
+                                14,
+                                14
+                            ],
+                            [
+                                15,
+                                11
+                            ],
+                            [
+                                16,
+                                6
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                6,
+                                10
+                            ],
+                            [
+                                7,
+                                42
+                            ],
+                            [
+                                8,
+                                87
+                            ],
+                            [
+                                9,
+                                49
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 17
+                    },
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                15
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                10
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 11
+                    }
+                }
+            },
+            {
+                "surveyID": "112404",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "22.17",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 52.2,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.39",
+                        "totalCatch": 133
+                    },
+                    {
+                        "CPUE": "37.50",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 52.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.70",
+                        "totalCatch": 75
+                    }
+                ],
+                "narrative": "<p>The fish community in Sonju is composed almost entirely of a dense population of small White Sucker with an average length of 10.8 inches. Species sampled was a Brook Trout which may have migrated from the Baptism River. </p>",
+                "headerInfo": [
+                    "Sonju",
+                    null,
+                    "38024800",
+                    "1989-07-07",
+                    "112404",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1989-07-07",
+                "lengths": {}
+            },
+            {
+                "surveyID": "4251022355468000",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Sonju Lake gets light annual fishing pressure, usually higher fishing pressure near the May opener for open-water angling and the January opener of the winter trout season.  Brook trout yearlings are stocked annually in this designated stream trout lake.  Low dissolved oxygen levels in winter and warm water temperatures in summer can stress the trout population in both seasons.  Water quality measurements show that fishing early in the winter trout season, the early part or late part of the open-water trout season, should be the most productive periods for trout angling on Sonju Lake.  Winter access is 4.2 miles on an un-plowed road (Sonju Lake Road) from the nearest plowed road, unless there are logging operations in the Sonju Lake area.  Summer access is a 30 yard trail from the Sonju Lake Road to the northwest end of the lake.  </p>",
+                "headerInfo": [
+                    "Sonju",
+                    null,
+                    "38024800",
+                    "2010-08-11",
+                    "4251022355468000",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2010-08-11",
+                "lengths": {}
+            },
+            {
+                "surveyID": "5781226826528000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.44",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1526.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "72.89",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 87644.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.29",
+                        "totalCatch": 656
+                    }
+                ],
+                "narrative": "<p>Sonju is a 37 acre lake with a maximum depth of eight feet located four miles north of Finland, MN in Lake County.  The lake is on the south side of Sonju Lake Road and is accessed by a 30 yard trail down a steep hill.  Maneuvering boats up and down the access is quite difficult; the lake is best fished by canoe or, in winter, through the ice.  However, the Sonju Lake Road is not consistently plowed in winter, making alternative transportation necessary for accessing the lake at times.   <br> \n <br> \nSonju's shoreline is mixed forest and bog; the substrate is primarily muck, except some small areas of sand and gravel around the inlets.  The fish community includes brook trout, white suckers, golden shiners, and pearl dace.  Historically brown trout were stocked in the lake, but brown trout have not been stocked since 2001 and they were not present in the most recent surveys (2009 and 2012). <br> \n <br> \nThe 2012 survey found a very low brook trout abundance in Sonju Lake with only 13 brook trout caught.  The trout averaged 8 inches and 0.26 pounds; the largest trout sampled was 9 inches and 0.34 pounds.  In both the 2009 and 2012 assessments all the trout sampled were yearlings stocked the spring prior to the assessment.  Low winter dissolved oxygen levels likely result in annual brook trout winterkills in Sonju. <br> \n <br> \nIn contrast to the brook trout, extremely high numbers of white suckers were sampled in 2012.  White sucker catch rates were about 30 times higher than average for lakes similar to Sonju.  Although high abundances of white suckers are not uncommon in Sonju, the 2012 catch rate was the highest in netting history. <br> \n</p>",
+                "headerInfo": [
+                    "Sonju",
+                    null,
+                    "38024800",
+                    "2012-09-24",
+                    "5781226826528000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2012-09-24",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                106
+                            ],
+                            [
+                                11,
+                                32
+                            ],
+                            [
+                                12,
+                                6
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                41
+                            ],
+                            [
+                                7,
+                                167
+                            ],
+                            [
+                                8,
+                                109
+                            ],
+                            [
+                                9,
+                                184
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 16
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                4
+                            ],
+                            [
+                                9,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 9
+                    }
+                }
+            },
+            {
+                "surveyID": "112944",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 747.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.41",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "18.75",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 24092.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.35",
+                        "totalCatch": 150
+                    },
+                    {
+                        "CPUE": "0.12",
+                        "quartileCount": "N/A",
+                        "totalWeight": 43.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1040.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "56.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 15948.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.63",
+                        "totalCatch": 56
+                    },
+                    {
+                        "CPUE": "0.12",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "PRD",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 43.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Sonju Lake is a designated trout lake that is stocked annually with yearling brown trout.  Brown trout, white suckers and minnows were collected in DNR test nets in the fall of 2001.  Brown trout were sampled in average numbers and ranged in size from 8.9 inches to 11.5 inches with the majority of the fish between 10 inches and 11 inches.</p>",
+                "headerInfo": [
+                    "Sonju",
+                    null,
+                    "38024800",
+                    "2001-10-15",
+                    "112944",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2001-10-15",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                10
+                            ],
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                12,
+                                28
+                            ],
+                            [
+                                13,
+                                49
+                            ],
+                            [
+                                14,
+                                37
+                            ],
+                            [
+                                15,
+                                13
+                            ],
+                            [
+                                16,
+                                16
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                6,
+                                6
+                            ],
+                            [
+                                7,
+                                17
+                            ],
+                            [
+                                8,
+                                16
+                            ],
+                            [
+                                9,
+                                7
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 17
+                    },
+                    "CSH": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                6
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 11
+                    }
+                }
+            },
+            {
+                "surveyID": "4250926838278000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "22.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 40900.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.44",
+                        "totalCatch": 204
+                    },
+                    {
+                        "CPUE": "8.67",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 12147.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.34",
+                        "totalCatch": 78
+                    }
+                ],
+                "narrative": "<p>Sonju Lake gets limited fishing pressure even in spite of its relatively easy access as the lake has a reputation of tough winter fishing.  After documenting the high numbers of brook trout sampled (22.7 trout per trap net) in the 2009 fall assessment with many fish greater than 10.5 inches, anglers inquiring of where to fish were directed to the lake.  The local Fisheries office received phone calls and thanks from many anglers stating that they got limits of nice fish. <br> \n <br> \n The lake is shallow, summer temperatures and winter oxygen may be problematic as is the abundance of small white suckers, however; returning to brook trout management may spark additional angling interest  in Sonju Lake. <br> \n</p>",
+                "headerInfo": [
+                    "Sonju",
+                    null,
+                    "38024800",
+                    "2009-09-29",
+                    "4250926838278000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2009-09-29",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                9
+                            ],
+                            [
+                                11,
+                                12
+                            ],
+                            [
+                                12,
+                                6
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                6,
+                                11
+                            ],
+                            [
+                                7,
+                                23
+                            ],
+                            [
+                                8,
+                                6
+                            ],
+                            [
+                                9,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 16
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                97
+                            ],
+                            [
+                                11,
+                                57
+                            ],
+                            [
+                                12,
+                                7
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                8,
+                                3
+                            ],
+                            [
+                                9,
+                                38
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 13
+                    }
+                }
+            },
+            {
+                "surveyID": "112588",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4401.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 66
+                    },
+                    {
+                        "CPUE": "19.33",
+                        "quartileCount": "0.9-4.5",
+                        "totalWeight": 49469.0,
+                        "gearCount": 9.0,
+                        "quartileWeight": "1.5-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.63",
+                        "totalCatch": 174
+                    }
+                ],
+                "narrative": "<p>Test nets in 1994 found a high number of brook trout in Sonju Lake with most of the fish sampled smaller than 8 inches. The largest of the brook trout observed was 11.5 inches. Almost all the brook trout taken in nets were from a 1993 fingerling stocking.     White sucker were caught in high numbers and have a history of being very abundant. No other species were taken in test nets.</p>",
+                "headerInfo": [
+                    "Sonju",
+                    null,
+                    "38024800",
+                    "1994-06-06",
+                    "112588",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1994-06-06",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                6,
+                                26
+                            ],
+                            [
+                                7,
+                                33
+                            ],
+                            [
+                                8,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 11
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                7
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                12,
+                                9
+                            ],
+                            [
+                                13,
+                                13
+                            ],
+                            [
+                                14,
+                                10
+                            ],
+                            [
+                                15,
+                                7
+                            ],
+                            [
+                                16,
+                                6
+                            ],
+                            [
+                                17,
+                                8
+                            ],
+                            [
+                                18,
+                                8
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                19
+                            ],
+                            [
+                                8,
+                                40
+                            ],
+                            [
+                                9,
+                                36
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 19
+                    }
+                }
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

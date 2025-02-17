@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737670040,
+    "result": {
+        "lakeName": "Lamb",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.67,
+        "DOWNumber": 69034100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 0.0,
+        "areaAcres": 100.06,
+        "meanDepthFeet": 9.0,
+        "maxDepthFeet": 18.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "USFS portage from Nina Moose Lake  or Ramshead Lake.  Motorized route in BWCA.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108156",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "1.2-5.7",
+                        "totalWeight": 74.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.6-3.3",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.08",
+                        "totalCatch": 24
+                    },
+                    {
+                        "CPUE": "4.33",
+                        "quartileCount": "2.0-16.5",
+                        "totalWeight": 1.6,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "7.67",
+                        "quartileCount": "1.6-7.6",
+                        "totalWeight": 21.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.1",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.91",
+                        "totalCatch": 23
+                    }
+                ],
+                "narrative": "<p>Consists of above average populations of Northern Pike and Suckers.  The Northern Pike are about average in size.  Perch are present in below average numbers.</p>",
+                "headerInfo": [
+                    "Lamb",
+                    null,
+                    "69034100",
+                    "1976-09-03",
+                    "108156",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1976-09-03",
+                "lengths": {}
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,133 @@
+{
+    "timestamp": 1737651406,
+    "result": {
+        "lakeName": "Prune",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.53,
+        "DOWNumber": 16030800,
+        "waterClarity": [
+            [
+                "08/10/1971",
+                "1.5"
+            ],
+            [
+                "09/04/2014",
+                "1.5"
+            ]
+        ],
+        "averageWaterClarity": "1.5",
+        "littoralAcres": 8.3,
+        "areaAcres": 9.26,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 21.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "11381430737148040",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "0.6-6.9",
+                        "totalWeight": 1392.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.7",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 18
+                    }
+                ],
+                "narrative": "<p>Prune Lake supports a unique (in this area) fish community that apparently consists solely of black crappie.  It is a small lake, at the edge of (but outside) the BWCAW, off the south side of Poplar Lake.  Its waters are heavily bog-stained, and appeared almost purple in color in 2014. <br> \n <br> \nBlack crappie were apparently fairly abundant in 2014, although few, if any, larger fish were present.  The black crappie gill net catch was above the normal range for a lake of this type, while the mean weight for fish taken in gill nets was nearer the low end of that range. Black crappie collected in 2014 ranged in length from 6.1 to 8.4 inches.  Three year classes had apparently contributed to the catch, which consisted entirely of three- to five-year-old mature fish, about evenly split between males and females.  Growth of fish taken in 2014 had been slow.  Four-year-old fish had reached an average length of 6.4 inches by the end of their fourth year, compared to an area mean of 9.3 inches.  Forage for black crappie was probably limited to insects and other invertebrates; only invertebrates were found in stomachs examined in 2014, and sampling with minnow traps in 2002 collected no minnows or other fish of any kind. <br> \n <br> \nAs is often the case in small heavily bog-stained lakes in this area, dissolved oxygen levels high enough to support fish were found in only a relatively shallow layer of water near the surface.  Dissolved oxygen dropped off sharply at depths greater than six feet. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Prune",
+                    null,
+                    "16030800",
+                    "2014-09-04",
+                    "11381430737148040",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2014-09-04",
+                "lengths": {
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                8
+                            ],
+                            [
+                                7,
+                                9
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 8
+                    }
+                }
+            },
+            {
+                "surveyID": "111367",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "0.6-6.9",
+                        "totalWeight": 196.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.7",
+                        "species": "BLC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Prune Lake is a small lake with a naturally reproducing black crappie population.  Black crappie is the only fish species that has been sampled by DNR Fisheries assessment crews.  There is no record of stocking Prune Lake in the Grand Marais Area Fisheries' office files.  There have been good catches of black crappie during most DNR assessments, but the fish caught during this assessment showed slow growth, and poor condition.Prune Lake has been a fairly popular fishing lake in the past, but current use is largely unknown.</p>",
+                "headerInfo": [
+                    "Prune",
+                    null,
+                    "16030800",
+                    "2002-09-05",
+                    "111367",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2002-09-05",
+                "lengths": {
+                    "BLC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                4
+                            ],
+                            [
+                                5,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

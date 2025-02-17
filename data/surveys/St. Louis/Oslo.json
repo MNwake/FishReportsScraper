@@ -1,0 +1,160 @@
+{
+    "timestamp": 1737670648,
+    "result": {
+        "lakeName": "Oslo",
+        "sampledPlants": [
+            "Alder Group (Alnus sp.)",
+            "Bladderwort Group (Utricularia sp.)",
+            "Blue Flag Iris (Iris versicolor)",
+            "Filamentous algae (Eukaryotic)",
+            "Freshwater Sponge (Freshwater Sponge)",
+            "Grass Group  (Gramineae/Poaceae Family)",
+            "Sedge Group (Carex sp.)",
+            "Spikerush Group (Eleocharis sp.)",
+            "St. John's-wort (Hypericum ellipticum)",
+            "Swamp Candles Group (Lysimachia sp.)",
+            "Swamp Horsetail (Equisetum fluviatile)",
+            "Water (wild) Celery (Vallisneria americana)",
+            "Willow Group (Salix sp.)",
+            "Yellow Waterlily Group (Nuphar sp.)",
+            "broad-leaved cattail (Typha latifolia)",
+            "floating bur-reed (Sparganium fluctuans)",
+            "large-leaved pondweed (Potamogeton amplifolius)",
+            "leatherleaf (Chamaedaphne calyculata)",
+            "sweet gale (Myrica gale)",
+            "three-way sedge (Dulichium arundinaceum)",
+            "watershield (Brasenia schreberi)"
+        ],
+        "shoreLengthMiles": 3.66,
+        "DOWNumber": 69083800,
+        "waterClarity": [
+            [
+                "07/06/2010",
+                "11"
+            ]
+        ],
+        "averageWaterClarity": "11.0",
+        "littoralAcres": 58.0,
+        "areaAcres": 99.24,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 36.0,
+        "officeCode": "F217",
+        "accesses": [
+            {
+                "location": " ",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": "Portage trail from Rainy Lake. "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "4411018730027000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.50",
+                        "quartileCount": "1.3-5.3",
+                        "totalWeight": 15756.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "1.6-3.1",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.65",
+                        "totalCatch": 21
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.5-7.0",
+                        "totalWeight": 40.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Oslo is a 105 acre lake located about 30 miles southeast of International Falls, MN.  The lake is connected to Brown Lake by a small creek that flows through a marsh.  Most (55%) of the lake is less than 15 feet deep, but has very little aquatic vegetation and productivity is low.   <br> \n <br> \nLargemouth bass were stocked in 1950 and 1965.  However, past investigations show no record of bass becoming established and none were captured during the 2010 assessment.   <br> \n <br> \nNorthern pike abundance was within the expected range for this lake type.  Most pike were small and length in the sample ranged from 10.1-24.6 inches with a mean of 19.7. The mean weight was 1.65 pounds and growth was well below the area average. <br> \n <br> \nOne yellow perch was captured in 2010; previous investigations also indicate low abundance.  White sucker have been captured in the past; however, they were generally rare and none were captured in 2010.  </p>",
+                "headerInfo": [
+                    "Oslo",
+                    null,
+                    "69083800",
+                    "2010-07-06",
+                    "4411018730027000",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2010-07-06",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                3
+                            ],
+                            [
+                                22,
+                                3
+                            ],
+                            [
+                                23,
+                                4
+                            ],
+                            [
+                                24,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 24
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    }
+                }
+            }
+        ],
+        "countyName": "St. Louis"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

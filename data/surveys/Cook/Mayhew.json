@@ -1,0 +1,397 @@
+{
+    "timestamp": 1737651031,
+    "result": {
+        "lakeName": "Little Mayhew",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.36,
+        "DOWNumber": 16033900,
+        "waterClarity": [
+            [
+                "06/20/1969",
+                "12.3"
+            ],
+            [
+                "06/24/2013",
+                "15"
+            ]
+        ],
+        "averageWaterClarity": "13.7",
+        "littoralAcres": 11.1,
+        "areaAcres": 34.35,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 31.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110837",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.67",
+                        "quartileCount": "1.0-3.0",
+                        "totalWeight": 12772.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "2.2-3.8",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.56",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "1.0-8.0",
+                        "totalWeight": 97.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 3522.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.94",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>High numbers of northern pike were present.  All sampled northern pike were over 19 inches long, and exhibited fairly fast growth.  The catch of yellow perch was low for lakes in this class.  White sucker were also present. Northern pike and yellow perch have apparently immigrated since the 1978 assessment.  White sucker and green sunfish were sampled in 1978.  Green sunfish were not sampled in 1997, but were found in Mayhew Lake. </p>",
+                "headerInfo": [
+                    "Little Mayhew",
+                    null,
+                    "16033900",
+                    "1997-07-10",
+                    "110837",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1997-07-10",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                22,
+                                2
+                            ],
+                            [
+                                23,
+                                2
+                            ],
+                            [
+                                25,
+                                1
+                            ],
+                            [
+                                27,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 19,
+                        "maximum_length": 27
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 20
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    }
+                }
+            },
+            {
+                "surveyID": "4311318653431008",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "1.0-3.0",
+                        "totalWeight": 6733.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "2.2-3.8",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.12",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "1.5-10.4",
+                        "totalWeight": 10819.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.6-2.0",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.59",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "0.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "IOD",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "0.3-2.5",
+                        "totalWeight": 56.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.88",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "0.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 8.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 105.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLG",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.23",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "16.00",
+                        "quartileCount": "1.0-8.0",
+                        "totalWeight": 2543.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 48
+                    }
+                ],
+                "narrative": "<p>This assessment was done to determine whether any new fish species had become established in Little Mayhew Lake.  The lake was rehabilitated for stream trout management in 1969, and white sucker had become reestablished by 1971.  Northern pike and yellow perch, probably entering the lake via its outlet to Loon Lake, had become reestablished by 1997.  Fish populations established in Little Mayhew can reach Mayhew Lake (a managed lake trout lake) via the stream connecting the two lakes.  Other species found in Loon Lake that would be of great concern if found in Little Mayhew are smallmouth bass and walleye.  A barrier was constructed between Loon and Little Mayhew Lakes in 1997 to prevent the movement of additional fish species into Little Mayhew and Mayhew Lakes. <br> \n <br> \nBluegill were found in Little Mayhew Lake for the first time in this assessment, but their abundance was probably low.  No other new species were included in the gill net catch.  Iowa darter and brook stickleback, taken in minnow traps, had not been sampled before in this lake; however, previous efforts to sample small fishes had been very limited (four minnow trap sets in 1997). <br> \n <br> \nNorthern pike were present in fair numbers in 2013, and although most were under 20 inches in length, a few larger fish were present.  The 2013 northern pike gill net catch fell within the normal range for a lake of this class, and was similar to the catch observed in 1997.  Three year classes contributed to the catch.  Growth of young northern pike had been relatively fast; two-year-old fish reached a mean length of 16.1 inches by the end of their second year, compared to an area average of 13.6 inches.  Fast northern pike growth was probably due to the presence of high numbers of yellow perch; the yellow perch gill net catch was well above the normal range for a lake of this type.  Although providing an excellent forage base, few of the perch collected in 2013 were large enough to have been of much interest to anglers. <br> \n <br> \nThe white sucker gill net catch was within the normal range for this type of lake.  Most of the white sucker present in 2013 would have been too large to have served as forage for any but the largest northern pike in the system. <br> \n <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Little Mayhew",
+                    null,
+                    "16033900",
+                    "2013-06-24",
+                    "4311318653431008",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2013-06-24",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 21
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                30
+                            ],
+                            [
+                                7,
+                                8
+                            ],
+                            [
+                                8,
+                                6
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 9
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 4
+                    },
+                    "BLG": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                2
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                28,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 28
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

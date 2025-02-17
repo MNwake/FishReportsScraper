@@ -1,0 +1,176 @@
+{
+    "timestamp": 1737661852,
+    "result": {
+        "lakeName": "Blesener",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.99,
+        "DOWNumber": 38001700,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 18.21,
+        "areaAcres": 18.21,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 11.0,
+        "officeCode": "F215",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "112610",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "NPS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "N/A",
+                        "totalCatch": 0
+                    }
+                ],
+                "narrative": "<p>No fish taken by two gillnets and two trapnets.      Minnows are presently being trapped in the lake.</p>",
+                "headerInfo": [
+                    "Blesener",
+                    "Blesner",
+                    "38001700",
+                    "1960-07-18",
+                    "112610",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1960-07-18",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112829",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 48.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Blesner Lake is a small, shallow lake approximately 7 miles northeast of Finland Minnesota.     Brook trout were stocked in 1995 and 1996 to try to establish a brook trout fishery.  Prior to the brook trout stockings the lake contained various minnow species.  Test nets in 1997 determined that unsuitable conditions exist for brook trout at some point in the year, as there was little evidence of their survival.  Test nets sampled only one 6.5 inch brook trout.  No further management for brook trout will be attempted.</p>",
+                "headerInfo": [
+                    "Blesener",
+                    "Blesner",
+                    "38001700",
+                    "1997-06-02",
+                    "112829",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1997-06-02",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    }
+                }
+            },
+            {
+                "surveyID": "112593",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "132.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 530
+                    },
+                    {
+                        "CPUE": "500.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2000
+                    },
+                    {
+                        "CPUE": "5.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "IOD",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 23
+                    },
+                    {
+                        "CPUE": "237.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNS",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 950
+                    },
+                    {
+                        "CPUE": "317.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1270
+                    },
+                    {
+                        "CPUE": "1.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>At the present time the fish community in Blesner Lake is comprised of white sucker, Iowa darters, brook stickleback and various minnow species. It is unlikely any gamefish normally inhabit the lake.</p>",
+                "headerInfo": [
+                    "Blesener",
+                    "Blesner",
+                    "38001700",
+                    "1994-07-05",
+                    "112593",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1994-07-05",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

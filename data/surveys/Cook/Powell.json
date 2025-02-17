@@ -1,0 +1,119 @@
+{
+    "timestamp": 1737651390,
+    "result": {
+        "lakeName": "Powell",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.94,
+        "DOWNumber": 16075600,
+        "waterClarity": [
+            [
+                "07/28/1980",
+                "17.5"
+            ],
+            [
+                "07/16/1992",
+                "14"
+            ]
+        ],
+        "averageWaterClarity": "15.8",
+        "littoralAcres": 21.6,
+        "areaAcres": 51.15,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 75.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Entirely inside the BWCAW.  Access by portage from French and West Fern Lakes.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109817",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 19.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.5-4.0",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "4.88",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "9.75",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 16.05,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.41",
+                        "totalCatch": 39
+                    }
+                ],
+                "narrative": "<p>The size of the Lake Trout pop. appears small and is comprised of mostly large fish.  Their growth rate appears good, but young fish were absent in the sample.  The Sucker population is large with sizes represented.</p>",
+                "headerInfo": [
+                    "Powell",
+                    null,
+                    "16075600",
+                    "1980-07-28",
+                    "109817",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1980-07-28",
+                "lengths": {}
+            },
+            {
+                "surveyID": "110687",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.25",
+                        "quartileCount": "0.4-3.7",
+                        "totalWeight": 26.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.5-4.0",
+                        "species": "LAT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "5.30",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "5.25",
+                        "quartileCount": "0.8-5.3",
+                        "totalWeight": 12.44,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.1-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.59",
+                        "totalCatch": 21
+                    }
+                ],
+                "narrative": "<p>The lake trout catch in this assessment was within the normal range for lakes of this ecological class, and some large individual fish were taken.  Several year classes were represented in the catch, but none strongly.  It appeared that lake trout growth was about average for Cook County.  The lake trout catch in this assessment was similar in numbers and size of fish to the catch in the 1980 initial survey.  Forage for lake trout was probably provided mostly by invertebrates; however, most of the white sucker collected were small enough to provide some forage for the larger lake trout.</p>",
+                "headerInfo": [
+                    "Powell",
+                    null,
+                    "16075600",
+                    "1992-07-15",
+                    "110687",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1992-07-15",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

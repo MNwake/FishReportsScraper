@@ -1,0 +1,103 @@
+{
+    "timestamp": 1737659177,
+    "result": {
+        "lakeName": "Mosomo",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.14,
+        "DOWNumber": 31086100,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 19.0,
+        "areaAcres": 48.09,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 30.0,
+        "officeCode": "F216",
+        "accesses": [
+            {
+                "location": "ACCESS IS ON THE NORTH SHORE  FEDERAL OWNERSHIP",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "105696",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "0.5-3.3",
+                        "totalWeight": 2.7,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.17",
+                        "totalCatch": 16
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.3-0.8",
+                        "totalWeight": 1.2,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.2-3.5",
+                        "species": "WAE",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.20",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "4.25",
+                        "quartileCount": "0.5-1.5",
+                        "totalWeight": 18.7,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.4-3.0",
+                        "species": "WAE",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.10",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "153.75",
+                        "quartileCount": "1.5-20.5",
+                        "totalWeight": 88.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 615
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.5-2.0",
+                        "totalWeight": 2.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.8-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.00",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>PERCH POPULATION VERY HIGH. WALLEYE POPULATION ABOUT AVERAGE.</p>",
+                "headerInfo": [
+                    "Mosomo",
+                    "Mosoma",
+                    "31086100",
+                    "1983-08-24",
+                    "105696",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1983-08-24",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Itasca"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

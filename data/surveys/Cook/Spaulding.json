@@ -1,0 +1,69 @@
+{
+    "timestamp": 1737651664,
+    "result": {
+        "lakeName": "Spaulding",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.09,
+        "DOWNumber": 16006200,
+        "waterClarity": [
+            [
+                "08/19/1975",
+                "10.5"
+            ]
+        ],
+        "averageWaterClarity": "10.5",
+        "littoralAcres": 36.0,
+        "areaAcres": 42.78,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 36.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Lake is entirely within the BWCAW; with a portage trail from Crystal Lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110100",
+                "fishCatchSummaries": [],
+                "narrative": "<p>APPARENTLY NO FISH POPULATION IN SPAULDING LAKE. NO FISH TAKEN IN FOUR OVERNIGHT SETS.</p>",
+                "headerInfo": [
+                    "Spaulding",
+                    "Spalding",
+                    "16006200",
+                    "1975-08-18",
+                    "110100",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1975-08-18",
+                "lengths": {}
+            },
+            {
+                "surveyID": "110234",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Spaulding Lake supports no fishery at present.</p>",
+                "headerInfo": [
+                    "Spaulding",
+                    "Spalding",
+                    "16006200",
+                    "1993-06-28",
+                    "110234",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1993-06-28",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

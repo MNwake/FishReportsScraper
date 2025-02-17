@@ -1,0 +1,70 @@
+{
+    "timestamp": 1737667461,
+    "result": {
+        "lakeName": "Grass",
+        "sampledPlants": [],
+        "shoreLengthMiles": 4.49,
+        "DOWNumber": 58012500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 124.64,
+        "areaAcres": 124.64,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 7.0,
+        "officeCode": "F311",
+        "accesses": [
+            {
+                "location": "NONE",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "114845",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "1.5-48.5",
+                        "totalWeight": 3.4,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "BLB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "15.75",
+                        "quartileCount": "1.8-26.3",
+                        "totalWeight": 20.4,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.4",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.32",
+                        "totalCatch": 63
+                    }
+                ],
+                "narrative": "<p>In September 1988 two gillnets and four trapnets were set in Grass Lake as part of an initial lake survey.  Based on these net catches, the only fish present was the black bullhead.  Shoreline seining efforts were conducted by making two seine hauls.  The four fish species present in these seine hauls were the central mudminnow, dace spp., fathead minnow, and the common shiner.  Based on respective local medians the present fish population is as follows: the black bullhead is somewhat below the local median of 24.47/set with a median length group of 8.5-8.9 inches.</p>",
+                "headerInfo": [
+                    "Grass",
+                    null,
+                    "58012500",
+                    "1988-09-08",
+                    "114845",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1988-09-08",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Pine"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,64 @@
+{
+    "timestamp": 1737663644,
+    "result": {
+        "lakeName": "Uranus",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.01,
+        "DOWNumber": 38071900,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 21.0,
+        "areaAcres": 22.66,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 21.0,
+        "officeCode": "F214",
+        "accesses": [
+            {
+                "location": "NO DESIGNATED PUBLIC ACCESS.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "108228",
+                "fishCatchSummaries": [],
+                "narrative": "<p>No fish taken in gillnets or minnow traps. </p>",
+                "headerInfo": [
+                    "Uranus",
+                    null,
+                    "38071900",
+                    "1983-09-12",
+                    "108228",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1983-09-12",
+                "lengths": {}
+            },
+            {
+                "surveyID": "108388",
+                "fishCatchSummaries": [],
+                "narrative": "<p>No fish are present. Uranus Lake was reclaimed in 1984 along with Conchu Lake. This assessment was completed in conjunction with an assessment of Conchu Lake. The assessment was done to determine whether any undesirable fish were present that could potentially contaminate Conchu Lake which is downstream and is managed for brook trout.</p>",
+                "headerInfo": [
+                    "Uranus",
+                    null,
+                    "38071900",
+                    "1988-06-02",
+                    "108388",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1988-06-02",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

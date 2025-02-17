@@ -1,0 +1,86 @@
+{
+    "timestamp": 1737652091,
+    "result": {
+        "lakeName": "Whip",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.83,
+        "DOWNumber": 16040300,
+        "waterClarity": [
+            [
+                "07/09/1974",
+                "5"
+            ]
+        ],
+        "averageWaterClarity": "5.0",
+        "littoralAcres": 32.51,
+        "areaAcres": 32.51,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 9.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "PRMIT",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109742",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "7.50",
+                        "quartileCount": "2.8-8.5",
+                        "totalWeight": 19.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.1-2.0",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.30",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "2.0-16.0",
+                        "totalWeight": 1.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "4.0-14.5",
+                        "totalWeight": 7.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.4-2.5",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.33",
+                        "totalCatch": 3
+                    }
+                ],
+                "narrative": "<p>Whip Lake has a good population of small N Pike with an occasional large fish.  Suckers and Perch are low in numbers.</p>",
+                "headerInfo": [
+                    "Whip",
+                    null,
+                    "16040300",
+                    "1974-07-08",
+                    "109742",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1974-07-08",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

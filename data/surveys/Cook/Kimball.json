@@ -1,0 +1,1582 @@
+{
+    "timestamp": 1737650791,
+    "result": {
+        "lakeName": "Kimball",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.78,
+        "DOWNumber": 16004500,
+        "waterClarity": [
+            [
+                "09/03/2009",
+                "8"
+            ],
+            [
+                "09/30/2013",
+                "15"
+            ],
+            [
+                "06/24/1958",
+                "7.5"
+            ],
+            [
+                "08/18/2020",
+                "9.75"
+            ]
+        ],
+        "averageWaterClarity": "10.1",
+        "littoralAcres": 75.0,
+        "areaAcres": 76.76,
+        "meanDepthFeet": 9.1,
+        "maxDepthFeet": 16.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "110055",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "9.20",
+                        "quartileCount": "0.4-2.1",
+                        "totalWeight": 8.15,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 92
+                    },
+                    {
+                        "CPUE": "0.10",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.10",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.1,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.61",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "0.10",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "PRD",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.10",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.5,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.50",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>RAINBOW TROUT WERE SAMPLED IN FAIR NUMBERS BUT, ON THE BASIS OF LENGTH, ALL FISH WERE PROBABLY FROM 1987 YEARLING STOCKINGS. NO FIN-CLIPPED RAINBOW TROUT WERE TAKEN, INDICATING LITTLE CARRY OVER OF YEARLING MADISON-STRAIN RAINBOW TROUT STOCKED IN 1986. ANGLING PRESSURE IS PROBABLY LIMITING SURVIVAL OF STOCKED RBT YEARLINGS. BROWN TROUT FROM THE 1985 STOCKING ARE PRESENT BUT ARE SHOWING POOR GROWTH. SPLAKE AND BROOK TROUT ARE ENTERING KIMBALL LAKE FROM MINK LAKE. YELLOW PERCH ARE ABUNDANT AND AVERAGE SIZE IS SMALL. THEY ARE PROBABLY COMPETING HEAVILY WITH STOCKED TROUT FOR FORAGE.</p>",
+                "headerInfo": [
+                    "Kimball",
+                    null,
+                    "16004500",
+                    "1987-09-16",
+                    "110055",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1987-09-16",
+                "lengths": {}
+            },
+            {
+                "surveyID": "109878",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "28.75",
+                        "quartileCount": "0.4-2.1",
+                        "totalWeight": 16.5,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 115
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.8,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.80",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.7-3.2",
+                        "totalWeight": 1.3,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.8-2.6",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.30",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "35.00",
+                        "quartileCount": "2.2-14.6",
+                        "totalWeight": 6.75,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 35
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4.25,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.47",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.05,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "PRD",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>THE RAINBOW ARE MAINTAINED BY STOCKING BOTH MAD- ISON AND KAMLOOP STRAINS. THEIR GROWTH RATES APPEAR SLOW AND ABUNDANCE OF FISH OVER 2 YRS OLD IS VERY POOR. THE BROOK TROUT PROBABLY CAME DOWN- STREAM FROM MINK LAKE WHERE THEY ARE STOCKED. THE OVER ABUNDNACE OF PERCH SHOWED UP IN THE 1982 SAMPLING (6 YRS AFTER RECLAMATION) WHERE NONE WERE PRESENT IN THE 1979 SAMPLING. IN SPITE OF REMOVING 179 PDS (2.3 LBS/AC) OF PERCH IN THE SPRING OF 1983, THEY ARE STILL VERY ABUNDANT.</p>",
+                "headerInfo": [
+                    "Kimball",
+                    null,
+                    "16004500",
+                    "1983-09-26",
+                    "109878",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1983-09-26",
+                "lengths": {}
+            },
+            {
+                "surveyID": "111379",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4571.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.78",
+                        "totalCatch": 13
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3474.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.91",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 912.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.01",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.5-15.8",
+                        "totalWeight": 35.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1704.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.88",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.30",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1605.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.18",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3430.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.26",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>Kimball Lake provides an excellent fishery for stream trout.  Rainbow trout yearlings are heavily harvested, mostly during their first summer in the lake.  Splake have migrated  to Kimball Lake from Mink Lake, even though a barrier between the lakes was repaired during summer of 1997, and may limit migration.  Good numbers of large brown trout were captured during this assessment.  A reclamation of Kimball Lake and the watershed above it (which includes Mink and Boys Lakes) was conducted in 1992.  As with Mink and Boys Lakes, no yellow perch have been caught in Kimball Lake during assessments since the reclamation, indicating that it was successful.</p>",
+                "headerInfo": [
+                    "Kimball",
+                    null,
+                    "16004500",
+                    "2002-09-25",
+                    "111379",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2002-09-25",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                12,
+                                9
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 18
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 13,
+                        "maximum_length": 17
+                    },
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 18
+                    }
+                }
+            },
+            {
+                "surveyID": "4310924533057000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.10",
+                        "quartileCount": "N/A",
+                        "totalWeight": 710.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.57",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.10",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1825.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "4.02",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 189.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.42",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.10",
+                        "quartileCount": "0.4-2.1",
+                        "totalWeight": 2555.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 31
+                    },
+                    {
+                        "CPUE": "3.30",
+                        "quartileCount": "0.2-1.5",
+                        "totalWeight": 3240.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "RKB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.22",
+                        "totalCatch": 33
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 761.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.84",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 321.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.71",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.30",
+                        "quartileCount": "N/A",
+                        "totalWeight": 946.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.70",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.10",
+                        "quartileCount": "0.3-13.3",
+                        "totalWeight": 0.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "57.00",
+                        "quartileCount": "2.2-14.6",
+                        "totalWeight": 6129.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 57
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "0.3-2.0",
+                        "totalWeight": 729.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 9
+                    }
+                ],
+                "narrative": "<p>This assessment was done to confirm reports of yellow perch in Kimball Lake, and to determine how serious the problem might be.  Yellow perch were found to have been abundant.  Several year classes appeared to have been present.  The trap net catch was lower than catches observed in this lake prior to (and resulting in) the 1992 rehabilitation (9.20 - 28.75 fish/set), but it was higher than normal for a lake of this type.  Many of the yellow perch taken in 2009 would have been large enough to have been of interest to anglers, although they are considered to be a highly undesirable species in a lake managed for trout. <br> \n <br> \nRock bass also appeared to have been abundant in Kimball Lake in 2009.  This was the first time rock bass had been seen or reported in the lake.  Their source is unknown, but they were likely put into the lake illegally.  No rock bass have ever been found in Kimball Lake, or in any lake or stream in the Kimball Creek watershed.  The species is not common in Cook County. <br> \n <br> \nYellow perch and rock bass will compete with trout for forage, and will likely cause trout growth rates to decline.  The rainbow trout fishery in Kimball Lake is essentially a put-and-take fishery, and slow growth would not be a serious problem, as long as fish can maintain their condition over the summer.  The brown trout fishery, however, is dependent on growth in the lake to provide the high-quality fish that stocking is intended to produce.  Experience in this and other area lakes suggests that brown trout will not thrive in the presence of large numbers of yellow perch. <br> \n <br> \nThe rainbow trout trap net catch in 2009 was similar to catches seen in this lake since 1992.  All rainbow trout collected were one-year-old fish from the 2009 yearling stocking.  There had been some growth of stocked rainbow trout over the season.  They were stocked at an average weight of 0.39 lb/fish, and their average weight when captured in this assessment was 0.63 lb/fish. <br> \n <br> \nThe brown trout trap net catch was lower than catches seen in this lake since 1992, and it was low in comparison to other lakes in the area managed for brown trout.  The total catch consisted of a two-year-old fish from the 2007 stocking, and a six-year-old fish from a 2003 stocking. <br> \n <br> \nSplake collected in Kimball Lake were migrants from Mink Lake, where the species has been stocked annually.  Mink Lake was also found to have been infested with yellow perch in 2009. <br> \n</p>",
+                "headerInfo": [
+                    "Kimball",
+                    null,
+                    "16004500",
+                    "2009-09-02",
+                    "4310924533057000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2009-09-02",
+                "lengths": {
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 16
+                    },
+                    "RKB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                5,
+                                15
+                            ],
+                            [
+                                6,
+                                7
+                            ],
+                            [
+                                7,
+                                16
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 8
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 12
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                5
+                            ],
+                            [
+                                6,
+                                13
+                            ],
+                            [
+                                7,
+                                19
+                            ],
+                            [
+                                8,
+                                33
+                            ],
+                            [
+                                9,
+                                15
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 10
+                    },
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                23,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 12,
+                        "maximum_length": 23
+                    }
+                }
+            },
+            {
+                "surveyID": "4311327537855004",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "13.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 80
+                    },
+                    {
+                        "CPUE": "17.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 337.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "RKB",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.01",
+                        "totalCatch": 103
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "PRD",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1211.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.67",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "9.50",
+                        "quartileCount": "0.5-15.8",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.1",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1311.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.32",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "GOS",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 214.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.47",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 562.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.24",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 733.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.54",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "7.50",
+                        "quartileCount": "2.2-14.6",
+                        "totalWeight": 1920.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.28",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "38.00",
+                        "quartileCount": "0.3-2.0",
+                        "totalWeight": 4741.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.4",
+                        "species": "RKB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 76
+                    }
+                ],
+                "narrative": "<p>This assessment was done in cooperation with Cook County water planning staff, as part of a water quality study on Mink, Kimball, and Boys Lakes.  It was also done to monitor performance of stocked trout, and to determine the effects of yellow perch and rock bass on that performance. <br> \n <br> \nYellow perch and rock bass remained abundant in Kimball lake in 2013.  Although yellow perch did provide some angling opportunity (a third of the fish taken in gill nets were over eight inches in length), they would also have been competing with rainbow and brown trout for available forage.  The rock bass gill net catch far exceeded the normal range for a lake of this type, but rock bass collected in 2013 were small, and would have provided very little angling opportunity.  No new undesirable fish species were collected in 2013.  The source of the rock bass found in this lake is unknown, but they were likely put into the lake illegally.  No rock bass had ever been found in Kimball Lake, or in any lake or stream in the Kimball Creek watershed, prior to their first appearance in Kimball Lake in 2009.  The species is not common in Cook County. <br> \n <br> \nThe 2013 rainbow trout gill net catch was was about average compared to catches typically seen in the fall in stream trout lakes in this area.  Although rainbow trout yearlings had been stocked annually in the years prior to this assessment, most of the fish taken in 2013 were one-year-old fish from the 2013 yearling stocking.  Growth of those fish between the time they were stocked and the time they were collected in this assessment seemed to have been poor.  Rainbow trout yearlings (one-year-old fish) stocked in the spring of 2013 weighed an average of 0.37 pounds per fish, while one-year-old fish taken in quarter-inch trap nets and gill nets in September 2013 weighed an average of 0.33 pounds per fish.  In many stream trout lakes in this area, stocked yearlings can double their weight over the summer.  Competition from yellow perch and rock bass probably resulted in poor growth in Kimball Lake. <br> \n <br> \nThe only brown trout collected in 2013 was a survivor from the 2009 fingerling stocking.  Growth of that fish had been slow by area standards; it reached a length of 13.9 inches at the end of its fourth year, compared to an area average of 16.1 inches.  Few Cook County lakes have been managed for brown trout, and gill net catches in those lakes have typically been lower than catches observed for other stream trout species.    <br> \n <br> \nSeveral splake were collected in Kimball Lake in 2013.  All would have been migrants from Mink Lake, where splake fingerlings were stocked annually through 2012.  Although splake are usually present in Kimball Lake, their numbers tend to be low compared to lakes (like Mink) that are directly managed for splake. <br> \n <br> \nKimball Lake is scheduled to be rehabilitated for stream trout management in the fall of 2014, with the goal of eliminating yellow perch and rock bass.  All fish present at that time would be killed, and the lake would be restocked beginning in the spring of 2015. <br> \n</p>",
+                "headerInfo": [
+                    "Kimball",
+                    null,
+                    "16004500",
+                    "2013-09-30",
+                    "4311327537855004",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2013-09-30",
+                "lengths": {
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 15
+                    },
+                    "RKB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                2,
+                                1
+                            ],
+                            [
+                                4,
+                                35
+                            ],
+                            [
+                                5,
+                                33
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                4
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 2,
+                        "maximum_length": 9
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                5
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 14
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                6
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 11
+                    },
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "17311930154568310",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7914.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.25",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1341.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.74",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "PRD",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1064.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.17",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>Although this survey was not done to assess fish populations in Kimball Lake, it nevertheless yielded some useful information.  It was encouraging to see no Yellow Perch or Rock Bass (targets of the 2014 rehabilitation) in the trap net catch in this survey; although the survey could not prove their absence.  All three trout species we expected to see in this lake were in fact represented in the catch.  The Brown Trout catch was surprisingly high, well above the normal range (0.20-1.00 fish/set) for fall trap net assessments in this area.  All Brown Trout sampled in this survey would have been two-year-old (nearly three-year) survivors from the 2017 fingerling stocking.  As such, they appeared to have exhibited good growth.  The four Rainbow Trout captured were probably all fish stocked in the spring of 2019.  those fish were stocked at a mean weight of 0.33 lb/fish, and had apparently grown to a mean of 0.74 lb/fish at capture.  Splake taken in this survey had entered the lake from Mink Lake, where they have been stocked annually since 2015.  Movement of Splake from Mink to Kimball Lake has been common. <br> \n <br> \nThe main purpose of this survey was the collection of trout on which we could practice the use of electric gloves as a form of non-chemical fish anesthetic.  The gloves worked well and fish recovery was instantaneous as soon as they were released. <br> \n</p>",
+                "headerInfo": [
+                    "Kimball",
+                    null,
+                    "16004500",
+                    "2019-10-07",
+                    "17311930154568310",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2019-10-07",
+                "lengths": {
+                    "PRD": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 13
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 18
+                    },
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                13,
+                                5
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                5
+                            ],
+                            [
+                                16,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 16
+                    }
+                }
+            },
+            {
+                "surveyID": "109837",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "10.25",
+                        "quartileCount": "0.4-2.1",
+                        "totalWeight": 1.6,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 41
+                    },
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "8.00",
+                        "quartileCount": "2.2-14.6",
+                        "totalWeight": 1.25,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.16",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "5.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6.25,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 21
+                    }
+                ],
+                "narrative": "<p>KIMBALL LAKE IS STILL DOMINATED BY A LARGE POPU- LATION OF SMALL YELLOW PERCH. REMOVAL EFFORTS ARE CURRENTLY UNDERWAY. THERE IS A NICE RANGE OF SIZES OF RAINBOW TROUT PRESENT, AS WELL AS SOME SPLAKE, WHICH HAVE COME DOWN FROM MINK LAKE.</p>",
+                "headerInfo": [
+                    "Kimball",
+                    null,
+                    "16004500",
+                    "1985-07-24",
+                    "109837",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1985-07-24",
+                "lengths": {}
+            },
+            {
+                "surveyID": "15281618344582320",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "920.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 5522
+                    },
+                    {
+                        "CPUE": "112.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "BST",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 674
+                    },
+                    {
+                        "CPUE": "1.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3099.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.98",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "58.83",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 353
+                    },
+                    {
+                        "CPUE": "5620.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 33723
+                    }
+                ],
+                "narrative": "<p>Kimball is a designated stream trout lake, managed for Rainbow and Brown Trout.  It was rehabilitated using rotenone in the fall of 2014.  This targeted survey was done in response to angler reports of large numbers of minnows in the lake.  All fish species should have been removed in the 2014 rehabilitation, and at the time, we were confident they were. <br> \n <br> \nThis survey found huge numbers of minnows present in Kimball Lake.  The catch was dominated by Fathead Minnow, at levels over 100 times higher than normal for this sampling gear in the Grand Marais area.  None of the minnow species taken in this survey had been found in the last survey of this lake done using 0.25-in-mesh trap nets (September 2013), suggesting fish taken in 2016 had been introduced, probably via bait buckets, rather than surviving the rehabilitation.  Use or possession of live minnows is not allowed on Kimball Lake, and the violation of that rule opens the door to the possibility that other bait buckets may contain more damaging species, like Yellow Perch, Rock Bass, or Smallmouth Bass.  The 2014 rehabilitation was done to remove Yellow Perch and Rock Bass, and it was encouraging that neither species was found in this survey.  However, if undesirable species once again become established in Kimball Lake, reduced funding for the Section of Fisheries means we may lack the ability to do another rehabilitation to remove them. <br> \n <br> \nAlthough Rainbow Trout were not targeted by this survey, it offered some insight into performance of Rainbow Trout stocked since the rehabilitation.  Based on their lengths, fish taken in this survey came from yearling stockings done in 2015 and 2016.  Fish stocked in 2015 (two years old in 2016) were 14-15 inches in length, suggesting good growth since they were stocked.  <br> \n</p>",
+                "headerInfo": [
+                    "Kimball",
+                    null,
+                    "16004500",
+                    "2016-06-15",
+                    "15281618344582320",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2016-06-15",
+                "lengths": {
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 15
+                    }
+                }
+            },
+            {
+                "surveyID": "110006",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "17.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6.25,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.37",
+                        "totalCatch": 17
+                    },
+                    {
+                        "CPUE": "9.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.61",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.5,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "2.2-14.6",
+                        "totalWeight": 0.25,
+                        "gearCount": 1.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 2
+                    }
+                ],
+                "narrative": "<p>BROWN TROUT WERE STOCKED AT 1.8 FISH/ PD. SINCE 1985 THEY HAVE SHOWN LITTLE GROWTH, AND THEY ARE IN POOR CONDITION. SCALE COLLECTIONS WERE POOR, BUT IT APPEARS FROM THE LENGTH FREQUENCIES THAT THE 1986, 1985 AND 1984 STOCKINGS OF RAINBOW ARE PRESENT. GROWTH IS ABOUT AVERAGE. INTENSIVE RE- MOVAL EFFORTS IN 1985 AND 1986 HAVE HAD LITTLE EFFECT ON THE YELLOW PERCH POPULATION.</p>",
+                "headerInfo": [
+                    "Kimball",
+                    null,
+                    "16004500",
+                    "1986-07-23",
+                    "110006",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1986-07-23",
+                "lengths": {}
+            },
+            {
+                "surveyID": "110839",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.10",
+                        "quartileCount": "0.3-13.3",
+                        "totalWeight": 50.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 40075.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.76",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "0.40",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1200.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.66",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "1.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 11171.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.54",
+                        "totalCatch": 16
+                    }
+                ],
+                "narrative": "<p>Kimball Lake provides an excellent fishery for stream trout.  Rainbow trout yearlings are heavily harvested, mostly during their first summer in the lake.  Splake have migrated  to Kimball Lake from Mink Lake, but a barrier was rebuilt between the lakes during summer of 1997, and may limit migration in the future.  The single stocking of brown trout yearlings in 1993 was very successful; good numbers of large brown trout were captured during this assessment, all from the 1993 stocking.  Subsequent stockings of brown trout fingerlings were not as successful, as none were captured during this assessment.  A reclamation of Kimball Lake and the watershed above it (which includes Mink and Boys Lakes) was conducted in 1992.  As with Mink and Boys Lakes, no yellow perch have been caught in Kimball Lake during assessments since the reclamation, indicating that it was successful.</p>",
+                "headerInfo": [
+                    "Kimball",
+                    null,
+                    "16004500",
+                    "1997-10-16",
+                    "110839",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1997-10-16",
+                "lengths": {
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                5
+                            ],
+                            [
+                                16,
+                                6
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 21
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 13
+                    },
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                7
+                            ],
+                            [
+                                18,
+                                12
+                            ],
+                            [
+                                19,
+                                8
+                            ],
+                            [
+                                20,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 20
+                    }
+                }
+            },
+            {
+                "surveyID": "17302017538474000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.30",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1535.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.13",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "2.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 9626.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "RBT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.76",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "0.70",
+                        "quartileCount": "N/A",
+                        "totalWeight": 3553.0,
+                        "gearCount": 10.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.12",
+                        "totalCatch": 7
+                    }
+                ],
+                "narrative": "<p>Kimball Lake is a small designated stream trout lake, managed for stream trout since the 1930s.  It has been reclaimed several times to remove undesirable fish species, with the last reclamation done in the fall of 2014 to remove yellow perch and rock bass.  The lake is currently stocked annually with yearling rainbow trout in the spring, and is stocked with brown trout fingerlings in the fall of odd-numbered years.  Management goals from the current (2019) lake management plan (LMP) are to maintain a rainbow trout population with a minimum trap net catch of 0.8 fish/set, with two year classes present, and maintain a brown trout population with a minimum trap net catch of 0.5 fish/set, with some fish over 20 inches present.  In addition to the two stocked species, splake can sometimes be found in Kimball Lake, moving into the lake from their stocking site in Mink Lake. <br> \n <br> \nThis was the first standard survey completed on Kimball Lake since the 2014 reclamation.  It was one of three standard surveys scheduled in the 2019 LMP to determine whether goals for rainbow trout and brown trout could be met under the current stocking regime, and to monitor the lake for the reintroduction of any undesireable fish species. <br> \n <br> \nNo undesirable fish species were taken in this survey, and it appeared that goals for the fishery probably could be met under the current stocking regime.  Rainbow trout appeared to have still been abundant in the fall of 2020, despite being subjected to fairly high fishing pressure and significant harvest over the summer.  The rainbow trout trap net catch was well above the goal set in the 2019 LMP, while the brown trout catch fell just below the goal for that species.  The rainbow trout catch was high, compared to other stream trout lakes in this area, exceeding the normal range (0.40 - 2.24 fish/set) for fall trap net catches in stream trout lakes in this area.  Although the brown trout catch did not meet the plan goal, it still fell within the normal range (0.20 - 1.00 fish/set) for this area.  The splake catch also fell within the normal range for that species (0.60 - 3.24 fish/set), even though none had been stocked in Kimball Lake.  No brown trout over 20 inches were taken; however, the first post-reclamation brown trout stocking was not done until 2017, and more time will likely be needed before those fish reach a size of 20 inches.  Rainbow trout taken in this survey ranged in length from 10.8 to 16.4 inches.  All but two were fish from the 2020 yearling stocking.  Their mean length at capture (12.1 inches) indicated fairly good growth had occurred over the summer of 2020. <br> \n <br> \nA creel survey done on Kimball Lake in January-March 2020 showed the lake supported fairly high winter fishing pressure.  Winter anglers enjoyed good success, catching relatively high numbers of rainbow trout, as well as a few brown trout and splake.   <br> \n</p>",
+                "headerInfo": [
+                    "Kimball",
+                    null,
+                    "16004500",
+                    "2020-09-16",
+                    "17302017538474000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2020-09-16",
+                "lengths": {
+                    "BNT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 15
+                    },
+                    "RBT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                11
+                            ],
+                            [
+                                12,
+                                9
+                            ],
+                            [
+                                13,
+                                3
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 16
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 16
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,81 @@
+{
+    "timestamp": 1737648104,
+    "result": {
+        "lakeName": "Lee",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.03,
+        "DOWNumber": 11045500,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 13.4,
+        "areaAcres": 20.9,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 24.0,
+        "officeCode": "F118",
+        "accesses": [
+            {
+                "location": "UNIMPROVED CARRY-IN ACCESS ON THE SW SIDE OF THE LAKE.  THE MAJORITY OF THE SHORELINE IS STATE OWNED",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "104725",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "68.11",
+                        "quartileCount": "0.5-10.0",
+                        "totalWeight": 68.3,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.4-0.8",
+                        "species": "BRB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.11",
+                        "totalCatch": 613
+                    },
+                    {
+                        "CPUE": "0.11",
+                        "quartileCount": "0.4-1.3",
+                        "totalWeight": 0.7,
+                        "gearCount": 9.0,
+                        "quartileWeight": "0.7-2.3",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.70",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "1.0-21.6",
+                        "totalWeight": 1.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.2-0.6",
+                        "species": "BRB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>The only fish captured in the gillnets was the brown bullhead.  The gillnet CPUE (5.5) fell with the interquartile range for Lake Class 21.  In the trapnets, brown bullhead and one white sucker were the only species caught.  Brown bullhead were caught at a trapnet CPUE of 68.1, which was well above the third quartile value (15.50).  There were two old sunken wooden boats on the lake, indicating possibly that the lake was fished for some species of fish.  Interestingly, Lee Lake is very similar (physical and chemical characteristics) to Sleepy Island (11-456), which has good populations of northern pike and bluegill.The lake obviously has partially winterkilled considering present fish community assemblage (dominated by bullhead).</p>",
+                "headerInfo": [
+                    "Lee",
+                    null,
+                    "11045500",
+                    "1992-06-10",
+                    "104725",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1992-06-10",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cass"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

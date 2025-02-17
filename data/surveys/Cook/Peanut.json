@@ -1,0 +1,84 @@
+{
+    "timestamp": 1737651298,
+    "result": {
+        "lakeName": "Peanut",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.63,
+        "DOWNumber": 16013300,
+        "waterClarity": [
+            [
+                "08/13/1986",
+                "8.5"
+            ]
+        ],
+        "averageWaterClarity": "8.5",
+        "littoralAcres": 9.17,
+        "areaAcres": 9.17,
+        "meanDepthFeet": 0.0,
+        "maxDepthFeet": 11.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "4311107730222000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1961.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.72",
+                        "totalCatch": 6
+                    }
+                ],
+                "narrative": "<p>Peanut Lake has been managed for brook trout since 2004.  To satisfy a demand for high-quality trout fisheries, the lake is managed under a special regulation that closes the lake to winter fishing.  During the open-water season, the lake is open to catch-and-release fishing only, and anglers can use only artificial lures and flies with a single hook (no live baits).  Because harvest was expected to be very low, and because the lake was not known to support any predator fish species, stocking rates have been low.  No reports on fishing in this lake have been received since stocking began. <br> \n <br> \nThis was the first of two population assessments included in the 2010 lake management plan to determine whether there had been any survival of brook trout stocked in this lake.  Six brook trout, all two-year-old fish from the 2009 stocking, were collected in a single gill net set.  One-year-old fish from the 2010 stocking should have been vulnerable to the sampling gear used in this assessment, but none were taken.  No undesirable fish species were collected.  Brook trout growth had been close to average; fish reached an average length of 8.7 inches at the end of their second year, compared to an average of 9.3 inches for similar lakes in this area. <br> \n <br> \nDespite the high degree of protection given to brook trout in this lake, the quality of the 2011 brook trout catch was about average.  The mean weight for fish taken in gill nets (0.72 lb/fish) was close to the median (0.75 lb/fish) for brook trout collected in fall assessments of Grand Marais-area stream trout lakes.  No fish over two years of age were collected; as a result, no fish larger than about 12 inches were found.  Failure to stock in 2008 (and the resulting lack of three-year-old fish) reduced the lake's ability to provide high-quality fishing in 2011. <br> \n <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Peanut",
+                    null,
+                    "16013300",
+                    "2011-10-10",
+                    "4311107730222000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2011-10-10",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                12,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 12
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

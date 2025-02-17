@@ -1,0 +1,115 @@
+{
+    "timestamp": 1737672571,
+    "result": {
+        "lakeName": "Laura",
+        "sampledPlants": [],
+        "shoreLengthMiles": 2.0,
+        "DOWNumber": 73002000,
+        "waterClarity": [],
+        "averageWaterClarity": "N/A",
+        "littoralAcres": 139.86,
+        "areaAcres": 140.42,
+        "meanDepthFeet": 3.5,
+        "maxDepthFeet": 7.0,
+        "officeCode": "F315",
+        "accesses": [],
+        "surveys": [
+            {
+                "surveyID": "5251015429832000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 24.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.05",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 41.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "GOS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.80",
+                        "quartileCount": "N/A",
+                        "totalWeight": 562.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "BLB",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.14",
+                        "totalCatch": 9
+                    }
+                ],
+                "narrative": "<p>Laura Lake is located two miles northeast of Fairhaven in Stearns County. It has a surface area of 154 acres and a maximum depth of seven feet. The watershed is 2,400 acres, and consists mostly of cultivated agricultural, grassland, and deciduous forest.  Laura Lake lies within the Laura Lake State Game Refuge.  Water quality at the time of the survey appeared good as the Secchi depth was over seven feet.  An outlet is located on the east side of the lake which flows a short distance to Three Mile Creek.  Laura Lake has not been considered to be a \"fish lake\" and no fisheries management has taken place.  No public access exists. This was the first fisheries investigation ever conducted. <br> \n <br> \nA total of five 3/4\" standard lake survey trap nets were set in Laura Lake.  The following day catches were light and consisted mostly of winter kill tolerant species such as black bullhead (1.8/net). One green sunfish (4.2 inches) and one golden shiner (6.3 inches) were also sampled. Black bullhead ranged in size from 5.6 to 8.5 inches and most fish were less than six inches. <br> \n <br> \nLaura Lake supports a diverse aquatic vegetation community, and much of the shoreline is protected by cattail and bulrush.  Numerous species of native submerged and floating leaved aquatic plants were also observed during the survey.  Considering its connection to Three Mile Creek, Laura Lake likely supports a population of game fish during brief periods between winterkill events.   <br> \n</p>",
+                "headerInfo": [
+                    "Laura",
+                    null,
+                    "73002000",
+                    "2010-06-02",
+                    "5251015429832000",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2010-06-02",
+                "lengths": {
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 4
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    },
+                    "BLB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                4
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 8
+                    }
+                }
+            }
+        ],
+        "countyName": "Stearns"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

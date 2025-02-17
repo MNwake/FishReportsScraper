@@ -1,0 +1,52 @@
+{
+    "timestamp": 1737650901,
+    "result": {
+        "lakeName": "Little North",
+        "sampledPlants": [],
+        "shoreLengthMiles": 4.25,
+        "DOWNumber": 16032900,
+        "waterClarity": [
+            [
+                "07/30/1978",
+                "13.5"
+            ]
+        ],
+        "averageWaterClarity": "13.5",
+        "littoralAcres": 84.0,
+        "areaAcres": 98.26,
+        "meanDepthFeet": 10.0,
+        "maxDepthFeet": 23.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "Accessible via rail portage from Little Gunflint L",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "109706",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Insufficient netting-no determination possible.</p>",
+                "headerInfo": [
+                    "Little North",
+                    null,
+                    "16032900",
+                    "1978-07-29",
+                    "109706",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1978-07-29",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

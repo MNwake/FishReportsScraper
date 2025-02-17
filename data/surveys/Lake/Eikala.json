@@ -1,0 +1,547 @@
+{
+    "timestamp": 1737662213,
+    "result": {
+        "lakeName": "Eikala",
+        "sampledPlants": [],
+        "shoreLengthMiles": 0.77,
+        "DOWNumber": 38067700,
+        "waterClarity": [
+            [
+                "09/09/2009",
+                "16"
+            ],
+            [
+                "08/22/2013",
+                "10.5"
+            ],
+            [
+                "10/01/2013",
+                "10"
+            ],
+            [
+                "06/04/2014",
+                "14"
+            ],
+            [
+                "08/06/2014",
+                "12"
+            ],
+            [
+                "09/18/2014",
+                "10.5"
+            ],
+            [
+                "10/15/2019",
+                "12.5"
+            ],
+            [
+                "08/08/2019",
+                "10"
+            ],
+            [
+                "10/15/2019",
+                "12.5"
+            ],
+            [
+                "06/28/2019",
+                "12.3"
+            ],
+            [
+                "09/19/2019",
+                "12"
+            ],
+            [
+                "07/16/2019",
+                "12"
+            ],
+            [
+                "08/19/2019",
+                "9.5"
+            ],
+            [
+                "05/30/2019",
+                "12"
+            ]
+        ],
+        "averageWaterClarity": "11.8",
+        "littoralAcres": 8.25,
+        "areaAcres": 9.19,
+        "meanDepthFeet": 7.0,
+        "maxDepthFeet": 33.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "From Hwy #1, Deep Lake Road (USFS Rd. 1491) for 1.3 miles, then USFS Rd 1491C for 1.3 miles to parking area, then hike 0.25 mile across highland trail to S.E. end of lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "350924739436000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4640.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.14",
+                        "totalCatch": 9
+                    }
+                ],
+                "narrative": "<p>Eikela is a small, deep, clear water lake managed for brook trout and located 11.5 miles northwest of Isabella, MN.  The lake receives minimal fishing pressure because of its remote location and difficult access.  The 2009 population assessment sampled 9 brook trout ranging in length from 7.3 to 17.5 inches with an average length of 12.5 inches.  Two age groups (age-1, age-3) were present in the sample with brook trout growth above area averages. <br> \n   <br> \nAnglers wishing to try for the brookies and unfamiliar with the area would be advised to stop at the Area DNR office for directions and a map. <br> \n</p>",
+                "headerInfo": [
+                    "Eikala",
+                    null,
+                    "38067700",
+                    "2009-09-09",
+                    "350924739436000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2009-09-09",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                14,
+                                2
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                7,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 17
+                    }
+                }
+            },
+            {
+                "surveyID": "112762",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2127.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.43",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 810.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.79",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Test netting in 1996 found brook trout abundance to be low in Eikela Lake compared to most brook trout lakes in the Finland Area. It is a lake of low productivity and not known for producing large fish. The largest fish in the survey was 11.1 inches with the average size being 10.1 inches. Eikela Lake is a designated trout lake and is stocked every other year with brook trout.     Other than brook trout no other fish have ever been caught in test nets until this year when one white sucker was sampled. The lake is land locked with no inlets or outlet so it is probable that the sucker was carried to the lake in an anglers bait bucket.</p>",
+                "headerInfo": [
+                    "Eikala",
+                    null,
+                    "38067700",
+                    "1996-06-10",
+                    "112762",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1996-06-10",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                5
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                9,
+                                5
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 11
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                17,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 17,
+                        "maximum_length": 17
+                    }
+                }
+            },
+            {
+                "surveyID": "112250",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "45.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 30.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.67",
+                        "totalCatch": 45
+                    }
+                ],
+                "narrative": "<p>Brook Trout sampled are from the 1981 fall fingerling stock. These two year old fish are in their third year of growth. The average length of fish sampled was 10.6 inches (range 9.3\" to 12.9\"). The average weight was 0.67 pounds per fish. The Brook Trout population density is high as indicated by the catch in one gillnet of 45 fish. This is approximately 13 times the area median.</p>",
+                "headerInfo": [
+                    "Eikala",
+                    null,
+                    "38067700",
+                    "1983-07-11",
+                    "112250",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1983-07-11",
+                "lengths": {}
+            },
+            {
+                "surveyID": "113028",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2560.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.41",
+                        "totalCatch": 4
+                    }
+                ],
+                "narrative": "<p>Eikela Lake is a very small, remote, designated stream trout lake.  The lake is stocked by airplane with brook trout fingerlings on an even year schedule.  Access is from a rough logging road and 0.25 mile foot trail to the lake.  Brook trout were the only fish species collected in test nets in 2004.  Brook trout were sampled in relatively low numbers compared to other stream trout lakes in northeastern Minnesota; however, the size was above average.  The brook trout ranged from 13.5 inches to 16.4 inches, with the largest fish weighing 1.9 pounds.</p>",
+                "headerInfo": [
+                    "Eikala",
+                    null,
+                    "38067700",
+                    "2004-09-14",
+                    "113028",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2004-09-14",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                15,
+                                2
+                            ],
+                            [
+                                16,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 13,
+                        "maximum_length": 16
+                    }
+                }
+            },
+            {
+                "surveyID": "5781315629225022",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Eikala is a small, deep, clear water lake managed for Brook Trout and located 11.5 miles northwest of Isabella, MN.  The lake receives minimal fishing pressure because of its remote location and difficult access.  Water temperatures and low dissolved oxygen levels can be a problem in both the winter and summer seasons on Eikala Lake.  Water quality measurements done in the summer show water temperature are often stressful for Brook Trout in the top 8 feet of the water, while dissolved oxygen tends cause stress below a depth of 14 feet.  Thus during the summer, fishing should kept to between 8-14 feet.  Water Temperature/dissolved oxygen levels were recorded five times between May and October 2013.  These reading found August temperatures place the most stress on Brook Trout with suitable temperatures at 9 and 10 feet in the water.  In the winter months, temperature does not affect the Brook Trout like in the summer.  Dissolved oxygen does limit the suitable area for fish.  In the late winter months of February and March, oxygen levels are often only acceptable at 2 and 3 feet below the ice.  For anglers trying to catch Brook Trout late in the winter season, fishing right below the ice is recommended. <br> \n <br> \nAnglers wishing to try for Brook Trout and unfamiliar with the area would be advised to stop at the Area DNR office for directions and a map. <br> \n</p>",
+                "headerInfo": [
+                    "Eikala",
+                    null,
+                    "38067700",
+                    "2013-05-31",
+                    "5781315629225022",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2013-05-31",
+                "lengths": {}
+            },
+            {
+                "surveyID": "11961507747210005",
+                "fishCatchSummaries": [],
+                "narrative": "<p>During the Eikala Lake Special Assessment water quality monitoring was conducted on four occasions (early June, July, and August and in mid- September) measurements of pH, alkalinity, conductivity, and a temperature/ dissolved oxygen profile were recorded.  Dissolved oxygen was ideal for brook trout growth and survival throughout most of the water column in the June, July, and September sample periods.  However, temperature and dissolved oxygen data collected in August had stressful temperatures in the first nine feet of the water column and poor dissolved oxygen levels below fifteen feet. <br> \n <br> \nThe sampling for zooplankton included two plankton hauls (50cm net with 150um mesh) located over approximately 30' (maximum depth 33' feet) each sample period. Zooplankton was sampled to provide baseline productivity information for the lake throughout the study period. <br> \n</p>",
+                "headerInfo": [
+                    "Eikala",
+                    null,
+                    "38067700",
+                    "2014-06-04",
+                    "11961507747210005",
+                    "Special Assessment"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Special Assessment",
+                "surveyDate": "2014-06-04",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112942",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "5.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "PRD",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 22
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 80.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.18",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "6.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 25
+                    }
+                ],
+                "narrative": "<p>Eikela Lake is a small, fairly remote designated trout lake in the Superior National Forest.  Brook trout and minnows were the only fish species collected in a 2001 survey.  The number of brook trout taken was very low; only one 6.8 inch individual was sampled.  Reasons for the low 2001 catch are uncertain at this time.</p>",
+                "headerInfo": [
+                    "Eikala",
+                    null,
+                    "38067700",
+                    "2001-07-02",
+                    "112942",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2001-07-02",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 6
+                    }
+                }
+            },
+            {
+                "surveyID": "17331928841576007",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BRM",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 22.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.02",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1830.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.02",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "900.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "NRD",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.00",
+                        "totalCatch": 900
+                    },
+                    {
+                        "CPUE": "300.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "FND",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.00",
+                        "totalCatch": 300
+                    },
+                    {
+                        "CPUE": "3000.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "PRD",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.00",
+                        "totalCatch": 3000
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "FHM",
+                        "gear": "Trapnet - Mini Fyke",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Eikala Lake is a 9.2 acre designated stream trout lake managed for Brook Trout and located in the Superior National Forest.  The maximum depth is 33 feet and it has fairly clear water.  The lake is 11 miles northwest of Isabella.  The access is a 0.25 mile hiking trail after a 1.3 mile trail off of the Deep Lake Road that is suitable to four wheel drive vehicles or ATVs.  Shoreline angling is available along the bog and upland near the access.  <br> \n <br> \nBrook Trout fingerlings are stocked annually in the fall.  The lake has good habitat for trout and fish regularly survive and grow for multiple years.  While only two Brook Trout were captured in standard gill nets in 2019 both measured over 15 inches, a 1.7 pound male and a 2.4 pound female.  The lake receives light fishing pressure due to its small size and remote location but anglers that make the trip may be rewarded with a quality sized Brook Trout. </p>",
+                "headerInfo": [
+                    "Eikala",
+                    null,
+                    "38067700",
+                    "2019-10-15",
+                    "17331928841576007",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2019-10-15",
+                "lengths": {
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                4,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 16
+                    }
+                }
+            },
+            {
+                "surveyID": "17331914950315000",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Eikala Lake is a designated stream trout lake that is stocked annually with fingerling Brook Trout.  A survey was completed in 2019 to monitor the amount of cool, well oxygenated habitat (oxythermal habitat) available for trout during the summer.  Automated temperature loggers were suspended over the deepest spot in the lake at depths of six, nine, twelve, and fifteen feet below the surface to record water temperatures hourly throughout the summer.  In addition, temperature and dissolved oxygen profiles were collected on several occasions to determine how deep well oxygenated water occurred. <br> \n <br> \nSurvey results indicate summer dissolved oxygen concentrations and water temperatures were not limiting factors in Eikala Lake in 2019.  Similar surveys completed in recent years suggest the lake currently maintains suitable habitat for stream trout throughout the open water season.  Oxythermal habitat conditions will continue to be monitored to evaluate the suitability of Eikala Lake for Brook Trout management. <br> \n</p>",
+                "headerInfo": [
+                    "Eikala",
+                    null,
+                    "38067700",
+                    "2019-05-30",
+                    "17331914950315000",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2019-05-30",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112437",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "27.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 8.1,
+                        "gearCount": 1.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 27
+                    }
+                ],
+                "narrative": "<p>Due to the small size of Eikala Lake, only 1 gillnet was set. When comparing this gillnet catch to the previous one in 1983 it appears that the quality of Brook Trout in this lake has diminished.  The 1990 catch had 27/lift and an average length of 8.1 inches. Although the numbers of fish are still high they apparently are not achieving the size they previously did. Increase exploitation by anglers may be one of the  factors influencing changes in the Brook Trout size structure.</p>",
+                "headerInfo": [
+                    "Eikala",
+                    null,
+                    "38067700",
+                    "1990-07-13",
+                    "112437",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1990-07-13",
+                "lengths": {}
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

@@ -1,0 +1,1464 @@
+{
+    "timestamp": 1737661814,
+    "result": {
+        "lakeName": "Beaver Hut",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.79,
+        "DOWNumber": 38073700,
+        "waterClarity": [
+            [
+                "09/28/2010",
+                "3"
+            ],
+            [
+                "05/31/2018",
+                "3.8"
+            ],
+            [
+                "06/22/2018",
+                "3"
+            ],
+            [
+                "07/05/2018",
+                "4.25"
+            ],
+            [
+                "07/19/2018",
+                "4.2"
+            ],
+            [
+                "08/13/2018",
+                "3.7"
+            ],
+            [
+                "09/12/2018",
+                "3.5"
+            ],
+            [
+                "09/24/2018",
+                "3"
+            ],
+            [
+                "10/19/2018",
+                "3"
+            ],
+            [
+                "09/24/2018",
+                "3"
+            ]
+        ],
+        "averageWaterClarity": "3.4",
+        "littoralAcres": 54.69,
+        "areaAcres": 54.69,
+        "meanDepthFeet": 11.0,
+        "maxDepthFeet": 12.0,
+        "officeCode": "F215",
+        "accesses": [
+            {
+                "location": "From logging road in logged off area; southwest 100 yds to outlet on northeast end of the lake.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "West from State Hwy 1 on Stony Spur Snowmobile trail 1.4 miles to unmarked road; north 0.7 miles; then N.E. 900 ft thru logged area.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "UNK",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "Two and a half mile route from parking on State Hwy 1 to west end of the lake via snowmobile/ATV trails and old logging roads. Detailed map available-contact Finland Fisheries. Access across bog.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "Two and a half mile route from parking on State Hwy 1 to south side of the lake via snowmobile/ATV trails and old logging roads. Detailed map available-contact Finland Fisheries. Access across upland.",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "112253",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 0.5,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.50",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.25,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "78.50",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 70.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.45",
+                        "totalCatch": 157
+                    }
+                ],
+                "narrative": "<p>White Sucker density is high as evidenced by a catch rate in gillnets of 78.5/lift, 5.5 times the area average. Only one individual of each Yellow Perch and Brook Trout were sampled. The Brook Trout was probably a migrant from Harris Creek, which joins the outlet in 61-10-30. The status of the minnow population is unknown as no quarter inch mesh trap nets were set.</p>",
+                "headerInfo": [
+                    "Beaver Hut",
+                    null,
+                    "38073700",
+                    "1983-06-20",
+                    "112253",
+                    "Initial Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Initial Survey",
+                "surveyDate": "1983-06-20",
+                "lengths": {}
+            },
+            {
+                "surveyID": "4251026645939000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 6368.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.94",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "1.75",
+                        "quartileCount": "0.7",
+                        "totalWeight": 175.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "3.75",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 2692.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.40",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "1.25",
+                        "quartileCount": "0.4-1.6",
+                        "totalWeight": 125.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "GOS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "64.25",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 84536.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.73",
+                        "totalCatch": 257
+                    },
+                    {
+                        "CPUE": "3.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 868.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.15",
+                        "totalCatch": 13
+                    }
+                ],
+                "narrative": "<p>Beaver Hut is a 56 acre designated stream trout lake with a maximum depth of 12 feet located 13.5 miles east of Babbitt MN.  The summer access options are many, but none are especially good.  There are two access routes that were described in the early investigations that have become over-grown or altered by logging activity, are difficult to locate and are no longer promoted for public use.  Two other summer access options involve about 2.5 miles of travel on ATV/snowmobile trails from State Highway 1 to the south or west sides of the lake, where foot paths lead to Beaver Hut Lake.  In 2010, the fisheries crew found and blazed a new route to the south shore of the lake from an existing logging road.  Designated stream trout lake signs are posted at the start of the foot path and on both the published access routes. <br> \n <br> \nBeaver Hut Lake receives very light fishing pressure probably because of the unmarked access routes and up to now, undocumented splake population. Splake fingerlings are stocked annually in this designated stream trout lake.  The 2010 population assessment was the first investigation on Beaver Hut Lake since splake were introduced. Catch numbers were below average for a splake lake in the Finland area.  The average length of the splake catch was 13.4 inches (0.94 pound); the largest splake sampled was 17.7 inches. <br> \n  <br> \nYellow perch were collected in low numbers, but the average size 0.4 pound may interest anglers.  Sixty percent of the yellow perch were greater than 9 inches, the largest measured 12.7 inches.  Forty-seven percent of the yellow perch sampled had yellow grub present.  Angling on Beaver Hut Lake is open only during the seasons for stream trout (Lakes) outside the Boundary Waters Canoe Area Wilderness. <br> \n     <br> \nOther species collected in the 2010 population assessment were:  common shiner, golden shiner, green sunfish, and white sucker.  <br> \n</p>",
+                "headerInfo": [
+                    "Beaver Hut",
+                    null,
+                    "38073700",
+                    "2010-09-27",
+                    "4251026645939000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2010-09-27",
+                "lengths": {
+                    "CSH": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                4
+                            ],
+                            [
+                                7,
+                                7
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "GOS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                5,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 5
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                47
+                            ],
+                            [
+                                11,
+                                14
+                            ],
+                            [
+                                12,
+                                43
+                            ],
+                            [
+                                13,
+                                50
+                            ],
+                            [
+                                14,
+                                29
+                            ],
+                            [
+                                15,
+                                7
+                            ],
+                            [
+                                16,
+                                6
+                            ],
+                            [
+                                17,
+                                4
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                6,
+                                26
+                            ],
+                            [
+                                7,
+                                9
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                19
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 19
+                    },
+                    "GSF": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                7
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 4
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                3
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 17
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 12
+                    }
+                }
+            },
+            {
+                "surveyID": "11961815030549000",
+                "fishCatchSummaries": [],
+                "narrative": "<p>Beaver Hut Lake is a 55 acre designated trout lake managed for Splake in the Superior National Forest.  The maximum depth is 12 feet and it has dark brown bog stained water.  The lake is located 15 miles northwest of Isabella.  From Hwy 1, go east 0.6 miles on the Tomahawk Road (USFS Rd. 377) to the parking area at the intersection of the Kelly Loop Road (USFS Rd. 386), then west down the Taconite/Stony Spur snowmobile and ATV Trail for 2 miles.  At the top of a ridge after passing a small bog pond turn right on a logging road.  After 1000 feet the trail splits.  The better road to the left is a better winter access as it leads to a 200 yard carry across the wet bog.  The smaller trail to the right is a better summer access as it remains on upland and leads to a 50 yard carry in access.  Both trails are about half a mile trek north to the lake off of the snowmobile and ATV trail.  Shoreline angling is available along the bog.  Consult the current Minnesota Fishing Regulations for rules applicable to designated trout lakes.  Splake fingerlings are stocked annually in Beaver Hut Lake. <br> \n <br> \nCold water temperatures and good dissolved oxygen levels are essential for trout growth and survival.  To assess these important criteria, four automatic temperature loggers were deployed at the deepest location in the lake, they were suspended at depths of 2, 4, 6, and 8 feet from May 31 to October 19, 2018.  Dissolved oxygen checks were conducted throughout the summer at the same location.   <br> \n <br> \nThe results of the investigation indicate that during the summer of 2018, Beaver Hut Lake maintained limited sufficient oxygen and thermal habitat for the survival of stream trout.  These parameters will continue to be carefully monitored in future investigations to check the suitability of Beaver Hut Lake for trout stocking. <br> \n</p>",
+                "headerInfo": [
+                    "Beaver Hut",
+                    null,
+                    "38073700",
+                    "2018-05-31",
+                    "11961815030549000",
+                    "Targeted Survey"
+                ],
+                "surveyType": "Targeted Survey",
+                "surveySubType": "Targeted Survey",
+                "surveyDate": "2018-05-31",
+                "lengths": {}
+            },
+            {
+                "surveyID": "11951820128851000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "26.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 52
+                    },
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "PRD",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 20
+                    },
+                    {
+                        "CPUE": "66.75",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 36011.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.30",
+                        "totalCatch": 267
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 119.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "71.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 142
+                    },
+                    {
+                        "CPUE": "21.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 42
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "9.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GOS",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "IOD",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 19.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.04",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "GSF",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "111.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 223
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 150.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "SPT",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BNS",
+                        "gear": "Special trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "4.50",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 5562.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.68",
+                        "totalCatch": 18
+                    }
+                ],
+                "narrative": "<p>Beaver Hut Lake is a 56 acre designated trout lake with a maximum depth of 12 feet.  It is stocked with 3,000 Splake fingerlings annually.  Beaver Hut Lake is located in a remote part of northwestern Lake County and access is difficult.  Users must turn north off of the Stony Spur Trail (ATV/Snowmobile) onto an old logging access road; this intersection is located approximately 1.7 miles west of where the trail crosses Hwy 1.  This logging access road splits 0.18 miles north of this intersection and users can take either fork.  If users take the right fork the trail goes approximately 0.5 miles before ending at a turn around with a trout lake sign, from this turn around there is a 100 yard walking trail to the southeast side of the lake.  This fork of the road is very brushy and rocky making travel difficult, but the walk into the lake is short and dry.  If users take the left fork the road proceeds 0.64 miles to where there is a trout lake sign on the side of the road.  From this sign it is a 150 yard walk down a hill and across a bog to the southwest shore of the lake.  The left fork is much less rocky and brushy due to the recent logging, but users must walk across a wet bog to access the lake.  Neither of these routes are suitable for trucks. <br> \n <br> \nThe purpose of this survey was to evaluate Splake stocking and monitor the fish community in the lake.  A single Splake was sampled during this survey.  It was 10 inches long and weighed 0.3 pounds.  We estimated it to be age-1 meaning it would have been stocked during fall of 2017 as a fingerling.  In addition to this survey, surveys assessing the thermal habitat and dissolved oxygen availability in the lake and angler use of the lake were carried out in 2018.  Based on the survey of thermal habitat and dissolved oxygen concentrations there was no optimal habitat available for trout between July 5th and August 13th.  This lack of suitable habitat likely contributed to the low Splake catch.  Only two angling parties were documented using the lake during summer of 2018.  Due to the combination of low Splake catch, poor Splake habitat, and limited angler use Splake stocking will likely cease and other management options will be explored for Beaver Hut Lake.    <br> \n <br> \nThe catch of Yellow Perch was near average when compared to other area lakes.  The fish sampled ranged in length from 4 to almost 13 inches with an average length of 11 inches.  However, the Yellow Perch were quite skinny and half of the measured Yellow Perch were infested with Yellow Grub parasites.   <br> \n <br> \nWhite Sucker were sampled in very large numbers during this survey and were generally skinny for their lengths.  Common Shiners and Creek Chubs were also sampled in large numbers.  These three species likely compete with the Splake and may have contributed to the extremely low Splake catch.   Iowa Darter, Blacknose Shiner, Golden Shiner, Green Sunfish, and Northern Pearl Dace were also sampled in small numbers during this survey.  </p>",
+                "headerInfo": [
+                    "Beaver Hut",
+                    null,
+                    "38073700",
+                    "2018-09-24",
+                    "11951820128851000",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2018-09-24",
+                "lengths": {
+                    "CRC": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                7,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 7,
+                        "maximum_length": 7
+                    },
+                    "CSH": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 4
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                5
+                            ],
+                            [
+                                11,
+                                6
+                            ],
+                            [
+                                12,
+                                4
+                            ],
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 12
+                    },
+                    "SPT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 10
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                10
+                            ],
+                            [
+                                12,
+                                13
+                            ],
+                            [
+                                13,
+                                4
+                            ],
+                            [
+                                14,
+                                6
+                            ],
+                            [
+                                15,
+                                5
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                6,
+                                44
+                            ],
+                            [
+                                7,
+                                164
+                            ],
+                            [
+                                8,
+                                11
+                            ],
+                            [
+                                9,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 17
+                    }
+                }
+            },
+            {
+                "surveyID": "112384",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 0.4,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.7,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.70",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "42.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 64.3,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.77",
+                        "totalCatch": 84
+                    },
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>The White Sucker population is about 3 times the local average gill net catch per set, while the Yellow Perch catch rate was well below the local average. The Brook Trout sampled in this netting and in the 1983 assessment probably came from the outlet stream which flows into nearby Harris Creek, a designated trout stream. The lake may have potential to be managed as a stream trout lake. After the assessment had been completed the lake was stocked with 752 surplus Brook Trout fingerlings.</p>",
+                "headerInfo": [
+                    "Beaver Hut",
+                    null,
+                    "38073700",
+                    "1988-06-28",
+                    "112384",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1988-06-28",
+                "lengths": {}
+            },
+            {
+                "surveyID": "113034",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 885.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.33",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "1.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 515.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "48.00",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 29830.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.69",
+                        "totalCatch": 96
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 360.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 8
+                    }
+                ],
+                "narrative": "<p>Beaver Hut Lake is a remote, designated stream trout lake.  The lake is stocked annually with brook trout fingerlings by airplane.  Access is by rough logging road and foot trail.  This access is not marked and suitable only for canoe or very small boat at the lake.Test nets in 2004 collected brook trout, white sucker and yellow perch.  Brook trout were sampled in below average numbers which is typical for this lake.  The average length of brook trout in this assessment was 9.0 inches, with a maximum length of 10.4 inches.  In past assessments brook trout in the 10 to 13 inch range were sampled, with one 17 inch individual collected; however, brook trout this large are uncommon in this lake.Yellow perch were collected in average numbers with a few fish in the catch between 10 and 11 inches.White sucker and yellow perch were present in this lake before it was managed for brook trout.  These species are considered undesirable in a lake managed for trout and may be impacting the brook trout fishery.</p>",
+                "headerInfo": [
+                    "Beaver Hut",
+                    null,
+                    "38073700",
+                    "2004-07-12",
+                    "113034",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2004-07-12",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                5
+                            ],
+                            [
+                                11,
+                                27
+                            ],
+                            [
+                                12,
+                                13
+                            ],
+                            [
+                                13,
+                                17
+                            ],
+                            [
+                                14,
+                                5
+                            ],
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                7,
+                                3
+                            ],
+                            [
+                                8,
+                                5
+                            ],
+                            [
+                                9,
+                                12
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 18
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 10
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 10
+                    },
+                    "CSH": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                8
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    }
+                }
+            },
+            {
+                "surveyID": "112453",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.1,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 0.2,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "2.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.25",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "36.50",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 76.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.04",
+                        "totalCatch": 73
+                    }
+                ],
+                "narrative": "<p>Before brook trout stocking began in 1988 the lake maintained a natural population of brook trout with gillnet catches averaging 0.5/lift. The 1991 gillnet catch increased to 2.0/lift and was comprised entirely of Age I fish, which corresponds with the 1990 stocking.      White sucker densities declined from 78/gillnet lift in 1983 to 36/gillnet lift in 1991. The average weight of white sucker has increased from 0.4 pound to 1.0 pound indicating little change in the biomass.     Yellow perch densities are very low (1.0/gillnet lift) which is consistant with historical catches.</p>",
+                "headerInfo": [
+                    "Beaver Hut",
+                    null,
+                    "38073700",
+                    "1991-06-12",
+                    "112453",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1991-06-12",
+                "lengths": {}
+            },
+            {
+                "surveyID": "112759",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "4.67",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 1859.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.29",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "1.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2204.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.97",
+                        "totalCatch": 5
+                    },
+                    {
+                        "CPUE": "54.33",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 28359.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.38",
+                        "totalCatch": 163
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 40.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.5-1.6",
+                        "totalWeight": 818.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.4-2.1",
+                        "species": "LMB",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.80",
+                        "totalCatch": 1
+                    }
+                ],
+                "narrative": "<p>Test nets in 1996 found a low abundance of brook trout but of a larger average size than most brook trout lakes in the Finland Area with largest fish measuring 17 inches. Angler reports agree with this condition of few fish caught but of a quality size.     White sucker were caught in high numbers and have a history of being very abundant. A low number of yellow perch were also sampled and the first largemouth bass (14.2 inches) of any survey was taken.</p>",
+                "headerInfo": [
+                    "Beaver Hut",
+                    null,
+                    "38073700",
+                    "1996-06-17",
+                    "112759",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1996-06-17",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                6
+                            ],
+                            [
+                                11,
+                                8
+                            ],
+                            [
+                                12,
+                                9
+                            ],
+                            [
+                                13,
+                                6
+                            ],
+                            [
+                                14,
+                                6
+                            ],
+                            [
+                                15,
+                                6
+                            ],
+                            [
+                                16,
+                                4
+                            ],
+                            [
+                                17,
+                                4
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                6,
+                                19
+                            ],
+                            [
+                                7,
+                                74
+                            ],
+                            [
+                                8,
+                                8
+                            ],
+                            [
+                                9,
+                                12
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 18
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                12,
+                                3
+                            ],
+                            [
+                                17,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 17
+                    },
+                    "LMB": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                14,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 14,
+                        "maximum_length": 14
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                5
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                6,
+                                5
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 11
+                    },
+                    "CSH": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 5
+                    }
+                }
+            },
+            {
+                "surveyID": "112952",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 40
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "3.3-18.3",
+                        "totalWeight": 2408.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "0.1-0.3",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.44",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "10.50",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "PMK",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 42
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2045.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "N/A",
+                        "species": "BKT",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.75",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "24.50",
+                        "quartileCount": "5.3-22.1",
+                        "totalWeight": 15148.0,
+                        "gearCount": 2.0,
+                        "quartileWeight": "1.3-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.68",
+                        "totalCatch": 49
+                    },
+                    {
+                        "CPUE": "1.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "CSH",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 7
+                    },
+                    {
+                        "CPUE": "2.75",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 4.0,
+                        "quartileWeight": "N/A",
+                        "species": "CRC",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Beaver Hut Lake is a designated stream trout lake that is stocked annually with brook trout fingerlings by airplane.Brook trout were sampled in fairly low numbers in the 2001 survey, compared to other trout lakes; however, fish sampled were above-average in size.  Brook trout taken ranged from 9.8 inches to 14.4 inches (1.2 pounds), and averaged 0.75 pound per fish.Although Beaver Hut Lake is managed for brook trout there are other less desirable species present.  White suckers were collected in high numbers and yellow perch were taken in average numbers.  Yellow perch up to 13.4 inches were sampled with several fish larger than 10 inches in the sample.</p>",
+                "headerInfo": [
+                    "Beaver Hut",
+                    null,
+                    "38073700",
+                    "2001-07-09",
+                    "112952",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "2001-07-09",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                2
+                            ],
+                            [
+                                12,
+                                2
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                15,
+                                6
+                            ],
+                            [
+                                16,
+                                5
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                8
+                            ],
+                            [
+                                8,
+                                3
+                            ],
+                            [
+                                9,
+                                12
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 17
+                    },
+                    "BKT": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 14
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                13,
+                                2
+                            ],
+                            [
+                                6,
+                                3
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 6,
+                        "maximum_length": 13
+                    }
+                }
+            }
+        ],
+        "countyName": "Lake"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

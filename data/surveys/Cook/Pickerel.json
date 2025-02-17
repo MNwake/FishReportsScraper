@@ -1,0 +1,1443 @@
+{
+    "timestamp": 1737651329,
+    "result": {
+        "lakeName": "Pickerel",
+        "sampledPlants": [],
+        "shoreLengthMiles": 1.28,
+        "DOWNumber": 16009700,
+        "waterClarity": [
+            [
+                "06/18/1971",
+                "12.5"
+            ],
+            [
+                "06/21/2010",
+                "10"
+            ],
+            [
+                "07/13/2010",
+                "12.2"
+            ],
+            [
+                "06/26/2017",
+                "9"
+            ],
+            [
+                "06/18/2012",
+                "6.5"
+            ]
+        ],
+        "averageWaterClarity": "10.0",
+        "littoralAcres": 41.04,
+        "areaAcres": 41.04,
+        "meanDepthFeet": 5.0,
+        "maxDepthFeet": 13.0,
+        "officeCode": "F218",
+        "accesses": [
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            },
+            {
+                "location": "",
+                "ownerTypeID": null,
+                "accessTypeID": null,
+                "publicUseAuthCode": "OPEN",
+                "lakeAccessComments": " "
+            }
+        ],
+        "surveys": [
+            {
+                "surveyID": "111417",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.25",
+                        "quartileCount": "0.4-5.2",
+                        "totalWeight": 136.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "1.58",
+                        "quartileCount": "0.4-2.4",
+                        "totalWeight": 19169.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "0.9-2.8",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.22",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "9.33",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 13213.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.04",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 678.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.19",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "3.67",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 10183.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.04",
+                        "totalCatch": 11
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "N/A",
+                        "totalWeight": 4609.0,
+                        "gearCount": 12.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.27",
+                        "totalCatch": 8
+                    }
+                ],
+                "narrative": "<p>Northern pike appeared to have been abundant but small in Pickerel Lake in 2003, compared to similar lakes in the area.  No northern pike over 21 inches were taken, and none were more than four years of age.  Northern pike growth rates had been about average for the area, with fish reaching an average length of 17.3 inches at the end of their third year.  A population estimate done as part of this assessment determined that Pickerel Lake supported a total of 166 northern pike age 1 or older in May 2003.Forage for northern pike was provided by a modest yellow perch population.  The 2003 yellow perch catch was low compared to past catches in this lake, and the fish taken were generally too small to interest anglers.  White sucker was the only other fish species taken in 2003, as has usually been the case in this lake.</p>",
+                "headerInfo": [
+                    "Pickerel",
+                    null,
+                    "16009700",
+                    "2003-06-16",
+                    "111417",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2003-06-16",
+                "lengths": {
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                5,
+                                3
+                            ],
+                            [
+                                6,
+                                6
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 10
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                15,
+                                4
+                            ],
+                            [
+                                16,
+                                4
+                            ],
+                            [
+                                17,
+                                9
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                7
+                            ],
+                            [
+                                20,
+                                5
+                            ],
+                            [
+                                21,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 21
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                5
+                            ],
+                            [
+                                17,
+                                7
+                            ],
+                            [
+                                18,
+                                9
+                            ],
+                            [
+                                19,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 19
+                    }
+                }
+            },
+            {
+                "surveyID": "110224",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "3.80",
+                        "quartileCount": "0.4-5.2",
+                        "totalWeight": 871.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "0.20",
+                        "quartileCount": "0.4-2.4",
+                        "totalWeight": 110.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "0.9-2.8",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.24",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 12800.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.14",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "6.33",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 685.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "4.67",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 4655.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.73",
+                        "totalCatch": 14
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5855.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.58",
+                        "totalCatch": 5
+                    }
+                ],
+                "narrative": "<p>Pickerel Lake supported fair numbers of medium-sized northern pike and yellow perch.  Northern pike grew fairly rapidly, and fish as large as 32 inches were present.</p>",
+                "headerInfo": [
+                    "Pickerel",
+                    null,
+                    "16009700",
+                    "1993-06-09",
+                    "110224",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "1993-06-09",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                12,
+                                1
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                9,
+                                6
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 18
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                13
+                            ],
+                            [
+                                6,
+                                23
+                            ],
+                            [
+                                7,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 9
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                1
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                23,
+                                1
+                            ],
+                            [
+                                25,
+                                1
+                            ],
+                            [
+                                28,
+                                3
+                            ],
+                            [
+                                32,
+                                1
+                            ],
+                            [
+                                8,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 8,
+                        "maximum_length": 32
+                    }
+                }
+            },
+            {
+                "surveyID": "4311008546049000",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "10.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 24464.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.80",
+                        "totalCatch": 30
+                    },
+                    {
+                        "CPUE": "8.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 43
+                    },
+                    {
+                        "CPUE": "3.33",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 11034.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.43",
+                        "totalCatch": 10
+                    },
+                    {
+                        "CPUE": "0.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.4-5.2",
+                        "totalWeight": 35.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "5.60",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 28
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 120.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.26",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "7.00",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 0.428333333333333,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Backpack electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "0.4-2.4",
+                        "totalWeight": 1553.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.9-2.8",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "3.42",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "2.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 0.428333333333333,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "Backpack electrofishing",
+                        "averageWeight": "0.00",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "1.20",
+                        "quartileCount": "N/A",
+                        "totalWeight": 0.0,
+                        "gearCount": 5.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "Minnow traps",
+                        "averageWeight": "0.00",
+                        "totalCatch": 6
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 538.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 15
+                    }
+                ],
+                "narrative": "<p>The northern pike gill net catch exceeded previous June assessment results for the lake (3.00-9.33 fish per set), and exceeded the lake class third quartile.  Mean weight was within the range of the previous assessment results (1.04-3.14 lb per fish), and exceeded the lake class median.  The proportion of the 2010 northern pike gill net sample made up of quality-length northern pike (20 inches or longer) was 59.3%, the highest recorded for the lake.  Preferred-length northern pike (24 inches or longer) constituted 11.1% of the sample in 2010, exceeding the proportions observed in 1998, 2003, and 2005.  Most northern pike in the sample were age 3 to age 5 (2007-2005 year classes).  Growth had been average or better for the lake class.  Northern pike averaged 17.9 inches upon reaching age 3, and 21.8 inches at age 4.  The number of northern pike in Pickerel Lake over 12 inches long and older than age 1 was estimated to be 227. <br> \n <br> \nYellow perch have been collected in every assessment of Pickerel Lake.  The 2010 catch exceeded those of 2003 and 2005, but was less than the catch in 1971, 1993, and 1998, and no large perch were taken. <br> \n <br> \nSince the species was first collected in 1993, white sucker abundance has consistently been in the lower half of the normal range for lakes of this class. <br> \n <br> \nIn 2010, Clean Water Legacy funding allowed areas across the state to do some nearshore fish community sampling to improve our ability to use a fish-based Index of Biotic Integrity (IBI) to identify disturbed aquatic ecosystems.  Scoring criteria for IBIs in northeastern Minnesota lakes have not yet been developed.  Pickerel Lake was selected for nearshore sampling because its accessibility allowed for use of the sampling gears required. <br> \n <br> \nSampling of the nearshore fish community was done using 0.25-inch-mesh trap nets, 0.25-inch-mesh minnow traps, a 0.125-inch-mesh X 15-ft beach seine, and a backpack electrofishing unit.  Only the trap nets collected all three species known to be in the lake.  The only previous use of any of these gears in Pickerel Lake occurred in June 1998, when 0.25-inch-mesh trap nets were used and collected the same three species.  Minnow species were not collected in any gear or observed in the lake.  </p>",
+                "headerInfo": [
+                    "Pickerel",
+                    null,
+                    "16009700",
+                    "2010-06-21",
+                    "4311008546049000",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2010-06-21",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                4
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 11,
+                        "maximum_length": 20
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                3
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                6
+                            ],
+                            [
+                                19,
+                                3
+                            ],
+                            [
+                                20,
+                                5
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                22,
+                                3
+                            ],
+                            [
+                                23,
+                                3
+                            ],
+                            [
+                                24,
+                                2
+                            ],
+                            [
+                                25,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 25
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                13
+                            ],
+                            [
+                                6,
+                                2
+                            ],
+                            [
+                                7,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    }
+                }
+            },
+            {
+                "surveyID": "12861734938224066",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "0.4-5.2",
+                        "totalWeight": 54.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.06",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "0.67",
+                        "quartileCount": "0.4-2.4",
+                        "totalWeight": 5903.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.9-2.8",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "3.25",
+                        "totalCatch": 4
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 15861.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.94",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 882.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.13",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "2.67",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 11182.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "3.08",
+                        "totalCatch": 8
+                    },
+                    {
+                        "CPUE": "3.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 22748.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.64",
+                        "totalCatch": 19
+                    }
+                ],
+                "narrative": "<p>Pickerel Lake is managed for Northern Pike, with a long range goal of maintaining a minimum gill net catch of 3.5 fish/set, with some fish over 25 inches present.  This was the first of two assessments scheduled in the 2013 lake management plan as part of extended evaluation of a special regulation covering Northern Pike in Little Cascade Lake, in Cook County. <br> \n <br> \nNorthern Pike were fairly abundant in Pickerel Lake in 2017, and some fish up to 25 inches in length were present.  Management goals for Northern Pike in this lake were met.  The 2017 gill net catch was similar to catches seen in 2010 and 2012, and was within the normal range for this type of lake.  The mean weight for Northern Pike taken in gill nets was similar to means observed in Pickerel Lake since 1998, and fish over 25 inches in length were collected in gill nets and trap nets.  Eight naturally-produced year classes contributed to the 2017 catch, although a strong 2012 year class accounted for most of the fish taken.  Growth had apparently been slow; fish reached a mean length of 22.0 inches at the end of their fifth year, compared to an area average of 24.6 inches.  <br> \n <br> \nPickerel Lake was chosen to serve as a control in the evaluation of a special regulation applied to Little Cascade Lake in 2003, because it (like Little Cascade) had a reputation for producing some larger pike, and because fish communities in the two lakes were similar.  The regulation was intended to improve Northern Pike population size structure in Little Cascade Lake, and was part of a larger statewide effort to test a variety of regulations.  Standards for success of the Little Cascade regulation were an increase in the proportion of larger fish in Little Cascade, or a stable proportion of large fish in Little Cascade if the proportion of large fish in Pickerel Lake declined.  So far neither standard has been met.  Assessment results in Little Cascade Lake through 2017 have shown at best a minimal increase in the proportion of larger fish present in gill net catches, but no increase in spring trap net catches.  Over the same period we have seen no decline (and perhaps a small increase) in the proportion of larger Northern Pike in gill net catches in Pickerel Lake. <br> \n <br> \nAs has been the case in the past, forage for Northern Pike in 2017 was provided by Yellow Perch and White Sucker.  Gill net catches for both species were within normal ranges for the lake class, and for this lake historically.  All Yellow Perch taken in 2017 were small, and would have provided little angling opportunity.  All the White Sucker collected in 2017 were fairly large; all would have been too large to have been taken by any but (perhaps) the largest Northern Pike in the lake. <br> \n</p>",
+                "headerInfo": [
+                    "Pickerel",
+                    null,
+                    "16009700",
+                    "2017-06-26",
+                    "12861734938224066",
+                    "Standard Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Standard Survey",
+                "surveyDate": "2017-06-26",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                18,
+                                4
+                            ],
+                            [
+                                19,
+                                5
+                            ],
+                            [
+                                20,
+                                2
+                            ],
+                            [
+                                21,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 18,
+                        "maximum_length": 21
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                6
+                            ],
+                            [
+                                6,
+                                7
+                            ],
+                            [
+                                7,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 7
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                14,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                19,
+                                1
+                            ],
+                            [
+                                20,
+                                1
+                            ],
+                            [
+                                21,
+                                4
+                            ],
+                            [
+                                22,
+                                13
+                            ],
+                            [
+                                23,
+                                5
+                            ],
+                            [
+                                24,
+                                1
+                            ],
+                            [
+                                25,
+                                5
+                            ],
+                            [
+                                26,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 26
+                    }
+                }
+            },
+            {
+                "surveyID": "4311217744283204",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "0.4-5.2",
+                        "totalWeight": 1300.0,
+                        "gearCount": 24.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "0.09",
+                        "totalCatch": 32
+                    },
+                    {
+                        "CPUE": "0.79",
+                        "quartileCount": "0.4-2.4",
+                        "totalWeight": 24666.0,
+                        "gearCount": 24.0,
+                        "quartileWeight": "0.9-2.8",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "2.86",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "10.33",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 23233.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.65",
+                        "totalCatch": 31
+                    },
+                    {
+                        "CPUE": "12.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 1698.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.10",
+                        "totalCatch": 36
+                    },
+                    {
+                        "CPUE": "4.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 13312.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.45",
+                        "totalCatch": 12
+                    },
+                    {
+                        "CPUE": "0.46",
+                        "quartileCount": "N/A",
+                        "totalWeight": 7955.0,
+                        "gearCount": 24.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.59",
+                        "totalCatch": 11
+                    }
+                ],
+                "narrative": "<p>Pickerel Lake is managed for northern pike, with a long range goal of maintaining a population with a minimum gill net catch of 3.5 fish/set, with some fish over 25 inches present.  This was the third of three assessments scheduled in the 2005 lake management plan to provide comparative information to be used in the evaluation of a special regulation covering northern pike in Little Cascade Lake, in Cook County. <br> \n <br> \nNorthern pike were relatively abundant in Pickerel Lake in 2012, and some larger fish were present.  Management goals for the lake were met in 2012.  The gill net catch was the highest seen to date in this lake, and exceeded the normal range for the lake class.  The mean weight for northern pike taken in gill nets was similar to means observed in Pickerel Lake since 1998, and fish over 25 inches in length were collected in gill nets and trap nets.  Five naturally-produced year classes contributed to the catch, and recruitment appeared to have been fairly steady.  Growth had been somewhat faster than average; three-year-old fish reached a mean length of 18.7 inches at the end of their third year, compared to an area average of 17.8 inches.  <br> \n <br> \nPickerel Lake was chosen to serve as a control in the evaluation of a special regulation applied to Little Cascade Lake in 2003.   Standards for success of the Little Cascade regulation were an increase in the number of larger fish in Little Cascade, or a stable number of large fish in Little Cascade if the number of large fish in Pickerel Lake declined.  So far neither standard has been met.  Assessment results in Little Cascade Lake have not shown a significant increase in the number of larger fish present (2012 assessment report).  Stability in the number of large fish in Little Cascade Lake has not been accompanied by a decline in their numbers in Pickerel Lake. <br> \n <br> \nForage for northern pike was provided by yellow perch and white sucker.  Yellow perch were relatively abundant in 2012; the gill net catch was the highest seen in this lake since 2003.  From the lengths of fish taken, it appeared that the high catch may have been due mostly to a strong year class that produced high numbers of 5-6-in fish.  Most of the yellow perch present would have been too small to have interested anglers.  The white sucker gill net catch fell within the normal range for the lake class, but most of the white sucker collected were too large to have served as prey for any but the largest northern pike in the lake. <br> \n <br> \n</p>",
+                "headerInfo": [
+                    "Pickerel",
+                    null,
+                    "16009700",
+                    "2012-06-18",
+                    "4311217744283204",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2012-06-18",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                2
+                            ],
+                            [
+                                11,
+                                1
+                            ],
+                            [
+                                15,
+                                3
+                            ],
+                            [
+                                16,
+                                5
+                            ],
+                            [
+                                17,
+                                5
+                            ],
+                            [
+                                18,
+                                2
+                            ],
+                            [
+                                19,
+                                4
+                            ],
+                            [
+                                20,
+                                4
+                            ],
+                            [
+                                21,
+                                3
+                            ],
+                            [
+                                22,
+                                4
+                            ],
+                            [
+                                23,
+                                1
+                            ],
+                            [
+                                25,
+                                3
+                            ],
+                            [
+                                27,
+                                1
+                            ],
+                            [
+                                28,
+                                1
+                            ],
+                            [
+                                9,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 28
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                4,
+                                1
+                            ],
+                            [
+                                5,
+                                40
+                            ],
+                            [
+                                6,
+                                16
+                            ],
+                            [
+                                7,
+                                7
+                            ],
+                            [
+                                8,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 4,
+                        "maximum_length": 8
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                4
+                            ],
+                            [
+                                16,
+                                2
+                            ],
+                            [
+                                17,
+                                2
+                            ],
+                            [
+                                18,
+                                8
+                            ],
+                            [
+                                19,
+                                6
+                            ],
+                            [
+                                20,
+                                6
+                            ],
+                            [
+                                21,
+                                3
+                            ]
+                        ],
+                        "minimum_length": 13,
+                        "maximum_length": 21
+                    }
+                }
+            },
+            {
+                "surveyID": "110996",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 2305.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "WTS",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "2.54",
+                        "totalCatch": 2
+                    },
+                    {
+                        "CPUE": "6.33",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 10728.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.24",
+                        "totalCatch": 19
+                    },
+                    {
+                        "CPUE": "12.67",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 2082.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.12",
+                        "totalCatch": 38
+                    },
+                    {
+                        "CPUE": "3.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 7490.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.83",
+                        "totalCatch": 9
+                    },
+                    {
+                        "CPUE": "0.17",
+                        "quartileCount": "N/A",
+                        "totalWeight": 1779.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "3.92",
+                        "totalCatch": 1
+                    },
+                    {
+                        "CPUE": "15.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 158.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "YEP",
+                        "gear": "1/4-in trap nets",
+                        "averageWeight": "0.00",
+                        "totalCatch": 92
+                    }
+                ],
+                "narrative": "<p>Northern pike were abundant, but most were small and growth rates were slow.  The only fish larger than 25 inches collected was a seven-year-old, otherwise, no fish older than four years were taken.  Forage for northern pike was provided by white sucker and yellow perch.  Most of the white sucker were too large for any but the largest northern pike.  Yellow perch were relatively abundant, but most were small, and growth rates for yellow perch were also low.  No other gamefish, and no panfish, species were found.</p>",
+                "headerInfo": [
+                    "Pickerel",
+                    null,
+                    "16009700",
+                    "1998-06-25",
+                    "110996",
+                    "Re-Survey"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Re-Survey",
+                "surveyDate": "1998-06-25",
+                "lengths": {
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                10,
+                                1
+                            ],
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                6
+                            ],
+                            [
+                                18,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 10,
+                        "maximum_length": 18
+                    },
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                13,
+                                4
+                            ],
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                16,
+                                1
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                18,
+                                1
+                            ],
+                            [
+                                21,
+                                4
+                            ],
+                            [
+                                26,
+                                1
+                            ],
+                            [
+                                31,
+                                1
+                            ],
+                            [
+                                9,
+                                2
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 31
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                1,
+                                73
+                            ],
+                            [
+                                2,
+                                3
+                            ],
+                            [
+                                3,
+                                1
+                            ],
+                            [
+                                4,
+                                3
+                            ],
+                            [
+                                5,
+                                23
+                            ],
+                            [
+                                6,
+                                6
+                            ],
+                            [
+                                7,
+                                7
+                            ],
+                            [
+                                8,
+                                4
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 1,
+                        "maximum_length": 9
+                    }
+                }
+            },
+            {
+                "surveyID": "111518",
+                "fishCatchSummaries": [
+                    {
+                        "CPUE": "0.50",
+                        "quartileCount": "0.4-2.4",
+                        "totalWeight": 2532.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "0.9-2.8",
+                        "species": "WTS",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.86",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "6.00",
+                        "quartileCount": "3.9-9.4",
+                        "totalWeight": 10983.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "1.2-2.4",
+                        "species": "NOP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "1.35",
+                        "totalCatch": 18
+                    },
+                    {
+                        "CPUE": "1.00",
+                        "quartileCount": "2.0-23.0",
+                        "totalWeight": 104.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.1-0.2",
+                        "species": "YEP",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "0.08",
+                        "totalCatch": 3
+                    },
+                    {
+                        "CPUE": "5.00",
+                        "quartileCount": "2.6-17.5",
+                        "totalWeight": 15319.0,
+                        "gearCount": 3.0,
+                        "quartileWeight": "0.8-2.3",
+                        "species": "WTS",
+                        "gear": "Standard gill nets",
+                        "averageWeight": "2.25",
+                        "totalCatch": 15
+                    },
+                    {
+                        "CPUE": "1.33",
+                        "quartileCount": "N/A",
+                        "totalWeight": 5415.0,
+                        "gearCount": 6.0,
+                        "quartileWeight": "N/A",
+                        "species": "NOP",
+                        "gear": "Standard trap nets",
+                        "averageWeight": "1.49",
+                        "totalCatch": 8
+                    }
+                ],
+                "narrative": "<p>Northern pike abundance appeared to have been about average in Pickerel Lake in 2005, but most of the fish present were small.   No northern pike over 24 inches were taken, and none were more than three years of age.  Northern pike growth rates had been fairly fast, but yellow perch abundance (the main forage species for northern pike in this lake), was down in 2005 so such fast northern pike growth may not have been sustainable.  A population estimate done as part of this assessment determined that Pickerel Lake supported a total of just 93 northern pike age 1 or older in late April 2005.Yellow perch taken in 2005 were generally too small to have been of much interest to anglers.  White sucker were the only other fish species taken in 2005, as has usually been the case in this lake.  Most of the white sucker collected in 2005 were too large to have been used as forage by the small northern pike present at that time.</p>",
+                "headerInfo": [
+                    "Pickerel",
+                    null,
+                    "16009700",
+                    "2005-06-10",
+                    "111518",
+                    "Population Assessment"
+                ],
+                "surveyType": "Standard Survey",
+                "surveySubType": "Population Assessment",
+                "surveyDate": "2005-06-10",
+                "lengths": {
+                    "NOP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                16,
+                                3
+                            ],
+                            [
+                                17,
+                                3
+                            ],
+                            [
+                                18,
+                                3
+                            ],
+                            [
+                                19,
+                                4
+                            ],
+                            [
+                                20,
+                                8
+                            ],
+                            [
+                                21,
+                                2
+                            ],
+                            [
+                                22,
+                                1
+                            ],
+                            [
+                                23,
+                                1
+                            ],
+                            [
+                                9,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 9,
+                        "maximum_length": 23
+                    },
+                    "YEP": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                5,
+                                2
+                            ],
+                            [
+                                6,
+                                1
+                            ]
+                        ],
+                        "minimum_length": 5,
+                        "maximum_length": 6
+                    },
+                    "WTS": {
+                        "species": null,
+                        "fishCount": [
+                            [
+                                15,
+                                1
+                            ],
+                            [
+                                17,
+                                4
+                            ],
+                            [
+                                18,
+                                9
+                            ],
+                            [
+                                19,
+                                4
+                            ]
+                        ],
+                        "minimum_length": 15,
+                        "maximum_length": 19
+                    }
+                }
+            }
+        ],
+        "countyName": "Cook"
+    },
+    "status": "SUCCESS",
+    "message": "Normal execution."
+}

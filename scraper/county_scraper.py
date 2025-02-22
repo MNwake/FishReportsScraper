@@ -49,6 +49,6 @@ class CountyScraper(BaseScraper):
                     })
             browser.close()
             # Save data (update the file paths as needed)
-            with open("python/data/minnesota_counties.json", "w", encoding="utf-8") as f:
+            with open("scraper/data/minnesota_counties.json", "w", encoding="utf-8") as f:
                 json.dump(counties_data, f, indent=4)
             self.update_status("County data successfully scraped and saved!")

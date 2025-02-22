@@ -5,9 +5,9 @@ from .base import BaseScraper
 
 
 # File paths
-LOCAL_SPECIES_FILE = "python/data/fish_species.json"
+LOCAL_SPECIES_FILE = "scraper/data/fish_species.json"
 SERVER_SPECIES_FILE = "backend/data/fish_species.json"
-DEFAULT_IMAGE = "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp"
+DEFAULT_IMAGE = ""
 
 
 def load_fish_species():
